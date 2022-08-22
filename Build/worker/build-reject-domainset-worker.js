@@ -1,11 +1,16 @@
 const { workerData } = require('piscina');
 
+const len = workerData.length;
+
 exports.dedupe = ({ chunk }) => {
   const outputToBeRemoved = new Set();
 
   for (let i = 0, l = chunk.length; i < l; i++) {
     const domainFromInput = chunk[i];
-    for (const domainFromFullSet of workerData) {
+
+    for (let j = 0; j < len; j++) {
+      const domainFromFullSet = workerData[j];
+
       if (domainFromFullSet === domainFromInput) continue;
       if (domainFromFullSet.charCodeAt(0) !== 46) continue;
       // domainFromFullSet is now startsWith a "."
@@ -13,8 +18,8 @@ exports.dedupe = ({ chunk }) => {
       if (domainFromInput.charCodeAt(0) !== 46) {
         let shouldBeRemoved = true;
 
-        for (let j = 0, l2 = domainFromInput.length; j < l2; j++) {
-          if (domainFromFullSet.charCodeAt(j + 1) !== domainFromInput.charCodeAt(j)) {
+        for (let k = 0, l2 = domainFromInput.length; k < l2; k++) {
+          if (domainFromFullSet.charCodeAt(k + 1) !== domainFromInput.charCodeAt(k)) {
             shouldBeRemoved = false;
             break;
           }
