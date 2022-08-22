@@ -6,6 +6,7 @@ exports.dedupe = ({ chunk }) => {
   for (let i = 0, l = chunk.length; i < l; i++) {
     const domainFromInput = chunk[i];
     for (const domainFromFullSet of workerData) {
+      if (outputToBeRemoved.has(domainFromFullSet)) continue;
       if (domainFromFullSet === domainFromInput) continue;
       if (domainFromFullSet.charAt(0) !== '.') continue;
       // domainFromFullSet is now startsWith a "."
