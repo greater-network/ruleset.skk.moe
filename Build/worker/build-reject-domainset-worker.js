@@ -7,14 +7,14 @@ exports.dedupe = ({ chunk }) => {
     const domainFromInput = chunk[i];
     for (const domainFromFullSet of workerData) {
       if (domainFromFullSet === domainFromInput) continue;
-      if (domainFromFullSet.charAt(0) !== '.') continue;
+      if (domainFromFullSet.charCodeAt(0) !== 46) continue;
       // domainFromFullSet is now startsWith a "."
 
-      if (domainFromInput.charAt(0) !== '.') {
+      if (domainFromInput.charCodeAt(0) !== 46) {
         let shouldBeRemoved = true;
 
         for (let j = 0, l2 = domainFromInput.length; j < l2; j++) {
-          if (domainFromFullSet.charAt(j + 1) !== domainFromInput.charAt(j)) {
+          if (domainFromFullSet.charCodeAt(j + 1) !== domainFromInput.charCodeAt(j)) {
             shouldBeRemoved = false;
             break;
           }
