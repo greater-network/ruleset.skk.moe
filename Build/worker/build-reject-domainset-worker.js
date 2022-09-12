@@ -7,7 +7,7 @@ const fullsetDomainStartsWithADot = workerData.map(domain => domain.charCodeAt(0
 
 module.exports = ({ chunk }) => {
   const chunkLength = chunk.length;
-  const outputToBeRemoved = new Int32Array(chunkLength);
+  const outputToBeRemoved = new Int8Array(chunkLength);
 
   for (let i = 0; i < chunkLength; i++) {
     const domainFromInput = chunk[i];
@@ -16,14 +16,16 @@ module.exports = ({ chunk }) => {
       const domainFromFullSet = workerData[j];
 
       if (domainFromFullSet === domainFromInput) continue;
-      // If domainFromFullset starts with a "."
+      // Check if domainFromFullset starts with a "."
       if (!fullsetDomainStartsWithADot[j]) continue;
       // domainFromFullSet is now startsWith a "."
+
+      const domainFromInputLen = domainFromInput.length;
 
       if (domainFromInput.charCodeAt(0) !== 46) {
         let shouldBeRemoved = true;
 
-        for (let k = 0, l2 = domainFromInput.length; k < l2; k++) {
+        for (let k = 0; k < domainFromInputLen; k++) {
           if (domainFromFullSet.charCodeAt(k + 1) !== domainFromInput.charCodeAt(k)) {
             shouldBeRemoved = false;
             break;
@@ -37,7 +39,7 @@ module.exports = ({ chunk }) => {
       }
       // domainFromInput is now startsWith a "."
 
-      if (domainFromInput.length >= domainFromFullSet.length) {
+      if (domainFromInputLen >= domainFromFullSet.length) {
         if (domainFromInput.endsWith(domainFromFullSet)) {
           outputToBeRemoved[i] = 1;
           break;
