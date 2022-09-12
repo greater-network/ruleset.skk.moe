@@ -1,6 +1,9 @@
 const { workerData, move } = require('piscina');
 
 const len = workerData.length;
+// pre check if fullset domain is starts with a "."
+// This avoid calling chatCodeAt repeatedly
+const fullsetDomainStartsWithADot = workerData.map(domain => domain.charCodeAt(0) === 46);
 
 module.exports = ({ chunk }) => {
   const chunkLength = chunk.length;
@@ -13,7 +16,8 @@ module.exports = ({ chunk }) => {
       const domainFromFullSet = workerData[j];
 
       if (domainFromFullSet === domainFromInput) continue;
-      if (domainFromFullSet.charCodeAt(0) !== 46) continue;
+      // If domainFromFullset starts with a "."
+      if (!fullsetDomainStartsWithADot[j]) continue;
       // domainFromFullSet is now startsWith a "."
 
       if (domainFromInput.charCodeAt(0) !== 46) {
