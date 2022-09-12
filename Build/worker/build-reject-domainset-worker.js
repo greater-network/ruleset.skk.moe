@@ -13,12 +13,13 @@ module.exports = ({ chunk }) => {
     const domainFromInput = chunk[i];
 
     for (let j = 0; j < len; j++) {
-      const domainFromFullSet = workerData[j];
-
-      if (domainFromFullSet === domainFromInput) continue;
       // Check if domainFromFullset starts with a "."
       if (!fullsetDomainStartsWithADot[j]) continue;
       // domainFromFullSet is now startsWith a "."
+
+      const domainFromFullSet = workerData[j];
+
+      if (domainFromFullSet === domainFromInput) continue;
 
       const domainFromInputLen = domainFromInput.length;
 
