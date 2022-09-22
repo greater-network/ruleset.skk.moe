@@ -7,6 +7,8 @@ const { isCI } = require('ci-info');
 const threads = isCI ? cpuCount : cpuCount / 2;
 
 (async () => {
+  console.time('Total time');
+
   /** @type Set<string> */
   const domainSets = new Set();
 
@@ -264,6 +266,8 @@ const threads = isCI ? cpuCount : cpuCount / 2;
 
   console.timeEnd(`* Dedupe from covered subdomain`);
   console.log(`Deduped ${previousSize - domainSets.size} rules!`);
+
+  console.timeEnd('Total time');
 
   return fsPromises.writeFile(
     pathResolve(__dirname, '../List/domainset/reject.conf'),
