@@ -4,7 +4,7 @@ const path = require('path');
 const { isIP } = require('net');
 
 (async () => {
-  console.time('build-anti-bogus-domain Total Time');
+  console.time('Total Time - build-anti-bogus-domain');
   console.time('* Download bogus-nxdomain-list')
   const res = (await (await fetchWithRetry('https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/bogus-nxdomain.china.conf')).text())
     .split('\n')
@@ -26,5 +26,5 @@ const { isIP } = require('net');
     );
 
   await fs.promises.writeFile(filePath, content, 'utf-8');
-  console.timeEnd('build-anti-bogus-domain Total Time');
+  console.timeEnd('Total Time - build-anti-bogus-domain');
 })();

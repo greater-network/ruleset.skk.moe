@@ -272,5 +272,5 @@ const threads = isCI ? cpuCount : cpuCount / 2;
     `${[...domainSets].join('\n')}\n`,
     { encoding: 'utf-8' });
 
-  console.time('Total Time - build-reject-domain-set');
+  console.timeEnd('Total Time - build-reject-domain-set');
 })();
