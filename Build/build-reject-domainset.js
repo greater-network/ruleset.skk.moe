@@ -10,6 +10,8 @@ const threads = isCI ? cpuCount : cpuCount / 2;
   /** @type Set<string> */
   const domainSets = new Set();
 
+  console.time('* Download and process Hosts');
+
   // Parse from remote hosts & domain lists
   (await Promise.all([
     processHosts('https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext', true),
@@ -22,6 +24,8 @@ const threads = isCI ? cpuCount : cpuCount / 2;
       }
     });
   });
+
+  console.timeEnd('* Download and process Hosts');
 
   let previousSize = domainSets.size;
   console.log(`Import ${previousSize} rules from hosts files!`);
@@ -83,6 +87,7 @@ const threads = isCI ? cpuCount : cpuCount / 2;
     'storage.yandexcloud.net' // phishing list
   ]);
 
+  console.time('* Download and process AdBlock Filter Rules');
   (await Promise.all([
     // Easy List
     [
@@ -147,6 +152,8 @@ const threads = isCI ? cpuCount : cpuCount / 2;
     black.forEach(i => domainSets.add(i));
   });
 
+  console.timeEnd('* Download and process AdBlock Filter Rules');
+
   previousSize = domainSets.size - previousSize;
   console.log(`Import ${previousSize} rules from adguard filters!`);
 
@@ -169,7 +176,8 @@ const threads = isCI ? cpuCount : cpuCount / 2;
 
   previousSize = domainSets.size;
   // Dedupe domainSets
-  console.log(`Start deduping! (${previousSize})`);
+  console.log(`Start deduping from black keywords/suffixes! (${previousSize})`);
+  console.time(`* Dedupe from black keywords/suffixes`);
 
   const toBeRemoved = new Set();
   for (const domain of domainSets) {
@@ -209,12 +217,13 @@ const threads = isCI ? cpuCount : cpuCount / 2;
     domainSets.delete(removed)
   });
 
-  // Dedupe domainSets
-  console.log(`Deduped ${previousSize - domainSets.size} from black keywords and suffixes!`);
+  console.timeEnd(`* Dedupe from black keywords/suffixes`);
+  console.log(`Deduped ${previousSize} - ${domainSets.size} = ${previousSize - domainSets.size} from black keywords and suffixes!`);
 
   previousSize = domainSets.size;
   // Dedupe domainSets
   console.log(`Start deduping! (${previousSize})`);
+  console.time(`* Dedupe from covered subdomain`);
 
   const piscina = new Piscina({
     filename: pathResolve(__dirname, 'worker/build-reject-domainset-worker.js'),
@@ -253,6 +262,7 @@ const threads = isCI ? cpuCount : cpuCount / 2;
     })
   });
 
+  console.timeEnd(`* Dedupe from covered subdomain`);
   console.log(`Deduped ${previousSize - domainSets.size} rules!`);
 
   return fsPromises.writeFile(
