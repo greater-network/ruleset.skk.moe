@@ -1,16 +1,15 @@
-const { workerData, move } = require('piscina');
+const Piscina = require('piscina');
+// pre check if fullset domain is starts with a "."
+// This avoid calling chatCodeAt repeatedly
 
-module.exports = ({ chunk }) => {
-  // pre check if fullset domain is starts with a "."
-  // This avoid calling chatCodeAt repeatedly
+// workerData is an array of string. Sort it by length, short first:
+const fullsetDomainStartsWithADot = Piscina.workerData.filter(domain => (
+  domain.charCodeAt(0) === 46
+  && !canExcludeFromDedupe(domain)
+));
+const totalLen = fullsetDomainStartsWithADot.length;
 
-  // workerData is an array of string. Sort it by length, short first:
-  const fullsetDomainStartsWithADot = workerData.filter(domain => (
-    domain.charCodeAt(0) === 46
-    && !canExcludeFromDedupe(domain)
-  ));
-  const totalLen = fullsetDomainStartsWithADot.length;
-
+module.exports.dedupe = ({ chunk }) => {
   const chunkLength = chunk.length;
   const outputToBeRemoved = new Int8Array(chunkLength);
 
@@ -61,7 +60,7 @@ module.exports = ({ chunk }) => {
     }
   }
 
-  return move(outputToBeRemoved);
+  return outputToBeRemoved;
 };
 
 // duckdns.org domain will not overlap and doesn't need dedupe
