@@ -227,11 +227,20 @@ function canExcludeFromDedupe (domain) {
   if (
     // starts with a dot
     domain.charCodeAt(0) === 46
-    && domain.length === 23
-    && domain.endsWith('.duckdns.org')
   ) {
-    return true;
+    if (
+      domain.endsWith('.web.app')
+      || domain.endsWith('.duckdns.org')
+      || domain.endsWith('.firebaseapp.app')
+      || domain.endsWith('.workers.dev')
+      || domain.endsWith('.weeblysite.com')
+      || domain.endsWith('.github.io')
+      || domain.endsWith('.repl.co')
+    ) {
+      return true;
+    }
   }
+
   return false;
 }
 
