@@ -1,5 +1,7 @@
 const psl = require('psl');
 const { processFilterRules } = require('./lib/parse-filter.js');
+const fs = require('fs');
+const path = require('path');
 
 (async () => {
   const domainSet = Array.from(
@@ -20,17 +22,20 @@ const { processFilterRules } = require('./lib/parse-filter.js');
     }
 
     const domain = line.charCodeAt(0) === 46 ? line.slice(1) : line;
-    const parsed = psl.parse(domain);
-
-    if (parsed.input === parsed.tld) {
-      continue;
-    }
 
     if (line.length > 25) {
+      const parsed = psl.parse(domain);
+
+      if (parsed.input === parsed.tld) {
+        continue;
+      }
+
       domainCountMap[parsed.domain] ||= 0;
       domainCountMap[parsed.domain] += 1;
     }
   }
+
+  const results = [];
 
   Object.entries(domainCountMap).forEach(([domain, count]) => {
     if (
@@ -44,7 +49,10 @@ const { processFilterRules } = require('./lib/parse-filter.js');
         || domain.endsWith('.cyou')
       )
     ) {
-      console.log('.'+ domain);
+      results.push('.' + domain);
     }
   });
+
+  const filePath = path.resolve(__dirname, '../List/domainset/reject_phishing.conf');
+  await fs.promises.writeFile(filePath, results.join('\n'), 'utf-8');
 })();
