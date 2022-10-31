@@ -3,6 +3,23 @@ const { processFilterRules } = require('./lib/parse-filter.js');
 const fs = require('fs');
 const path = require('path');
 
+const WHITELIST_DOMAIN = new Set([]);
+const BLACK_TLD = [
+  '.xyz',
+  '.top',
+  '.win',
+  '.vip',
+  '.site',
+  '.space',
+  '.online',
+  '.icu',
+  '.fun',
+  '.shop',
+  '.cool',
+  '.cyou',
+  '.id'
+];
+
 (async () => {
   const domainSet = Array.from(
     (
@@ -29,25 +46,22 @@ const path = require('path');
       if (parsed.input === parsed.tld) {
         continue;
       }
+      const apexDomain = parsed.domain
 
-      domainCountMap[parsed.domain] ||= 0;
-      domainCountMap[parsed.domain] += 1;
+      if (WHITELIST_DOMAIN.has(apexDomain)) {
+        continue;
+      }
+
+      domainCountMap[apexDomain] ||= 0;
+      domainCountMap[apexDomain] += 1;
     }
   }
 
   const results = [];
-
   Object.entries(domainCountMap).forEach(([domain, count]) => {
     if (
-      count > 10
-      && (
-        domain.endsWith('.xyz')
-        || domain.endsWith('.top')
-        || domain.endsWith('.icu')
-        || domain.endsWith('.win')
-        || domain.endsWith('.shop')
-        || domain.endsWith('.cyou')
-      )
+      count >= 8
+      && BLACK_TLD.some(tld => domain.endsWith(tld))
     ) {
       results.push('.' + domain);
     }
