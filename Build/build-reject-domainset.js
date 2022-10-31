@@ -156,7 +156,7 @@ const threads = isCI ? cpuCount : cpuCount / 2;
     //   ]
     // ],
     // Curben's PUP Domains Blocklist
-    'https://curbengh.github.io/malware-filter/pup-filter-agh.txt',
+    'https://curbengh.github.io/pup-filter/pup-filter-agh.txt',
     // Prefer mirror, since malware-filter.gitlab.io has not been updated for a while
     // [
     //   'https://pup-filter.pages.dev/pup-filter-agh.txt',
