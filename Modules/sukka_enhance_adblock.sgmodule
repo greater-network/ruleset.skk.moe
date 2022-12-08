@@ -3,7 +3,7 @@
 # Use Build/build.js to generate the list
 
 [MITM]
-hostname = %APPEND% *.google-analytics.com *.googletagmanager.com *.googlesyndication.com *.googletagservices.com *.doubleclick.net cdn.ampproject.org
+hostname = %APPEND% *.google-analytics.com *.googletagmanager.com *.googlesyndication.com *.googletagservices.com *.doubleclick.net cdn.ampproject.org *.addthis.com
 
 [URL Rewrite]
 ^https?://.*\.google-analytics\.com/analytics\.js https://ruleset.skk.moe/Assets/www-google-analytics-com_analytics.js 302
