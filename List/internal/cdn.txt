@@ -164,6 +164,9 @@ SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net
 SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net
 SUFFIX,onestore.ms
 SUFFIX,s-microsoft.com
+SUFFIX,msn.com
+SUFFIX,bing.com
+SUFFIX,bing.net
 SUFFIX,xbox.com
 SUFFIX,xboxlive.com
 SUFFIX,xboxservices.com
@@ -695,6 +698,8 @@ SUFFIX,assetlab.io
 SUFFIX,nintendo.net
 SUFFIX,nintendo.com
 SUFFIX,pricespider.com
+SUFFIX,playstation.com
+SUFFIX,sonyentertainmentnetwork.com
 SUFFIX,redventures.io
 SUFFIX,the-independent.com
 SUFFIX,independent.co.uk
@@ -909,6 +914,7 @@ SUFFIX,strava.com
 SUFFIX,macrumors.com
 SUFFIX,trustpilot.net
 SUFFIX,trustpilot.com
+SUFFIX,qwant.com
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
