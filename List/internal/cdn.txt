@@ -114,6 +114,8 @@ SUFFIX,jtvnw.net
 SUFFIX,twitch.tv
 SUFFIX,fbcdn.net
 SUFFIX,fbcdn.com
+SUFFIX,facebook.com
+SUFFIX,fbsbx.com
 SUFFIX,whatsapp.net
 SUFFIX,ampproject.org
 SUFFIX,anydesk.com
