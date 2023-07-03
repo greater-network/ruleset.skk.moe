@@ -941,6 +941,8 @@ SUFFIX,trustpilot.net
 SUFFIX,trustpilot.com
 SUFFIX,qwant.com
 SUFFIX,flagcdn.com
+SUFFIX,snyk.io
+SUFFIX,smartbear.co
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
@@ -965,3 +967,4 @@ SUFFIX,dl.pstmn.io
 SUFFIX,nssurge.com
 SUFFIX,devmate.com
 SUFFIX,parsec.app
+SUFFIX,wireshark.org
