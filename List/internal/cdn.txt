@@ -943,6 +943,7 @@ SUFFIX,qwant.com
 SUFFIX,flagcdn.com
 SUFFIX,snyk.io
 SUFFIX,smartbear.co
+SUFFIX,domaintools.com
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
