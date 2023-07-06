@@ -527,6 +527,11 @@ SUFFIX,fonts.com
 SUFFIX,fonts.net
 SUFFIX,pstatic.net
 SUFFIX,steamstatic.com
+SUFFIX,steamuserimages-a.akamaihd.net
+SUFFIX,steamusercontent-a.akamaihd.net
+SUFFIX,steamvideo-a.akamaihd.net
+SUFFIX,steamusercontent.com
+SUFFIX,steamcdn-a.akamaihd.net
 SUFFIX,ibytedtos.com
 SUFFIX,ebayimg.com
 SUFFIX,ebaystatic.com
@@ -549,6 +554,7 @@ SUFFIX,glitch.global
 SUFFIX,paypal.com
 SUFFIX,discourse-cdn.com
 SUFFIX,quoracdn.net
+SUFFIX,poecdn.net
 SUFFIX,gitbook.com
 SUFFIX,gitbook.io
 SUFFIX,notion-static.com
@@ -725,6 +731,10 @@ SUFFIX,pricespider.com
 SUFFIX,playstation.com
 SUFFIX,sonyentertainmentnetwork.com
 SUFFIX,porntube.com
+SUFFIX,rdtcdn.com
+SUFFIX,optimizely.com
+SUFFIX,ifttt.com
+SUFFIX,starbucks.com
 SUFFIX,redventures.io
 SUFFIX,the-independent.com
 SUFFIX,independent.co.uk
@@ -944,6 +954,8 @@ SUFFIX,flagcdn.com
 SUFFIX,snyk.io
 SUFFIX,smartbear.co
 SUFFIX,domaintools.com
+SUFFIX,skillshare.com
+SUFFIX,usercontent.dev
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
