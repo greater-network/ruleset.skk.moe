@@ -273,7 +273,6 @@ SUFFIX,datocms-assets.com
 SUFFIX,medium.com
 SUFFIX,shopify.com
 SUFFIX,shopifycdn.com
-SUFFIX,mailchimp.com
 SUFFIX,eep.io
 SUFFIX,hextom.com
 SUFFIX,amaicdn.com
@@ -545,6 +544,7 @@ SUFFIX,redd.it
 SUFFIX,redditstatic.com
 SUFFIX,discordapp.com
 SUFFIX,discordapp.net
+SUFFIX,mailchimp.com
 SUFFIX,wikimedia.org
 SUFFIX,kxcdn.com
 SUFFIX,deepl.com
