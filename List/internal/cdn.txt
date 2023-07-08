@@ -734,6 +734,7 @@ SUFFIX,porntube.com
 SUFFIX,rdtcdn.com
 SUFFIX,optimizely.com
 SUFFIX,ifttt.com
+SUFFIX,onekey-asset.com
 SUFFIX,starbucks.com
 SUFFIX,redventures.io
 SUFFIX,the-independent.com
