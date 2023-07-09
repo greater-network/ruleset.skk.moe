@@ -117,6 +117,7 @@ SUFFIX,fbcdn.com
 SUFFIX,facebook.com
 SUFFIX,fbsbx.com
 SUFFIX,whatsapp.net
+SUFFIX,facebook.net
 SUFFIX,ampproject.org
 SUFFIX,anydesk.com
 SUFFIX,disquscdn.com
@@ -172,6 +173,7 @@ SUFFIX,bing.net
 SUFFIX,xbox.com
 SUFFIX,xboxlive.com
 SUFFIX,xboxservices.com
+SUFFIX,azure.net
 SUFFIX,catbox.moe
 SUFFIX,codesandbox.io
 SUFFIX,csb.dev
@@ -186,6 +188,7 @@ SUFFIX,iframe.ly
 SUFFIX,olemovienews.com
 SUFFIX,nincontent.com
 SUFFIX,jwplayer.com
+SUFFIX,jwplatform.com
 SUFFIX,jwpcdn.com
 SUFFIX,ninjastream.to
 SUFFIX,pztv.ca
@@ -352,6 +355,7 @@ SUFFIX,hotjar.com
 SUFFIX,trysavvy.com
 SUFFIX,heysavvy.com
 SUFFIX,getkoala.com
+SUFFIX,koala.live
 SUFFIX,hyvor.com
 SUFFIX,memberful.com
 SUFFIX,qualified.com
@@ -370,6 +374,8 @@ SUFFIX,vetted.ai
 SUFFIX,jetboost.io
 SUFFIX,klarnacdn.net
 SUFFIX,klarnaservices.com
+SUFFIX,onesignal.com
+SUFFIX,concert.io
 SUFFIX,piano.io
 SUFFIX,tinypass.com
 SUFFIX,connatix.com
@@ -518,6 +524,7 @@ SUFFIX,cookielaw.org
 SUFFIX,tumblr.com
 SUFFIX,sndcdn.com
 SUFFIX,vercel.com
+SUFFIX,vercel.sh
 SUFFIX,heroku.com
 SUFFIX,slack-edge.com
 SUFFIX,slack.com
@@ -740,6 +747,9 @@ SUFFIX,onekey-asset.com
 SUFFIX,d3el26csp1xekx.cloudfront.net
 SUFFIX,cameo.com
 SUFFIX,represent.com
+SUFFIX,filehippo.net
+SUFFIX,salesforce.com
+SUFFIX,trailhead.com
 SUFFIX,starbucks.com
 SUFFIX,redventures.io
 SUFFIX,the-independent.com
@@ -962,6 +972,12 @@ SUFFIX,smartbear.co
 SUFFIX,domaintools.com
 SUFFIX,skillshare.com
 SUFFIX,usercontent.dev
+SUFFIX,sftcdn.net
+SUFFIX,download.it
+SUFFIX,futurecdn.net
+SUFFIX,tomsguide.com
+SUFFIX,seekrtech.com
+SUFFIX,apkmonk.com
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
