@@ -978,6 +978,7 @@ SUFFIX,futurecdn.net
 SUFFIX,tomsguide.com
 SUFFIX,seekrtech.com
 SUFFIX,apkmonk.com
+SUFFIX,rocketcdn.me
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
