@@ -273,7 +273,6 @@ SUFFIX,thumbsnap.com
 SUFFIX,pengtu.cc
 SUFFIX,10086.win
 SUFFIX,datocms-assets.com
-SUFFIX,medium.com
 SUFFIX,shopify.com
 SUFFIX,shopifycdn.com
 SUFFIX,eep.io
@@ -664,6 +663,7 @@ SUFFIX,chess24.com
 SUFFIX,lichess1.org
 SUFFIX,chesscomfiles.com
 SUFFIX,adguard.com
+SUFFIX,adguardvpn.com
 SUFFIX,infomaniak.com
 SUFFIX,infomaniak.ch
 SUFFIX,sc.gl
@@ -750,6 +750,11 @@ SUFFIX,represent.com
 SUFFIX,filehippo.net
 SUFFIX,salesforce.com
 SUFFIX,trailhead.com
+SUFFIX,mayoclinic.org
+SUFFIX,ubisoft.com
+SUFFIX,ubi.com
+SUFFIX,ubistatic2-a.akamaihd.net
+SUFFIX,medium.com
 SUFFIX,starbucks.com
 SUFFIX,redventures.io
 SUFFIX,the-independent.com
