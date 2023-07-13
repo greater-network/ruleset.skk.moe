@@ -778,7 +778,6 @@ SUFFIX,neverbounce.com
 SUFFIX,poool.fr
 SUFFIX,gigya.com
 SUFFIX,headliner.link
-SUFFIX,qualtrics.com
 SUFFIX,viglink.com
 SUFFIX,bizzabo.com
 SUFFIX,vetted.ai
@@ -803,15 +802,20 @@ SUFFIX,atlassian.com
 SUFFIX,atl-paas.net
 SUFFIX,swoogo.com
 SUFFIX,sanity.io
-SUFFIX,storyblok.com
 SUFFIX,kc-usercontent.com
 SUFFIX,prismic.io
 SUFFIX,webflow.com
 SUFFIX,ctfassets.net
 SUFFIX,website-files.com
+SUFFIX,storyblok.com
 SUFFIX,editmysite.com
 SUFFIX,signal.org
 SUFFIX,segment.com
+SUFFIX,cmail20.com
+SUFFIX,customeriomail.com
+SUFFIX,ltyears.com
+SUFFIX,sendgrid.net
+SUFFIX,mlcdn.com
 SUFFIX,ipfs.io
 SUFFIX,eternum.io
 SUFFIX,d.tube
@@ -1159,7 +1163,6 @@ SUFFIX,v2ex.co
 SUFFIX,swiftypecdn.com
 SUFFIX,fontawesome.com
 SUFFIX,fontbit.io
-SUFFIX,pornimg.xyz
 SUFFIX,pimg.tw
 SUFFIX,pixfs.net
 SUFFIX,ngfiles.com
@@ -1175,6 +1178,7 @@ SUFFIX,pagecdn.io
 SUFFIX,99av.tv
 SUFFIX,javtxt.com
 SUFFIX,imgmrplay.xyz
+SUFFIX,pornimg.xyz
 SUFFIX,b3log.org
 SUFFIX,safebrowsing.apple
 SUFFIX,safebrowsing.googleapis.com
@@ -1347,6 +1351,7 @@ SUFFIX,thefly.com
 SUFFIX,javcdn.info
 SUFFIX,akamai-content-delivery.com
 SUFFIX,javplayer.me
+SUFFIX,qualtrics.com
 SUFFIX,marsflag.com
 SUFFIX,mwf-service.akamaized.net
 SUFFIX,vx-cdn.com
@@ -1374,6 +1379,9 @@ SUFFIX,img.ly
 SUFFIX,kym-cdn.com
 SUFFIX,elephas.app
 SUFFIX,kroll.com
+SUFFIX,brick.a.ssl.fastly.net
+SUFFIX,brick.freetls.fastly.net
+SUFFIX,bfe.dev
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
