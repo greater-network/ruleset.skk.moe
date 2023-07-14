@@ -206,6 +206,10 @@ SUFFIX,setapp.com
 SUFFIX,ip-api.com
 SUFFIX,dnsleaktest.com
 SUFFIX,ip.cn
+SUFFIX,npm.im
+SUFFIX,npmjs.com
+SUFFIX,sleazyfork.org
+SUFFIX,greasyfork.org
 SUFFIX,4gtv.tv
 SUFFIX,hinet.net
 SUFFIX,abema.io
@@ -503,7 +507,6 @@ SUFFIX,kali.download
 SUFFIX,vscode-cdn.net
 SUFFIX,trafficmanager.net
 SUFFIX,npmjs.org
-SUFFIX,npmjs.com
 SUFFIX,yarnpkg.com
 SUFFIX,bower.io
 SUFFIX,pypi.org
@@ -878,6 +881,7 @@ SUFFIX,4everland.io
 SUFFIX,ipfs-gateway.cloud
 SUFFIX,w3s.link
 SUFFIX,cthd.icu
+SUFFIX,4everland.xyz
 SUFFIX,cmx.edu.kg
 SUFFIX,acg.mn
 SUFFIX,c.im
@@ -1382,6 +1386,7 @@ SUFFIX,kroll.com
 SUFFIX,brick.a.ssl.fastly.net
 SUFFIX,brick.freetls.fastly.net
 SUFFIX,bfe.dev
+SUFFIX,incapsula.com
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
