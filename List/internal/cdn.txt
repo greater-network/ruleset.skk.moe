@@ -497,6 +497,7 @@ SUFFIX,greenkeeper.io
 SUFFIX,david-dm.org
 SUFFIX,shields.io
 SUFFIX,codestream.com
+SUFFIX,crowdin.net
 SUFFIX,rust-lang.org
 SUFFIX,nodejs.org
 SUFFIX,nwjs.io
@@ -789,6 +790,8 @@ SUFFIX,klarnacdn.net
 SUFFIX,klarnaservices.com
 SUFFIX,onesignal.com
 SUFFIX,concert.io
+SUFFIX,freshworks.com
+SUFFIX,sociabble.com
 SUFFIX,piano.io
 SUFFIX,tinypass.com
 SUFFIX,connatix.com
@@ -933,6 +936,9 @@ SUFFIX,sketch.com
 SUFFIX,sketch.cloud
 SUFFIX,xmind.net
 SUFFIX,tmdb.org
+SUFFIX,geoip-js.com
+SUFFIX,maxmind.com
+SUFFIX,rbxcdn.com
 SUFFIX,lottiefiles.com
 SUFFIX,zoom.us
 SUFFIX,yimg.com
@@ -1387,6 +1393,13 @@ SUFFIX,brick.a.ssl.fastly.net
 SUFFIX,brick.freetls.fastly.net
 SUFFIX,bfe.dev
 SUFFIX,incapsula.com
+SUFFIX,dicebear.com
+SUFFIX,minecraft-server-list.com
+SUFFIX,creativajs.altervista.org
+SUFFIX,namemc.com
+SUFFIX,minotar.net
+SUFFIX,now.gg
+SUFFIX,bluestacks.com
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
