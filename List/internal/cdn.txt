@@ -1400,6 +1400,7 @@ SUFFIX,namemc.com
 SUFFIX,minotar.net
 SUFFIX,now.gg
 SUFFIX,bluestacks.com
+SUFFIX,betterstack.com
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
