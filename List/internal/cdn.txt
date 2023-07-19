@@ -793,6 +793,7 @@ SUFFIX,concert.io
 SUFFIX,freshworks.com
 SUFFIX,sociabble.com
 SUFFIX,netlify-rum.netlify.app
+SUFFIX,savvycal.com
 SUFFIX,piano.io
 SUFFIX,tinypass.com
 SUFFIX,connatix.com
@@ -1405,6 +1406,7 @@ SUFFIX,bluestacks.com
 SUFFIX,betterstack.com
 SUFFIX,civitai.com
 SUFFIX,stefanjudis.com
+SUFFIX,lemonsqueezy.com
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
