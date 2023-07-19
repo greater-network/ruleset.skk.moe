@@ -792,6 +792,7 @@ SUFFIX,onesignal.com
 SUFFIX,concert.io
 SUFFIX,freshworks.com
 SUFFIX,sociabble.com
+SUFFIX,netlify-rum.netlify.app
 SUFFIX,piano.io
 SUFFIX,tinypass.com
 SUFFIX,connatix.com
@@ -814,6 +815,7 @@ SUFFIX,webflow.com
 SUFFIX,ctfassets.net
 SUFFIX,website-files.com
 SUFFIX,storyblok.com
+SUFFIX,contentful.com
 SUFFIX,editmysite.com
 SUFFIX,signal.org
 SUFFIX,segment.com
@@ -1402,6 +1404,7 @@ SUFFIX,now.gg
 SUFFIX,bluestacks.com
 SUFFIX,betterstack.com
 SUFFIX,civitai.com
+SUFFIX,stefanjudis.com
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
