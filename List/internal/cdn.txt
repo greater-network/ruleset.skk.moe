@@ -1407,6 +1407,8 @@ SUFFIX,betterstack.com
 SUFFIX,civitai.com
 SUFFIX,stefanjudis.com
 SUFFIX,lemonsqueezy.com
+SUFFIX,nerdschalk.com
+SUFFIX,purevpn-tools.com
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
