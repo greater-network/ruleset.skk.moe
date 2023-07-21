@@ -1339,7 +1339,6 @@ SUFFIX,cnx-software.com
 SUFFIX,hackerone-user-content.com
 SUFFIX,wccftech.com
 SUFFIX,pcmag.com
-SUFFIX,makeuseofimages.com
 SUFFIX,hellofresh.com
 SUFFIX,everyplate.com
 SUFFIX,fboom.me
@@ -1409,6 +1408,7 @@ SUFFIX,stefanjudis.com
 SUFFIX,lemonsqueezy.com
 SUFFIX,nerdschalk.com
 SUFFIX,purevpn-tools.com
+SUFFIX,makeuseofimages.com
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
