@@ -445,6 +445,8 @@ SUFFIX,himalaya.com
 SUFFIX,overcast.fm
 SUFFIX,wetv.vip
 SUFFIX,wetvinfo.com
+SUFFIX,max.com
+SUFFIX,discomax.com
 SUFFIX,t.me
 SUFFIX,tx.me
 SUFFIX,tdesktop.com
