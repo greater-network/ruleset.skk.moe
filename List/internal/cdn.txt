@@ -233,6 +233,9 @@ SUFFIX,d22qjgkvxw22r6.cloudfront.net
 SUFFIX,d25xi40x97liuc.cloudfront.net
 SUFFIX,dmqdd6hw24ucf.cloudfront.net
 SUFFIX,d27xxe7juh1us6.cloudfront.net
+SUFFIX,d184dfn36gombl.cloudfront.net
+SUFFIX,d1xfray82862hr.cloudfront.net
+SUFFIX,d3196yreox78o9.cloudfront.net
 SUFFIX,aiv-cdn.net
 SUFFIX,aiv-delivery.net
 SUFFIX,amazonvideo.com
@@ -1163,6 +1166,8 @@ SUFFIX,mayoclinic.org
 SUFFIX,ubisoft.com
 SUFFIX,ubi.com
 SUFFIX,ubistatic2-a.akamaihd.net
+SUFFIX,modrinth.com
+SUFFIX,ripe.net
 SUFFIX,starbucks.com
 SUFFIX,redventures.io
 SUFFIX,the-independent.com
@@ -1409,6 +1414,7 @@ SUFFIX,lemonsqueezy.com
 SUFFIX,nerdschalk.com
 SUFFIX,purevpn-tools.com
 SUFFIX,makeuseofimages.com
+SUFFIX,bleepstatic.com
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
