@@ -655,6 +655,7 @@ SUFFIX,sqspcdn.com
 SUFFIX,squarespace-cdn.com
 SUFFIX,f-droid.org
 SUFFIX,staticblitz.com
+SUFFIX,stackblitz.io
 SUFFIX,dcard.tw
 SUFFIX,ptt.cc
 SUFFIX,moovweb.net
@@ -1170,6 +1171,9 @@ SUFFIX,ubi.com
 SUFFIX,ubistatic2-a.akamaihd.net
 SUFFIX,modrinth.com
 SUFFIX,ripe.net
+SUFFIX,split.io
+SUFFIX,arxiv.org
+SUFFIX,sciencecast.org
 SUFFIX,starbucks.com
 SUFFIX,redventures.io
 SUFFIX,the-independent.com
