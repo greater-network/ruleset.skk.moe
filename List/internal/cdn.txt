@@ -1445,6 +1445,7 @@ SUFFIX,nssurge.com
 SUFFIX,devmate.com
 SUFFIX,parsec.app
 SUFFIX,wireshark.org
+SUFFIX,arc.net
 REGEX,-files\.gitbook\.io
 REGEX,vod-adaptive\.akamaized\.net
 REGEX,web-assets\.zendesk
