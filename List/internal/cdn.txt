@@ -463,6 +463,7 @@ SUFFIX,unpkg.com
 SUFFIX,esm.run
 SUFFIX,bundle.run
 SUFFIX,liuxingbaoyu.xyz
+SUFFIX,cdnjs.com
 SUFFIX,rawgit.com
 SUFFIX,rawgit.org
 SUFFIX,gitcdn.xyz
@@ -538,6 +539,7 @@ SUFFIX,gcr.io
 SUFFIX,k8s.io
 SUFFIX,brew.sh
 SUFFIX,crates.io
+SUFFIX,httpie.io
 SUFFIX,wp.com
 SUFFIX,gravatar.com
 SUFFIX,wpcomstaging.com
@@ -1281,6 +1283,7 @@ SUFFIX,getbutton.io
 SUFFIX,zippyshare.com
 SUFFIX,sendspace.com
 SUFFIX,dw.com
+SUFFIX,tvdownloaddw-a.akamaihd.net
 SUFFIX,tedcdn.com
 SUFFIX,gopro.com
 SUFFIX,grumpybumpers.com
