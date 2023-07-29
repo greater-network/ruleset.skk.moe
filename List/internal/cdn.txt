@@ -802,6 +802,7 @@ SUFFIX,freshworks.com
 SUFFIX,sociabble.com
 SUFFIX,netlify-rum.netlify.app
 SUFFIX,savvycal.com
+SUFFIX,pusher.com
 SUFFIX,piano.io
 SUFFIX,tinypass.com
 SUFFIX,connatix.com
@@ -1212,6 +1213,8 @@ SUFFIX,divio-media.net
 SUFFIX,clutch.co
 SUFFIX,runkitcdn.com
 SUFFIX,runkit.com
+SUFFIX,runkit-packages-static-executables.com
+SUFFIX,runkit-packages-static.com
 SUFFIX,giscus.app
 SUFFIX,ravenjs.com
 SUFFIX,pstorage.space
