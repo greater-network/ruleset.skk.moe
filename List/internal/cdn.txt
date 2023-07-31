@@ -540,6 +540,7 @@ SUFFIX,k8s.io
 SUFFIX,brew.sh
 SUFFIX,crates.io
 SUFFIX,httpie.io
+SUFFIX,packagecloud.io
 SUFFIX,wp.com
 SUFFIX,gravatar.com
 SUFFIX,wpcomstaging.com
@@ -561,6 +562,7 @@ SUFFIX,whatsapp.net
 SUFFIX,facebook.net
 SUFFIX,anydesk.com
 SUFFIX,disquscdn.com
+SUFFIX,publicsuffix.org
 SUFFIX,chart.googleapis.com
 SUFFIX,fonts.googleapis.com
 SUFFIX,ajax.googleapis.com
@@ -696,6 +698,7 @@ SUFFIX,placeimg.com
 SUFFIX,thumbsnap.com
 SUFFIX,pengtu.cc
 SUFFIX,10086.win
+SUFFIX,picb.cc
 SUFFIX,datocms-assets.com
 SUFFIX,shopify.com
 SUFFIX,shopifycdn.com
@@ -897,6 +900,7 @@ SUFFIX,ipfs-gateway.cloud
 SUFFIX,w3s.link
 SUFFIX,cthd.icu
 SUFFIX,4everland.xyz
+SUFFIX,joinmastodon.org
 SUFFIX,cmx.edu.kg
 SUFFIX,acg.mn
 SUFFIX,c.im
@@ -1069,6 +1073,7 @@ SUFFIX,xdaimages.com
 SUFFIX,zencdn.net
 SUFFIX,sendvid.com
 SUFFIX,status.io
+SUFFIX,bsky.social
 SUFFIX,framerusercontent.com
 SUFFIX,framerstatic.com
 SUFFIX,nitrocdn.com
@@ -1177,6 +1182,7 @@ SUFFIX,ripe.net
 SUFFIX,split.io
 SUFFIX,arxiv.org
 SUFFIX,sciencecast.org
+SUFFIX,start.me
 SUFFIX,starbucks.com
 SUFFIX,redventures.io
 SUFFIX,the-independent.com
@@ -1430,6 +1436,7 @@ SUFFIX,bleepstatic.com
 SUFFIX,npmjs.cf
 SUFFIX,oreillystatic.com
 SUFFIX,stackabuse.com
+SUFFIX,weglot.com
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
@@ -1454,6 +1461,7 @@ SUFFIX,devmate.com
 SUFFIX,parsec.app
 SUFFIX,wireshark.org
 SUFFIX,arc.net
+SUFFIX,nektony.com
 REGEX,-files\.gitbook\.io
 REGEX,vod-adaptive\.akamaized\.net
 REGEX,web-assets\.zendesk
