@@ -210,6 +210,8 @@ SUFFIX,npm.im
 SUFFIX,npmjs.com
 SUFFIX,sleazyfork.org
 SUFFIX,greasyfork.org
+SUFFIX,sketch.cloud
+SUFFIX,sketch.com
 SUFFIX,4gtv.tv
 SUFFIX,hinet.net
 SUFFIX,abema.io
@@ -948,8 +950,6 @@ SUFFIX,zoho.com
 SUFFIX,licdn.com
 SUFFIX,storjshare.io
 SUFFIX,wasabisys.com
-SUFFIX,sketch.com
-SUFFIX,sketch.cloud
 SUFFIX,xmind.net
 SUFFIX,tmdb.org
 SUFFIX,geoip-js.com
@@ -1183,6 +1183,7 @@ SUFFIX,split.io
 SUFFIX,arxiv.org
 SUFFIX,sciencecast.org
 SUFFIX,start.me
+SUFFIX,fourthwall.com
 SUFFIX,starbucks.com
 SUFFIX,redventures.io
 SUFFIX,the-independent.com
