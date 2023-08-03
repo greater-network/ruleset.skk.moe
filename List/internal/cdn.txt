@@ -1184,6 +1184,9 @@ SUFFIX,arxiv.org
 SUFFIX,sciencecast.org
 SUFFIX,start.me
 SUFFIX,fourthwall.com
+SUFFIX,helpjuice.com
+SUFFIX,beeper.com
+SUFFIX,commandbar.com
 SUFFIX,starbucks.com
 SUFFIX,redventures.io
 SUFFIX,the-independent.com
@@ -1463,6 +1466,7 @@ SUFFIX,parsec.app
 SUFFIX,wireshark.org
 SUFFIX,arc.net
 SUFFIX,nektony.com
+SUFFIX,todesktop.com
 REGEX,-files\.gitbook\.io
 REGEX,vod-adaptive\.akamaized\.net
 REGEX,web-assets\.zendesk
