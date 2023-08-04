@@ -494,6 +494,8 @@ SUFFIX,arvancloud.com
 SUFFIX,tailwindcss.com
 SUFFIX,docs.rs
 SUFFIX,webpack.js.org
+SUFFIX,vuejs.org
+SUFFIX,react.dev
 SUFFIX,bintray.com
 SUFFIX,buildkite.com
 SUFFIX,fury.io
@@ -506,6 +508,7 @@ SUFFIX,david-dm.org
 SUFFIX,shields.io
 SUFFIX,codestream.com
 SUFFIX,crowdin.net
+SUFFIX,badgesize.io
 SUFFIX,rust-lang.org
 SUFFIX,nodejs.org
 SUFFIX,nwjs.io
@@ -808,6 +811,10 @@ SUFFIX,sociabble.com
 SUFFIX,netlify-rum.netlify.app
 SUFFIX,savvycal.com
 SUFFIX,pusher.com
+SUFFIX,backinstock.org
+SUFFIX,pickystory.com
+SUFFIX,kxcdn.com
+SUFFIX,searchserverapi.com
 SUFFIX,piano.io
 SUFFIX,tinypass.com
 SUFFIX,connatix.com
@@ -987,7 +994,6 @@ SUFFIX,discordapp.com
 SUFFIX,discordapp.net
 SUFFIX,mailchimp.com
 SUFFIX,wikimedia.org
-SUFFIX,kxcdn.com
 SUFFIX,deepl.com
 SUFFIX,cdn.glitch.me
 SUFFIX,glitch.com
@@ -1441,6 +1447,7 @@ SUFFIX,npmjs.cf
 SUFFIX,oreillystatic.com
 SUFFIX,stackabuse.com
 SUFFIX,weglot.com
+SUFFIX,tildacdn.com
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
