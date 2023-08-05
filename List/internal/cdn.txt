@@ -1474,6 +1474,7 @@ SUFFIX,wireshark.org
 SUFFIX,arc.net
 SUFFIX,nektony.com
 SUFFIX,todesktop.com
+SUFFIX,motrix.app
 REGEX,-files\.gitbook\.io
 REGEX,vod-adaptive\.akamaized\.net
 REGEX,web-assets\.zendesk
