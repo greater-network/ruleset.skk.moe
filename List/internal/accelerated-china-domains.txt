@@ -6229,7 +6229,6 @@ SUFFIX,9191zx.com
 SUFFIX,91985.com
 SUFFIX,91ac.com
 SUFFIX,91act.com
-SUFFIX,91aliyun.com
 SUFFIX,91all.net
 SUFFIX,91anjian.com
 SUFFIX,91art.net
@@ -8823,6 +8822,7 @@ SUFFIX,arefly.com
 SUFFIX,ares.dl.playstation.net
 SUFFIX,arestech-sz.com
 SUFFIX,areweloongyet.com
+SUFFIX,arfans.com
 SUFFIX,arhieason.com
 SUFFIX,arhoo.com
 SUFFIX,ariesmob.com
@@ -10185,6 +10185,7 @@ SUFFIX,bendi5.com
 SUFFIX,bendibao.com
 SUFFIX,bendiso.com
 SUFFIX,bendiw.cc
+SUFFIX,bendizhidao.com
 SUFFIX,benduo.net
 SUFFIX,benellimotor.com
 SUFFIX,bengbeng.com
@@ -26194,6 +26195,7 @@ SUFFIX,hi2000.com
 SUFFIX,hi2000.net
 SUFFIX,hiaal.com
 SUFFIX,hiagr.com
+SUFFIX,hiaiabc.com
 SUFFIX,hiapk.com
 SUFFIX,hiavr.com
 SUFFIX,hibea.com
@@ -31982,7 +31984,6 @@ SUFFIX,jpanj.com
 SUFFIX,jpbeta.net
 SUFFIX,jpchinapress.com
 SUFFIX,jpeen.com
-SUFFIX,jpegonline.com
 SUFFIX,jperation.com
 SUFFIX,jpg.cm
 SUFFIX,jpggod.com
@@ -38503,6 +38504,7 @@ SUFFIX,moboplayer.com
 SUFFIX,mobotap.com
 SUFFIX,mobring.co
 SUFFIX,mobrtb.com
+SUFFIX,mobsurl.com
 SUFFIX,mobtou.com
 SUFFIX,mobvoi.com
 SUFFIX,mocache.com
@@ -38926,6 +38928,7 @@ SUFFIX,mtcop.com
 SUFFIX,mtcsys.com
 SUFFIX,mtcx99.com
 SUFFIX,mtcxsw.com
+SUFFIX,mtcxx.com
 SUFFIX,mtdpai.com
 SUFFIX,mtdpgame.com
 SUFFIX,mtedu.com
@@ -39293,6 +39296,7 @@ SUFFIX,mypcrun.com
 SUFFIX,mypethome.com
 SUFFIX,mypian.com
 SUFFIX,mypiao.com
+SUFFIX,mypiaojia.com
 SUFFIX,mypitaya.com
 SUFFIX,mypity.com
 SUFFIX,mypm.net
@@ -54180,6 +54184,7 @@ SUFFIX,wdlny.com
 SUFFIX,wdmcake.com
 SUFFIX,wdmuz.com
 SUFFIX,wdodo.com
+SUFFIX,wdomob.com
 SUFFIX,wdres.com
 SUFFIX,wdsrc.com
 SUFFIX,wdstory.com
@@ -56810,6 +56815,7 @@ SUFFIX,xhpfw.com
 SUFFIX,xhpiano.com
 SUFFIX,xhqqt.com
 SUFFIX,xhscdn.com
+SUFFIX,xhscdn.net
 SUFFIX,xhsd.com
 SUFFIX,xhslink.com
 SUFFIX,xhsyww.com
@@ -60149,6 +60155,7 @@ SUFFIX,ykq.ink
 SUFFIX,ykqnl.com
 SUFFIX,ykread.com
 SUFFIX,yks365.com
+SUFFIX,yksdks.com
 SUFFIX,yksq.net
 SUFFIX,ykstarshine.com
 SUFFIX,yksuit.com
