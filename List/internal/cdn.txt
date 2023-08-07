@@ -640,6 +640,7 @@ SUFFIX,firefoxusercontent.com
 SUFFIX,mozilla.net
 SUFFIX,mozilla.org
 SUFFIX,hubspotusercontent30.com
+SUFFIX,hubspotusercontent30.net
 SUFFIX,hubspot.net
 SUFFIX,hubspotfeedback.com
 SUFFIX,usemessages.com
@@ -651,6 +652,7 @@ SUFFIX,hs-scripts.net
 SUFFIX,hscollectedforms.net
 SUFFIX,hubspotfree.net
 SUFFIX,hubspotusercontent-eu1.net
+SUFFIX,hubspotusercontent-na1.net
 SUFFIX,yastatic.net
 SUFFIX,yandex.net
 SUFFIX,replit.com
@@ -1193,6 +1195,8 @@ SUFFIX,fourthwall.com
 SUFFIX,helpjuice.com
 SUFFIX,beeper.com
 SUFFIX,commandbar.com
+SUFFIX,nbcnews.com
+SUFFIX,s-nbcnews.com
 SUFFIX,starbucks.com
 SUFFIX,redventures.io
 SUFFIX,the-independent.com
@@ -1448,6 +1452,8 @@ SUFFIX,oreillystatic.com
 SUFFIX,stackabuse.com
 SUFFIX,weglot.com
 SUFFIX,tildacdn.com
+SUFFIX,hashnode.com
+SUFFIX,mycommerce.akamaized.net
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
