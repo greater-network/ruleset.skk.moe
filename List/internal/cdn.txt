@@ -817,6 +817,8 @@ SUFFIX,backinstock.org
 SUFFIX,pickystory.com
 SUFFIX,kxcdn.com
 SUFFIX,searchserverapi.com
+SUFFIX,zi-scripts.com
+SUFFIX,cnevids.com
 SUFFIX,piano.io
 SUFFIX,tinypass.com
 SUFFIX,connatix.com
@@ -829,6 +831,7 @@ SUFFIX,freshworksapi.com
 SUFFIX,ibruce.info
 SUFFIX,gtranslate.io
 SUFFIX,crisp.chat
+SUFFIX,coralproject.net
 SUFFIX,atlassian.com
 SUFFIX,atl-paas.net
 SUFFIX,swoogo.com
@@ -1454,6 +1457,8 @@ SUFFIX,weglot.com
 SUFFIX,tildacdn.com
 SUFFIX,hashnode.com
 SUFFIX,mycommerce.akamaized.net
+SUFFIX,static-upwork.com
+SUFFIX,arstechnica.net
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
@@ -1484,6 +1489,7 @@ SUFFIX,motrix.app
 REGEX,-files\.gitbook\.io
 REGEX,vod-adaptive\.akamaized\.net
 REGEX,web-assets\.zendesk
+REGEX,-res\.cloudinary\.com
 REGEX,github
 REGEX,google
 REGEX,blogspot
