@@ -26262,6 +26262,7 @@ SUFFIX,hiosu.com
 SUFFIX,hioug.com
 SUFFIX,hiparking.com
 SUFFIX,hipcam.net
+SUFFIX,hiphi.com
 SUFFIX,hiphop8.com
 SUFFIX,hipiao.com
 SUFFIX,hippoanimation.com
