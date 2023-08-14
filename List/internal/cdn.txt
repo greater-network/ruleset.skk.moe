@@ -857,6 +857,7 @@ SUFFIX,mlcdn.com
 SUFFIX,ipfs.io
 SUFFIX,eternum.io
 SUFFIX,d.tube
+SUFFIX,mypinata.cloud
 SUFFIX,ipns.co
 SUFFIX,mrh.io
 SUFFIX,originprotocol.com
@@ -1203,6 +1204,7 @@ SUFFIX,beeper.com
 SUFFIX,commandbar.com
 SUFFIX,nbcnews.com
 SUFFIX,s-nbcnews.com
+SUFFIX,music.com
 SUFFIX,starbucks.com
 SUFFIX,redventures.io
 SUFFIX,the-independent.com
@@ -1470,6 +1472,11 @@ SUFFIX,upload.io
 SUFFIX,coveo.com
 SUFFIX,getkirby.com
 SUFFIX,cloudcraft.co
+SUFFIX,timero.xyz
+SUFFIX,rss3.dev
+SUFFIX,xlog.app
+SUFFIX,crossbell.io
+SUFFIX,icon.horse
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
