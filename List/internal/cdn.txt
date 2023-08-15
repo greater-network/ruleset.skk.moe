@@ -496,6 +496,7 @@ SUFFIX,docs.rs
 SUFFIX,webpack.js.org
 SUFFIX,vuejs.org
 SUFFIX,react.dev
+SUFFIX,typescriptlang.org
 SUFFIX,bintray.com
 SUFFIX,buildkite.com
 SUFFIX,fury.io
