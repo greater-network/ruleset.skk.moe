@@ -1478,6 +1478,7 @@ SUFFIX,rss3.dev
 SUFFIX,xlog.app
 SUFFIX,crossbell.io
 SUFFIX,icon.horse
+SUFFIX,circleci.com
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
