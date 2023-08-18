@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2023-08-18T15:57:40.751Z
+#!desc=Last Updated: 2023-08-18T16:02:59.638Z
 
 [Host]
 uc.cn = server:https://223.5.5.5/dns-query
