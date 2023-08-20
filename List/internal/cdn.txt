@@ -1513,6 +1513,7 @@ REGEX,-files\.gitbook\.io
 REGEX,vod-adaptive\.akamaized\.net
 REGEX,web-assets\.zendesk
 REGEX,-res\.cloudinary\.com
+REGEX,dsn\.algolia\.net
 REGEX,github
 REGEX,google
 REGEX,blogspot
