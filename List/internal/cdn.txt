@@ -496,7 +496,9 @@ SUFFIX,docs.rs
 SUFFIX,webpack.js.org
 SUFFIX,vuejs.org
 SUFFIX,react.dev
+SUFFIX,reactjs.org
 SUFFIX,typescriptlang.org
+SUFFIX,rollupjs.org
 SUFFIX,bintray.com
 SUFFIX,buildkite.com
 SUFFIX,fury.io
@@ -732,6 +734,7 @@ SUFFIX,autoketing.org
 SUFFIX,codeblackbelt.com
 SUFFIX,judge.me
 SUFFIX,incartupsell.com
+SUFFIX,pixhost.to
 SUFFIX,adtidy.org
 SUFFIX,disconnect.me
 SUFFIX,easylist.to
@@ -1482,6 +1485,10 @@ SUFFIX,crossbell.io
 SUFFIX,icon.horse
 SUFFIX,circleci.com
 SUFFIX,transifex.com
+SUFFIX,javfree.me
+SUFFIX,javstore.net
+SUFFIX,vpdmm.cc
+SUFFIX,k2s.cc
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
