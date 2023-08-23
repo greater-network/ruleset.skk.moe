@@ -4721,6 +4721,7 @@ SUFFIX,5ewin.com
 SUFFIX,5fen.com
 SUFFIX,5fun.com
 SUFFIX,5fwan.com
+SUFFIX,5g5gyy.com
 SUFFIX,5gcg.com
 SUFFIX,5glianc.com
 SUFFIX,5goto.com
@@ -6148,7 +6149,6 @@ SUFFIX,90zm.net
 SUFFIX,91-box.com
 SUFFIX,91.com
 SUFFIX,910app.com
-SUFFIX,910fd.com
 SUFFIX,910play.com
 SUFFIX,91160.com
 SUFFIX,9118fu.com
@@ -7071,7 +7071,6 @@ SUFFIX,accsh.org
 SUFFIX,accu.cc
 SUFFIX,accurate-china.com
 SUFFIX,accyy.com
-SUFFIX,acde.net
 SUFFIX,ace-pow.com
 SUFFIX,ace-rubber.com
 SUFFIX,acejoy.com
@@ -8044,6 +8043,7 @@ SUFFIX,aliyunddos1004.com
 SUFFIX,aliyunddos1005.com
 SUFFIX,aliyunddos1006.com
 SUFFIX,aliyunddos1007.com
+SUFFIX,aliyunddos1008.com
 SUFFIX,aliyunddos1009.com
 SUFFIX,aliyunddos1010.com
 SUFFIX,aliyunddos1011.com
@@ -8711,7 +8711,6 @@ SUFFIX,appzhonghua.com
 SUFFIX,apriltq.com
 SUFFIX,aprovadimamma.net
 SUFFIX,apsgo.com
-SUFFIX,apt.so
 SUFFIX,aptchina.com
 SUFFIX,aptchip.com
 SUFFIX,aptenon.com
@@ -13061,6 +13060,7 @@ SUFFIX,chaima.com
 SUFFIX,chaimage.com
 SUFFIX,chain-store.net
 SUFFIX,chaincar.com
+SUFFIX,chaincatcher.com
 SUFFIX,chainknow.com
 SUFFIX,chainnode.com
 SUFFIX,chainsdir.com
@@ -18919,7 +18919,6 @@ SUFFIX,dtidc.com
 SUFFIX,dtime.com
 SUFFIX,dtmao.cc
 SUFFIX,dtmuban.com
-SUFFIX,dtqiufa.com
 SUFFIX,dtrcb.com
 SUFFIX,dts007.com
 SUFFIX,dtstack.com
@@ -20401,6 +20400,7 @@ SUFFIX,eskysky.com
 SUFFIX,eslosity.com
 SUFFIX,esmartwave.com
 SUFFIX,esmod-beijing.com
+SUFFIX,esmplus.com
 SUFFIX,esnai.com
 SUFFIX,esnai.net
 SUFFIX,esoboy.com
@@ -21972,6 +21972,7 @@ SUFFIX,foxwho.com
 SUFFIX,foxwq.com
 SUFFIX,foxzld.com
 SUFFIX,foyuan.net
+SUFFIX,fpdclub.net
 SUFFIX,fpdisplay.com
 SUFFIX,fpga-china.com
 SUFFIX,fpgabbs.com
@@ -23691,6 +23692,7 @@ SUFFIX,goufw.com
 SUFFIX,gougoujp.com
 SUFFIX,gougoumh.com
 SUFFIX,gouhai.com
+SUFFIX,gouhao.com
 SUFFIX,gouhaowang.com
 SUFFIX,gouhuasuan.shop
 SUFFIX,goukuai.com
@@ -26429,7 +26431,6 @@ SUFFIX,hmskw.com
 SUFFIX,hmsxw.com
 SUFFIX,hmszkj.com
 SUFFIX,hmting.com
-SUFFIX,hmtv.me
 SUFFIX,hmxw.com
 SUFFIX,hmyz.com
 SUFFIX,hmz.com
@@ -26480,6 +26481,7 @@ SUFFIX,hnggzy.com
 SUFFIX,hngh.org
 SUFFIX,hngican.com
 SUFFIX,hngoldcorp.com
+SUFFIX,hngqjc.com
 SUFFIX,hngtrust.com
 SUFFIX,hngwg.com
 SUFFIX,hngyzx.org
@@ -29148,7 +29150,6 @@ SUFFIX,imedicalai.com
 SUFFIX,imedp.com
 SUFFIX,imeete.com
 SUFFIX,imeete.net
-SUFFIX,imeibian.com
 SUFFIX,imeidb.com
 SUFFIX,imeihei.com
 SUFFIX,imeiju.cc
@@ -32227,6 +32228,7 @@ SUFFIX,jumei.com
 SUFFIX,jumeinet.com
 SUFFIX,jumengco.com
 SUFFIX,jumengren.com
+SUFFIX,jumengtbs.net
 SUFFIX,jumi-cdn.com
 SUFFIX,jumi.com
 SUFFIX,jumi18.com
@@ -44889,6 +44891,7 @@ SUFFIX,roosur.com
 SUFFIX,root-servers.world
 SUFFIX,root1111.com
 SUFFIX,rootcloud.com
+SUFFIX,rootdata.com
 SUFFIX,rootguide.org
 SUFFIX,rootk.com
 SUFFIX,rootop.org
@@ -45509,6 +45512,7 @@ SUFFIX,scdnl9cm.com
 SUFFIX,scdnmogt.com
 SUFFIX,scdnn4t9.com
 SUFFIX,scdno5zl.com
+SUFFIX,scdnrlm1.com
 SUFFIX,scdnrvy1.com
 SUFFIX,scdnucc5.com
 SUFFIX,scdnurea.com
@@ -46857,7 +46861,6 @@ SUFFIX,shopyy.com
 SUFFIX,shoubaodan.com
 SUFFIX,shouce.ren
 SUFFIX,shouce365.com
-SUFFIX,shouchaobao.vip
 SUFFIX,shoucheng123.com
 SUFFIX,shoucw.com
 SUFFIX,shoudayy.net
@@ -54836,7 +54839,6 @@ SUFFIX,whsdsyy.com
 SUFFIX,whsir.com
 SUFFIX,whsladz.com
 SUFFIX,whsladz.net
-SUFFIX,whsoftway.com
 SUFFIX,whsql.org
 SUFFIX,whsqsoft.com
 SUFFIX,whsrc.com
@@ -56543,6 +56545,7 @@ SUFFIX,xfzhsf.com
 SUFFIX,xfztc.com
 SUFFIX,xgamevip.com
 SUFFIX,xgantt.net
+SUFFIX,xgate.com
 SUFFIX,xgcs618.com
 SUFFIX,xgcsczyc.com
 SUFFIX,xgcsyg.com
@@ -58759,6 +58762,7 @@ SUFFIX,yangguiweihuo.com
 SUFFIX,yanghengjun.com
 SUFFIX,yanghua.com
 SUFFIX,yanghui.com
+SUFFIX,yangjiaofood.com
 SUFFIX,yangjie.li
 SUFFIX,yangjisen.com
 SUFFIX,yangkatie.com
@@ -61007,7 +61011,6 @@ SUFFIX,yundasys.com
 SUFFIX,yundianjia.com
 SUFFIX,yundianseo.com
 SUFFIX,yundiantech.com
-SUFFIX,yundns.vip
 SUFFIX,yundongfang.com
 SUFFIX,yundonghao.com
 SUFFIX,yundongit.com
@@ -62593,6 +62596,7 @@ SUFFIX,zhiweisoft.com
 SUFFIX,zhiwo.com
 SUFFIX,zhiwushuo.com
 SUFFIX,zhiwuwang.com
+SUFFIX,zhixi.com
 SUFFIX,zhixiaohuoke.com
 SUFFIX,zhixiaoren.com
 SUFFIX,zhixin-semi.com
