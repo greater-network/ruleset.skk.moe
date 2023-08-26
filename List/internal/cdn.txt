@@ -1489,6 +1489,7 @@ SUFFIX,javfree.me
 SUFFIX,javstore.net
 SUFFIX,vpdmm.cc
 SUFFIX,k2s.cc
+SUFFIX,rauno.me
 SUFFIX,1fichier.com
 SUFFIX,1fichier.info
 SUFFIX,nitro.download
