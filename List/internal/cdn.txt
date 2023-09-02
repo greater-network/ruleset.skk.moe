@@ -499,6 +499,7 @@ SUFFIX,react.dev
 SUFFIX,reactjs.org
 SUFFIX,typescriptlang.org
 SUFFIX,rollupjs.org
+SUFFIX,pnpm.io
 SUFFIX,bintray.com
 SUFFIX,buildkite.com
 SUFFIX,fury.io
@@ -826,6 +827,7 @@ SUFFIX,zi-scripts.com
 SUFFIX,cnevids.com
 SUFFIX,chatlio.com
 SUFFIX,maze.co
+SUFFIX,transcend-cdn.com
 SUFFIX,navattic.com
 SUFFIX,piano.io
 SUFFIX,tinypass.com
@@ -1211,6 +1213,8 @@ SUFFIX,commandbar.com
 SUFFIX,nbcnews.com
 SUFFIX,s-nbcnews.com
 SUFFIX,music.com
+SUFFIX,pwnedpasswords.com
+SUFFIX,mintlify.com
 SUFFIX,starbucks.com
 SUFFIX,redventures.io
 SUFFIX,the-independent.com
