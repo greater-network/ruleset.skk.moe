@@ -1334,6 +1334,7 @@ SUFFIX,clubhouseapi.com
 SUFFIX,cnx-software.com
 SUFFIX,coralproject.net
 SUFFIX,creativelab5.com
+SUFFIX,danosproject.org
 SUFFIX,digitalocean.com
 SUFFIX,filestackapi.com
 SUFFIX,framerstatic.com
