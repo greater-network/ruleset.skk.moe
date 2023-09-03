@@ -337,6 +337,7 @@ SUFFIX,music.com
 SUFFIX,naver.jp
 SUFFIX,naver.com
 SUFFIX,nitro.download
+SUFFIX,nodei.co
 SUFFIX,npmjs.cf
 SUFFIX,npmjs.com
 SUFFIX,npmjs.org
@@ -932,6 +933,7 @@ SUFFIX,snaptube.in
 SUFFIX,tdesktop.com
 SUFFIX,telegram.me
 SUFFIX,telegram.org
+SUFFIX,testling.com
 SUFFIX,tildacdn.com
 SUFFIX,tinypass.com
 SUFFIX,tribecap.co
@@ -1311,6 +1313,7 @@ SUFFIX,uptimerobot.com
 SUFFIX,usemessages.com
 SUFFIX,usercontent.dev
 SUFFIX,usercontent.one
+SUFFIX,versionbadg.es
 SUFFIX,webmproject.org
 SUFFIX,webpkgcache.com
 SUFFIX,whatbrowser.org
