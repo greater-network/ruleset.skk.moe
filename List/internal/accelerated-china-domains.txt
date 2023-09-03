@@ -90,7 +90,6 @@ SUFFIX,01rv.com
 SUFFIX,01teacher.com
 SUFFIX,01w.com
 SUFFIX,01wb.com
-SUFFIX,01xs.com
 SUFFIX,01yo.com
 SUFFIX,01youyuan.com
 SUFFIX,01yun.com
@@ -219,7 +218,6 @@ SUFFIX,029900.com
 SUFFIX,029jiuda.com
 SUFFIX,029judao.com
 SUFFIX,029k.com
-SUFFIX,029lintong.com
 SUFFIX,029shw.com
 SUFFIX,029weichen.com
 SUFFIX,029wsw.com
@@ -817,7 +815,6 @@ SUFFIX,1122.com
 SUFFIX,11222.com
 SUFFIX,112233vip.com
 SUFFIX,1122dh.com
-SUFFIX,1124.cc
 SUFFIX,1128job.com
 SUFFIX,112book.com
 SUFFIX,112seo.com
@@ -2391,7 +2388,6 @@ SUFFIX,30cn.net
 SUFFIX,30fun.com
 SUFFIX,30ka.com
 SUFFIX,30play.com
-SUFFIX,30px.com
 SUFFIX,30tqyb.com
 SUFFIX,30w.net
 SUFFIX,31.com
@@ -4306,7 +4302,6 @@ SUFFIX,52ywan.com
 SUFFIX,52yxyx.com
 SUFFIX,52z.com
 SUFFIX,52zhaopin.com
-SUFFIX,52zhizuo.com
 SUFFIX,52zixue.com
 SUFFIX,52zjkj.com
 SUFFIX,52zuji.net
@@ -5737,7 +5732,6 @@ SUFFIX,81book.com
 SUFFIX,81comdns.com
 SUFFIX,81it.com
 SUFFIX,81js.net
-SUFFIX,81jubayi.com
 SUFFIX,81kx.com
 SUFFIX,81pan.com
 SUFFIX,81tech.com
@@ -10242,7 +10236,6 @@ SUFFIX,beyoner.net
 SUFFIX,bf-z.com
 SUFFIX,bf-zhengzhou.com
 SUFFIX,bf35.com
-SUFFIX,bf92.com
 SUFFIX,bfcmovie.com
 SUFFIX,bfdfe.com
 SUFFIX,bffzb.com
@@ -10391,7 +10384,6 @@ SUFFIX,bigbenmeng.com
 SUFFIX,bigbigai.com
 SUFFIX,bigbigsun.com
 SUFFIX,bigbigwork.com
-SUFFIX,bigboxofmoney.com
 SUFFIX,bigc.at
 SUFFIX,bigcat.com
 SUFFIX,bigcloud.click
@@ -12289,7 +12281,6 @@ SUFFIX,cc-pharming.com
 SUFFIX,cc.co
 SUFFIX,cc0808.com
 SUFFIX,cc11bh.com
-SUFFIX,cc222.com
 SUFFIX,cc55k.com
 SUFFIX,cc667788cc.com
 SUFFIX,cc7m.com
@@ -17025,6 +17016,7 @@ SUFFIX,daodaoliang.com
 SUFFIX,daodaozz.com
 SUFFIX,daodian100.com
 SUFFIX,daodianfu.com
+SUFFIX,daodoc.com
 SUFFIX,daododo.com
 SUFFIX,daoduoduo.com
 SUFFIX,daofengdj.com
@@ -24844,7 +24836,6 @@ SUFFIX,hanguangbaihuo.com
 SUFFIX,hanguu.com
 SUFFIX,hangw.com
 SUFFIX,hangxinyiqi.xin
-SUFFIX,hangye114.net
 SUFFIX,hangye365.com
 SUFFIX,hangzhiqiao.com
 SUFFIX,hangzhoufcw.com
@@ -31138,7 +31129,6 @@ SUFFIX,jinliniuan.com
 SUFFIX,jinlishenghuo.com
 SUFFIX,jinliyu.cc
 SUFFIX,jinlong-jiaxiao.com
-SUFFIX,jinmancai.com
 SUFFIX,jinmao88.com
 SUFFIX,jinmaodigital.com
 SUFFIX,jinmaopartners.com
@@ -32726,7 +32716,6 @@ SUFFIX,kanshangji.com
 SUFFIX,kanshangjie.com
 SUFFIX,kanshu.com
 SUFFIX,kanshu.la
-SUFFIX,kanshu5.la
 SUFFIX,kanshu5.net
 SUFFIX,kanshu8.net
 SUFFIX,kanshuapp.com
@@ -33014,7 +33003,6 @@ SUFFIX,keydatas.com
 SUFFIX,keydot.net
 SUFFIX,keygotech.com
 SUFFIX,keyigroup.com
-SUFFIX,keyingwb.com
 SUFFIX,keyislove.com
 SUFFIX,keylol.com
 SUFFIX,keymoe.com
@@ -37734,7 +37722,6 @@ SUFFIX,midifan.org
 SUFFIX,midiyinyue.com
 SUFFIX,midlele.com
 SUFFIX,midongtech.com
-SUFFIX,midonline.net
 SUFFIX,midsummer.cc
 SUFFIX,miduiedu.com
 SUFFIX,midukanshu.com
@@ -38472,7 +38459,6 @@ SUFFIX,moshou.com
 SUFFIX,moshua.net
 SUFFIX,moshuanghua.com
 SUFFIX,moshuqiqiu.com
-SUFFIX,mosifel.com
 SUFFIX,mosoga.net
 SUFFIX,mossle.com
 SUFFIX,mostch.com
@@ -40921,6 +40907,7 @@ SUFFIX,ourcdns.com
 SUFFIX,ourcm.net
 SUFFIX,ourcoders.com
 SUFFIX,ourdian.com
+SUFFIX,ourdlbs.com
 SUFFIX,ourdomains.com
 SUFFIX,ourdvs.com
 SUFFIX,ourdvs.info
@@ -41461,7 +41448,6 @@ SUFFIX,peilian.com
 SUFFIX,peilian365.com
 SUFFIX,peilili.com
 SUFFIX,peiluyou.com
-SUFFIX,peiqiang.net
 SUFFIX,peise.net
 SUFFIX,peixun.net
 SUFFIX,peixun5.com
@@ -43368,7 +43354,6 @@ SUFFIX,qj26.com
 SUFFIX,qjbian.com
 SUFFIX,qjcz.com
 SUFFIX,qjfy.com
-SUFFIX,qjherb.com
 SUFFIX,qjhlw.com
 SUFFIX,qjhm.com
 SUFFIX,qjimage.com
@@ -47794,7 +47779,6 @@ SUFFIX,snzhz.com
 SUFFIX,so-love.com
 SUFFIX,so-naver.com
 SUFFIX,so.com
-SUFFIX,so147.com
 SUFFIX,so666gslb.com
 SUFFIX,so8848.com
 SUFFIX,soarna.com
@@ -48475,7 +48459,6 @@ SUFFIX,stmybj.com
 SUFFIX,stnn.cc
 SUFFIX,stnts.com
 SUFFIX,stnye.cc
-SUFFIX,stock8m.com
 SUFFIX,stockhn.com
 SUFFIX,stockstar.com
 SUFFIX,stockwei.com
@@ -48492,7 +48475,6 @@ SUFFIX,stoneread.com
 SUFFIX,stonescloud.com
 SUFFIX,stoneu.com
 SUFFIX,stonexp.com
-SUFFIX,stoneyplanet.com
 SUFFIX,stor-age.com
 SUFFIX,storage-asset.msi.com
 SUFFIX,storagesemicon.com
@@ -49063,7 +49045,6 @@ SUFFIX,sybasebbs.com
 SUFFIX,syberos.com
 SUFFIX,sybj.com
 SUFFIX,syblh.com
-SUFFIX,sybx.net
 SUFFIX,sycaijing.com
 SUFFIX,sycdtz.com
 SUFFIX,sycxzx.net
@@ -53464,6 +53445,7 @@ SUFFIX,wanche100.com
 SUFFIX,wancheng168.com
 SUFFIX,wanchengwenku.com
 SUFFIX,wanchenzg.com
+SUFFIX,wanchuweilai.com
 SUFFIX,wand6.com
 SUFFIX,wanda-cti.com
 SUFFIX,wanda-gh.com
@@ -54814,7 +54796,6 @@ SUFFIX,wimiar.com
 SUFFIX,win-haoxiang-win.com
 SUFFIX,win-ke.com
 SUFFIX,win-man.com
-SUFFIX,win.hn
 SUFFIX,win1032.com
 SUFFIX,win1064.com
 SUFFIX,win10cjb.com
@@ -58740,7 +58721,6 @@ SUFFIX,yasking.org
 SUFFIX,yasn.com
 SUFFIX,yasuotu.com
 SUFFIX,yataici.com
-SUFFIX,yataishoes.com
 SUFFIX,yatiku.com
 SUFFIX,yatiwang.com
 SUFFIX,yatsenglobal.com
@@ -59920,6 +59900,7 @@ SUFFIX,yoagoa.com
 SUFFIX,yobangbang.com
 SUFFIX,yobbom.com
 SUFFIX,yobo360.com
+SUFFIX,yobolove.com
 SUFFIX,yocan.net
 SUFFIX,yocyxc.com
 SUFFIX,yodak.net
@@ -62552,7 +62533,6 @@ SUFFIX,zhongjixinyuan.com
 SUFFIX,zhongkao.com
 SUFFIX,zhongkaohelp.com
 SUFFIX,zhongkerd.com
-SUFFIX,zhongkeshuyuan.com
 SUFFIX,zhongkezhuyan.com
 SUFFIX,zhongkongbancn.com
 SUFFIX,zhongkongdaikuan.com
