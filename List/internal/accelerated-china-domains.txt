@@ -17397,7 +17397,6 @@ SUFFIX,dedeeims.com
 SUFFIX,dedejs.com
 SUFFIX,dedemao.com
 SUFFIX,dedesos.com
-SUFFIX,dedeyun.com
 SUFFIX,dedezhuji.com
 SUFFIX,deemos.com
 SUFFIX,deepbluenetwork.com
@@ -18040,6 +18039,7 @@ SUFFIX,dituwuyou.com
 SUFFIX,diugai.com
 SUFFIX,div.io
 SUFFIX,divcss5.com
+SUFFIX,divepai.com
 SUFFIX,divetgallery.com
 SUFFIX,diving-fish.com
 SUFFIX,diwork.com
@@ -50369,7 +50369,6 @@ SUFFIX,tianyinzaixian.com
 SUFFIX,tianyitop.com
 SUFFIX,tianyue100.com
 SUFFIX,tianyuimg.com
-SUFFIX,tianzeba.com
 SUFFIX,tianzhao.net
 SUFFIX,tianzhuo.com
 SUFFIX,tianzhuobj.com

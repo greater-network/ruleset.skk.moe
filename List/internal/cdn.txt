@@ -154,6 +154,7 @@ SUFFIX,hulu.tv
 SUFFIX,hulu.us
 SUFFIX,hulu.com
 SUFFIX,icon.horse
+SUFFIX,iina.io
 SUFFIX,ipfs.io
 SUFFIX,ipfs.yt
 SUFFIX,ipfs.ink
@@ -623,6 +624,7 @@ SUFFIX,botsrv2.com
 SUFFIX,builder.io
 SUFFIX,bytepan.com
 SUFFIX,cdn1122.com
+SUFFIX,cdn2020.com
 SUFFIX,cdnpure.com
 SUFFIX,cdntrex.com
 SUFFIX,channel.io
