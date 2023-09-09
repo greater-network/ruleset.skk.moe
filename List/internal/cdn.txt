@@ -172,6 +172,7 @@ SUFFIX,line.me
 SUFFIX,litv.tv
 SUFFIX,live.com
 SUFFIX,loli.net
+SUFFIX,loli.best
 SUFFIX,loom.com
 SUFFIX,maze.co
 SUFFIX,mega.io
@@ -384,6 +385,7 @@ SUFFIX,tubby.cloud
 SUFFIX,twimg.co
 SUFFIX,twimg.com
 SUFFIX,unpkg.com
+SUFFIX,upset.dev
 SUFFIX,v-cdn.net
 SUFFIX,v2ray.com
 SUFFIX,vimeo.com
@@ -518,6 +520,7 @@ SUFFIX,pengtu.cc
 SUFFIX,phncdn.com
 SUFFIX,pinata.cloud
 SUFFIX,pinimg.com
+SUFFIX,piximg.net
 SUFFIX,pixura.io
 SUFFIX,poecdn.net
 SUFFIX,prisma.sh
@@ -611,6 +614,7 @@ SUFFIX,biliapi.net
 SUFFIX,binance.com
 SUFFIX,bintray.com
 SUFFIX,bizzabo.com
+SUFFIX,blobcdn.com
 SUFFIX,blogger.com
 SUFFIX,blogimg.jp
 SUFFIX,blogsys.jp
@@ -618,6 +622,7 @@ SUFFIX,boltdns.net
 SUFFIX,botsrv2.com
 SUFFIX,builder.io
 SUFFIX,bytepan.com
+SUFFIX,cdn1122.com
 SUFFIX,cdnpure.com
 SUFFIX,cdntrex.com
 SUFFIX,channel.io
@@ -836,6 +841,7 @@ SUFFIX,euronews.com
 SUFFIX,evergent.com
 SUFFIX,facebook.com
 SUFFIX,facebook.net
+SUFFIX,favicone.com
 SUFFIX,filebase.com
 SUFFIX,firebase.com
 SUFFIX,flaticon.com
@@ -1471,6 +1477,7 @@ SUFFIX,howtogeekimages.com
 SUFFIX,hubspotfeedback.com
 SUFFIX,invisionapp-cdn.com
 SUFFIX,makeuseofimages.com
+SUFFIX,motherlessmedia.com
 SUFFIX,openseauserdata.com
 SUFFIX,pixelexperience.org
 SUFFIX,polymer-project.org
