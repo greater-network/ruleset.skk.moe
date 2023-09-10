@@ -409,6 +409,7 @@ SUFFIX,ytimg.com
 SUFFIX,9cache.com
 SUFFIX,addons.business
 SUFFIX,adtidy.org
+SUFFIX,akidoo.top
 SUFFIX,amazon.com
 SUFFIX,amazon.co.jp
 SUFFIX,ameblo.jp
@@ -896,6 +897,7 @@ SUFFIX,medallia.com
 SUFFIX,mikuclub.cn
 SUFFIX,mikuclub.xyz
 SUFFIX,mintlify.com
+SUFFIX,mobilius.top
 SUFFIX,modrinth.com
 SUFFIX,mokeedev.com
 SUFFIX,mypinata.cloud
@@ -1375,6 +1377,7 @@ SUFFIX,spotifycodes.com
 SUFFIX,staticflickr.com
 SUFFIX,steampowered.com
 SUFFIX,steamvideo-a.akamaihd.net
+SUFFIX,streamhentai.org
 SUFFIX,ubistatic2-a.akamaihd.net
 SUFFIX,unrealengine.com
 SUFFIX,visualstudio.com
@@ -1409,6 +1412,7 @@ SUFFIX,freshworksapi.com
 SUFFIX,gitlab-static.net
 SUFFIX,grumpybumpers.com
 SUFFIX,hbogoprod-vod.akamaized.net
+SUFFIX,highwinds-cdn.com
 SUFFIX,imagedelivery.net
 SUFFIX,linodeobjects.com
 SUFFIX,lltaohuaxiang.com
@@ -1474,6 +1478,7 @@ SUFFIX,typescriptlang.org
 SUFFIX,cleverecommerce.com
 SUFFIX,disneystreaming.com
 SUFFIX,firebasestorage.googleapis.com
+SUFFIX,freeanimehentai.net
 SUFFIX,freeshippingbar.herokuapp.com
 SUFFIX,howtogeekimages.com
 SUFFIX,hubspotfeedback.com
