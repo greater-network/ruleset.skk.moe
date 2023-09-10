@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-09-10T17:48:32.899Z
-# Size: 163172
+# Last Updated: 2023-09-10T17:55:59.246Z
+# Size: 163168
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11366,7 +11366,6 @@ ad.360in.com
 +.5kmp7.top
 +.5mcwl.pw
 +.to.5mins.ai
-+.5mno3.com
 +.trk.5news.name
 +.5o0ob.top
 +.5r562.cn
@@ -59119,7 +59118,6 @@ geolocation.onetrust.com
 +.experience.pagesdor.be
 +.pagoda56.com
 +.pagusafb.com
-+.paibopse.com
 +.paicepte.xyz
 +.paidalts.com
 +.paikaufy.com
@@ -118311,7 +118309,6 @@ vmi503011.contaboserver.net
 +.exchange4free.com
 +.excitableclub.pro
 +.exe1fil3ready.com
-+.exemptrequest.com
 +.app.exercisetimer.net
 +.exhausted-use.pro
 +.exileinstinct.com
@@ -154497,7 +154494,6 @@ intelserviceupdate.com
 +.info.ingenuitycloudservices.com
 +.ingresp--bnccrronlinee.repl.co
 +.inicio--ficohsaingresa.repl.co
-+.injuredripplegentleman.com
 +.inseparablelunchwasted.com
 +.inspirecarriermagnetic.com
 +.instalmentshowernovice.com
