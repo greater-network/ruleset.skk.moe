@@ -1002,6 +1002,7 @@ SUFFIX,crossbell.io
 SUFFIX,ctfassets.net
 SUFFIX,disco-api.com
 SUFFIX,disquscdn.com
+SUFFIX,dnsfilter.com
 SUFFIX,doppiocdn.com
 SUFFIX,embedgram.com
 SUFFIX,encoretvb.com
