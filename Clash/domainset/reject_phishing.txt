@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-10T17:38:43.176Z
-# Size: 698
+# Last Updated: 2023-09-11T04:04:02.734Z
+# Size: 688
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -50,7 +50,6 @@
 +.66422.top
 +.67duo.cn
 +.77271.top
-+.99inn.com.cn
 +.brizy.site
 +.canva.site
 +.ccxx2.top
@@ -69,7 +68,6 @@
 +.es163.com.cn
 +.ffysp.cn
 +.fj005.top
-+.fm881.com.cn
 +.goo08.top
 +.goorm.site
 +.gscdc.cn
@@ -214,7 +212,6 @@
 +.ldzksn.top
 +.lfzxwl.cn
 +.ljhlna.top
-+.loaspq.site
 +.loxuhz.top
 +.lsbvfy.top
 +.ltvfag.top
@@ -262,7 +259,6 @@
 +.qfylpo.top
 +.qhdseh.top
 +.qhncru.top
-+.qjklhc.top
 +.qxcmrv.top
 +.qysysf.cn
 +.rcgnnc.top
@@ -394,7 +390,6 @@
 +.audacad.top
 +.aygzs88.top
 +.ayzxyzs.cn
-+.beoeozp.cn
 +.bi3i9g7.top
 +.bsyqhds.cn
 +.cggngfn.cn
@@ -447,7 +442,6 @@
 +.mrbonus.com
 +.mrslove.com
 +.mtxsxpy.cn
-+.mupmclg.cn
 +.mynetav.com
 +.mzphone.cn
 +.negocio.site
@@ -467,7 +461,6 @@
 +.rbkpmrz.cn
 +.rgduhhc.cn
 +.rgfqcly.cn
-+.roombox.online
 +.rvowjcy.cn
 +.rxwcgpf.cn
 +.sc8iq8w.top
@@ -484,7 +477,6 @@
 +.uzvqfyz.cn
 +.vaultzz.shop
 +.vhppwze.cn
-+.voynpzq.cn
 +.vqimmrj.cn
 +.wauofus.cn
 +.wsaeygo.cn
@@ -566,7 +558,6 @@
 +.chaweixin.top
 +.d7agencia.site
 +.dgwanlizy.cn
-+.duetmicro.com.cn
 +.dyzqyg2tu.cn
 +.echo04wus.club
 +.echo4frpp.club
@@ -584,7 +575,7 @@
 +.shangtuke.cn
 +.smartqsys.com.cn
 +.temp-site.link
-+.vip-xyza7.cfd
++.temporary.link
 +.windygirl.com.cn
 +.xiuluo888.top
 +.yunclouds.top
@@ -646,7 +637,6 @@
 +.gbylouvhytfbj.top
 +.jiudianchaxun.top
 +.liferetarindh.online
-+.luckyspinjoin.click
 +.sejaexclusivo.online
 +.toshibanetcam.com
 +.zhengchengshi.top

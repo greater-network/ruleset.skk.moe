@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject
-# Last Updated: 2023-09-10T17:38:41.930Z
-# Size: 15
+# Last Updated: 2023-09-11T04:04:02.261Z
+# Size: 16
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,16 +9,17 @@
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,my.parallels.com
 DOMAIN-SUFFIX,myparallels.com
+DOMAIN-SUFFIX,www.parallelskorea.com
+DOMAIN-SUFFIX,parallelskorea.com
+DOMAIN-SUFFIX,parallels.ru
+DOMAIN-SUFFIX,parallels.pt
+DOMAIN-SUFFIX,parallels.nl
+DOMAIN-SUFFIX,parallels.fr
+DOMAIN-SUFFIX,parallels.es
+DOMAIN-SUFFIX,parallels.de
 DOMAIN-SUFFIX,parallels.cn
+DOMAIN-SUFFIX,parallels.com
+DOMAIN-SUFFIX,parallels.com.cdn.cloudflare.net
 DOMAIN-KEYWORD,bahoom
-DOMAIN,parallels.com
-DOMAIN,reportus.parallels.com
-DOMAIN,www.parallels.com
-DOMAIN,update.parallels.com
-DOMAIN,update.parallels.com.cdn.cloudflare.net
 DOMAIN,daisydiskapp.com
-DOMAIN,desktop.parallels.com
-DOMAIN,desktop.parallels.com.cdn.cloudflare.net
-DOMAIN,download.parallels.com
-DOMAIN,download.parallels.com.cdn.cloudflare.net
 ################# END ###################
