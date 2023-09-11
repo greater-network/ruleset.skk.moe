@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-11T04:04:02.734Z
-# Size: 688
+# Last Updated: 2023-09-11T12:30:40.566Z
+# Size: 672
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -29,7 +29,6 @@
 +.nkdo.top
 +.oubp.xyz
 +.qohh.top
-+.qybz.com.cn
 +.rcaa.top
 +.rprk.com.cn
 +.uaa7.cn
@@ -65,7 +64,6 @@
 +.dumb1.com
 +.dynip.online
 +.e0728.cn
-+.es163.com.cn
 +.ffysp.cn
 +.fj005.top
 +.goo08.top
@@ -73,7 +71,6 @@
 +.gscdc.cn
 +.hasfm.cn
 +.hmyjc.cn
-+.j5769.cn
 +.j6021.cn
 +.kbxxp.cn
 +.lczww.cn
@@ -102,7 +99,6 @@
 +.zztsj.cn
 +.3tmir2.cn
 +.513586.top
-+.51sudu.com.cn
 +.advcsy.top
 +.agment.top
 +.agriry.top
@@ -158,13 +154,11 @@
 +.geeufi.top
 +.gfzdcv.top
 +.ghgxof.top
-+.gjhsxl.top
 +.gm5678.top
 +.gsvnyd.top
 +.gumsty.top
 +.hamult.top
 +.hejjnz.top
-+.hewpet.top
 +.hfyshq.cn
 +.hicayt.top
 +.hkehco.top
@@ -182,7 +176,6 @@
 +.indhlv.top
 +.iqntug.top
 +.itemdb.com
-+.itjvfx.cn
 +.itsaol.com
 +.jahihd.top
 +.jalrmm.top
@@ -204,10 +197,8 @@
 +.kvzcny.top
 +.kytuvh.top
 +.kyucyb.top
-+.kziwyv.cn
 +.lafhaa.top
 +.laitol.top
-+.lajipo.cn
 +.ldoepj.top
 +.ldzksn.top
 +.lfzxwl.cn
@@ -279,7 +270,6 @@
 +.souwjw.top
 +.suzvbc.top
 +.sx1999.cn
-+.sxdeih.top
 +.sxrqzb.top
 +.sxwowh.top
 +.symeme.top
@@ -309,7 +299,6 @@
 +.vnchol.top
 +.vrsloo.top
 +.vrzlpz.top
-+.vscgsa.top
 +.vuvzqp.top
 +.vwkbxq.top
 +.vxaabt.top
@@ -330,7 +319,6 @@
 +.xtdvmi.top
 +.xxyihe.com.cn
 +.xynthp.top
-+.xzhxmy.cn
 +.yigewg.top
 +.yjklhp.top
 +.yjxjma.top
@@ -461,6 +449,7 @@
 +.rbkpmrz.cn
 +.rgduhhc.cn
 +.rgfqcly.cn
++.roombox.online
 +.rvowjcy.cn
 +.rxwcgpf.cn
 +.sc8iq8w.top
@@ -492,7 +481,6 @@
 +.zwfeqfx.cn
 +.0554city.cn
 +.10lm03bn.top
-+.ahuseter.com.cn
 +.almostmy.com
 +.aygzs000.top
 +.aygzs007.top
@@ -511,14 +499,12 @@
 +.elecycle.com.cn
 +.feijiang.cloud
 +.freeddns.com
-+.fsyifang.com.cn
 +.goldford.com.cn
 +.grtworld.com.cn
 +.hai-song.com.cn
 +.imagesns.club
 +.jin-qiao.com.cn
 +.justdied.com
-+.kflvsklb.top
 +.law04wuk.club
 +.loophole.site
 +.misecure.com
@@ -634,7 +620,6 @@
 +.amazone-co-jp.co
 +.binguanchaxun.top
 +.dingweichaxun.top
-+.gbylouvhytfbj.top
 +.jiudianchaxun.top
 +.liferetarindh.online
 +.sejaexclusivo.online
@@ -692,7 +677,6 @@
 +.agsgw1gq61g16g1asd.cyou
 +.amazon-verify-link.top
 +.olnbvcg--exzytbuui.top
-+.paperballaliserver.top
 +.gbyfdwjdoexkbdjehdid.top
 +.informed-delivery787.shop
 +.mengunjungi-website15.cfd
