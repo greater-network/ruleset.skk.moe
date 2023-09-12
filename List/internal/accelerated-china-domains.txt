@@ -4248,7 +4248,6 @@ SUFFIX,52shuxue.com
 SUFFIX,52solution.com
 SUFFIX,52souji.net
 SUFFIX,52souluo.com
-SUFFIX,52soutu.com
 SUFFIX,52survey.com
 SUFFIX,52svip.cc
 SUFFIX,52svn.com
@@ -11649,6 +11648,7 @@ SUFFIX,bx24k.com
 SUFFIX,bx58.com
 SUFFIX,bxb2b.com
 SUFFIX,bxcc.vip
+SUFFIX,bxcqd.com
 SUFFIX,bxdaka.com
 SUFFIX,bxdlkj.com
 SUFFIX,bxemln.com
@@ -29502,7 +29502,6 @@ SUFFIX,iptrm.com
 SUFFIX,ipuu.net
 SUFFIX,ipv4.host
 SUFFIX,ipv6dns.com
-SUFFIX,ipyker.com
 SUFFIX,ipyy.com
 SUFFIX,iq123.com
 SUFFIX,iqalliance.org
@@ -32574,6 +32573,7 @@ SUFFIX,kaiygame.com
 SUFFIX,kaiyuan.me
 SUFFIX,kaiyuangroup.cc
 SUFFIX,kaiyuanhotels.com
+SUFFIX,kaiyuanweilaikeji.com
 SUFFIX,kaiyun.com
 SUFFIX,kajicam.com
 SUFFIX,kaka.com
@@ -36928,7 +36928,6 @@ SUFFIX,markjour.com
 SUFFIX,markmall.com
 SUFFIX,markmiao.com
 SUFFIX,marknum.com
-SUFFIX,markonreview.com
 SUFFIX,markorchem.com
 SUFFIX,marksmile.com
 SUFFIX,marmot-cloud.com
@@ -41086,7 +41085,6 @@ SUFFIX,pandateacher.com
 SUFFIX,pandatv.com
 SUFFIX,pandoe.com
 SUFFIX,pandolia.net
-SUFFIX,pandownload.com
 SUFFIX,panduoduo.net
 SUFFIX,panduoduo.online
 SUFFIX,panewslab.com
@@ -44880,6 +44878,7 @@ SUFFIX,ruixueys.com
 SUFFIX,ruixunidc.com
 SUFFIX,ruixunidc.net
 SUFFIX,ruiyang-ra.com
+SUFFIX,ruiyuanobserve.com
 SUFFIX,ruiyunit.com
 SUFFIX,ruizong-gz.com
 SUFFIX,rujiazg.com
@@ -51146,7 +51145,6 @@ SUFFIX,trip8080.com
 SUFFIX,tripbaba.com
 SUFFIX,tripbe.com
 SUFFIX,triphr.com
-SUFFIX,triple7photography.com
 SUFFIX,triplexservice.com
 SUFFIX,tripodeck.com
 SUFFIX,tripsanxia.net
@@ -54691,7 +54689,6 @@ SUFFIX,whzyblh.com
 SUFFIX,whzydz.com
 SUFFIX,whzyht.com
 SUFFIX,wi799.com
-SUFFIX,wiblog.net
 SUFFIX,wicep.com
 SUFFIX,wicp.net
 SUFFIX,wicp.vip
@@ -59914,6 +59911,7 @@ SUFFIX,yongshikj.com
 SUFFIX,yongsy.com
 SUFFIX,yongtu.net
 SUFFIX,yongxinby.com
+SUFFIX,yongxinji.com
 SUFFIX,yongxintex.com
 SUFFIX,yongzhentang.com
 SUFFIX,yonho.com
@@ -61500,6 +61498,7 @@ SUFFIX,zcs.cc
 SUFFIX,zcsbbs.com
 SUFFIX,zcskj.com
 SUFFIX,zctl.net
+SUFFIX,zctpt.com
 SUFFIX,zctx.com
 SUFFIX,zcwlsc.com
 SUFFIX,zcwxjx.com
@@ -61523,6 +61522,7 @@ SUFFIX,zddream.com
 SUFFIX,zdexe.com
 SUFFIX,zdface.com
 SUFFIX,zdfx.net
+SUFFIX,zdgzc.com
 SUFFIX,zdh168.com
 SUFFIX,zdhaitao.com
 SUFFIX,zdhaitao.net

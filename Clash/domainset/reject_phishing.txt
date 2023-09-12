@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-11T12:30:40.566Z
-# Size: 672
+# Last Updated: 2023-09-12T12:29:46.454Z
+# Size: 649
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -17,7 +17,6 @@
 +.90rr.top
 +.ddns.mobi
 +.fpaa.top
-+.hlpn.com.cn
 +.hz78.cn
 +.iygi.cn
 +.jfaa.top
@@ -119,7 +118,6 @@
 +.bsutgy.top
 +.butcgf.top
 +.bxtvom.top
-+.bzdntv.top
 +.bzemap.top
 +.chawap.top
 +.cq2023.top
@@ -196,7 +194,6 @@
 +.kpages.online
 +.kvzcny.top
 +.kytuvh.top
-+.kyucyb.top
 +.lafhaa.top
 +.laitol.top
 +.ldoepj.top
@@ -350,11 +347,9 @@
 +.50gb174.xyz
 +.50gb178.xyz
 +.50gb222.xyz
-+.50gb264.xyz
 +.50gb300.xyz
 +.50gb349.xyz
 +.50gb397.xyz
-+.50gb442.xyz
 +.50gb540.xyz
 +.50gb584.xyz
 +.50gb680.xyz
@@ -384,15 +379,12 @@
 +.chafalv.top
 +.chajilu.top
 +.chamima.top
-+.chem-xq.cn
 +.chydtin.cn
 +.cnkacha.com.cn
-+.cpqgdae.cn
 +.cqy8176.top
 +.cuuthay.click
 +.cwfbgrv.cn
 +.dqlwubq.cn
-+.dqwtcne.cn
 +.drjckqn.cn
 +.ds23eew.top
 +.dwisysw.cn
@@ -412,14 +404,12 @@
 +.ibicfdk.cn
 +.igqeylg.cn
 +.iiokuim.cn
-+.ineubpk.cn
 +.instawp.xyz
 +.iuairgc.cn
 +.jiasuba.top
 +.jqglpky.cn
 +.jsgj123.xyz
 +.juvrvxe.cn
-+.kcomyfu.cn
 +.kijjxhv.cn
 +.kiswncn.cn
 +.kjfzlne.cn
@@ -429,7 +419,6 @@
 +.mrbasic.com
 +.mrbonus.com
 +.mrslove.com
-+.mtxsxpy.cn
 +.mynetav.com
 +.mzphone.cn
 +.negocio.site
@@ -449,7 +438,6 @@
 +.rbkpmrz.cn
 +.rgduhhc.cn
 +.rgfqcly.cn
-+.roombox.online
 +.rvowjcy.cn
 +.rxwcgpf.cn
 +.sc8iq8w.top
@@ -467,7 +455,6 @@
 +.vaultzz.shop
 +.vhppwze.cn
 +.vqimmrj.cn
-+.wauofus.cn
 +.wsaeygo.cn
 +.wsoqwa9.top
 +.xcpfjhf.cn
@@ -495,7 +482,6 @@
 +.chataren.top
 +.chaweizi.top
 +.dacai578.top
-+.dlzhjcyx.cn
 +.elecycle.com.cn
 +.feijiang.cloud
 +.freeddns.com
@@ -509,7 +495,6 @@
 +.loophole.site
 +.misecure.com
 +.mitanren.top
-+.mkeiicka.fun
 +.ourhobby.com
 +.proxydns.com
 +.qqchaxun.top
@@ -531,19 +516,16 @@
 +.answer075.xyz
 +.answer092.xyz
 +.appdomain.cloud
-+.bakoukuse.site
 +.bjlangjie.com.cn
 +.caihongpp.cn
 +.candykiss.com.cn
 +.chachepai.top
-+.chachugui.top
 +.chadengji.top
 +.chahunshi.top
 +.chajiashi.top
 +.chashouji.top
 +.chaweixin.top
 +.d7agencia.site
-+.dgwanlizy.cn
 +.dyzqyg2tu.cn
 +.echo04wus.club
 +.echo4frpp.club
@@ -568,7 +550,6 @@
 +.9qo4mc7uol.shop
 +.agchosting.link
 +.appleseeds.com.cn
-+.chabinguan.top
 +.chadingwei.top
 +.chakaifang.top
 +.chalaogong.top
@@ -584,7 +565,6 @@
 +.libraverse.com.cn
 +.lovetennis.com.cn
 +.rising2000.com.cn
-+.serveusers.com
 +.tcooqh3aom.buzz
 +.tmi1ljv09s.buzz
 +.tourongjie.com.cn
@@ -607,7 +587,6 @@
 +.youdontcare.com
 +.amazon-co-jp.tv
 +.amazon-co-ne.top
-+.amazon-it-if.top
 +.binguanxinxi.top
 +.chuantianxia.cc
 +.chuguichaxun.top
@@ -628,7 +607,6 @@
 +.econtablesegui.online
 +.gllksnbklekebe.shop
 +.liaotianchaxun.top
-+.logisticsdrift.click
 +.amazon-au-prime.com
 +.amazon-shopping.cc
 +.arakuteaan-bank.cc
@@ -648,7 +626,6 @@
 +.6bfuifg8pdskuqu2.shop
 +.6isp3lzsxsv3mkh2.shop
 +.7lwfuij00dxjbm6x.shop
-+.99677gyw2i2sj012.shop
 +.ap1-ib-pers-onal.top
 +.bhouhje2qwhhjyz8.shop
 +.d8icixm22jee8mh8.shop
