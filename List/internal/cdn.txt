@@ -154,6 +154,7 @@ SUFFIX,hulu.tv
 SUFFIX,hulu.us
 SUFFIX,hulu.com
 SUFFIX,icon.horse
+SUFFIX,ietf.org
 SUFFIX,iina.io
 SUFFIX,ipfs.io
 SUFFIX,ipfs.yt
@@ -188,6 +189,7 @@ SUFFIX,nimg.jp
 SUFFIX,nowe.com
 SUFFIX,nwjs.io
 SUFFIX,okex.com
+SUFFIX,osdn.net
 SUFFIX,picb.cc
 SUFFIX,pika.dev
 SUFFIX,pimg.tw
@@ -299,6 +301,7 @@ SUFFIX,giphy.com
 SUFFIX,gmail.com
 SUFFIX,godoc.org
 SUFFIX,goorm.io
+SUFFIX,gopkg.in
 SUFFIX,gopro.com
 SUFFIX,graph.org
 SUFFIX,greyh.at
@@ -428,6 +431,7 @@ SUFFIX,bttimg.com
 SUFFIX,buffer.com
 SUFFIX,bundle.run
 SUFFIX,catbox.moe
+SUFFIX,change.org
 SUFFIX,chrome.com
 SUFFIX,circle.so
 SUFFIX,clutch.co
@@ -475,6 +479,7 @@ SUFFIX,httpie.io
 SUFFIX,huluim.com
 SUFFIX,ibruce.info
 SUFFIX,icons8.com
+SUFFIX,idgesg.net
 SUFFIX,ifixit.com
 SUFFIX,iframe.ly
 SUFFIX,imgbox.com
@@ -811,6 +816,7 @@ SUFFIX,bitfinex.com
 SUFFIX,bitstamp.net
 SUFFIX,blogblog.com
 SUFFIX,booklive.jp
+SUFFIX,bytedapm.com
 SUFFIX,c4assets.com
 SUFFIX,calendly.com
 SUFFIX,capitalg.com
@@ -1175,6 +1181,7 @@ SUFFIX,ipregistry.co
 SUFFIX,istatmenus.app
 SUFFIX,jwplatform.com
 SUFFIX,kinematiks.com
+SUFFIX,ktachibana.party
 SUFFIX,libravatar.org
 SUFFIX,mayoclinic.org
 SUFFIX,mycommerce.akamaized.net
@@ -1313,6 +1320,7 @@ SUFFIX,spotify-com.akamaized.net
 SUFFIX,spotifyjobs.com
 SUFFIX,squarespace.com
 SUFFIX,staticblitz.com
+SUFFIX,staticworld.net
 SUFFIX,steamstatic.com
 SUFFIX,stefanjudis.com
 SUFFIX,swiftypecdn.com

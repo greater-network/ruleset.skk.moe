@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-09-13T02:48:06.179Z
-# Size: 162441
+# Last Updated: 2023-09-13T06:08:35.750Z
+# Size: 162466
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -41,7 +41,7 @@
 #  - https://curbengh.github.io/phishing-filter/phishing-filter-agh.txt
 #  - https://curbengh.github.io/pup-filter/pup-filter-agh.txt
 #  - https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
-#  - https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt
+#  - https://perflyst.github.io/PiHoleBlocklist/SmartTV-AGH.txt
 #  - https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
 #  - https://paulgb.github.io/BarbBlock/blacklists/ublock-origin.txt
 #  - https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt
@@ -21126,6 +21126,7 @@ bdcdncmn-gd.inter.71edge.com
 +.adgrid.io
 +.www.adgtrk.com
 +.adgwtu.icu
++.adhash.com
 +.adhese.be
 +.adhese.com
 +.adhese.net
@@ -30221,6 +30222,7 @@ upload-na0.qiniup.com
 +.rddsjx.xyz
 +.rddywd.com
 +.rdjnjz.xyz
++.rdpcom.com
 +.rdrclk.com
 +.rdroot.com
 +.rdrsec.com
@@ -37827,6 +37829,7 @@ api.cortana.ai
 +.crepman.gov.mz
 +.cresnew.com
 +.stats.crewebo.de
++.crnhbkd.com
 +.counter.cropvid.com
 +.cross-a.net
 +.info.crosser.io
@@ -40990,6 +40993,7 @@ ad.jamster.co.uk
 +.jcyunk2.com
 +.koyamatou-co.popn.jddigis.com.cn
 +.jdnlynb.cn
++.jdwhlqb.com
 +.logging.je-apps.com
 +.1.jeasyui.net
 +.jeckear.com
@@ -43109,6 +43113,7 @@ ads.ninemsn.com.au
 +.noearon.click
 +.noeyeon.com
 +.noeyeon.click
++.nojhhsg.com
 uvu.nojmlxq.cn
 +.nongjih.cn
 +.nonotro.name
@@ -43207,6 +43212,7 @@ uvu.nojmlxq.cn
 +.nyaiopd.web.app
 +.nyaiopd.firebaseapp.com
 +.www.nyc14ny.com
++.nyhrgss.com
 +.tatehj.nylaarp.com
 +.metrics.nylaarp.com
 +.smetrics.nylaarp.com
@@ -46991,6 +46997,7 @@ adshare.toutiao.com
 +.info.ul-logi.jp
 +.ulcknow.biz
 +.ulclick.ru
++.ulesxbo.com
 +.sg.log.ulivetv.net
 +.tracker.ulivetv.net
 +.trackernew.ulivetv.net
@@ -48486,6 +48493,7 @@ statics.woozooo.com
 +.rakcten-card.xjeoiyl.cn
 +.xjfbhxp.com
 +.xkmwxwy.cn
++.xlfrhhp.com
 +.join.xlgirls.com
 +.xlhnkpw.cn
 +.xliirdr.com
@@ -48812,6 +48820,7 @@ api.youngle.tech
 +.zfmxscs.com
 +.zgfdczj.mobi
 +.momeyklt.zgyupin.com
++.zhedvge.com
 +.zherimo.ru
 +.go-koyamaton-co.zhshhwq.cn
 +.zgsdk.zhugeio.com
@@ -53044,6 +53053,7 @@ api-luckycoinsdk.doglobal.net
 +.eglogics.website
 +.egloochy.com
 +.egnlaigw.fun
++.egoaxdyp.com
 +.egouages.site
 +.egpdbp6e.de
 +.egreephu.com
@@ -55707,6 +55717,7 @@ ssp.indexmob.com
 +.jeehathu.com
 +.jeejujou.net
 +.jeekomih.com
++.jeerouse.xyz
 +.jehobsee.com
 +.jekson44.ru
 +.events.jeld-wen.ca
@@ -58340,6 +58351,7 @@ wss.nablabee.com
 +.join.newtrina.com
 +.newzilla.name
 +.go.nexcelom.com
++.nexdunaw.xyz
 +.nextaone.com
 +.nextdark.pro
 +.tracking.nextdoor.com
@@ -78855,6 +78867,7 @@ plugin.2easydroid.com
 +.8964c6de00.com
 +.89968199c6.com
 +.779deece7d.899aa6e01c.com
++.899e2894ec.com
 +.8a00fb3fc1.com
 +.8a6549cded.com
 +.8aaee039a0.com
@@ -79776,6 +79789,7 @@ plugin.2easydroid.com
 +.anmfweogja.com
 +.track.annakovach.com
 +.annlebaron.wixsite.com
++.anonymised.io
 +.anonymousf.info
 +.anonyscrip.com
 +.anpjcoapgd.com
@@ -79996,6 +80010,7 @@ plugin.2easydroid.com
 +.vtsebd.atomicgolf.jp
 +.atomiclink.com.br
 +.atoplayads.com
++.atopyawned.uno
 +.atpanchama.com
 +.atraichuor.com
 +.atre-frer6.com
@@ -84350,6 +84365,7 @@ grs.dbankcloud.asia
 +.go.goworkship.com
 +.gpnjknuqas.xyz
 +.gpylmwtjiy.com
++.gqilaywrqy.com
 +.gqubkbuinx.com
 +.grabclicks.com
 +.grabhosted.com
@@ -92215,6 +92231,7 @@ app-ad.variflight.com
 +.authy.xaxetij431.workers.dev
 +.xboxpoints.info
 +.site.xcatretail.com
++.xcejarignt.com
 +.xcqyvahohs.com
 +.cnscsjbcjsbc.xcsfdhgfgd.repl.co
 +.xcvsdrqagn.com
@@ -101397,6 +101414,7 @@ roastedvolt.net
 +.www2.royceinvest.com
 +.www2.roycon-tech.com
 +.rpgenerator.net
++.rqfedjzveel.com
 +.www2.rrdonnelley.com
 +.rrfolvppqeg.com
 +.rsationhesa.one
@@ -105871,6 +105889,7 @@ ssl.360antivirus.org
 +.chackscheats.com
 +.chain-revoke.com
 +.chainappsync.web.app
++.chaisewharry.top
 +.chajagibbous.com
 +.chaljakismat.xyz
 +.chalkerabeat.web.app
@@ -107132,6 +107151,7 @@ a.dounanhuahui.com
 +.www2.equipotaller.es
 +.eremuribleak.com
 +.tr.newsletter.erenumerique.fr
++.erhtaruxxxfg.com
 +.erkaradyator.com.tr
 +.erkaseriilan.com.tr
 +.krzysztofstrugala.ernestjaniak.pl
@@ -115947,6 +115967,7 @@ www.authedwebmine.cz
 +.bizarrelameds.com
 +.bkbrmmlyyvekz.top
 +.bkkejrveemmbr.top
++.bkkejrveemmzv.top
 +.blackandwhite.pk
 +.blackgamezone.com
 +.blackskullusa.app
@@ -116052,6 +116073,7 @@ www.authedwebmine.cz
 +.boreasinflash.com
 +.smetrics.borgatacasino.com
 +.boridescyamid.com
++.bossyinternal.pro
 +.info.bostonmedical.com.co
 +.botherherself.website
 +.botoneragilda.com
@@ -124753,6 +124775,7 @@ vceilinichego.ru
 +.go.augeomarketing.com
 +.augtepmlpcotnp.web.app
 +.augurersoilure.space
++.auhjyihlbhvvkv.com
 +.aulttrailwaysi.xyz
 +.aumjwoylhhnmvv.com
 +.auojsgyulikspj.xyz
@@ -130624,6 +130647,7 @@ dark-utilities.xyz
 +.reactivaciononlineysegura.seguridadonlin.repl.co
 +.hapvidaaracaju.net.br.segurocuritiba.com
 +.tr.news.seine-estuaire.cci.fr
++.seismalquinela.life
 +.sejasuastartup.com
 +.insight.selbeyanderson.com
 +.go.selectconcepts.com.au
@@ -141199,6 +141223,7 @@ sf6-be-pack.pglstatp-toutiao.com
 +.supposereduction.com
 +.surf-bar-traffic.com
 +.surpassingbeauty.com
++.suspectedadvisor.com
 +.statistik.svenskaakademien.se
 +.sver--eltirri960.repl.co
 +.swapgetpankceike.org

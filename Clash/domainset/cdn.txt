@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-09-13T02:47:55.432Z
-# Size: 1432
+# Last Updated: 2023-09-13T06:08:21.108Z
+# Size: 1436
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -265,6 +265,7 @@ sandpack-cdn-staging.blazingly.io
 cdn.jwplayer.com
 content.jwplatform.com
 +.jwpcdn.com
+assets-jpcust.jwpsrv.com
 +.ninjastream.to
 +.pztv.ca
 +.pzvcdn.com
@@ -1116,6 +1117,9 @@ assets-fe.change.org
 static.ietf.org
 static.osdn.net
 static-cdn.osdn.net
+alt.idgesg.net
+images.idgesg.net
++.staticworld.net
 api.mintlify.com
 content-prod-live.cert.starbucks.com
 at.adtech.redventures.io
