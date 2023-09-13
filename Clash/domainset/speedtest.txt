@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-09-13T06:08:25.740Z
-# Size: 864
+# Last Updated: 2023-09-13T09:29:05.672Z
+# Size: 862
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -46,6 +46,7 @@ speedtest.upp.com
 speedtest.mia.upx.net.br
 speedam.wsp.net.br
 speedtest02a.web.zen.net.uk
+speedtest.aeza.network
 +.speedtest.aptg.com.tw
 speedtest.asvt.ru
 tor21spd01.srvr.bell.ca
@@ -94,7 +95,6 @@ ct-speed.kbro.com.tw
 da-speed.kbro.com.tw
 fm-speed.kbro.com.tw
 kp-speed.kbro.com.tw
-ks-speed.kbro.com.tw
 nt-speed.kbro.com.tw
 tc-speed.kbro.com.tw
 uc-speed.kbro.com.tw
@@ -171,7 +171,6 @@ tn1.chtm.hinet.net
 tp1.chtm.hinet.net
 ty1.chtm.hinet.net
 ntp1.chtm.hinet.net
-ookla.idnet.net
 teste.jsnet.manaus.br
 perf.keyyo.net
 m1speedtest1.m1net.com.sg
@@ -480,7 +479,6 @@ tp-speedtest.homeplus.net.tw
 wd-speedtest.homeplus.net.tw
 ntp-speedtest.homeplus.net.tw
 sky-speedtest.homeplus.net.tw
-speedtest.hostifox.com
 teste.ihgfibra.net.br
 velocimetrostm.interlig.net
 speedtest.eu.kamatera.com
@@ -685,7 +683,6 @@ speedtest.beambarossa.com.au
 speed.cable-giant.com.tw
 +.speedtest.centurylink.net
 speedtest.hk.chinamobile.com
-speedtest1.gs.chinamobile.com
 speedtest1.sc.chinamobile.com
 speedtestbb.hk.chinamobile.com
 speedtest.citytelecom.ru
@@ -746,6 +743,7 @@ speedtest.singapore.globalxtreme.net
 speedtestldn.grainconnect.com
 ofis3.guzelhosting.com
 stdal.highlinefast.com
+antl03.hizinitestet.com
 brnv01.hizinitestet.com
 brsa01.hizinitestet.com
 corl01.hizinitestet.com

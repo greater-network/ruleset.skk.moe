@@ -1,7 +1,7 @@
 web.app                                                                                             3657
 firebaseapp.com                                                                                     3637
 repl.co                                                                                             2150
-cloudfront.net                                                                                      1041
+cloudfront.net                                                                                      1043
 cf-ipfs.com                                                                                         929
 workers.dev                                                                                         871
 r2.dev                                                                                              754
