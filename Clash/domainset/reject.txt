@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-09-14T14:20:56.174Z
-# Size: 160812
+# Last Updated: 2023-09-14T15:19:45.930Z
+# Size: 160820
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -41808,6 +41808,7 @@ r.pixgold.com
 +.go.power.trade
 +.smetrics.power97.com
 +.powerbiz.co
++.powjoui.com
 +.trek.powtoon.com
 +.tontent.powv1deo.cc
 +.qontent.powvibeo.me
@@ -46073,6 +46074,7 @@ htracker5.zmzfile.com
 +.zurgerya.ru
 +.contentservices.zurvita.com
 +.zvasuzb.icu
++.zwuqvpi.com
 +.a.zxcvads.com
 +.www.zxcvb23.com
 +.zxfas56.com
@@ -94654,6 +94656,7 @@ miniapp.qiluyidian.mobi
 +.realpanoplia.pt
 +.realtracker.com
 +.uzevnf.realtystore.com
++.realvids.online
 +.reariikosin.com
 +.rearmhoulet.uno
 +.reatasfibro.uno
@@ -101232,6 +101235,7 @@ a.dounanhuahui.com
 +.gm-it.consulting
 +.gmigmottuoqk.com
 +.go.gmp-platform.com
++.gnathicrugal.top
 +.gnosticwinks.com
 +.go-bnponline.com
 +.go-ld-li-ne.site
@@ -103926,6 +103930,7 @@ c.kuaiduizuoye.com
 +.loadfreefile.com
 +.loadouthacks.com
 +.loapeoskeosb.com
++.loathederava.uno
 +.link.localmasters.com
 +.localsgowild.com
 +.swa.localworld.co.uk
@@ -114733,6 +114738,7 @@ mdn3origin.phluantmobile.net
 +.marketing.quinceimaging.com
 +.go.quinglobal.com.au
 +.quitsnap-blue.com
++.qwbaiftlbfbnt.com
 +.qwmaeqrneewny.top
 +.qxjohabnsheyt.com
 +.qyajwjyjnavzq.top
@@ -122082,6 +122088,7 @@ dark-utilities.xyz
 +.realizarconfirmacion.provincia0.repl.co
 +.provingavidity.com
 +.prowesshearing.com
++.prowsunawned.space
 +.proyectavision.com
 +.prvncia-arg.online
 +.allegrolokalnie.prywatne-aukcje.pl
@@ -153191,6 +153198,7 @@ iacpromotion.s3.amazonaws.com
 +.collect-livingcrisis-govuk.com
 +.getqualified.collegeforadultlearning.edu.au
 +.www2.comcasttechnologysolutions.com
++.comicsdashboardcombustible.com
 +.communityhealthcenterjawar.com
 +.complete-pool-middle.glitch.me
 +.compromiseadaptedspecialty.com
