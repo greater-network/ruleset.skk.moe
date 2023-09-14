@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2023-09-10T17:38:42.930Z
+# Last Updated: 2023-09-14T12:16:15.741Z
 # Size: 327
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,ronghub.com
 DOMAIN-SUFFIX,raychase.net
 DOMAIN-SUFFIX,qcloud.com
-DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhres2.com
 DOMAIN-SUFFIX,qhmsg.com
@@ -24,6 +23,7 @@ DOMAIN-SUFFIX,qhimgs2.com
 DOMAIN-SUFFIX,qhimgs1.com
 DOMAIN-SUFFIX,qhimgs0.com
 DOMAIN-SUFFIX,qhimg.com
+DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qq.com.cn
@@ -148,8 +148,8 @@ DOMAIN-SUFFIX,maoyan.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,miwifi.com
-DOMAIN-SUFFIX,mifile.cn
 DOMAIN-SUFFIX,mi-img.com
+DOMAIN-SUFFIX,mifile.cn
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,microsoftstore.com.cn
