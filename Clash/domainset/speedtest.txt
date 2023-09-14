@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-09-14T14:20:48.755Z
+# Last Updated: 2023-09-14T14:25:44.333Z
 # Size: 884
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -151,7 +151,6 @@ yyz-speedtest.xplore.ca
 speedtest.xsnews.nl
 speedtest-yoncudc.yoncu.com
 speedtest-sjc.acreto.net
-speedtest.amc.net.br
 speed.msk.avantel.ru
 speedtest.brsk.co.uk
 librarian.comstar.ru
@@ -883,6 +882,7 @@ ookla.speedtestunonet.com.br
 speedtest.webfibertelecom.com.br
 askeycsit.dyndns-ip.com
 speedtest.fiberlinknetwork.com.br
+speedtest.impactospeedtest.com.br
 souza.linknetspeedtest.net.br
 speedtest.mirror.serversaustralia.com.au
 speedtest.walastikinternet.com.ph
