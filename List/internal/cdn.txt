@@ -474,6 +474,7 @@ SUFFIX,icon.horse
 SUFFIX,icons8.com
 SUFFIX,idgesg.net
 SUFFIX,ifixit.com
+SUFFIX,iggcdn.com
 SUFFIX,imgbox.com
 SUFFIX,indazn.com
 SUFFIX,ip-api.com
@@ -904,6 +905,7 @@ SUFFIX,ominisrc.com
 SUFFIX,operacdn.com
 SUFFIX,optimole.com
 SUFFIX,orbstack.dev
+SUFFIX,osxdaily.com
 SUFFIX,outbrain.com
 SUFFIX,pastebin.com
 SUFFIX,pinata.cloud
@@ -1043,6 +1045,7 @@ SUFFIX,onwardsmg.com
 SUFFIX,packagist.org
 SUFFIX,parallels.com
 SUFFIX,peacocktv.com
+SUFFIX,perchance.org
 SUFFIX,pinterest.com
 SUFFIX,primevideo.cc
 SUFFIX,primevideo.tv
@@ -1134,6 +1137,7 @@ SUFFIX,disneyplus.com
 SUFFIX,duckduckgo.com
 SUFFIX,ebaystatic.com
 SUFFIX,editmysite.com
+SUFFIX,emojiterra.com
 SUFFIX,everyplate.com
 SUFFIX,firebaseio.com
 SUFFIX,fourthwall.com
