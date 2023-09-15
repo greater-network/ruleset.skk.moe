@@ -255,6 +255,7 @@ aotter.net                                                                      
 avaya.com                                                                                           10
 blottedinq.com                                                                                      10
 cdiscount.com                                                                                       10
+clickfunnels.com                                                                                    10
 com.akadns.net                                                                                      10
 exilien.my                                                                                          10
 forbes.com                                                                                          10
@@ -292,7 +293,6 @@ b0tnet.com                                                                      
 balluff.com                                                                                         9
 black.news                                                                                          9
 carrefour-banque.fr                                                                                 9
-clickfunnels.com                                                                                    9
 cloudlets.zone                                                                                      9
 eshost.com.ar                                                                                       9
 fujitsu.com                                                                                         9
