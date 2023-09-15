@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2023-09-10T17:38:41.929Z
-# Size: 118
+# Last Updated: 2023-09-15T15:08:31.166Z
+# Size: 119
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -28,10 +28,6 @@ DOMAIN-SUFFIX,organiccrap.com
 DOMAIN-SUFFIX,bealanews.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,actonservice.com
-DOMAIN-SUFFIX,tcp4.me
-DOMAIN-SUFFIX,tw1.ru
-DOMAIN-SUFFIX,temp.swtest.ru
-DOMAIN-SUFFIX,tegronews.com
 DOMAIN-SUFFIX,hicam.net
 DOMAIN-SUFFIX,huronews.com
 DOMAIN-SUFFIX,rookinews.com
@@ -45,6 +41,11 @@ DOMAIN-SUFFIX,jemonews.com
 DOMAIN-SUFFIX,groovinews.com
 DOMAIN-SUFFIX,guesswhatnews.com
 DOMAIN-SUFFIX,gofenews.com
+DOMAIN-SUFFIX,tcp4.me
+DOMAIN-SUFFIX,tw1.ru
+DOMAIN-SUFFIX,temp.swtest.ru
+DOMAIN-SUFFIX,tegronews.com
+DOMAIN-SUFFIX,try-snowplow.com
 DOMAIN-SUFFIX,pantheonsite.io
 DOMAIN-SUFFIX,plesk.page
 DOMAIN-SUFFIX,cprapid.com
