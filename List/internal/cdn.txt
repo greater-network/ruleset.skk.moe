@@ -214,6 +214,7 @@ SUFFIX,pika.dev
 SUFFIX,pixiv.nl
 SUFFIX,pixiv.re
 SUFFIX,poool.fr
+SUFFIX,prcdn.co
 SUFFIX,pscdn.co
 SUFFIX,pypi.org
 SUFFIX,rauno.me
@@ -986,6 +987,7 @@ SUFFIX,chargebee.com
 SUFFIX,cloudcraft.co
 SUFFIX,cocoapods.org
 SUFFIX,cookielaw.org
+SUFFIX,cookiepro.com
 SUFFIX,ctfassets.net
 SUFFIX,disco-api.com
 SUFFIX,disconnect.me
@@ -1053,6 +1055,7 @@ SUFFIX,qualified.com
 SUFFIX,qualtrics.com
 SUFFIX,recaptcha.net
 SUFFIX,represent.com
+SUFFIX,riskified.com
 SUFFIX,runkitcdn.com
 SUFFIX,rust-lang.org
 SUFFIX,s-nbcnews.com
@@ -1087,9 +1090,11 @@ SUFFIX,trailhead.com
 SUFFIX,transifex.com
 SUFFIX,travis-ci.com
 SUFFIX,travis-ci.org
+SUFFIX,ttwstatic.com
 SUFFIX,twitchcdn.net
 SUFFIX,twitchsvc.net
 SUFFIX,unidays.world
+SUFFIX,video-cdn.net
 SUFFIX,waitlisted.co
 SUFFIX,wasabisys.com
 SUFFIX,wikimedia.org
@@ -1274,6 +1279,7 @@ SUFFIX,neverbounce.com
 SUFFIX,nftstorage.link
 SUFFIX,packagecloud.io
 SUFFIX,parastorage.com
+SUFFIX,pathfactory.com
 SUFFIX,permaweb.eu.org
 SUFFIX,personalizer.io
 SUFFIX,photobucket.com
@@ -1331,6 +1337,7 @@ SUFFIX,creativelab5.com
 SUFFIX,danosproject.org
 SUFFIX,digitalocean.com
 SUFFIX,discoveryplus.in
+SUFFIX,dynamicyield.com
 SUFFIX,filestackapi.com
 SUFFIX,framerstatic.com
 SUFFIX,freecodecamp.org
@@ -1436,6 +1443,7 @@ SUFFIX,trafficmanager.net
 SUFFIX,typescriptlang.org
 SUFFIX,ajax.googleapis.com
 SUFFIX,cleverecommerce.com
+SUFFIX,constantcontact.com
 SUFFIX,discoveryplus.co.uk
 SUFFIX,disneystreaming.com
 SUFFIX,freeanimehentai.net
