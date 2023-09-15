@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-15T03:36:50.418Z
-# Size: 734
+# Last Updated: 2023-09-15T12:29:37.879Z
+# Size: 718
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -58,7 +58,6 @@
 +.2waky.com
 +.3tmir2.cn
 +.50220.top
-+.50225.top
 +.50227.top
 +.66422.top
 +.77271.top
@@ -90,11 +89,9 @@
 +.rmbuzo.cn
 +.sh525.top
 +.sup31.top
-+.sx1999.cn
 +.ugsxmq.cn
 +.wupzcu.cn
 +.x24hr.com
-+.xiao8i.cn
 +.zvdong.cn
 +.zydkk.top
 +.zyknq.top
@@ -109,11 +106,9 @@
 +.agddwts.cn
 +.agment.top
 +.agriry.top
-+.apvjkhe.cn
 +.aqvtwz.top
 +.asysxb.fun
 +.atwtfm.top
-+.autqag.top
 +.avebnk.top
 +.awcfner.cn
 +.ay0123.top
@@ -156,6 +151,7 @@
 +.drzfwu.top
 +.dwisysw.cn
 +.dxaaut.top
++.dxyvbbk.cn
 +.eibauco.cn
 +.enaumee.cn
 +.endics.top
@@ -163,7 +159,6 @@
 +.erymuh.top
 +.eugippb.cn
 +.ewbiyc.top
-+.ezltda.top
 +.ezvzuz.top
 +.fartit.com
 +.fkwwjv.top
@@ -220,7 +215,6 @@
 +.kbokna.top
 +.kckenoh.cn
 +.khtqts.top
-+.kijjxhv.cn
 +.kiswncn.cn
 +.kjfzlne.cn
 +.kvzcny.top
@@ -279,7 +273,6 @@
 +.ppoyyow.cn
 +.prdgqyk.cn
 +.pskubz.top
-+.pvcvvdz.cn
 +.pxjtam.top
 +.qbomcaf.cn
 +.qdfjie.top
@@ -440,9 +433,7 @@
 +.mrslove.com
 +.mynetav.com
 +.onedumb.com
-+.premism.top
 +.qybz.com.cn
-+.rprk.com.cn
 +.sc8iq8w.top
 +.simply.site
 +.tuozhi1.top
@@ -510,7 +501,6 @@
 +.chashouji.top
 +.chaweixin.top
 +.cuuthay.click
-+.cz-email1.xyz
 +.egypth.za.com
 +.elt5ea.sa.com
 +.eyepal.sa.com
@@ -535,7 +525,6 @@
 +.chadingwei.top
 +.chakaifang.top
 +.chalaogong.top
-+.chaqingren.top
 +.chashenfen.top
 +.chatdouyin.top
 +.chatonghua.top
@@ -544,13 +533,11 @@
 +.corn04wus.club
 +.d7agencia.site
 +.dns-report.com
-+.door04frp.club
 +.echo04wus.club
 +.echo4frpp.club
 +.feijiang.cloud
 +.fumeisi.com.cn
 +.hang04frp.club
-+.leg4fsrch.club
 +.loot04frp.club
 +.mpsalah.za.com
 +.outcash-pe.top
@@ -588,7 +575,6 @@
 +.mosalxhz.sa.com
 +.organiccrap.com
 +.shiyuecaiywb.cn
-+.telegramfack.cf
 +.tjhynykj.com.cn
 +.tmi1ljv09s.buzz
 +.vodfaone.sa.com
@@ -659,7 +645,6 @@
 +.nighofknifes.sa.com
 +.page-management.ink
 +.thunderxauto.com.cn
-+.trongyeuquynh.click
 +.ap1-ib-pers-onal.top
 +.blockchainltd.com.cn
 +.liferetarindh.online
@@ -699,7 +684,6 @@
 +.oiwugx32fv472zlr.shop
 +.p71hhkrsmhr32ptf.shop
 +.packet-notficat.cloud
-+.portalenlinea-com.top
 +.r8ho8heg90xrp8oa.shop
 +.sb74ht3humc1u51i.shop
 +.slpsanjuancorp.online
@@ -715,6 +699,7 @@
 +.tasacerinteres-com.top
 +.wwwbnncaporintrnet.top
 +.agsgw1gq61g16g1asd.cyou
++.ampliaciones-web.online
 +.consultaahora-pe.online
 +.facilaprobacion-com.top
 +.intelligentpower.com.cn
@@ -735,7 +720,6 @@
 +.firoilhaekailhassmarta.shop
 +.solicitalnstante-peru.online
 +.wuxiruijushangmaoyxgs.com.cn
-+.amazon-naturalproducts.org.pe
 +.humanity-international.online
 +.uiouiooivgbdw-rdtr-rtyrty.top
 +.distribuidoradebebidasambev.online
