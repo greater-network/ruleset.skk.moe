@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2023-09-13T02:47:55.426Z
-# Size: 50
+# Last Updated: 2023-09-15T16:17:37.884Z
+# Size: 51
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -58,4 +58,5 @@ download.beeper.com
 download.todesktop.com
 dl.motrix.app
 dl.discordapp.net
++.fnbuilds.services
 ################# END ###################

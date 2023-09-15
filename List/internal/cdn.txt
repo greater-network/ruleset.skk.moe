@@ -1394,6 +1394,7 @@ SUFFIX,dokusho-ojikan.jp
 SUFFIX,dropboxstatic.com
 SUFFIX,envato-static.com
 SUFFIX,flightradar24.com
+SUFFIX,fnbuilds.services
 SUFFIX,freshworksapi.com
 SUFFIX,gitlab-static.net
 SUFFIX,grumpybumpers.com
