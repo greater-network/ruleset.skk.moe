@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-09-15T16:17:47.775Z
-# Size: 159686
+# Last Updated: 2023-09-15T16:36:15.081Z
+# Size: 159697
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10919,6 +10919,7 @@ dig.zjurl.cn
 +.dhl.id.052154875135.14290.com
 +.1512a.com
 +.153in.net
++.155zn.com
 +.15w19.icu
 +.188aaa.us
 +.199aaa.us
@@ -32683,6 +32684,7 @@ impservice.dictapp.youdao.com
 +.yvoria.com
 +.go.ywcarf.org
 +.smbc.ywdlgs.com
++.ywkkmze.cn
 +.ywqpgy.com
 +.ywsiqlg.cn
 js-ad.a.yximgs.com
@@ -34245,6 +34247,7 @@ ad-sh-sz-zb.wagbridge.tanx.alimama.com
 +.app-aave.io
 +.app-it.info
 +.bike.appaudio.cn
++.appcine.net
 +.appclick.co
 +.ww3.appgate.com
 +.appsanalytics.appideas.it
@@ -53979,6 +53982,7 @@ umwatsonc.telemetry.microsoft.us
 +.monerise.com
 +.monero.house
 +.monetate.net
++.monetizer.co
 +.info.moneycamp.jp
 +.moneyfree.co
 +.go.moneyhub.com
@@ -81195,6 +81199,7 @@ league1.maoyuncloud.cn
 +.meetamate.site
 +.promos.meetlocals.com
 +.launch.meetsaturn.com
++.meetsurvey.top
 +.meeturdate.com
 +.mega-cheat.net
 +.go.mega-hatsu.com
@@ -81364,6 +81369,7 @@ go.megabanners.cf
 +.mjzrebrjty.com
 +.mkkoifnukk.com
 +.mkkvprwskq.com
++.mkluzkoviny.cz
 +.mluptwapaj.com
 +.mm-syringe.com
 +.stats.mmazzarolo.com
@@ -88070,6 +88076,7 @@ atrace.chelaile.net.cn
 +.cleanlinked.com
 +.stats.clear-media.com
 +.info.clearedge3d.com
++.cleargalaxy.net
 +.clefskenelm.com
 +.cleftinform.com
 +.clemencys.co.uk
@@ -98656,6 +98663,7 @@ www.authedwebmine.cz
 +.www2.capstonefire.com
 +.rx.capsulecares.com
 +.captchafine.live
++.captchatest.live
 +.smetrics.caranddriver.com
 +.app.cardiovisual.com
 +.btmean.cardosystems.com
@@ -109214,6 +109222,7 @@ binarybusiness.de
 +.bribrieslabon.com
 +.go.bricartsmedia.org
 +.bridgeappsfix.net
++.bright-parrot.net
 +.nvpdaa.brightcellars.com
 +.contentservices.brightlending.com
 +.brightonclick.com
@@ -117875,6 +117884,7 @@ api-ads.tiantianqutao.com
 +.smetrics.contactsdirect.com
 +.contadorgratis.com
 +.contapj30horas.com
++.content-factory.cc
 +.content-garden.com
 +.content-square.net
 +.contentango.online
@@ -118989,6 +118999,7 @@ dark-utilities.xyz
 +.antelope.gabriellaroche.dev
 +.closequarrelsomemethod.gadroolert.repl.co
 +.gadzwhglnxhbjs.com
++.gainrulesurvey.top
 +.go.gaishishukatsu.com
 +.galandskiyher2.com
 +.galerabetsport.com
