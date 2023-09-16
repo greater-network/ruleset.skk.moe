@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-15T12:29:37.879Z
-# Size: 718
+# Last Updated: 2023-09-16T12:26:37.624Z
+# Size: 687
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12,15 +12,12 @@
 ########################################
 +.4dq.com
 +.hz78.cn
-+.iygi.cn
 +.uaa7.cn
-+.uruf.cn
 +.00673.cn
 +.01364.cn
 +.67duo.cn
 +.app.link
 +.biz.site
-+.cqisu.cn
 +.desde.cn
 +.e0728.cn
 +.ffysp.cn
@@ -48,7 +45,6 @@
 +.shdic.cn
 +.twckj.cn
 +.ucseo.cc
-+.wzdaw.cn
 +.xbnmx.cn
 +.xmlct.cn
 +.xxuz.com
@@ -62,7 +58,6 @@
 +.66422.top
 +.77271.top
 +.bkafvb.cn
-+.ccxx2.top
 +.cdd08.top
 +.coeuzs.cn
 +.ddns.mobi
@@ -87,7 +82,6 @@
 +.rdwrtu.cn
 +.rgtbpf.cn
 +.rmbuzo.cn
-+.sh525.top
 +.sup31.top
 +.ugsxmq.cn
 +.wupzcu.cn
@@ -104,13 +98,11 @@
 +.afiyqjd.cn
 +.agahapa.cn
 +.agddwts.cn
-+.agment.top
 +.agriry.top
 +.aqvtwz.top
 +.asysxb.fun
 +.atwtfm.top
 +.avebnk.top
-+.awcfner.cn
 +.ay0123.top
 +.aygzs5.top
 +.ayzxyzs.cn
@@ -123,7 +115,6 @@
 +.bqlkbi.top
 +.brizy.site
 +.bsutgy.top
-+.bsyqhds.cn
 +.butcgf.top
 +.bxtvom.top
 +.bzemap.top
@@ -140,7 +131,6 @@
 +.cwfbgrv.cn
 +.d40.com.cn
 +.dafmpe.top
-+.ddvzpdb.cn
 +.deqavt.top
 +.dkdgyp.top
 +.dqbmta.top
@@ -150,7 +140,6 @@
 +.drlerl.top
 +.drzfwu.top
 +.dwisysw.cn
-+.dxaaut.top
 +.dxyvbbk.cn
 +.eibauco.cn
 +.enaumee.cn
@@ -167,13 +156,11 @@
 +.fzcarv.top
 +.gbmkfrq.cn
 +.gbykac.top
-+.geeufi.top
 +.gfzdcv.top
 +.ggjtsgh.cn
 +.gm5678.top
 +.goorm.site
 +.gstohco.cn
-+.gsvnyd.top
 +.gumsty.top
 +.hamult.top
 +.hejjnz.top
@@ -200,7 +187,6 @@
 +.itemdb.com
 +.itsaol.com
 +.jahihd.top
-+.jalrmm.top
 +.jbkeal.top
 +.jbxcmh.top
 +.jhtszz.top
@@ -211,7 +197,6 @@
 +.jurlvf.top
 +.juvrvxe.cn
 +.jwhlwb.top
-+.kbagsb.top
 +.kbokna.top
 +.kckenoh.cn
 +.khtqts.top
@@ -232,7 +217,6 @@
 +.mcnfij.top
 +.memlzx.top
 +.meywgv.top
-+.mglaiz.top
 +.mijzlx.top
 +.mrface.com
 +.muchjv.top
@@ -242,7 +226,6 @@
 +.nbejzl.top
 +.ndfbpk.top
 +.ndowub.top
-+.ndwzrw.top
 +.nhgwrw.top
 +.nljlekf.cn
 +.nowfjwa.cn
@@ -380,7 +363,6 @@
 +.zwfeqfx.cn
 +.zxvtuo.top
 +.zzbmng.top
-+.0554city.cn
 +.50gb045.xyz
 +.50gb055.xyz
 +.50gb066.xyz
@@ -401,7 +383,6 @@
 +.50gb680.xyz
 +.50gb987.xyz
 +.50gb990.xyz
-+.5om4f8.cyou
 +.666888a.top
 +.666888b.top
 +.666888e.top
@@ -413,13 +394,14 @@
 +.arborth.top
 +.audacad.top
 +.aygzs88.top
++.bese02.club
 +.bewnoew.top
 +.bi3i9g7.top
 +.boyriven.cn
++.cevi03.club
 +.chafalv.top
 +.chajilu.top
 +.chamima.top
-+.cqy8176.top
 +.dlzhjcyx.cn
 +.faqserv.com
 +.freetcp.com
@@ -427,6 +409,8 @@
 +.instawp.xyz
 +.jiasuba.top
 +.jsgj123.xyz
++.kell04.club
++.mare01.club
 +.mefound.com
 +.mrbasic.com
 +.mrbonus.com
@@ -452,7 +436,6 @@
 +.aygzs007.top
 +.biteneng.top
 +.caihongpp.cn
-+.chahaizi.top
 +.chalvshe.top
 +.chameinv.top
 +.chamitan.top
@@ -468,7 +451,6 @@
 +.inble.com.cn
 +.jet4iit.club
 +.justdied.com
-+.kinsta.cloud
 +.metabci.mobi
 +.misecure.com
 +.mitanren.top
@@ -477,7 +459,6 @@
 +.proxydns.com
 +.qqchaxun.top
 +.ranaonra.top
-+.sendsmtp.com
 +.sexidude.com
 +.shangtuke.cn
 +.shzte.com.cn
@@ -512,8 +493,8 @@
 +.longmusic.com
 +.loophole.site
 +.pakdmzv.click
++.roaderoff.top
 +.spraid.com.cn
-+.usaking88.xyz
 +.viralkan.club
 +.xiuluo888.top
 +.xmywjs.com.cn
@@ -554,7 +535,6 @@
 +.wujilongly.top
 +.xiaobaiblm.top
 +.9qo4mc7uol.shop
-+.agchosting.link
 +.amazon-co-jp.tv
 +.appdomain.cloud
 +.becheery.com.cn
@@ -562,7 +542,6 @@
 +.choicteial.shop
 +.dengjixinxi.top
 +.elecycle.com.cn
-+.go-sslpays.site
 +.goldford.com.cn
 +.grtworld.com.cn
 +.hai-song.com.cn
@@ -571,10 +550,9 @@
 +.jungleheart.com
 +.kaifangjilu.top
 +.mailbutler.link
-+.masterto.com.cn
-+.mosalxhz.sa.com
 +.organiccrap.com
 +.shiyuecaiywb.cn
++.telegramfack.cf
 +.tjhynykj.com.cn
 +.tmi1ljv09s.buzz
 +.vodfaone.sa.com
@@ -583,7 +561,6 @@
 +.zemfxeqztg.buzz
 +.alinaofficial.id
 +.amazon-co-ne.top
-+.amazone-co-jp.co
 +.binguanxinxi.top
 +.bjlangjie.com.cn
 +.candykiss.com.cn
@@ -595,13 +572,13 @@
 +.greatstate.cloud
 +.jiudianruzhu.top
 +.jushunjsj.com.cn
-+.kcoakcajiaha.fun
 +.konpakuyoumu.top
 +.mangguotv.com.cn
 +.marketmaking.pro
 +.motuscapital.xyz
 +.omniforce.com.cn
 +.ornamento.online
++.pesronas-cl.buzz
 +.saleproducts.icu
 +.servirtuales.win
 +.sgkaiyuan.com.cn
@@ -616,7 +593,6 @@
 +.fsxingfuju.com.cn
 +.hoannglaota.click
 +.jiudianchaxun.top
-+.libraverse.com.cn
 +.lovetennis.com.cn
 +.rising2000.com.cn
 +.toshibanetcam.com
@@ -635,7 +611,6 @@
 +.supporttfb-m.click
 +.takeumbrage.online
 +.trongxinhgai.click
-+.wanshengjie.com.cn
 +.weareilluminate.id
 +.xunsofmoons.za.com
 +.akbtxdzwjwss.sa.com
@@ -662,10 +637,8 @@
 +.6bfuifg8pdskuqu2.shop
 +.6isp3lzsxsv3mkh2.shop
 +.7lwfuij00dxjbm6x.shop
-+.bhouhje2qwhhjyz8.shop
 +.consultaemmelhor.shop
 +.d8icixm22jee8mh8.shop
-+.dkckaoiiudadsaa.click
 +.econtablesegui.online
 +.fs41yezf0gxl1khh.shop
 +.g0vy03a8qvswd964.shop
@@ -689,7 +662,6 @@
 +.slpsanjuancorp.online
 +.tbxuuqz1gehiopnq.shop
 +.x6np956g63nvhtn7.shop
-+.y16xs4k04q1hifhk.shop
 +.amazon-verify-link.top
 +.extrainmediato-com.top
 +.forddealertools.com.cn
@@ -700,7 +672,6 @@
 +.wwwbnncaporintrnet.top
 +.agsgw1gq61g16g1asd.cyou
 +.ampliaciones-web.online
-+.consultaahora-pe.online
 +.facilaprobacion-com.top
 +.intelligentpower.com.cn
 +.login-business-en.click
@@ -717,10 +688,8 @@
 +.actualizacion-clientes.xyz
 +.aprovecha-julio-online.top
 +.fromghoiuvddassspopme.shop
-+.firoilhaekailhassmarta.shop
 +.solicitalnstante-peru.online
 +.wuxiruijushangmaoyxgs.com.cn
-+.humanity-international.online
 +.uiouiooivgbdw-rdtr-rtyrty.top
 +.distribuidoradebebidasambev.online
 +.tasadesdetumovilsinintereses-com.top

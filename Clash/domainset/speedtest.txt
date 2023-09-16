@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-09-15T16:36:15.946Z
-# Size: 851
+# Last Updated: 2023-09-16T12:26:42.873Z
+# Size: 854
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,6 +21,7 @@ speedtest.ubc.ca
 ipl3pt.fft.ops.eu.uu.net
 ipl3pt.syd.ops.aspac.uu.net
 speedtest.23m.com
+speedtest.asvt.ru
 +.srvr.bell.ca
 speed.data.cr
 speed-us.data.cr
@@ -172,6 +173,7 @@ speedtest.mosline.ru
 speedtest.myarena.ru
 speedtest.netrack.ru
 mirror.nforce.com
+sp-de.nuxt.cloud
 speedtest-lhr-01.pdx.net.uk
 boluspeedtest.posive.net
 orduspeedtest.posive.net
@@ -288,7 +290,6 @@ speedtest-ca.mathys.page
 ookla.mbspeed.net
 speedtest.mhcable.com
 ookla1.miamioh.edu
-speedtest.milkywan.fr
 speedtest.myaccess.ca
 speedtest.nexicom.net
 speedtest.octaplus.uk
@@ -306,11 +307,11 @@ speedtest.reicosa.com
 spt1.seed.net.tw
 fetdl2.seed.net.tw
 fetml1.seed.net.tw
-fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetyl1.seed.net.tw
 fetzl1.seed.net.tw
 seedsptyl2.seed.net.tw
+seednet-ks1.seed.net.tw
 seednet-tc1.seed.net.tw
 seednet-tn1.seed.net.tw
 seednet-ty1.seed.net.tw
@@ -340,7 +341,6 @@ speedtestac.vtal.net.br
 speedtestam.vtal.net.br
 speedtestro.vtal.net.br
 speedtestrr.vtal.net.br
-speedtest.webriva.net
 de-bln2-ookla-01.wemacom.net
 de-ffm1-ookla-01.wemacom.net
 speedtest.westcall.ru
@@ -412,6 +412,7 @@ speedtest-tek.teksavvy.com
 speedtest2-tor.teksavvy.com
 speedtest1.three.com.hk
 speedtest.whipcord.net
+qw-ntpspt1.wifly.com.tw
 speedtest.wilcasji.com
 speedtest.willoweb.net
 speedtest-1.london.network.youfibre.com
@@ -424,11 +425,11 @@ act-dksn-speedtest.aarnet.net.au
 nsw-brwy-speedtest.aarnet.net.au
 tas-dwpk-speedtest.aarnet.net.au
 tsdvuspeedtest01p.allstream.com
-ookla-ita.asanet.tec.br
 sp1.asthriona.com
 speedtest.beanfield.com
 sp1.burstfire.net
 dallas1.cabospeed.com
+teste.cdanet.com.br
 +.speedtest.clouvider.net
 speedtest.comnet.com.tr
 sp1.contilnet.net
@@ -577,6 +578,7 @@ speedtest.bursabil.com.tr
 speedtest.cclnetworks.com
 +.speedtest.centurylink.net
 speedtest.hk.chinamobile.com
+speedtest1.gs.chinamobile.com
 speedtest1.sc.chinamobile.com
 speedtestbb.hk.chinamobile.com
 pauseq4vost1.datamossa.cloud
@@ -779,6 +781,7 @@ ank1speedtest.turktelekom.com.tr
 bur1speedtest.turktelekom.com.tr
 esk1speedtest.turktelekom.com.tr
 gay1speedtest.turktelekom.com.tr
+geb1speedtest.turktelekom.com.tr
 gun1speedtest.turktelekom.com.tr
 sam1speedtest.turktelekom.com.tr
 tra1speedtest.turktelekom.com.tr
