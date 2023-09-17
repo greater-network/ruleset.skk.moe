@@ -323,6 +323,7 @@ SUFFIX,ifttt.com
 SUFFIX,imgeng.in
 SUFFIX,imgix.net
 SUFFIX,imgur.com
+SUFFIX,infura.io
 SUFFIX,ipinfo.io
 SUFFIX,iqiyi.com
 SUFFIX,issuu.com
@@ -422,6 +423,7 @@ SUFFIX,bttimg.com
 SUFFIX,buffer.com
 SUFFIX,builder.io
 SUFFIX,bundle.run
+SUFFIX,cangku.moe
 SUFFIX,catbox.moe
 SUFFIX,change.org
 SUFFIX,channel.io
@@ -744,6 +746,7 @@ SUFFIX,redgifs.com
 SUFFIX,reuters.com
 SUFFIX,segment.com
 SUFFIX,sendvid.com
+SUFFIX,sheetjs.com
 SUFFIX,shopify.com
 SUFFIX,skypack.dev
 SUFFIX,sloppyta.co
@@ -822,6 +825,7 @@ SUFFIX,chasecdn.com
 SUFFIX,chatwoot.com
 SUFFIX,chromium.org
 SUFFIX,circleci.com
+SUFFIX,clearbit.com
 SUFFIX,codeberg.org
 SUFFIX,coinbase.com
 SUFFIX,comfy.social
@@ -1165,6 +1169,7 @@ SUFFIX,imageengine.io
 SUFFIX,imageshack.com
 SUFFIX,influxdata.com
 SUFFIX,infomaniak.com
+SUFFIX,infura-ipfs.io
 SUFFIX,ip2location.io
 SUFFIX,istatmenus.app
 SUFFIX,jetbrains.team
@@ -1330,6 +1335,7 @@ SUFFIX,bootstrapcdn.com
 SUFFIX,cdninstagram.com
 SUFFIX,chisdealhd.co.uk
 SUFFIX,chromestatus.com
+SUFFIX,clever-cloud.com
 SUFFIX,clubhouseapi.com
 SUFFIX,cnx-software.com
 SUFFIX,coralproject.net
@@ -1483,6 +1489,7 @@ SUFFIX,googleusercontent.com
 SUFFIX,navismithapis-cdn.com
 SUFFIX,ssl-images-amazon.com
 SUFFIX,storjipfs-gateway.com
+SUFFIX,unified-streaming.com
 SUFFIX,brick.a.ssl.fastly.net
 SUFFIX,digitaloceanspaces.com
 SUFFIX,dropboxusercontent.com
