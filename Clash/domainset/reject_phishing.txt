@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-17T12:26:43.052Z
-# Size: 648
+# Last Updated: 2023-09-18T12:30:52.453Z
+# Size: 605
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -18,7 +18,6 @@
 +.app.link
 +.biz.site
 +.desde.cn
-+.e0728.cn
 +.ffysp.cn
 +.fpaa.top
 +.gscdc.cn
@@ -27,9 +26,7 @@
 +.hmyjc.cn
 +.hqykm.cn
 +.j6021.cn
-+.jfaa.top
 +.jtij.xyz
-+.kbxxp.cn
 +.lczww.cn
 +.lstjj.cn
 +.miko.fit
@@ -67,11 +64,9 @@
 +.fleek.one
 +.goo08.top
 +.hfyshq.cn
-+.hty28.top
 +.kziwyv.cn
 +.lfzxwl.cn
 +.lunhei.cn
-+.mss08.top
 +.ndsjkd.cn
 +.oss08.top
 +.rdwrtu.cn
@@ -82,11 +77,9 @@
 +.x24hr.com
 +.zvdong.cn
 +.zydkk.top
-+.zyknq.top
 +.zzdyxf.cn
 +.10web.site
 +.513586.top
-+.adreujh.cn
 +.advcsy.top
 +.afiyqjd.cn
 +.agahapa.cn
@@ -101,7 +94,6 @@
 +.benard.top
 +.bfzxpl.top
 +.bqfpes.top
-+.bqgynw.top
 +.bqlkbi.top
 +.brizy.site
 +.bsutgy.top
@@ -138,7 +130,6 @@
 +.eugippb.cn
 +.ewbiyc.top
 +.ezvzuz.top
-+.fartit.com
 +.fkwwjv.top
 +.fujehn.top
 +.fxqull.top
@@ -163,7 +154,6 @@
 +.hwkztb.top
 +.hygerp.top
 +.ibicfdk.cn
-+.ibuwwy.top
 +.idygio.top
 +.ietlwv.top
 +.ifdrps.top
@@ -172,9 +162,7 @@
 +.iiokuim.cn
 +.ijlquc.top
 +.indhlv.top
-+.indo4.link
 +.iqntug.top
-+.itemdb.com
 +.itsaol.com
 +.jahihd.top
 +.jbkeal.top
@@ -201,7 +189,6 @@
 +.ljhlna.top
 +.llecloh.cn
 +.loxuhz.top
-+.lsbvfy.top
 +.ltvfag.top
 +.mayqwo.top
 +.mcnfij.top
@@ -209,7 +196,6 @@
 +.meywgv.top
 +.mijzlx.top
 +.mrface.com
-+.muchjv.top
 +.mupmclg.cn
 +.mzphone.cn
 +.nbejzl.top
@@ -241,7 +227,6 @@
 +.ppduem.top
 +.ppjltg.top
 +.ppoyyow.cn
-+.prdgqyk.cn
 +.pskubz.top
 +.pxjtam.top
 +.qbomcaf.cn
@@ -261,7 +246,6 @@
 +.rgfqcly.cn
 +.rhkowp.top
 +.rnflew.top
-+.rvowjcy.cn
 +.rvxxkq.top
 +.rzdobw.top
 +.rzyddn.top
@@ -275,7 +259,6 @@
 +.symeme.top
 +.tbcowj.top
 +.tevyvqt.cn
-+.tgpc28.top
 +.thhjhm.top
 +.thwlpp.top
 +.tkxizy.top
@@ -292,7 +275,6 @@
 +.ujixah.top
 +.ukmnqj.top
 +.ukvqnux.cn
-+.ukwrmw.top
 +.uxwsys.top
 +.vahmgl.top
 +.vcbfvc.top
@@ -311,7 +293,6 @@
 +.wiwzzs.top
 +.wkxmzcp.cn
 +.wrbpva.top
-+.wsaeygo.cn
 +.wzfsml.top
 +.xaecwn.top
 +.xawhrs.top
@@ -332,7 +313,6 @@
 +.yqbfzj.top
 +.yrtyri.top
 +.yuzied.top
-+.zbbjyc.top
 +.zgfiab.top
 +.ziezjzw.cn
 +.zjkyjjx.cn
@@ -363,11 +343,8 @@
 +.50gb680.xyz
 +.50gb987.xyz
 +.50gb990.xyz
-+.666888a.top
-+.666888b.top
 +.666888e.top
 +.9781572.top
-+.a814y53.top
 +.aayy000.top
 +.aayy222.top
 +.all-vip.icu
@@ -422,7 +399,6 @@
 +.company.site
 +.diemmy.click
 +.dmbio.com.cn
-+.dynip.online
 +.fox4nle.club
 +.freeddns.com
 +.inble.com.cn
@@ -446,7 +422,6 @@
 +.yourtrap.com
 +.amazon-jp.org
 +.answer075.xyz
-+.answer092.xyz
 +.bitrix24.site
 +.chachepai.top
 +.chadengji.top
@@ -471,7 +446,6 @@
 +.viralkan.club
 +.xiuluo888.top
 +.xmywjs.com.cn
-+.xxyihe.com.cn
 +.yunclouds.top
 +.zgxxzy.com.cn
 +.cash-outpe.top
@@ -481,9 +455,7 @@
 +.chashenfen.top
 +.chatdouyin.top
 +.chatonghua.top
-+.chaxiaosan.top
 +.cnkacha.com.cn
-+.corn04wus.club
 +.d7agencia.site
 +.dns-report.com
 +.echo4frpp.club
@@ -511,7 +483,6 @@
 +.belleysh.com.cn
 +.choicteial.shop
 +.dengjixinxi.top
-+.elecycle.com.cn
 +.goldford.com.cn
 +.grtworld.com.cn
 +.hai-song.com.cn
@@ -530,7 +501,6 @@
 +.amazon-co-ne.top
 +.binguanxinxi.top
 +.bjlangjie.com.cn
-+.candykiss.com.cn
 +.chanthenho.click
 +.chuguichaxun.top
 +.chunyulaile.shop
@@ -550,14 +520,11 @@
 +.servirtuales.win
 +.sgkaiyuan.com.cn
 +.shhongxin.com.cn
-+.smartqsys.com.cn
-+.amazon-jpshop.top
 +.binguanchaxun.top
 +.cxzblocker.sa.com
 +.dcxblocker.sa.com
 +.fsxingfuju.com.cn
 +.hoannglaota.click
-+.jiudianchaxun.top
 +.lovetennis.com.cn
 +.rising2000.com.cn
 +.toshibanetcam.com
@@ -569,14 +536,13 @@
 +.crseguridad.online
 +.jp-lmcpjgpuim.link
 +.liaotianchaxun.top
-+.promo-ahora.online
 +.reactiva-pe.online
 +.sunsofm0ons.sa.com
 +.supporttfb-m.click
 +.takeumbrage.online
++.tinipmusighnaca.gq
 +.trongxinhgai.click
 +.weareilluminate.id
-+.xunsofmoons.za.com
 +.akbtxdzwjwss.sa.com
 +.amazon-au-prime.com
 +.clienteaviso.online
@@ -584,7 +550,6 @@
 +.nighofknifes.sa.com
 +.page-management.ink
 +.thunderxauto.com.cn
-+.ap1-ib-pers-onal.top
 +.blockchainltd.com.cn
 +.liferetarindh.online
 +.sejaexclusivo.online
@@ -599,13 +564,10 @@
 +.4lpfd9ptb5m684qa.shop
 +.6bfuifg8pdskuqu2.shop
 +.6isp3lzsxsv3mkh2.shop
-+.7lwfuij00dxjbm6x.shop
 +.consultaemmelhor.shop
-+.d8icixm22jee8mh8.shop
 +.econtablesegui.online
 +.fs41yezf0gxl1khh.shop
 +.g0vy03a8qvswd964.shop
-+.gresb5f5m8732z53.shop
 +.hedml21x0volzi13.shop
 +.i0veywkukoaga44u.shop
 +.imkd3c1ssk3d776f.shop
@@ -618,7 +580,6 @@
 +.nu0bsdelbbytgiqi.shop
 +.oiwugx32fv472zlr.shop
 +.p71hhkrsmhr32ptf.shop
-+.packet-notficat.cloud
 +.r8ho8heg90xrp8oa.shop
 +.sb74ht3humc1u51i.shop
 +.slpsanjuancorp.online
@@ -629,7 +590,6 @@
 +.forddealertools.com.cn
 +.hoang-nkdenquadi.click
 +.lifebiosciences.com.cn
-+.olnbvcg--exzytbuui.top
 +.tasacerinteres-com.top
 +.agsgw1gq61g16g1asd.cyou
 +.ampliaciones-web.online
@@ -637,13 +597,11 @@
 +.intelligentpower.com.cn
 +.login-business-en.click
 +.rassnonsdeconsiewhor.ml
-+.account-info-jp-xwxd.one
 +.gbyfdwjdoexkbdjehdid.top
 +.login-busiiness-en.click
 +.sbytotsmasthersborrdi.cf
 +.spankkispanishstray.site
 +.accesofacilonline-com.top
-+.durchnaberkprofthirsio.tk
 +.mengunjungi-website15.cfd
 +.actualizacion-clientes.xyz
 +.aprovecha-julio-online.top
@@ -651,7 +609,6 @@
 +.solicitalnstante-peru.online
 +.wuxiruijushangmaoyxgs.com.cn
 +.uiouiooivgbdw-rdtr-rtyrty.top
-+.usps-addre-parceldelivery.top
 +.distribuidoradebebidasambev.online
 +.tasadesdetumovilsinintereses-com.top
 +.pages-review-quality-5642516578942561.ink
