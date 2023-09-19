@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-18T12:30:52.453Z
-# Size: 605
+# Last Updated: 2023-09-19T12:30:56.724Z
+# Size: 583
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -35,7 +35,6 @@
 +.mywbj.cn
 +.mzdzb.cn
 +.nkdo.top
-+.nysfj.cn
 +.qdsed.cn
 +.twckj.cn
 +.ucseo.cc
@@ -43,7 +42,6 @@
 +.xmlct.cn
 +.xxuz.com
 +.zyns.com
-+.zztsj.cn
 +.zzux.com
 +.2waky.com
 +.3tmir2.cn
@@ -57,13 +55,11 @@
 +.ddns.mobi
 +.denggw.cn
 +.dns04.com
-+.dns05.com
 +.dnset.com
 +.dumb1.com
 +.fj005.top
 +.fleek.one
 +.goo08.top
-+.hfyshq.cn
 +.kziwyv.cn
 +.lfzxwl.cn
 +.lunhei.cn
@@ -75,7 +71,6 @@
 +.ugsxmq.cn
 +.wupzcu.cn
 +.x24hr.com
-+.zvdong.cn
 +.zydkk.top
 +.zzdyxf.cn
 +.10web.site
@@ -87,7 +82,6 @@
 +.aqvtwz.top
 +.asysxb.fun
 +.atwtfm.top
-+.avebnk.top
 +.ay0123.top
 +.aygzs5.top
 +.ayzxyzs.cn
@@ -144,7 +138,6 @@
 +.gumsty.top
 +.hamult.top
 +.hejjnz.top
-+.hicayt.top
 +.hifqbqy.cn
 +.hkehco.top
 +.hmhpwjg.cn
@@ -223,7 +216,6 @@
 +.oxpsct.top
 +.pcayvkv.cn
 +.pkgxofu.cn
-+.poppula.cn
 +.ppduem.top
 +.ppjltg.top
 +.ppoyyow.cn
@@ -258,9 +250,7 @@
 +.sxwowh.top
 +.symeme.top
 +.tbcowj.top
-+.tevyvqt.cn
 +.thhjhm.top
-+.thwlpp.top
 +.tkxizy.top
 +.tofzyqo.cn
 +.tqdfby.top
@@ -296,8 +286,6 @@
 +.wzfsml.top
 +.xaecwn.top
 +.xawhrs.top
-+.xcpfjhf.cn
-+.xiygwom.cn
 +.xkephfg.cn
 +.xlhjxo.top
 +.xlppzb.top
@@ -316,7 +304,6 @@
 +.zgfiab.top
 +.ziezjzw.cn
 +.zjkyjjx.cn
-+.zkuqho.top
 +.zmdgdj.top
 +.zrkotx.top
 +.zrqfwi.top
@@ -344,7 +331,6 @@
 +.50gb987.xyz
 +.50gb990.xyz
 +.666888e.top
-+.9781572.top
 +.aayy000.top
 +.aayy222.top
 +.all-vip.icu
@@ -380,7 +366,6 @@
 +.wsoqwa9.top
 +.wxzzdfzk.cn
 +.yahaha.mobi
-+.ylqz.com.cn
 +.yyjiafen.cn
 +.zdsxcac.top
 +.zhenruo.top
@@ -409,7 +394,6 @@
 +.mitanren.top
 +.negocio.site
 +.ourhobby.com
-+.proxydns.com
 +.qqchaxun.top
 +.ranaonra.top
 +.sexidude.com
@@ -423,14 +407,11 @@
 +.amazon-jp.org
 +.answer075.xyz
 +.bitrix24.site
-+.chachepai.top
 +.chadengji.top
 +.chahunshi.top
 +.chajiashi.top
 +.chashouji.top
 +.chaweixin.top
-+.cuuthay.click
-+.egypth.za.com
 +.elt5ea.sa.com
 +.eyepal.sa.com
 +.imagesns.club
@@ -465,7 +446,6 @@
 +.loot04frp.club
 +.mpsalah.za.com
 +.outcash-pe.top
-+.roombox.online
 +.szyl168.com.cn
 +.temp-site.link
 +.temporary.link
@@ -473,7 +453,6 @@
 +.tesnitenaho.ml
 +.toythieves.com
 +.vip-new078.icu
-+.woodmen.com.cn
 +.wujilongly.top
 +.xiaobaiblm.top
 +.9qo4mc7uol.shop
@@ -494,6 +473,8 @@
 +.shiyuecaiywb.cn
 +.tjhynykj.com.cn
 +.tmi1ljv09s.buzz
++.ucd-paycss.site
++.ucd-payers.site
 +.vodfaone.sa.com
 +.waquwangluo.top
 +.youdontcare.com
@@ -520,7 +501,6 @@
 +.servirtuales.win
 +.sgkaiyuan.com.cn
 +.shhongxin.com.cn
-+.binguanchaxun.top
 +.cxzblocker.sa.com
 +.dcxblocker.sa.com
 +.fsxingfuju.com.cn
@@ -578,14 +558,13 @@
 +.loginn-businees.click
 +.n8tc64cy5dhqe5el.shop
 +.nu0bsdelbbytgiqi.shop
-+.oiwugx32fv472zlr.shop
-+.p71hhkrsmhr32ptf.shop
 +.r8ho8heg90xrp8oa.shop
 +.sb74ht3humc1u51i.shop
 +.slpsanjuancorp.online
 +.tbxuuqz1gehiopnq.shop
 +.x6np956g63nvhtn7.shop
 +.amazon-verify-link.top
++.apartment018364.online
 +.extrainmediato-com.top
 +.forddealertools.com.cn
 +.hoang-nkdenquadi.click
@@ -608,7 +587,6 @@
 +.fromghoiuvddassspopme.shop
 +.solicitalnstante-peru.online
 +.wuxiruijushangmaoyxgs.com.cn
-+.uiouiooivgbdw-rdtr-rtyrty.top
 +.distribuidoradebebidasambev.online
 +.tasadesdetumovilsinintereses-com.top
 +.pages-review-quality-5642516578942561.ink
