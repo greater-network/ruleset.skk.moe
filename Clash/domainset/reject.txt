@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-09-20T12:30:43.207Z
-# Size: 155660
+# Last Updated: 2023-09-20T14:05:32.121Z
+# Size: 155674
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -8336,6 +8336,9 @@ stat.loli.net
 +.my.macu.com
 +.elq.macu.com
 +.app.go.macu.com
++.macv.com
++.macw.com
++.macz.com
 +.link.made.com
 +.madf.sbs
 +.magna.ru
@@ -10858,6 +10861,7 @@ ad.360in.com
 +.b1.51scw.net
 +.1.51sxue.cn
 +.51yes.com
++.52112.com
 +.5251m.xyz
 +.api.52kkg.com
 +.52sq.shop
@@ -14846,6 +14850,7 @@ ad.jamba.net
 +.ywg.jobui.com
 +.shared.jodel.com
 +.jofbu.com
++.ad.imp.joins.com
 +.qgumjp.joins.com
 +.counter.joins.com
 +.jtrackern.joins.com
@@ -15475,8 +15480,12 @@ veim.lrswl.com
 +.info.ma-cp.com
 +.log.ma-jin.jp
 +.mabila.ua
++.mac89.com
 +.macew.xyz
 +.tr.mailmp.macif.net
++.macjb.com
++.macsc.com
++.macxf.com
 +.sm.macys.com
 +.metrics.macys.com
 +.stats.madeit.io
@@ -16918,6 +16927,7 @@ top.h.qhimg.com
 +.response.quest.com
 +.smetrics.quill.com
 +.to.quit.guru
++.bc.qunar.com
 userimg.qunar.com
 +.qreport.qunar.com
 +.log.flight.qunar.com
@@ -32935,7 +32945,6 @@ ad.video.51togic.com
 +.dl-qa.nonton.99array.com
 +.deeplink.wbnc.99array.com
 +.99click.com
-+.bd1.99danji.com
 +.99stats.com
 +.r.99waiyu.com
 +.9cbj41a5.de
@@ -39228,6 +39237,7 @@ lgtvsdp.com
 +.m9d6p03.com
 +.ma-rry.site
 +.chromatography.mac-mod.com
++.macdown.com
 +.www2.macgray.com
 +.a8cv.machicon.jp
 +.fmufpo.machicon.jp
@@ -42411,6 +42421,7 @@ adimages.sina.com.hk
 +.sd.sodemand.jp
 +.catfish.sofatido.ch
 +.soft-ex.icu
++.soft-lab.pw
 +.pardot.tm.softbank.jp
 +.mediams.mb.softbank.jp
 +.www2.softeon.com
@@ -61379,6 +61390,7 @@ ad.caiyunapp.com
 +.cheatload.com
 +.cheatlord.net
 +.cheatmods.com
++.cheatname.xyz
 +.cheatools.com
 +.cheats4us.com
 +.cheatsbar.com
@@ -83667,6 +83679,7 @@ adx-bid.tianzhuobj.com
 +.true-hacks.com
 +.truehits.in.th
 +.pardot.truhearing.com
++.trumpcheat.com
 +.www2.trupredict.com
 +.go.trust-mgmt.com
 +.vip.trust-site.net
@@ -97953,6 +97966,7 @@ www.authedwebmine.cz
 +.ad.donanimhaber.com
 +.adserve.donanimhaber.com
 +.wv.donarynahane.com
++.done-install.com
 +.donescaffold.com
 +.data-67f17c94f0.donna-magazin.de
 +.data-707aff899d.donna-magazin.de
