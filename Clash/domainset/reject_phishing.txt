@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-19T12:30:56.724Z
-# Size: 583
+# Last Updated: 2023-09-20T05:34:19.022Z
+# Size: 567
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -17,7 +17,6 @@
 +.67duo.cn
 +.app.link
 +.biz.site
-+.desde.cn
 +.ffysp.cn
 +.fpaa.top
 +.gscdc.cn
@@ -44,7 +43,6 @@
 +.zyns.com
 +.zzux.com
 +.2waky.com
-+.3tmir2.cn
 +.50220.top
 +.50227.top
 +.66422.top
@@ -57,7 +55,6 @@
 +.dns04.com
 +.dnset.com
 +.dumb1.com
-+.fj005.top
 +.fleek.one
 +.goo08.top
 +.kziwyv.cn
@@ -118,7 +115,6 @@
 +.dxyvbbk.cn
 +.eibauco.cn
 +.enaumee.cn
-+.endics.top
 +.eqzfxm.top
 +.erymuh.top
 +.eugippb.cn
@@ -139,8 +135,6 @@
 +.hamult.top
 +.hejjnz.top
 +.hifqbqy.cn
-+.hkehco.top
-+.hmhpwjg.cn
 +.hqeivx.top
 +.htwater.cn
 +.huaxwb.top
@@ -154,10 +148,8 @@
 +.ihuzmn.top
 +.iiokuim.cn
 +.ijlquc.top
-+.indhlv.top
 +.iqntug.top
 +.itsaol.com
-+.jahihd.top
 +.jbkeal.top
 +.jbxcmh.top
 +.jhtszz.top
@@ -221,7 +213,6 @@
 +.ppoyyow.cn
 +.pskubz.top
 +.pxjtam.top
-+.qbomcaf.cn
 +.qdfjie.top
 +.qdhkpn.top
 +.qfylpo.top
@@ -233,7 +224,6 @@
 +.rcgnnc.top
 +.rdaqfe.top
 +.rfedtt.top
-+.rfjpoc.top
 +.rgduhhc.cn
 +.rgfqcly.cn
 +.rhkowp.top
@@ -356,7 +346,6 @@
 +.mefound.com
 +.mrbasic.com
 +.mrbonus.com
-+.mrslove.com
 +.mynetav.com
 +.onedumb.com
 +.qybz.com.cn
@@ -373,7 +362,6 @@
 +.10lm03bn.top
 +.almostmy.com
 +.aygzs000.top
-+.aygzs007.top
 +.biteneng.top
 +.caihongpp.cn
 +.chalvshe.top
@@ -382,14 +370,12 @@
 +.chataren.top
 +.chaweizi.top
 +.company.site
-+.diemmy.click
 +.dmbio.com.cn
 +.fox4nle.club
 +.freeddns.com
 +.inble.com.cn
 +.jet4iit.club
 +.justdied.com
-+.metabci.mobi
 +.misecure.com
 +.mitanren.top
 +.negocio.site
@@ -501,7 +487,6 @@
 +.servirtuales.win
 +.sgkaiyuan.com.cn
 +.shhongxin.com.cn
-+.cxzblocker.sa.com
 +.dcxblocker.sa.com
 +.fsxingfuju.com.cn
 +.hoannglaota.click
@@ -533,6 +518,7 @@
 +.blockchainltd.com.cn
 +.liferetarindh.online
 +.sejaexclusivo.online
++.tarjetacenc0sud.site
 +.track-action247.shop
 +.track-action462.shop
 +.0g3t8jpt27d8fxj0.shop
@@ -564,7 +550,6 @@
 +.tbxuuqz1gehiopnq.shop
 +.x6np956g63nvhtn7.shop
 +.amazon-verify-link.top
-+.apartment018364.online
 +.extrainmediato-com.top
 +.forddealertools.com.cn
 +.hoang-nkdenquadi.click
@@ -589,7 +574,6 @@
 +.wuxiruijushangmaoyxgs.com.cn
 +.distribuidoradebebidasambev.online
 +.tasadesdetumovilsinintereses-com.top
-+.pages-review-quality-5642516578942561.ink
 +.quality-page-bussiness-5621325678451268.ink
 +.community-protection-social-media-review-page.ink
 +.community-protection-social-media-page-quality.ink

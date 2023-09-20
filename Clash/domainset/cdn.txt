@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-09-17T13:19:51.953Z
-# Size: 1469
+# Last Updated: 2023-09-20T05:34:17.730Z
+# Size: 1478
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -132,6 +132,7 @@ packages.httpie.io
 assets-production.packagecloud.io
 repos.danosproject.org
 cdn.sheetjs.com
+repo.nextdns.io
 s0.wp.com
 s1.wp.com
 s2.wp.com
@@ -676,6 +677,7 @@ media.yukimochi.jp
 ca.nfs.pub
 cdn.masto.host
 files.mastodon.ktachibana.party
+assets.mozilla.social
 +.misskeyusercontent.com
 o.n1mp.org
 assets.plurk.com
@@ -1117,6 +1119,10 @@ staticassets.music.com
 +.cloud1.influxdata.com
 +.cloud2.influxdata.com
 api.pwnedpasswords.com
+cdn.player.fm
+imagehost.player.fm
+play.publicradio.org
++.stream.publicradio.org
 imgs.plurk.com
 +.hembed.com
 +.motherlessmedia.com
@@ -1130,6 +1136,7 @@ dynamic-assets.mobilius.top
 static.change.org
 assets.change.org
 assets-fe.change.org
+cdn.cliqz.com
 static.ietf.org
 static.osdn.net
 static-cdn.osdn.net
@@ -1477,4 +1484,6 @@ cdn.pathfactory.com
 cdn-app.pathfactory.com
 +.prcdn.co
 logo.clearbit.com
++.hsto.org
+assets.habr.com
 ################# END ###################

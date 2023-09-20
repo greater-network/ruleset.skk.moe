@@ -1,13 +1,14 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-09-14T13:38:40.044Z
-# Size: 93
+# Last Updated: 2023-09-20T05:34:17.793Z
+# Size: 94
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 ########################################
+DOMAIN-SUFFIX,usercontent.goog
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,onrender.com
 DOMAIN-SUFFIX,azurestaticapps.net
