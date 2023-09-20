@@ -23,7 +23,7 @@ myportfolio.com                                                                 
 start.page                                                                                          145
 netlify.app                                                                                         124
 windows.com                                                                                         118
-baidu.com                                                                                           113
+baidu.com                                                                                           112
 webcindario.com                                                                                     106
 llnw.net                                                                                            101
 qq.com                                                                                              98
@@ -51,10 +51,10 @@ youku.com                                                                       
 espmp-nifr.net                                                                                      49
 trekkeeee.fun                                                                                       49
 sina.com.cn                                                                                         46
-microsoft.com                                                                                       45
 miui.com                                                                                            45
 page.link                                                                                           45
 lumindigitalhosting.com                                                                             44
+microsoft.com                                                                                       44
 espmp-agfr.net                                                                                      43
 amplifyapp.com                                                                                      42
 appspot.com                                                                                         42
@@ -131,6 +131,7 @@ sohu.com                                                                        
 globalsources.com                                                                                   20
 linkpc.net                                                                                          20
 proxydns.com                                                                                        20
+alimama.com                                                                                         19
 autovistagroup.com                                                                                  19
 blottedinq.com                                                                                      19
 gitbook.io                                                                                          19
@@ -140,16 +141,17 @@ sfr.fr                                                                          
 shop.com.mm                                                                                         19
 unity3d.com                                                                                         19
 0hi.me                                                                                              18
-adp.com                                                                                             18
 adpinfo.com                                                                                         18
 cloudwaysapps.com                                                                                   18
 csb.app                                                                                             18
 focus.de                                                                                            18
 fupa.net                                                                                            18
+intel.com                                                                                           18
 jetos.com                                                                                           18
 lflinkup.com                                                                                        18
 snssdk.com                                                                                          18
 webspace.re                                                                                         18
+adp.com                                                                                             17
 aig.com                                                                                             17
 aon.com                                                                                             17
 att.com                                                                                             17
@@ -216,7 +218,6 @@ flazio.com                                                                      
 goguardian.com                                                                                      13
 groc.press                                                                                          13
 ignite.technology                                                                                   13
-intel.com                                                                                           13
 maileva.com                                                                                         13
 mi.com                                                                                              13
 myftpupload.com                                                                                     13
@@ -239,7 +240,6 @@ chip.de                                                                         
 devoteam.com                                                                                        12
 en25.com                                                                                            12
 ewp.live                                                                                            12
-fastly.net                                                                                          12
 formstack.com                                                                                       12
 getui.com                                                                                           12
 go.com                                                                                              12
@@ -265,6 +265,7 @@ xunlei.com                                                                      
 cfolks.pl                                                                                           11
 cresa.com                                                                                           11
 exads.com                                                                                           11
+fastly.net                                                                                          11
 fc2.com                                                                                             11
 free.nf                                                                                             11
 hismarttv.com                                                                                       11
