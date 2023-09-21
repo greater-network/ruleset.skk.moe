@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-20T12:30:33.219Z
-# Size: 554
+# Last Updated: 2023-09-21T12:31:04.137Z
+# Size: 524
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -29,7 +29,6 @@
 +.lstjj.cn
 +.miko.fit
 +.mpaa.top
-+.mvcc.top
 +.mywbj.cn
 +.mzdzb.cn
 +.nkdo.top
@@ -44,7 +43,6 @@
 +.2waky.com
 +.50220.top
 +.50227.top
-+.66422.top
 +.77271.top
 +.bkafvb.cn
 +.cdd08.top
@@ -64,7 +62,6 @@
 +.rgtbpf.cn
 +.wupzcu.cn
 +.x24hr.com
-+.xx-id.icu
 +.zydkk.top
 +.zzdyxf.cn
 +.10web.site
@@ -74,12 +71,10 @@
 +.agahapa.cn
 +.agddwts.cn
 +.aqvtwz.top
-+.asysxb.fun
 +.atwtfm.top
 +.ay0123.top
 +.aygzs5.top
 +.ayzxyzs.cn
-+.benard.top
 +.bfzxpl.top
 +.bqfpes.top
 +.bqlkbi.top
@@ -176,8 +171,6 @@
 +.mcnfij.top
 +.memlzx.top
 +.meywgv.top
-+.mijzlx.top
-+.mrface.com
 +.mupmclg.cn
 +.mzphone.cn
 +.nbejzl.top
@@ -203,7 +196,6 @@
 +.ovqfcd.top
 +.oxpsct.top
 +.pcayvkv.cn
-+.pkgxofu.cn
 +.ppduem.top
 +.ppjltg.top
 +.ppoyyow.cn
@@ -229,9 +221,7 @@
 +.rzyddn.top
 +.s4545h.top
 +.sckdvpu.cn
-+.seuwmbb.cn
 +.souwjw.top
-+.suzvbc.top
 +.sxrqzb.top
 +.sxwowh.top
 +.symeme.top
@@ -248,9 +238,7 @@
 +.ujfxkmr.cn
 +.ujfxuwm.cn
 +.ujgbwyo.cn
-+.ujixah.top
 +.ukmnqj.top
-+.ukvqnux.cn
 +.uxwsys.top
 +.vahmgl.top
 +.vcbfvc.top
@@ -288,11 +276,9 @@
 +.zgfiab.top
 +.ziezjzw.cn
 +.zjkyjjx.cn
-+.zmdgdj.top
 +.zrkotx.top
 +.zrqfwi.top
 +.zucrco.top
-+.zwfeqfx.cn
 +.zxvtuo.top
 +.zzbmng.top
 +.50gb045.xyz
@@ -313,7 +299,6 @@
 +.50gb584.xyz
 +.50gb680.xyz
 +.50gb987.xyz
-+.50gb990.xyz
 +.666888e.top
 +.aayy000.top
 +.aayy222.top
@@ -323,14 +308,12 @@
 +.bese02.club
 +.bewnoew.top
 +.bi3i9g7.top
-+.boyriven.cn
 +.cevi03.club
 +.chafalv.top
 +.chajilu.top
 +.dlzhjcyx.cn
 +.faqserv.com
 +.freetcp.com
-+.gzj7006.xyz
 +.instawp.xyz
 +.jiasuba.top
 +.jsgj123.xyz
@@ -352,10 +335,8 @@
 +.zdsxcac.top
 +.zhenruo.top
 +.zhiweof.xyz
-+.10lm03bn.top
 +.almostmy.com
 +.aygzs000.top
-+.biteneng.top
 +.caihongpp.cn
 +.chalvshe.top
 +.chameinv.top
@@ -367,7 +348,6 @@
 +.fox4nle.club
 +.freeddns.com
 +.inble.com.cn
-+.jet4iit.club
 +.justdied.com
 +.misecure.com
 +.mitanren.top
@@ -376,7 +356,6 @@
 +.qqchaxun.top
 +.ranaonra.top
 +.sexidude.com
-+.shzte.com.cn
 +.sin4nle.club
 +.ss132423.top
 +.ssmailer.com
@@ -400,14 +379,11 @@
 +.longmusic.com
 +.loophole.site
 +.pakdmzv.click
-+.roaderoff.top
 +.spraid.com.cn
 +.viralkan.club
 +.xiuluo888.top
 +.xmywjs.com.cn
 +.yunclouds.top
-+.zgxxzy.com.cn
-+.cash-outpe.top
 +.chadingwei.top
 +.chakaifang.top
 +.chalaogong.top
@@ -417,13 +393,9 @@
 +.d7agencia.site
 +.dns-report.com
 +.echo4frpp.club
-+.feijiang.cloud
 +.fumeisi.com.cn
 +.hang04frp.club
-+.loot04frp.club
-+.mpsalah.za.com
 +.outcash-pe.top
-+.saika-bctpi.id
 +.szyl168.com.cn
 +.temp-site.link
 +.temporary.link
@@ -442,13 +414,13 @@
 +.goldford.com.cn
 +.grtworld.com.cn
 +.hai-song.com.cn
++.help-co-jp.info
 +.jin-qiao.com.cn
 +.jungleheart.com
 +.kaifangjilu.top
 +.mailbutler.link
 +.organiccrap.com
 +.shiyuecaiywb.cn
-+.tjhynykj.com.cn
 +.tmi1ljv09s.buzz
 +.ucd-paycss.site
 +.ucd-payers.site
@@ -479,7 +451,6 @@
 +.sgkaiyuan.com.cn
 +.shhongxin.com.cn
 +.smbc-caeaord.top
-+.dcxblocker.sa.com
 +.fsxingfuju.com.cn
 +.hoannglaota.click
 +.lovetennis.com.cn
@@ -494,8 +465,8 @@
 +.liaotianchaxun.top
 +.reactiva-pe.online
 +.sunsofm0ons.sa.com
-+.supporttfb-m.click
 +.takeumbrage.online
++.telegram-app.click
 +.tinipmusighnaca.gq
 +.trongxinhgai.click
 +.akbtxdzwjwss.sa.com
@@ -506,7 +477,6 @@
 +.page-management.ink
 +.thunderxauto.com.cn
 +.liferetarindh.online
-+.sejaexclusivo.online
 +.tarjetacenc0sud.site
 +.track-action247.shop
 +.track-action462.shop
@@ -519,6 +489,7 @@
 +.4lpfd9ptb5m684qa.shop
 +.6bfuifg8pdskuqu2.shop
 +.6isp3lzsxsv3mkh2.shop
++.cncosud-agency.online
 +.consultaemmelhor.shop
 +.econtablesegui.online
 +.fs41yezf0gxl1khh.shop
@@ -529,7 +500,6 @@
 +.jd2wp2dolt4qnlrw.shop
 +.jvowm8vpixg2r66r.shop
 +.l77o0p3b28xapydm.shop
-+.leplcd8s8haku8sl.shop
 +.loginn-businees.click
 +.n8tc64cy5dhqe5el.shop
 +.nu0bsdelbbytgiqi.shop
