@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-21T12:31:04.137Z
-# Size: 524
+# Last Updated: 2023-09-22T12:29:41.370Z
+# Size: 489
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -14,7 +14,6 @@
 +.uaa7.cn
 +.00673.cn
 +.01364.cn
-+.67duo.cn
 +.app.link
 +.biz.site
 +.ffysp.cn
@@ -52,6 +51,7 @@
 +.dns04.com
 +.dnset.com
 +.dumb1.com
++.eriol.cfd
 +.fleek.one
 +.goo08.top
 +.kziwyv.cn
@@ -60,7 +60,6 @@
 +.oss08.top
 +.rdwrtu.cn
 +.rgtbpf.cn
-+.wupzcu.cn
 +.x24hr.com
 +.zydkk.top
 +.zzdyxf.cn
@@ -81,12 +80,10 @@
 +.brizy.site
 +.bsutgy.top
 +.butcgf.top
-+.bxtvom.top
 +.bzemap.top
 +.canva.site
 +.chawap.top
 +.chydtin.cn
-+.cpqgdae.cn
 +.cq2023.top
 +.cq5678.top
 +.cq6789.top
@@ -95,7 +92,6 @@
 +.curror.top
 +.cwfbgrv.cn
 +.d40.com.cn
-+.dafmpe.top
 +.deqavt.top
 +.dkdgyp.top
 +.dqlwubq.cn
@@ -111,7 +107,6 @@
 +.erymuh.top
 +.eugippb.cn
 +.ewbiyc.top
-+.ezvzuz.top
 +.fkwwjv.top
 +.fujehn.top
 +.fxqull.top
@@ -126,7 +121,6 @@
 +.gumsty.top
 +.hamult.top
 +.hejjnz.top
-+.hifqbqy.cn
 +.hqeivx.top
 +.htwater.cn
 +.huaxwb.top
@@ -138,16 +132,13 @@
 +.ifdrps.top
 +.igqeylg.cn
 +.ihuzmn.top
-+.iiokuim.cn
 +.ijlquc.top
 +.iqntug.top
 +.itsaol.com
 +.jbkeal.top
-+.jbxcmh.top
 +.jhtszz.top
 +.jnweob.top
 +.jqglpky.cn
-+.jruavm.top
 +.jtjxas.top
 +.jurlvf.top
 +.juvrvxe.cn
@@ -171,13 +162,11 @@
 +.mcnfij.top
 +.memlzx.top
 +.meywgv.top
-+.mupmclg.cn
 +.mzphone.cn
 +.nbejzl.top
 +.ndfbpk.top
 +.ndowub.top
 +.nhgwrw.top
-+.nljlekf.cn
 +.nowfjwa.cn
 +.noxnfg.top
 +.nvqbnq.top
@@ -190,7 +179,6 @@
 +.okeonv.top
 +.olvcdy.top
 +.omrntt.top
-+.ondtzo.top
 +.ooppox.xyz
 +.ospuxv.top
 +.ovqfcd.top
@@ -200,7 +188,6 @@
 +.ppjltg.top
 +.ppoyyow.cn
 +.pskubz.top
-+.pxjtam.top
 +.qdfjie.top
 +.qdhkpn.top
 +.qfylpo.top
@@ -215,12 +202,10 @@
 +.rgduhhc.cn
 +.rgfqcly.cn
 +.rhkowp.top
-+.rnflew.top
 +.rvxxkq.top
 +.rzdobw.top
 +.rzyddn.top
 +.s4545h.top
-+.sckdvpu.cn
 +.souwjw.top
 +.sxrqzb.top
 +.sxwowh.top
@@ -228,7 +213,6 @@
 +.tbcowj.top
 +.thhjhm.top
 +.tkxizy.top
-+.tofzyqo.cn
 +.tqdfby.top
 +.trmaaw.top
 +.tufjsyw.cn
@@ -238,8 +222,6 @@
 +.ujfxkmr.cn
 +.ujfxuwm.cn
 +.ujgbwyo.cn
-+.ukmnqj.top
-+.uxwsys.top
 +.vahmgl.top
 +.vcbfvc.top
 +.vfeqfg.top
@@ -251,8 +233,6 @@
 +.vqimmrj.cn
 +.vrsloo.top
 +.vuvzqp.top
-+.vxaabt.top
-+.weioom.top
 +.wikaba.com
 +.wiwzzs.top
 +.wkxmzcp.cn
@@ -268,7 +248,6 @@
 +.xynthp.top
 +.ygoprqn.cn
 +.yigewg.top
-+.yjklhp.top
 +.yjxjma.top
 +.yooqar.top
 +.yrtyri.top
@@ -277,13 +256,11 @@
 +.ziezjzw.cn
 +.zjkyjjx.cn
 +.zrkotx.top
-+.zrqfwi.top
 +.zucrco.top
 +.zxvtuo.top
 +.zzbmng.top
 +.50gb045.xyz
 +.50gb055.xyz
-+.50gb066.xyz
 +.50gb112.xyz
 +.50gb122.xyz
 +.50gb141.xyz
@@ -295,17 +272,13 @@
 +.50gb300.xyz
 +.50gb349.xyz
 +.50gb397.xyz
-+.50gb442.xyz
-+.50gb584.xyz
 +.50gb680.xyz
-+.50gb987.xyz
 +.666888e.top
 +.aayy000.top
 +.aayy222.top
 +.all-vip.icu
 +.arborth.top
 +.audacad.top
-+.bese02.club
 +.bewnoew.top
 +.bi3i9g7.top
 +.cevi03.club
@@ -315,7 +288,6 @@
 +.faqserv.com
 +.freetcp.com
 +.instawp.xyz
-+.jiasuba.top
 +.jsgj123.xyz
 +.kell04.club
 +.mare01.club
@@ -362,13 +334,11 @@
 +.tzxta.sa.com
 +.vmlx98.codes
 +.yourtrap.com
-+.amazon-jp.org
 +.answer075.xyz
 +.bitrix24.site
 +.chadengji.top
 +.chajiashi.top
 +.chashouji.top
-+.chaweixin.top
 +.elt5ea.sa.com
 +.eyepal.sa.com
 +.imagesns.club
@@ -378,7 +348,6 @@
 +.law04wuk.club
 +.longmusic.com
 +.loophole.site
-+.pakdmzv.click
 +.spraid.com.cn
 +.viralkan.club
 +.xiuluo888.top
@@ -387,7 +356,6 @@
 +.chadingwei.top
 +.chakaifang.top
 +.chalaogong.top
-+.chashenfen.top
 +.chatonghua.top
 +.cnkacha.com.cn
 +.d7agencia.site
@@ -405,6 +373,7 @@
 +.wujilongly.top
 +.xiaobaiblm.top
 +.9qo4mc7uol.shop
++.acces0-net.site
 +.amazon-co-jp.tv
 +.appdomain.cloud
 +.becheery.com.cn
@@ -421,6 +390,7 @@
 +.mailbutler.link
 +.organiccrap.com
 +.shiyuecaiywb.cn
++.telegramfack.cf
 +.tmi1ljv09s.buzz
 +.ucd-paycss.site
 +.ucd-payers.site
@@ -442,7 +412,6 @@
 +.konpakuyoumu.top
 +.mangguotv.com.cn
 +.marketmaking.pro
-+.motuscapital.xyz
 +.omniforce.com.cn
 +.ornamento.online
 +.pesronas-cl.buzz
@@ -451,6 +420,7 @@
 +.sgkaiyuan.com.cn
 +.shhongxin.com.cn
 +.smbc-caeaord.top
++.acces0-web.online
 +.fsxingfuju.com.cn
 +.hoannglaota.click
 +.lovetennis.com.cn
@@ -461,7 +431,6 @@
 +.arakuteaan-bank.cc
 +.asiflyerbio.com.cn
 +.crseguridad.online
-+.jp-lmcpjgpuim.link
 +.liaotianchaxun.top
 +.reactiva-pe.online
 +.sunsofm0ons.sa.com
@@ -478,8 +447,6 @@
 +.thunderxauto.com.cn
 +.liferetarindh.online
 +.tarjetacenc0sud.site
-+.track-action247.shop
-+.track-action462.shop
 +.0g3t8jpt27d8fxj0.shop
 +.0t0l5z5mw1w56stk.shop
 +.1b58g4fz6m53yjmx.shop
@@ -487,7 +454,6 @@
 +.2vnlcwirsvhtau52.shop
 +.4dhjiba5az0ctfs5.shop
 +.4lpfd9ptb5m684qa.shop
-+.6bfuifg8pdskuqu2.shop
 +.6isp3lzsxsv3mkh2.shop
 +.cncosud-agency.online
 +.consultaemmelhor.shop
@@ -509,8 +475,6 @@
 +.tbxuuqz1gehiopnq.shop
 +.x6np956g63nvhtn7.shop
 +.amazon-verify-link.top
-+.extrainmediato-com.top
-+.forddealertools.com.cn
 +.hoang-nkdenquadi.click
 +.lifebiosciences.com.cn
 +.tasacerinteres-com.top
@@ -520,6 +484,7 @@
 +.intelligentpower.com.cn
 +.login-business-en.click
 +.rassnonsdeconsiewhor.ml
++.authorizetelegram.online
 +.gbyfdwjdoexkbdjehdid.top
 +.login-busiiness-en.click
 +.sbytotsmasthersborrdi.cf
