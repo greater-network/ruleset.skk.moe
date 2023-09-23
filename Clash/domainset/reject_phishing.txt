@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-22T12:29:41.370Z
-# Size: 489
+# Last Updated: 2023-09-23T12:26:49.565Z
+# Size: 462
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -22,7 +22,6 @@
 +.haky.top
 +.hasfm.cn
 +.hmyjc.cn
-+.hqykm.cn
 +.j6021.cn
 +.jtij.xyz
 +.lstjj.cn
@@ -45,7 +44,6 @@
 +.77271.top
 +.bkafvb.cn
 +.cdd08.top
-+.coeuzs.cn
 +.ddns.mobi
 +.denggw.cn
 +.dns04.com
@@ -53,7 +51,6 @@
 +.dumb1.com
 +.eriol.cfd
 +.fleek.one
-+.goo08.top
 +.kziwyv.cn
 +.lfzxwl.cn
 +.lunhei.cn
@@ -62,13 +59,11 @@
 +.rgtbpf.cn
 +.x24hr.com
 +.zydkk.top
-+.zzdyxf.cn
 +.10web.site
 +.513586.top
 +.advcsy.top
 +.afiyqjd.cn
 +.agahapa.cn
-+.agddwts.cn
 +.aqvtwz.top
 +.atwtfm.top
 +.ay0123.top
@@ -83,9 +78,7 @@
 +.bzemap.top
 +.canva.site
 +.chawap.top
-+.chydtin.cn
 +.cq2023.top
-+.cq5678.top
 +.cq6789.top
 +.cq8848.top
 +.csoqdb.top
@@ -101,9 +94,7 @@
 +.dwisysw.cn
 +.dxyvbbk.cn
 +.eibauco.cn
-+.eknjufc.cn
 +.enaumee.cn
-+.eqzfxm.top
 +.erymuh.top
 +.eugippb.cn
 +.ewbiyc.top
@@ -159,7 +150,6 @@
 +.loxuhz.top
 +.ltvfag.top
 +.mayqwo.top
-+.mcnfij.top
 +.memlzx.top
 +.meywgv.top
 +.mzphone.cn
@@ -186,10 +176,8 @@
 +.pcayvkv.cn
 +.ppduem.top
 +.ppjltg.top
-+.ppoyyow.cn
 +.pskubz.top
 +.qdfjie.top
-+.qdhkpn.top
 +.qfylpo.top
 +.qgaiblc.cn
 +.qhdseh.top
@@ -198,7 +186,6 @@
 +.rbkpmrz.cn
 +.rcgnnc.top
 +.rdaqfe.top
-+.rfedtt.top
 +.rgduhhc.cn
 +.rgfqcly.cn
 +.rhkowp.top
@@ -210,7 +197,6 @@
 +.sxrqzb.top
 +.sxwowh.top
 +.symeme.top
-+.tbcowj.top
 +.thhjhm.top
 +.tkxizy.top
 +.tqdfby.top
@@ -232,7 +218,6 @@
 +.vnchol.top
 +.vqimmrj.cn
 +.vrsloo.top
-+.vuvzqp.top
 +.wikaba.com
 +.wiwzzs.top
 +.wkxmzcp.cn
@@ -241,7 +226,6 @@
 +.xaecwn.top
 +.xawhrs.top
 +.xkephfg.cn
-+.xlhjxo.top
 +.xlppzb.top
 +.xrlkba.top
 +.xtdvmi.top
@@ -255,11 +239,9 @@
 +.zgfiab.top
 +.ziezjzw.cn
 +.zjkyjjx.cn
-+.zrkotx.top
 +.zucrco.top
 +.zxvtuo.top
 +.zzbmng.top
-+.50gb045.xyz
 +.50gb055.xyz
 +.50gb112.xyz
 +.50gb122.xyz
@@ -301,7 +283,6 @@
 +.simply.site
 +.tuozhi1.top
 +.wsoqwa9.top
-+.wxzzdfzk.cn
 +.yahaha.mobi
 +.yyjiafen.cn
 +.zdsxcac.top
@@ -350,6 +331,7 @@
 +.loophole.site
 +.spraid.com.cn
 +.viralkan.club
++.wuang14.click
 +.xiuluo888.top
 +.xmywjs.com.cn
 +.yunclouds.top
@@ -361,13 +343,14 @@
 +.d7agencia.site
 +.dns-report.com
 +.echo4frpp.club
++.etwryreyt.club
 +.fumeisi.com.cn
 +.hang04frp.club
 +.outcash-pe.top
++.perplexity.pro
 +.szyl168.com.cn
 +.temp-site.link
 +.temporary.link
-+.tesnitenaho.ml
 +.toythieves.com
 +.vip-new078.icu
 +.wujilongly.top
@@ -390,7 +373,6 @@
 +.mailbutler.link
 +.organiccrap.com
 +.shiyuecaiywb.cn
-+.telegramfack.cf
 +.tmi1ljv09s.buzz
 +.ucd-paycss.site
 +.ucd-payers.site
@@ -405,6 +387,9 @@
 +.chuguichaxun.top
 +.chunyulaile.shop
 +.cxblovker.sa.com
++.dshsewc3332rv.cn
++.dshsewc3334rv.cn
++.dshsewc3558rv.cn
 +.gaokelizi.com.cn
 +.greatstate.cloud
 +.jiudianruzhu.top
@@ -426,22 +411,17 @@
 +.lovetennis.com.cn
 +.rising2000.com.cn
 +.toshibanetcam.com
-+.zhengchengshi.top
 +.amazon-shopping.cc
-+.arakuteaan-bank.cc
 +.asiflyerbio.com.cn
 +.crseguridad.online
 +.liaotianchaxun.top
 +.reactiva-pe.online
 +.sunsofm0ons.sa.com
 +.takeumbrage.online
-+.telegram-app.click
 +.tinipmusighnaca.gq
 +.trongxinhgai.click
 +.akbtxdzwjwss.sa.com
 +.amazon-au-prime.com
-+.clienteaviso.online
-+.cpluselephat.sa.com
 +.nighofknifes.sa.com
 +.page-management.ink
 +.thunderxauto.com.cn
@@ -464,9 +444,7 @@
 +.i0veywkukoaga44u.shop
 +.imkd3c1ssk3d776f.shop
 +.jd2wp2dolt4qnlrw.shop
-+.jvowm8vpixg2r66r.shop
 +.l77o0p3b28xapydm.shop
-+.loginn-businees.click
 +.n8tc64cy5dhqe5el.shop
 +.nu0bsdelbbytgiqi.shop
 +.r8ho8heg90xrp8oa.shop
@@ -475,7 +453,6 @@
 +.tbxuuqz1gehiopnq.shop
 +.x6np956g63nvhtn7.shop
 +.amazon-verify-link.top
-+.hoang-nkdenquadi.click
 +.lifebiosciences.com.cn
 +.tasacerinteres-com.top
 +.agsgw1gq61g16g1asd.cyou
@@ -484,17 +461,13 @@
 +.intelligentpower.com.cn
 +.login-business-en.click
 +.rassnonsdeconsiewhor.ml
-+.authorizetelegram.online
 +.gbyfdwjdoexkbdjehdid.top
-+.login-busiiness-en.click
 +.sbytotsmasthersborrdi.cf
 +.spankkispanishstray.site
 +.accesofacilonline-com.top
 +.mengunjungi-website15.cfd
 +.actualizacion-clientes.xyz
 +.fromghoiuvddassspopme.shop
-+.solicitalnstante-peru.online
-+.wuxiruijushangmaoyxgs.com.cn
 +.distribuidoradebebidasambev.online
 +.quality-page-bussiness-5621325678451268.ink
 +.community-protection-social-media-review-page.ink
