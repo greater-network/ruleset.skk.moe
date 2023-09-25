@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-24T12:26:58.820Z
-# Size: 416
+# Last Updated: 2023-09-25T08:46:21.470Z
+# Size: 404
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -20,8 +20,6 @@
 +.gscdc.cn
 +.haky.top
 +.hasfm.cn
-+.hmyjc.cn
-+.j6021.cn
 +.jtij.xyz
 +.lstjj.cn
 +.mpaa.top
@@ -29,6 +27,7 @@
 +.mzdzb.cn
 +.nkdo.top
 +.qdsed.cn
++.thz.cool
 +.twckj.cn
 +.ucseo.cc
 +.xbnmx.cn
@@ -36,10 +35,10 @@
 +.zyns.com
 +.zzux.com
 +.2waky.com
++.3ksz4.cfd
 +.50220.top
 +.50227.top
 +.bkafvb.cn
-+.cdd08.top
 +.dns04.com
 +.dnset.com
 +.fleek.one
@@ -89,7 +88,6 @@
 +.erymuh.top
 +.eugippb.cn
 +.ewbiyc.top
-+.fkwwjv.top
 +.fujehn.top
 +.fxqull.top
 +.fzcarv.top
@@ -125,7 +123,6 @@
 +.kbokna.top
 +.kckenoh.cn
 +.khtqts.top
-+.kiswncn.cn
 +.kvzcny.top
 +.kytuvh.top
 +.lafhaa.top
@@ -133,7 +130,6 @@
 +.ldoepj.top
 +.ldzksn.top
 +.ljhlna.top
-+.llecloh.cn
 +.loxuhz.top
 +.ltvfag.top
 +.mayqwo.top
@@ -170,7 +166,6 @@
 +.rcgnnc.top
 +.rdaqfe.top
 +.rgduhhc.cn
-+.rgfqcly.cn
 +.rhkowp.top
 +.rvxxkq.top
 +.rzdobw.top
@@ -191,7 +186,6 @@
 +.vahmgl.top
 +.vcbfvc.top
 +.vfeqfg.top
-+.vfqmbg.top
 +.vhppwze.cn
 +.vizvaz.com
 +.vjyozq.top
@@ -205,7 +199,6 @@
 +.wzfsml.top
 +.xaecwn.top
 +.xawhrs.top
-+.xkephfg.cn
 +.xlppzb.top
 +.xrlkba.top
 +.xtdvmi.top
@@ -270,7 +263,6 @@
 +.chataren.top
 +.chaweizi.top
 +.company.site
-+.fox4nle.club
 +.inble.com.cn
 +.justdied.com
 +.misecure.com
@@ -374,7 +366,6 @@
 +.amazon-shopping.cc
 +.asiflyerbio.com.cn
 +.crseguridad.online
-+.reactiva-pe.online
 +.sunsofm0ons.sa.com
 +.takeumbrage.online
 +.tinipmusighnaca.gq
@@ -388,7 +379,6 @@
 +.0t0l5z5mw1w56stk.shop
 +.2ig2h0b1hq71c8qf.shop
 +.2vnlcwirsvhtau52.shop
-+.4dhjiba5az0ctfs5.shop
 +.4lpfd9ptb5m684qa.shop
 +.6isp3lzsxsv3mkh2.shop
 +.cncosud-agency.online
@@ -402,7 +392,6 @@
 +.l77o0p3b28xapydm.shop
 +.n8tc64cy5dhqe5el.shop
 +.nu0bsdelbbytgiqi.shop
-+.r8ho8heg90xrp8oa.shop
 +.sb74ht3humc1u51i.shop
 +.slpsanjuancorp.online
 +.tbxuuqz1gehiopnq.shop
@@ -410,7 +399,6 @@
 +.amazon-verify-link.top
 +.lifebiosciences.com.cn
 +.agsgw1gq61g16g1asd.cyou
-+.amazon-developments.com
 +.facilaprobacion-com.top
 +.intelligentpower.com.cn
 +.login-business-en.click
