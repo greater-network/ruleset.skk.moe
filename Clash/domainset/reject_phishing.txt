@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-25T12:31:19.384Z
-# Size: 393
+# Last Updated: 2023-09-26T12:30:56.489Z
+# Size: 367
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -23,7 +23,6 @@
 +.jtij.xyz
 +.lstjj.cn
 +.mpaa.top
-+.mywbj.cn
 +.mzdzb.cn
 +.nkdo.top
 +.qdsed.cn
@@ -33,9 +32,7 @@
 +.zyns.com
 +.zzux.com
 +.2waky.com
-+.3ksz4.cfd
 +.50220.top
-+.50227.top
 +.bkafvb.cn
 +.dns04.com
 +.dnset.com
@@ -47,10 +44,8 @@
 +.rdwrtu.cn
 +.rgtbpf.cn
 +.x24hr.com
-+.zydkk.top
 +.10web.site
 +.513586.top
-+.advcsy.top
 +.afiyqjd.cn
 +.agahapa.cn
 +.aqvtwz.top
@@ -65,7 +60,6 @@
 +.bsutgy.top
 +.bzemap.top
 +.canva.site
-+.chawap.top
 +.cq2023.top
 +.cq6789.top
 +.cq8848.top
@@ -74,13 +68,12 @@
 +.cwfbgrv.cn
 +.d40.com.cn
 +.deqavt.top
-+.dkdgyp.top
 +.dqlwubq.cn
 +.drgugb.top
 +.drjckqn.cn
 +.drzfwu.top
 +.dwisysw.cn
-+.eibauco.cn
++.eerxfxh.cn
 +.enaumee.cn
 +.erymuh.top
 +.eugippb.cn
@@ -98,10 +91,8 @@
 +.hamult.top
 +.hejjnz.top
 +.htwater.cn
-+.hygerp.top
 +.ibicfdk.cn
 +.idygio.top
-+.ietlwv.top
 +.ifdrps.top
 +.igqeylg.cn
 +.ihuzmn.top
@@ -109,6 +100,7 @@
 +.itsaol.com
 +.jbkeal.top
 +.jhtszz.top
++.jnbwhxc.cn
 +.jnweob.top
 +.jqglpky.cn
 +.jtjxas.top
@@ -122,11 +114,11 @@
 +.lafhaa.top
 +.laitol.top
 +.ldoepj.top
-+.ldzksn.top
 +.ljhlna.top
-+.loxuhz.top
 +.ltvfag.top
++.lytjvtd.cn
 +.mayqwo.top
++.mbauhee.cn
 +.memlzx.top
 +.meywgv.top
 +.nbejzl.top
@@ -139,14 +131,12 @@
 +.nynspn.top
 +.odzjkf.top
 +.oegkvr.top
-+.ofhzuue.cn
 +.ofynwty.cn
 +.okeonv.top
 +.olvcdy.top
 +.omrntt.top
 +.ospuxv.top
 +.pcayvkv.cn
-+.ppduem.top
 +.ppjltg.top
 +.pskubz.top
 +.qfylpo.top
@@ -154,10 +144,9 @@
 +.qhdseh.top
 +.qhncru.top
 +.qxcmrv.top
-+.rbkpmrz.cn
 +.rdaqfe.top
 +.rgduhhc.cn
-+.rhkowp.top
++.ruhzsjo.cn
 +.rvxxkq.top
 +.rzdobw.top
 +.rzyddn.top
@@ -187,7 +176,6 @@
 +.wkxmzcp.cn
 +.wrbpva.top
 +.wzfsml.top
-+.xaecwn.top
 +.xawhrs.top
 +.xlppzb.top
 +.xrlkba.top
@@ -200,6 +188,7 @@
 +.yuzied.top
 +.zgfiab.top
 +.zjkyjjx.cn
++.zvcbcmo.cn
 +.zxvtuo.top
 +.zzbmng.top
 +.50gb112.xyz
@@ -209,8 +198,6 @@
 +.50gb173.xyz
 +.50gb174.xyz
 +.50gb178.xyz
-+.50gb300.xyz
-+.50gb349.xyz
 +.50gb397.xyz
 +.50gb680.xyz
 +.666888e.top
@@ -218,7 +205,6 @@
 +.aayy222.top
 +.arborth.top
 +.audacad.top
-+.bi3i9g7.top
 +.cevi03.club
 +.chafalv.top
 +.chajilu.top
@@ -226,11 +212,9 @@
 +.faqserv.com
 +.freetcp.com
 +.instawp.xyz
-+.kell04.club
 +.mare01.club
 +.mefound.com
 +.mrbasic.com
-+.mrbonus.com
 +.onedumb.com
 +.qybz.com.cn
 +.sc8iq8w.top
@@ -269,7 +253,6 @@
 +.chadengji.top
 +.chajiashi.top
 +.chashouji.top
-+.cxbxfhd.cloud
 +.dabvgdv.cloud
 +.elt5ea.sa.com
 +.eyepal.sa.com
@@ -289,14 +272,12 @@
 +.chakaifang.top
 +.chalaogong.top
 +.chatonghua.top
-+.cnkacha.com.cn
 +.d7agencia.site
 +.dns-report.com
 +.etwryreyt.club
 +.fumeisi.com.cn
 +.hang04frp.club
 +.outcash-pe.top
-+.perplexity.pro
 +.temp-site.link
 +.temporary.link
 +.toythieves.com
@@ -306,7 +287,6 @@
 +.acces0-net.site
 +.appdomain.cloud
 +.becheery.com.cn
-+.belleysh.com.cn
 +.choicteial.shop
 +.dengjixinxi.top
 +.etwryreyt.cloud
@@ -319,12 +299,10 @@
 +.mailbutler.link
 +.organiccrap.com
 +.shiyuecaiywb.cn
-+.tmi1ljv09s.buzz
 +.ucd-paycss.site
 +.vodfaone.sa.com
 +.youdontcare.com
 +.alinaofficial.id
-+.amazon-co-ne.top
 +.binguanxinxi.top
 +.bjlangjie.com.cn
 +.chanthenho.click
@@ -340,11 +318,9 @@
 +.mangguotv.com.cn
 +.marketmaking.pro
 +.omniforce.com.cn
-+.saleproducts.icu
 +.servirtuales.win
 +.sgkaiyuan.com.cn
 +.shhongxin.com.cn
-+.smbc-caeaord.top
 +.acces0-web.online
 +.fsxingfuju.com.cn
 +.lovetennis.com.cn
@@ -363,12 +339,10 @@
 +.thunderxauto.com.cn
 +.tarjetacenc0sud.site
 +.0g3t8jpt27d8fxj0.shop
-+.0t0l5z5mw1w56stk.shop
 +.2ig2h0b1hq71c8qf.shop
 +.2vnlcwirsvhtau52.shop
 +.4lpfd9ptb5m684qa.shop
 +.6isp3lzsxsv3mkh2.shop
-+.authentlcation.online
 +.cncosud-agency.online
 +.consultaemmelhor.shop
 +.econtablesegui.online
@@ -385,20 +359,20 @@
 +.tbxuuqz1gehiopnq.shop
 +.x6np956g63nvhtn7.shop
 +.amazon-verify-link.top
++.hangzhougupiaoxinxi.cn
 +.lifebiosciences.com.cn
 +.agsgw1gq61g16g1asd.cyou
-+.facilaprobacion-com.top
 +.intelligentpower.com.cn
 +.login-business-en.click
 +.rassnonsdeconsiewhor.ml
 +.gbyfdwjdoexkbdjehdid.top
++.hangzhoupeiziruanjian.cn
 +.sbytotsmasthersborrdi.cf
 +.spankkispanishstray.site
 +.accesofacilonline-com.top
 +.mengunjungi-website15.cfd
 +.actualizacion-clientes.xyz
 +.fromghoiuvddassspopme.shop
-+.linkdaget23xcodehosting.xyz
 +.distribuidoradebebidasambev.online
 +.quality-page-bussiness-5621325678451268.ink
 +.community-protection-social-media-review-page.ink
