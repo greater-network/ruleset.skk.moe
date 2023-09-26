@@ -194,6 +194,7 @@ SUFFIX,jable.tv
 SUFFIX,joox.com
 SUFFIX,jspm.dev
 SUFFIX,judge.me
+SUFFIX,kagi.com
 SUFFIX,kwai.net
 SUFFIX,legra.ph
 SUFFIX,live.com
@@ -249,6 +250,7 @@ SUFFIX,xbox.com
 SUFFIX,xing.com
 SUFFIX,xkcd.com
 SUFFIX,xlog.app
+SUFFIX,yande.re
 SUFFIX,yext.com
 SUFFIX,yimg.com
 SUFFIX,ymq.cool
@@ -281,6 +283,7 @@ SUFFIX,cdnpk.net
 SUFFIX,cdnst.net
 SUFFIX,ceros.com
 SUFFIX,circle.so
+SUFFIX,clerk.com
 SUFFIX,cliqz.com
 SUFFIX,clutch.co
 SUFFIX,coveo.com
@@ -504,11 +507,13 @@ SUFFIX,mega.co.nz
 SUFFIX,micro.blog
 SUFFIX,missav.com
 SUFFIX,mojang.com
+SUFFIX,moovit.com
 SUFFIX,motrix.app
 SUFFIX,msecnd.net
 SUFFIX,msocdn.com
 SUFFIX,muscdn.com
 SUFFIX,musical.ly
+SUFFIX,mvtdev.com
 SUFFIX,nagich.com
 SUFFIX,namemc.com
 SUFFIX,netflix.ca
@@ -944,6 +949,7 @@ SUFFIX,testling.com
 SUFFIX,tildacdn.com
 SUFFIX,tinypass.com
 SUFFIX,tokenview.io
+SUFFIX,tronscan.org
 SUFFIX,trysavvy.com
 SUFFIX,tth-ipfs.com
 SUFFIX,turbobit.net
@@ -1323,6 +1329,7 @@ SUFFIX,theplatform.com
 SUFFIX,theporndude.com
 SUFFIX,uber-assets.com
 SUFFIX,uptimerobot.com
+SUFFIX,uscardforum.com
 SUFFIX,usemessages.com
 SUFFIX,usercontent.dev
 SUFFIX,usercontent.one
@@ -1408,6 +1415,7 @@ SUFFIX,dropboxstatic.com
 SUFFIX,envato-static.com
 SUFFIX,flightradar24.com
 SUFFIX,fnbuilds.services
+SUFFIX,freebiesupply.com
 SUFFIX,freshworksapi.com
 SUFFIX,gitlab-static.net
 SUFFIX,grumpybumpers.com
