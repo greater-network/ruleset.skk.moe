@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-26T12:30:56.489Z
-# Size: 367
+# Last Updated: 2023-09-27T12:30:55.314Z
+# Size: 339
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -16,7 +16,6 @@
 +.01364.cn
 +.app.link
 +.biz.site
-+.ffysp.cn
 +.gscdc.cn
 +.haky.top
 +.hasfm.cn
@@ -34,12 +33,11 @@
 +.2waky.com
 +.50220.top
 +.bkafvb.cn
++.cpnel.xyz
 +.dns04.com
 +.dnset.com
 +.fleek.one
 +.kziwyv.cn
-+.lfzxwl.cn
-+.lunhei.cn
 +.oss08.top
 +.rdwrtu.cn
 +.rgtbpf.cn
@@ -48,12 +46,13 @@
 +.513586.top
 +.afiyqjd.cn
 +.agahapa.cn
++.apidhke.cc
 +.aqvtwz.top
 +.atwtfm.top
 +.ay0123.top
 +.aygzs5.top
-+.ayzxyzs.cn
 +.bfzxpl.top
++.bpiuub.cfd
 +.bqfpes.top
 +.bqlkbi.top
 +.brizy.site
@@ -64,7 +63,6 @@
 +.cq6789.top
 +.cq8848.top
 +.csoqdb.top
-+.curror.top
 +.cwfbgrv.cn
 +.d40.com.cn
 +.deqavt.top
@@ -76,7 +74,6 @@
 +.eerxfxh.cn
 +.enaumee.cn
 +.erymuh.top
-+.eugippb.cn
 +.ewbiyc.top
 +.fujehn.top
 +.fxqull.top
@@ -87,9 +84,9 @@
 +.ggjtsgh.cn
 +.gm5678.top
 +.goorm.site
++.gu1aaw.cfd
 +.gumsty.top
 +.hamult.top
-+.hejjnz.top
 +.htwater.cn
 +.ibicfdk.cn
 +.idygio.top
@@ -100,7 +97,6 @@
 +.itsaol.com
 +.jbkeal.top
 +.jhtszz.top
-+.jnbwhxc.cn
 +.jnweob.top
 +.jqglpky.cn
 +.jtjxas.top
@@ -135,7 +131,7 @@
 +.okeonv.top
 +.olvcdy.top
 +.omrntt.top
-+.ospuxv.top
++.p2xo3r.cfd
 +.pcayvkv.cn
 +.ppjltg.top
 +.pskubz.top
@@ -144,6 +140,7 @@
 +.qhdseh.top
 +.qhncru.top
 +.qxcmrv.top
++.r8ezah.cfd
 +.rdaqfe.top
 +.rgduhhc.cn
 +.ruhzsjo.cn
@@ -151,20 +148,17 @@
 +.rzdobw.top
 +.rzyddn.top
 +.s4545h.top
-+.souwjw.top
 +.sxrqzb.top
 +.sxwowh.top
 +.tkxizy.top
 +.tqdfby.top
 +.trmaaw.top
-+.tufjsyw.cn
 +.turbzs.top
 +.ufvnjr.top
 +.ugpwsx.top
 +.ujfxuwm.cn
 +.vahmgl.top
 +.vcbfvc.top
-+.vfeqfg.top
 +.vhppwze.cn
 +.vizvaz.com
 +.vjyozq.top
@@ -191,32 +185,26 @@
 +.zvcbcmo.cn
 +.zxvtuo.top
 +.zzbmng.top
-+.50gb112.xyz
 +.50gb122.xyz
 +.50gb141.xyz
 +.50gb171.xyz
-+.50gb173.xyz
 +.50gb174.xyz
 +.50gb178.xyz
 +.50gb397.xyz
 +.50gb680.xyz
 +.666888e.top
-+.aayy000.top
 +.aayy222.top
 +.arborth.top
 +.audacad.top
-+.cevi03.club
 +.chafalv.top
 +.chajilu.top
 +.dlzhjcyx.cn
-+.faqserv.com
 +.freetcp.com
 +.instawp.xyz
 +.mare01.club
 +.mefound.com
 +.mrbasic.com
 +.onedumb.com
-+.qybz.com.cn
 +.sc8iq8w.top
 +.tuozhi1.top
 +.wsoqwa9.top
@@ -228,7 +216,6 @@
 +.aygzs000.top
 +.caihongpp.cn
 +.chalvshe.top
-+.chameinv.top
 +.chamitan.top
 +.chataren.top
 +.chaweizi.top
@@ -244,7 +231,6 @@
 +.qqchaxun.top
 +.ranaonra.top
 +.sexidude.com
-+.sin4nle.club
 +.tzxta.sa.com
 +.vmlx98.codes
 +.yourtrap.com
@@ -255,7 +241,6 @@
 +.chashouji.top
 +.dabvgdv.cloud
 +.elt5ea.sa.com
-+.eyepal.sa.com
 +.imagesns.club
 +.jxjxyy.com.cn
 +.kpages.online
@@ -264,7 +249,6 @@
 +.loophole.site
 +.spraid.com.cn
 +.viralkan.club
-+.wuang14.click
 +.xiuluo888.top
 +.xmywjs.com.cn
 +.yunclouds.top
@@ -273,7 +257,6 @@
 +.chalaogong.top
 +.chatonghua.top
 +.d7agencia.site
-+.dns-report.com
 +.etwryreyt.club
 +.fumeisi.com.cn
 +.hang04frp.club
@@ -281,17 +264,12 @@
 +.temp-site.link
 +.temporary.link
 +.toythieves.com
-+.vip-new078.icu
 +.xiaobaiblm.top
 +.9qo4mc7uol.shop
 +.acces0-net.site
-+.appdomain.cloud
 +.becheery.com.cn
-+.choicteial.shop
 +.dengjixinxi.top
 +.etwryreyt.cloud
-+.goldford.com.cn
-+.grtworld.com.cn
 +.help-co-jp.info
 +.jin-qiao.com.cn
 +.jungleheart.com
@@ -310,7 +288,6 @@
 +.chunyulaile.shop
 +.cxblovker.sa.com
 +.dshsewc3332rv.cn
-+.dshsewc3334rv.cn
 +.gaokelizi.com.cn
 +.greatstate.cloud
 +.jiudianruzhu.top
@@ -324,7 +301,6 @@
 +.acces0-web.online
 +.fsxingfuju.com.cn
 +.lovetennis.com.cn
-+.rising2000.com.cn
 +.toshibanetcam.com
 +.amazon-shopping.cc
 +.asiflyerbio.com.cn
@@ -339,19 +315,15 @@
 +.thunderxauto.com.cn
 +.tarjetacenc0sud.site
 +.0g3t8jpt27d8fxj0.shop
-+.2ig2h0b1hq71c8qf.shop
 +.2vnlcwirsvhtau52.shop
 +.4lpfd9ptb5m684qa.shop
 +.6isp3lzsxsv3mkh2.shop
 +.cncosud-agency.online
 +.consultaemmelhor.shop
 +.econtablesegui.online
-+.fs41yezf0gxl1khh.shop
 +.g0vy03a8qvswd964.shop
-+.hedml21x0volzi13.shop
 +.i0veywkukoaga44u.shop
 +.imkd3c1ssk3d776f.shop
-+.l77o0p3b28xapydm.shop
 +.n8tc64cy5dhqe5el.shop
 +.nu0bsdelbbytgiqi.shop
 +.sb74ht3humc1u51i.shop
