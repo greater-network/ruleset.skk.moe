@@ -1,7 +1,7 @@
 web.app                                                                                             2820
 firebaseapp.com                                                                                     2812
 cf-ipfs.com                                                                                         1089
-cloudfront.net                                                                                      1066
+cloudfront.net                                                                                      1067
 repl.co                                                                                             868
 r2.dev                                                                                              775
 workers.dev                                                                                         647
@@ -206,6 +206,7 @@ zettle.com                                                                      
 adp.ca                                                                                              12
 afkwa.com                                                                                           12
 averydennison.com                                                                                   12
+cdn77.org                                                                                           12
 chip.de                                                                                             12
 cleverapps.io                                                                                       12
 cloudfunctions.net                                                                                  12

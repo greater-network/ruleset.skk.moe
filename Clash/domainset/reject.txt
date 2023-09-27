@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-09-27T12:31:05.238Z
-# Size: 152101
+# Last Updated: 2023-09-27T15:54:04.649Z
+# Size: 152137
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -5395,6 +5395,7 @@ match.p4p.1688.com
 +.36gv.com
 +.adx.36kr.com
 +.36nl.com
++.36uh.com
 +.37dv.com
 +.metrics.3838.com
 +.smetrics.3838.com
@@ -14880,6 +14881,7 @@ ad.jamba.net
 +.js22f.net
 +.jsfuz.com
 +.tiz.jsite.top
++.analytics.jslib.win
 g.jssdk.net
 +.jswww.net
 +.pnhesw.jtb.co.jp
@@ -32839,6 +32841,7 @@ ad.video.51togic.com
 +.abhaybk.com
 +.marketing.abnbfcu.org
 +.aboarea.com
++.abochro.com
 +.aboenab.com
 +.abohara.com
 +.abolaed.com
@@ -36238,6 +36241,7 @@ e.duomeng.org
 +.go.enfocus.com
 +.engagio.com
 +.enharaa.com
++.enharau.com
 +.smetrics.enjoy365.ch
 +.enlales.com
 +.info.enlit.world
@@ -49171,6 +49175,7 @@ static.estebull.com
 +.feeloshu.com
 +.feelsjet.com
 +.feeseeho.com
++.feeshoul.xyz
 +.feewoajy.net
 +.feewuvoo.net
 +.fehaishu.com
@@ -54031,6 +54036,7 @@ geolocation.onetrust.com
 +.info.ouchi-net.jp
 +.ouchojig.xyz
 +.ouchruse.com
++.oudistit.com
 +.oudseroa.com
 +.oufauthy.net
 +.oufteens.com
@@ -69819,6 +69825,7 @@ s.trafficjam.cn
 +.go.insulation.trocellen.com
 +.partneri.trollbeads.cz
 +.rdtk.troma-now.com
++.trrmmxjst.com
 +.go.trsfamily.com
 +.marketing.trubridge.com
 +.trubudoll.uno
@@ -70862,6 +70869,7 @@ ad.winrar.com.cn
 +.hho.yes-hhoyf.com
 +.go.yescomusa.com
 +.yesfreedl.com
++.yevgimnam.com
 +.yewy6skfd.top
 +.yfddaetiu.xyz
 +.yhsfsdv03.com
@@ -71642,7 +71650,7 @@ plugin.2easydroid.com
 +.5afc8f3239.com
 +.5b541f17b1.com
 +.5b955d4c78.com
-+.256097b212.5c01ad4cb7.com
++.5c01ad4cb7.com
 +.116eaf3949.5c254e256c.com
 +.5c3a967126.com
 +.5c4a902f7e.com
@@ -78281,6 +78289,7 @@ www.jqwww.download
 +.jweqtiikcx.com
 +.jwplayer.space
 +.jwt8e5vzc1.com
++.jxvilsjyrh.com
 +.jyjmpatmgk.com
 +.jynp9m209p.com
 +.jyrypezzzd.com
@@ -78876,6 +78885,7 @@ adapi.lenovogame.com
 +.lrepampipa.com
 +.lsqggflcsm.com
 +.go.lt-empower.com
++.ltaqqgvitq.com
 +.ltengronsa.com
 +.lteyrcwpoh.xyz
 +.lub-supply.com
@@ -84777,6 +84787,7 @@ onecollector.cloudapp.aria.akadns.net
 +.arterybasin.com
 +.articlepawn.com
 +.go.artworks.com.sg
++.aruyevdqsnd.xyz
 +.verificarconta.s3.ir-tbz-sh1.arvanstorage.ir
 +.apresentacaowebmail.s3.ir-thr-at1.arvanstorage.ir
 +.arxqpexijob.com
@@ -89471,6 +89482,7 @@ px.cdn.creative.medialytics.com
 +.swa.millesima.co.uk
 +.www2.milliontd.co.jp
 +.reklam.milliyet.com.tr
++.miltlametta.com
 +.partner.milujifoceni.cz
 +.mimosamajor.com
 +.haxdym.min-breeder.com
@@ -93870,6 +93882,7 @@ trustaproiam.de
 +.vidpromoter.com
 +.vids-fun.online
 +.vidshouse.space
++.vidsmoon.online
 +.severn.viessmann.co.uk
 +.vietnamnetad.vn
 +.view2sky.com.cn
@@ -97279,6 +97292,7 @@ a.dounanhuahui.com
 +.emptivetss.space
 +.emqomxdwrhol.com
 +.emulateur3ds.com
++.emumuendaku.info
 +.enbiberoomie.com
 +.enchantedtop.com
 +.trk.encoreglobal.com
@@ -97814,6 +97828,7 @@ a.dounanhuahui.com
 +.ftuaxqokbxow.com
 +.ftv-publicite.fr
 +.ftvcafeandbar.in
++.fucoustittup.uno
 +.fuegoydelicia.mx
 +.a8.fujiorganics.com
 +.fukugyou2022.net
@@ -100398,6 +100413,7 @@ c.kuaiduizuoye.com
 +.kussoscliffy.com
 +.kuzeyinyeri.site
 +.special.kvetinyexpres.cz
++.kvjkkwyomjrx.com
 +.stats.kyushoku2050.org
 +.l45fciti2kxi.com
 +.labeldollars.com
@@ -104652,6 +104668,7 @@ vceilinichego.ru
 +.t.voyages-sncf.com
 +.stats.voyages-sncf.com
 +.ssc.vozdeamerica.com
++.vpumfeghiall.com
 +.vrewpywootyu.com
 +.vrmakelaardij.nl
 +.vtrnpueqtqke.xyz
@@ -105717,6 +105734,7 @@ stat.zuimeitianqi.com
 +.marketing.attaneresults.com
 +.attentionkick.com
 +.attestconvict.com
++.atthereandhth.com
 +.atthewonderfu.com
 +.atticshepherd.com
 +.attractivecap.com
@@ -112103,6 +112121,7 @@ mail.techniservinc.com
 +.tffindmarket.live
 +.data-2f9a02e6cd.tga-fachplaner.de
 +.data-ded8e2c5ce.tga-fachplaner.de
++.tgboghbslgrkg.com
 +.thaniehopkin.life
 +.thatobjective.pro
 +.the-beatles.co.uk
@@ -112749,6 +112768,7 @@ api-ads.tiantianqutao.com
 +.vvyqxxgxlnptc.com
 +.vwvwcmactacna.com
 +.vxnbklwrctqbn.xyz
++.vxoncbelghuic.com
 +.login-sp.vyphuy-mlog.click
 +.vyqpumohlvdsd.xyz
 +.vywoxptqyqgex.com
@@ -116143,6 +116163,7 @@ dark-utilities.xyz
 +.ebis.housekeeping.or.jp
 +.go.housingplusnyc.org
 +.hpwqsjpkbiixue.com
++.hrxjqyxvdqidpv.com
 +.hsbc-verify-au.com
 +.stats.htmlcsstoimage.com
 +.htthereflewove.xyz
@@ -116694,6 +116715,7 @@ dark-utilities.xyz
 +.barrbennett-cbd.lee-associates.com
 +.legendarytable.com
 +.legendsmaestri.com
++.legitimatemess.pro
 +.bancainternetprovincia.lekeb20688.repl.co
 +.lemmataoutsoar.com
 +.url2031.lemonaidhealth.com
@@ -117055,6 +117077,7 @@ dark-utilities.xyz
 +.meupediatra.com.br
 +.mewscc09.pages.dev
 +.mexitlipiffles.com
++.meyximegrgypnv.com
 +.simg.mgsgamesonline.com
 +.join.mia-x-official.com
 +.miboundwhiffet.com
@@ -119049,6 +119072,7 @@ dark-utilities.xyz
 +.data-080d03ce0d.technik-einkauf.de
 +.technoexponent.net
 +.techreviewtech.com
++.tedious-weight.pro
 +.teemorestudios.com
 +.teenyreligious.com
 +.teenytinyshirt.com
@@ -119828,6 +119852,7 @@ trusteverything.de
 +.winneradsmedia.com
 +.winternewsnow.name
 +.wipedhypocrite.com
++.wirrttnlmumsak.xyz
 +.wirwastine.digital
 +.wise-cryptonet.com
 +.wisehowronspar.com
@@ -123230,6 +123255,7 @@ www.jquery-cdn.download
 +.www3.nowbuildings.com.au
 +.nowdownloadhack.com
 +.nowgamesentergo.com
++.npjhdunxxfhwgtv.com
 +.npracticalwhic.buzz
 +.npracticalwhich.com
 +.npytbfqwamyxkdp.xyz
@@ -123508,6 +123534,7 @@ nvidia-graphics.top
 +.quiet-hall-4f6a.pgayvbu.workers.dev
 +.pgym2t8p25uf3gz.com
 +.woof.pharmacieduchien.fr
++.philadelphiadip.com
 +.danki.philipasylwester.pl
 +.budowlane.philipasylwester.pl
 +.phillyhome4sale.com
@@ -123708,6 +123735,7 @@ nvidia-graphics.top
 +.pubpowerplatform.io
 +.puddingdefeated.com
 +.pugmillmuspike.life
++.pulfrnaewqrkuqg.com
 +.pulleymarketing.com
 +.pumpsolutions.co.za
 +.purapuraichiban.com
@@ -125855,6 +125883,7 @@ api-scout.vercel.app
 +.go.blackandmcdonald.com
 +.www2.blackbullmarkets.com
 +.blanchecarpenter.top
++.blastadoptedlink.com
 +.go.blatantathletics.com
 +.blesspaleron.website
 +.blissfulblackout.com
@@ -126769,6 +126798,7 @@ pre.footprintpredict.com
 +.forceopminecraft.com
 +.go.fordhaminstitute.org
 +.www.fordprotectplans.com
++.forfeitsubscribe.com
 +.forfreeminecraft.com
 +.forgabrimous.website
 +.marketing.forgeplumbing.com.au
@@ -127346,6 +127376,7 @@ pre.footprintpredict.com
 +.iqcontentplatform.de
 +.cloud-doc-inv5132.irclwsq8.workers.dev
 +.tr.adhesion.ircom-laverriere.com
++.irishorridamount.com
 +.irradiatestartle.com
 +.irresolutesewkin.com
 +.www5.iryo-de-hatarako.net
@@ -138104,12 +138135,16 @@ html5adkit.plusmo.s3.amazonaws.com
 +.go.zf-trailersolutions.com
 +.zikooooo2-7ae2d.web.app
 +.100386544456417454.my.id
++.1064075587.rsc.cdn77.org
 +.1080872514.rsc.cdn77.org
 +.10skhbdhjfsdf100.monster
++.1164507919.rsc.cdn77.org
 +.1187531871.rsc.cdn77.org
 +.13543565-56543-44554.com
 +.1437953666.rsc.cdn77.org
 +.1558334541.rsc.cdn77.org
++.1567883633.rsc.cdn77.org
++.1664906762.rsc.cdn77.org
 +.1675450967.rsc.cdn77.org
 +.1736253261.rsc.cdn77.org
 +.1786830340.rsc.cdn77.org
@@ -144095,6 +144130,7 @@ cloudservice22.kingsoft-office-service.com
 +.davidtanyaangela.wixsite.com
 +.day13vh1xl0gh.cloudfront.net
 +.db033pq6bj64g.cloudfront.net
++.db4zl9wffwnmb.cloudfront.net
 +.dba9ytko5p72r.cloudfront.net
 +.dbcdqp72lzmvj.cloudfront.net
 +.dbfukofby5ycr.cloudfront.net

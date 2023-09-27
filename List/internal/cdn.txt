@@ -27,6 +27,7 @@ SUFFIX,he.net
 SUFFIX,ibb.co
 SUFFIX,img.ly
 SUFFIX,iq.com
+SUFFIX,jup.io
 SUFFIX,k2s.cc
 SUFFIX,k8s.io
 SUFFIX,kfs.io
@@ -141,6 +142,7 @@ SUFFIX,wxw.moe
 SUFFIX,xoqq.ch
 SUFFIX,z4a.net
 SUFFIX,zoom.us
+SUFFIX,1drv.com
 SUFFIX,4cdn.org
 SUFFIX,520cc.cc
 SUFFIX,7mmtv.me
@@ -659,6 +661,7 @@ SUFFIX,dogehls.xyz
 SUFFIX,download.it
 SUFFIX,dropbox.com
 SUFFIX,dweb.eu.org
+SUFFIX,dwebops.pub
 SUFFIX,easylist.to
 SUFFIX,ebayimg.com
 SUFFIX,elephas.app
@@ -932,6 +935,7 @@ SUFFIX,quriobot.com
 SUFFIX,roboflow.com
 SUFFIX,rocketcdn.me
 SUFFIX,rollupjs.org
+SUFFIX,saasexch.com
 SUFFIX,saucenao.com
 SUFFIX,savvycal.com
 SUFFIX,sendgrid.net
@@ -1325,6 +1329,7 @@ SUFFIX,stefanjudis.com
 SUFFIX,swiftypecdn.com
 SUFFIX,tailwindcss.com
 SUFFIX,tapecontent.net
+SUFFIX,tayfundogdas.me
 SUFFIX,theplatform.com
 SUFFIX,theporndude.com
 SUFFIX,uber-assets.com
@@ -1381,6 +1386,7 @@ SUFFIX,publicsuffix.org
 SUFFIX,pythonhosted.org
 SUFFIX,redditstatic.com
 SUFFIX,robinpro.gallery
+SUFFIX,soul-network.com
 SUFFIX,spotifycodes.com
 SUFFIX,staticflickr.com
 SUFFIX,steampowered.com
