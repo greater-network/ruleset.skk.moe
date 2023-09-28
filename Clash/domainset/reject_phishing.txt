@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-09-28T02:39:17.004Z
-# Size: 330
+# Last Updated: 2023-09-28T12:30:48.412Z
+# Size: 311
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,14 +10,11 @@
 # Build from:
 #  - https://gitlab.com/malware-filter/phishing-filter
 ########################################
-+.hz78.cn
-+.uaa7.cn
 +.00673.cn
 +.01364.cn
 +.app.link
 +.biz.site
 +.gscdc.cn
-+.haky.top
 +.hasfm.cn
 +.jtij.xyz
 +.lstjj.cn
@@ -41,6 +38,7 @@
 +.oss08.top
 +.rdwrtu.cn
 +.rgtbpf.cn
++.xx-id.icu
 +.10web.site
 +.513586.top
 +.afiyqjd.cn
@@ -54,7 +52,6 @@
 +.bqfpes.top
 +.bqlkbi.top
 +.brizy.site
-+.bsutgy.top
 +.bzemap.top
 +.canva.site
 +.cq2023.top
@@ -67,13 +64,11 @@
 +.d40.com.cn
 +.deqavt.top
 +.dqlwubq.cn
-+.drgugb.top
 +.drjckqn.cn
 +.drzfwu.top
 +.dwisysw.cn
 +.eerxfxh.cn
 +.enaumee.cn
-+.erymuh.top
 +.ewbiyc.top
 +.fujehn.top
 +.fxqull.top
@@ -87,7 +82,6 @@
 +.gu1aaw.cfd
 +.gumsty.top
 +.hamult.top
-+.htwater.cn
 +.ibicfdk.cn
 +.idygio.top
 +.ifdrps.top
@@ -99,7 +93,6 @@
 +.jhtszz.top
 +.jnweob.top
 +.jqglpky.cn
-+.jtjxas.top
 +.jurlvf.top
 +.jwhlwb.top
 +.kbokna.top
@@ -116,7 +109,6 @@
 +.mayqwo.top
 +.mbauhee.cn
 +.meywgv.top
-+.mlvgsyz.cn
 +.nbejzl.top
 +.ndowub.top
 +.nhgwrw.top
@@ -179,9 +171,7 @@
 +.yooqar.top
 +.yuzied.top
 +.zgfiab.top
-+.zjkyjjx.cn
 +.zvcbcmo.cn
-+.zxvtuo.top
 +.zzbmng.top
 +.50gb122.xyz
 +.50gb141.xyz
@@ -196,7 +186,6 @@
 +.chafalv.top
 +.chajilu.top
 +.dlzhjcyx.cn
-+.freetcp.com
 +.instawp.xyz
 +.mare01.club
 +.mefound.com
@@ -210,7 +199,6 @@
 +.zdsxcac.top
 +.zhenruo.top
 +.almostmy.com
-+.aygzs000.top
 +.chalvshe.top
 +.chamitan.top
 +.chataren.top
@@ -227,7 +215,6 @@
 +.qqchaxun.top
 +.ranaonra.top
 +.sexidude.com
-+.tzxta.sa.com
 +.vmlx98.codes
 +.yourtrap.com
 +.answer075.xyz
@@ -236,7 +223,6 @@
 +.chajiashi.top
 +.chashouji.top
 +.dabvgdv.cloud
-+.elt5ea.sa.com
 +.imagesns.club
 +.jxjxyy.com.cn
 +.kpages.online
@@ -246,7 +232,6 @@
 +.spraid.com.cn
 +.viralkan.club
 +.xiuluo888.top
-+.xmywjs.com.cn
 +.yunclouds.top
 +.chadingwei.top
 +.chalaogong.top
@@ -268,8 +253,6 @@
 +.jungleheart.com
 +.kaifangjilu.top
 +.mailbutler.link
-+.organiccrap.com
-+.shiyuecaiywb.cn
 +.ucd-paycss.site
 +.vodfaone.sa.com
 +.youdontcare.com
@@ -302,12 +285,10 @@
 +.tinipmusighnaca.gq
 +.trongxinhgai.click
 +.akbtxdzwjwss.sa.com
-+.nighofknifes.sa.com
 +.page-management.ink
 +.thunderxauto.com.cn
 +.tarjetacenc0sud.site
 +.0g3t8jpt27d8fxj0.shop
-+.2vnlcwirsvhtau52.shop
 +.4lpfd9ptb5m684qa.shop
 +.6isp3lzsxsv3mkh2.shop
 +.cncosud-agency.online
