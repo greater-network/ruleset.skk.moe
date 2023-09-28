@@ -1391,6 +1391,7 @@ SUFFIX,spotifycodes.com
 SUFFIX,staticflickr.com
 SUFFIX,steampowered.com
 SUFFIX,streamhentai.org
+SUFFIX,sunofbeaches.com
 SUFFIX,unrealengine.com
 SUFFIX,usercontent.goog
 SUFFIX,visualstudio.com
@@ -1421,6 +1422,7 @@ SUFFIX,dropboxstatic.com
 SUFFIX,envato-static.com
 SUFFIX,flightradar24.com
 SUFFIX,fnbuilds.services
+SUFFIX,foresightnews.pro
 SUFFIX,freebiesupply.com
 SUFFIX,freshworksapi.com
 SUFFIX,gitlab-static.net
@@ -1467,6 +1469,7 @@ SUFFIX,pwnedpasswords.com
 SUFFIX,safebrowsing.apple
 SUFFIX,spotifynewsroom.jp
 SUFFIX,steamcommunity.com
+SUFFIX,theblockbeats.info
 SUFFIX,trafficmanager.net
 SUFFIX,typescriptlang.org
 SUFFIX,ajax.googleapis.com

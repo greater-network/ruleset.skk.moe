@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-09-27T15:53:55.210Z
-# Size: 1493
+# Last Updated: 2023-09-28T16:39:37.716Z
+# Size: 1498
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -143,6 +143,8 @@ i2.wp.com
 i3.wp.com
 c0.wp.com
 widgets.wp.com
+fonts.wp.com
+fonts-api.wp.com
 +.gravatar.com
 +.wpcomstaging.com
 +.files.wordpress.com
@@ -1501,4 +1503,7 @@ cdn.freebiesupply.com
 static.tronscan.org
 asset-cdn.uscardforum.com
 public.saasexch.com
+img.foresightnews.pro
+cdn.sunofbeaches.com
+image.theblockbeats.info
 ################# END ###################
