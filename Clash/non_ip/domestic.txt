@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2023-09-15T16:00:55.199Z
-# Size: 327
+# Last Updated: 2023-09-30T14:49:35.279Z
+# Size: 331
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -48,8 +48,6 @@ DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,push.sogou.com
-DOMAIN-SUFFIX,vmware.com
-DOMAIN-SUFFIX,v-56.com
 DOMAIN-SUFFIX,zmzfile.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzapi.com
@@ -170,6 +168,7 @@ DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,haowu.link
 DOMAIN-SUFFIX,hicloud.com
 DOMAIN-SUFFIX,hitv.com
+DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,uning.com
@@ -238,6 +237,7 @@ DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,bytecdn.cn
 DOMAIN-SUFFIX,bilivideo.cn
 DOMAIN-SUFFIX,bilivideo.com
@@ -287,6 +287,10 @@ DOMAIN-SUFFIX,ip.cn
 DOMAIN-SUFFIX,ip.bjango.com
 DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,volccdn.com
+DOMAIN-SUFFIX,vmware.com
+DOMAIN-SUFFIX,v-56.com
+DOMAIN-SUFFIX,vivo.com.cn
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alikunlun.com

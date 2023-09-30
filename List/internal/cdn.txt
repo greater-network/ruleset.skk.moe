@@ -336,6 +336,7 @@ SUFFIX,ipinfo.io
 SUFFIX,iqiyi.com
 SUFFIX,issuu.com
 SUFFIX,itch.zone
+SUFFIX,jbkcdn.io
 SUFFIX,jboss.org
 SUFFIX,jtvnw.net
 SUFFIX,kakao.com
@@ -1553,6 +1554,7 @@ SUFFIX,ravencoinipfs-gateway.com
 SUFFIX,spotify-com.akamaized.net
 SUFFIX,steamvideo-a.akamaihd.net
 SUFFIX,ubistatic2-a.akamaihd.net
+SUFFIX,akamai-content-network.com
 SUFFIX,avodmp4s3ww-a.akamaihd.net
 SUFFIX,embedwistia-a.akamaihd.net
 SUFFIX,hackerone-user-content.com

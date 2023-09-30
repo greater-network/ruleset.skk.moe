@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-09-28T16:39:37.716Z
-# Size: 1498
+# Last Updated: 2023-09-30T14:49:35.482Z
+# Size: 1500
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1506,4 +1506,6 @@ public.saasexch.com
 img.foresightnews.pro
 cdn.sunofbeaches.com
 image.theblockbeats.info
++.jbkcdn.io
++.akamai-content-network.com
 ################# END ###################
