@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-09-30T14:49:49.050Z
-# Size: 150337
+# Last Updated: 2023-09-30T18:32:20.271Z
+# Size: 150361
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -36596,6 +36596,7 @@ go.fastspot.io
 +.galaare.com
 +.galairo.com
 +.galajou.com
++.galamis.com
 +.e.galeton.com
 +.www2.galigeo.com
 +.go3.galleri.com
@@ -40512,6 +40513,7 @@ r.pixgold.com
 +.dhl.0394.potabox.com
 +.info.potomac.edu
 +.povlnlq.com
++.powenin.com
 +.go.power.trade
 +.smetrics.power97.com
 +.powerbiz.co
@@ -54603,6 +54605,7 @@ click.qianqian.com
 +.rankchamp.de
 +.rankirani.ir
 +.ranlisgz.fun
++.raosmeac.net
 +.tracking.rapidape.com
 +.o.rapidfax.com
 +.website-security.rapidssl.com
@@ -57091,6 +57094,7 @@ a.tn.token-ad.com
 +.d9e1c3dd-1fee-48c1-9089-09a70580408e.usrfiles.com
 +.marketing.ussignal.com
 +.ustithoo.net
++.ustomoun.xyz
 +.usupload.com
 +.ususntfi.top
 +.ususpokv.top
@@ -62368,6 +62372,7 @@ v2.fm.n.duokanbox.com
 +.target.footlocker.pt
 +.sanl.footlocker.se
 +.target.footlocker.se
++.foraxewan.com
 +.force24.co.uk
 +.forcebets.com
 +.forcecoins.eu
@@ -82579,6 +82584,7 @@ app-ad.variflight.com
 +.vidsbig.online
 +.vidsforyou.mom
 +.vidsfun.online
++.vidsmoon.space
 +.vietbuzzad.com
 +.log.vietnamplus.vn
 +.logen.vietnamplus.vn
@@ -96003,6 +96009,7 @@ www.authedwebmine.cz
 +.dingswonden.info
 +.mingovplkpkx.dioturnpestsi.ml
 +.dipseymontia.com
++.dipseypurism.com
 +.direbitterly.com
 +.direct-hacks.com
 +.directaclick.com
@@ -99375,6 +99382,7 @@ arketing.indianadunes.com
 +.affil.knihazenasnov.sk
 +.website-usage.knorr-bremse.com
 +.knotprovided.com
++.knottyactive.pro
 +.knottysticks.com
 +.knubbyripens.uno
 +.knxabzznddtc.com
@@ -99492,6 +99500,7 @@ c.kuaiduizuoye.com
 +.refer.lauramercier.com
 +.images.lauthorities.com
 +.lavishvanish.com
++.lawcmabfoqal.com
 +.go.lawyerlegion.com
 +.lazadasmuxua.top
 +.smetrics.lazarediamond.jp
@@ -102134,6 +102143,7 @@ mail.shaferglazer.com
 +.siressdrawly.com
 +.rh.sirionehusky.com
 +.ticket.sirlottoclub.com
++.sirossvanish.uno
 +.sirpmqmrrett.xyz
 +.siswensaidoh.xyz
 +.sitecounter.site
@@ -103540,6 +103550,7 @@ vceilinichego.ru
 +.vgw35hwr4w6x.com
 +.vheahvgaqwux.com
 +.vhihvqsuarpp.com
++.vhneajupavrb.com
 +.viaclientcop.com
 +.vianoivernom.com
 +.viapawniarda.com
@@ -103724,6 +103735,7 @@ vceilinichego.ru
 +.wdt9iaspfv3o.com
 +.info.wealthengine.com
 +.info2.wealthengine.com
++.wealthextend.com
 +.go.wealthsimple.com
 +.weanersporta.com
 +.a.weareknitters.de
@@ -103995,6 +104007,7 @@ telemetry.remoteapp.windowsazure.com
 +.xxxnewvideos.com
 +.xy-z6goo-xyz.com
 +.xymhdmqrjxwl.com
++.xynkxvrvusoh.com
 +.speedcustompage.y-creative.co.uk
 +.you.y-uh9k7n5y.tokyo
 +.yairix.github.io
@@ -104930,6 +104943,7 @@ stat.zuimeitianqi.com
 +.ber2g8e3keley.com
 +.berangkasilmu.com
 +.berendphloeum.com
++.berenicepunch.com
 +.wz.bergallgenion.com
 +.data-47ee1b0882.bergedorf-kino.de
 +.berinsestoray.com
@@ -106069,6 +106083,7 @@ dark-utilities.pw
 +.track.designslocker.com
 +.desirablecake.com
 +.desorbtarrify.com
++.despotfifteen.com
 +.marketing.destinationdc.com
 +.go.destracapital.com
 +.detachedbates.com
@@ -110200,6 +110215,7 @@ mdn3origin.phluantmobile.net
 +.sabredwillble.com
 +.sadorsagreeng.com
 +.safe-protocol.com
++.safeanalytics.net
 +.info.safecorhealth.com
 +.saferedirrect.com
 +.sanalytics.safestepskids.com
@@ -113939,6 +113955,7 @@ dark-utilities.xyz
 +.go.dsinpharmatics.com
 +.share.dslaboratories.com
 +.dswmegadigital.com
++.dtedpypskgbdap.com
 +.dtnacqswcieufy.com
 +.dtwobrightsap.info
 +.duckletnervous.uno
@@ -121195,6 +121212,7 @@ bestcoinsignals.com
 +.ourtime.img-idn.workers.dev
 +.immediatesignal.pro
 +.immortalhostess.com
++.imoughtcallmeoc.com
 +.impactradius-go.com
 +.impartial-steal.pro
 +.impartialnettle.com
@@ -121692,6 +121710,7 @@ www.jquery-cdn.download
 +.starkfrizzyassembly.maluconas88.repl.co
 +.mamieruthcustom.com
 +.go.mammothsecurity.com
++.mamotyauxesis.space
 +.manage-gleendot.com
 +.go.managementcircle.de
 +.go.managementtrust.com
@@ -123814,6 +123833,7 @@ nvidia-graphics.top
 +.visualmalignant.top
 +.info.visuresolutions.com
 +.vitalesmartfood.com
++.vivaciousbudget.pro
 +.vmi-lietuva.web.app
 +.vocal-appearance.de
 +.voda-terms-info.com
@@ -127464,6 +127484,7 @@ spyneteurope.microsoft.akadns.net
 +.mercadopago-acesslogin.siteprofissional.com
 +.siteswithcontent.com
 +.sitioseguro0.repl.co
++.skelpedwiney.website
 +.skenedomains.digital
 +.skierseatmileage.com
 +.skipdearbeautify.com
@@ -133143,6 +133164,7 @@ intelserviceupdate.com
 +.news.louvaincooperation.org
 +.lovelyfreindsvisit.com
 +.loweredinflammable.com
++.loyeesihighlyreco.info
 +.lp2serviziecologici.it
 +.emailupdate.luknuyespi.workers.dev
 +.tk.lulli-sur-la-toile.com
@@ -136758,6 +136780,7 @@ html5adkit.plusmo.s3.amazonaws.com
 +.1664906762.rsc.cdn77.org
 +.1675450967.rsc.cdn77.org
 +.1683367939.rsc.cdn77.org
++.1708712734.rsc.cdn77.org
 +.1736253261.rsc.cdn77.org
 +.1757151194.rsc.cdn77.org
 +.1786830340.rsc.cdn77.org
@@ -142799,6 +142822,7 @@ cloudservice22.kingsoft-office-service.com
 +.dqv45r33u0ltv.cloudfront.net
 +.dr3fr5q4g2ul9.cloudfront.net
 +.dr3k6qonw2kee.cloudfront.net
++.dr6su5ow3i7eo.cloudfront.net
 +.dr8pk6ovub897.cloudfront.net
 +.dragoncityhacksandcheats.com
 +.drbccw04ifva6.cloudfront.net
