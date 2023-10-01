@@ -1,7 +1,7 @@
 firebaseapp.com                                                                                     2646
 web.app                                                                                             2645
 cf-ipfs.com                                                                                         1100
-cloudfront.net                                                                                      1072
+cloudfront.net                                                                                      1073
 r2.dev                                                                                              784
 repl.co                                                                                             727
 workers.dev                                                                                         614
@@ -82,12 +82,12 @@ page.link                                                                       
 360.cn                                                                                              28
 azurewebsites.net                                                                                   28
 wolterskluwer.com                                                                                   28
+cdn77.org                                                                                           27
 elfsig.ht                                                                                           27
 omniture.com                                                                                        27
 vodafone.com                                                                                        27
 yahoo.com                                                                                           27
 akamaihd.net                                                                                        26
-cdn77.org                                                                                           26
 zya.me                                                                                              26
 hoster-test.ru                                                                                      25
 thermofisher.com                                                                                    25
