@@ -1084,6 +1084,7 @@ SUFFIX,sendspace.com
 SUFFIX,serph.network
 SUFFIX,shopimind.com
 SUFFIX,shortpixel.ai
+SUFFIX,skyassets.com
 SUFFIX,sociabble.com
 SUFFIX,spankbang.com
 SUFFIX,stackblitz.io
@@ -1449,6 +1450,7 @@ SUFFIX,transcend-cdn.com
 SUFFIX,videodelivery.net
 SUFFIX,webediamovies.pro
 SUFFIX,website-files.com
+SUFFIX,windowsreport.com
 SUFFIX,youtubegaming.com
 SUFFIX,zdusercontent.com
 SUFFIX,zohowebstatic.com
@@ -1596,6 +1598,7 @@ SUFFIX,steamuserimages-a.akamaihd.net
 SUFFIX,steamusercontent-a.akamaihd.net
 SUFFIX,upos-bstar-mirrorakam.akamaized.net
 SUFFIX,upos-bstar1-mirrorakam.akamaized.net
+SUFFIX,officecdn-microsoft-com.akamaized.net
 SUFFIX,runkit-packages-static-executables.com
 SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net
 SUFFIX,practicaldev-herokuapp-com.freetls.fastly.net

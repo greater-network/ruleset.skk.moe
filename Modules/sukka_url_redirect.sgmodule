@@ -1,12 +1,12 @@
 #!name=[Sukka] URL Redirect
-#!desc=Last Updated: 2023-09-30T18:54:14.175Z
+#!desc=Last Updated: 2023-10-01T08:41:04.911Z
 
 [MITM]
 hostname = %APPEND% gravatar.neworld.org, cdn.v2ex.com, cdnjs.loli.net, fonts.loli.net, gstatic.loli.net, themes.loli.net, ajax.loli.net, gravatar.loli.net, gapis.geekzu.org, fonts.geekzu.org, sdn.geekzu.org, cravatar.cn, seccdn.libravatar.org, ghproxy.com, ghps.cc, github.moeyy.xyz, use.sevencdn.com, raw.gitmirror.com, gist.gitmirror.com, raw.githubusercontents.com, gist.githubusercontents.com, cdn.gitmirror.com, raw.fastgit.org, assets.fastgit.org, fastly.jsdelivr.net, gcore.jsdelivr.net, jsdelivr.ops.ci, fonts.ops.ci, jsd.onmicrosoft.cn, npm.onmicrosoft.cn, cdnjs.onmicrosoft.cn, raw.kgithub.com, raw.kkgithub.com, pics.javbus.com
 
 [URL Rewrite]
 ^https?://gravatar\.neworld\.org/(.*) https://secure.gravatar.com/$1 302
-^https?://cdn\.v2ex\.com/gravatar/(.*) https://secure.gravatar.com/$1 302
+^https?://cdn\.v2ex\.com/gravatar/(.*) https://secure.gravatar.com/avatar/$1 302
 ^https?://cdnjs\.loli\.net/(.*) https://cdnjs.cloudflare.com/$1 302
 ^https?://fonts\.loli\.net/(.*) https://fonts.googleapis.com/$1 302
 ^https?://gstatic\.loli\.net/(.*) https://fonts.gstatic.com/$1 302
