@@ -435,6 +435,7 @@ SUFFIX,builder.io
 SUFFIX,bundle.run
 SUFFIX,cangku.moe
 SUFFIX,catbox.moe
+SUFFIX,cdnbye.com
 SUFFIX,change.org
 SUFFIX,channel.io
 SUFFIX,chrome.com

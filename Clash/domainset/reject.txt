@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-10-01T12:28:05.255Z
-# Size: 149552
+# Last Updated: 2023-10-01T13:41:06.634Z
+# Size: 149553
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -71199,6 +71199,7 @@ plugin.2easydroid.com
 +.d915543852.9970fff461.com
 +.9996777888.com
 +.9998887.99988g.repl.co
++.999zz333zz.com
 +.99counters.com
 +.pezvbz.99flower.co.kr
 +.9a0569b55e.com
