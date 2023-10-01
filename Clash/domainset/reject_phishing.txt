@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-10-01T08:41:06.720Z
-# Size: 255
+# Last Updated: 2023-10-01T12:27:52.677Z
+# Size: 242
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -15,14 +15,13 @@
 +.app.link
 +.biz.site
 +.gscdc.cn
-+.hasfm.cn
 +.lstjj.cn
 +.mpaa.top
 +.mzdzb.cn
 +.nkdo.top
 +.qdsed.cn
-+.twckj.cn
 +.ucseo.cc
++.vxsz.xyz
 +.xmlct.cn
 +.zzux.com
 +.bkafvb.cn
@@ -40,11 +39,9 @@
 +.atwtfm.top
 +.ay0123.top
 +.aygzs5.top
-+.beget.tech
 +.bfzxpl.top
 +.bpiuub.cfd
 +.bqfpes.top
-+.bqlkbi.top
 +.brizy.site
 +.bzemap.top
 +.canva.site
@@ -72,25 +69,21 @@
 +.gu1aaw.cfd
 +.gvamjw.cfd
 +.hamult.top
-+.idygio.top
 +.ifdrps.top
 +.igqeylg.cn
 +.ihuzmn.top
 +.iqntug.top
 +.itsaol.com
 +.jbkeal.top
-+.jnweob.top
 +.jurlvf.top
 +.kbokna.top
 +.khtqts.top
 +.kvzcny.top
-+.kytuvh.top
 +.lafhaa.top
 +.laitol.top
 +.ldoepj.top
 +.ljhlna.top
 +.ltvfag.top
-+.mbauhee.cn
 +.meywgv.top
 +.nbejzl.top
 +.ndowub.top
@@ -155,8 +148,6 @@
 +.chafalv.top
 +.chajilu.top
 +.dlzhjcyx.cn
-+.instawp.xyz
-+.mantull.xyz
 +.mare01.club
 +.mefound.com
 +.mrbasic.com
@@ -199,7 +190,6 @@
 +.d7agencia.site
 +.etwryreyt.club
 +.fumeisi.com.cn
-+.hang04frp.club
 +.temp-site.link
 +.temporary.link
 +.toythieves.com
@@ -229,7 +219,6 @@
 +.mangguotv.com.cn
 +.marketmaking.pro
 +.omniforce.com.cn
-+.servirtuales.win
 +.shhongxin.com.cn
 +.acces0-web.online
 +.lovetennis.com.cn
@@ -237,12 +226,12 @@
 +.amazon-shopping.cc
 +.asiflyerbio.com.cn
 +.sunsofm0ons.sa.com
++.telegram-admin.vip
 +.tinipmusighnaca.gq
 +.trongxinhgai.click
 +.page-management.ink
 +.0g3t8jpt27d8fxj0.shop
 +.4lpfd9ptb5m684qa.shop
-+.6isp3lzsxsv3mkh2.shop
 +.cncosud-agency.online
 +.econtablesegui.online
 +.g0vy03a8qvswd964.shop
@@ -259,9 +248,7 @@
 +.rassnonsdeconsiewhor.ml
 +.gbyfdwjdoexkbdjehdid.top
 +.spankkispanishstray.site
-+.accesofacilonline-com.top
 +.mengunjungi-website15.cfd
-+.amazon-naturalproducts.org.pe
 +.distribuidoradebebidasambev.online
 +.quality-page-bussiness-5621325678451268.ink
 +.community-protection-social-media-review-page.ink

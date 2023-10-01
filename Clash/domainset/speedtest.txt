@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-10-01T08:41:11.916Z
-# Size: 752
+# Last Updated: 2023-10-01T12:27:57.974Z
+# Size: 754
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -38,7 +38,6 @@ nl-ams-gbs-mtn-speedtest-server-01.mtn.com
 s1.pfst.ru
 lax01.ookla.rcp.net
 speedtest.rit.edu
-speedtest.ropa.de
 speedtest.sits.su
 speedtest.tigo.cr
 speedtest-srv01.tut.net
@@ -257,6 +256,7 @@ speedtest.mhcable.com
 speedtest.milkywan.fr
 speedtest.myaccess.ca
 speedtest.nexicom.net
+speedtest.octaplus.uk
 speedtestlon.orbital.net
 speedtest.procloud.ru
 ook-ams-x1.puregig.net
@@ -271,6 +271,7 @@ speedtest.reicosa.com
 spt1.seed.net.tw
 fetdl2.seed.net.tw
 fetml1.seed.net.tw
+fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetyl1.seed.net.tw
 fetzl1.seed.net.tw
@@ -344,6 +345,7 @@ speedtest.eu.kamatera.com
 speedtest.eu-lo.kamatera.com
 speedtest.us-mi.kamatera.com
 ookla.speedtest.seattle.wa.limewave.net
+speedtest.linkchina.hk
 speedtest-1.litfibre.com
 m1speedtest1.m1net.com.sg
 speedtest-ams.melbicom.net
@@ -674,6 +676,7 @@ speedtest.belairinternet.com
 speed.cable-giant.com.tw
 speedtest2.comvergence.com.au
 speedtest.conectjadns.com.br
+speed.grinternett.com.br
 sy5.test.gslnetworks.com.au
 me1.speedtest.gslnetworks.com.au
 speedtest.hytekcomputers.com
@@ -752,7 +755,6 @@ askeycsit.dyndns-ip.com
 speedtest.fiberlinknetwork.com.br
 +.linknetspeedtest.net.br
 speedtest.mirror.serversaustralia.com.au
-velocidade.ultralinktelecom.com.br
 speedtest.walastikinternet.com.ph
 speedtest.redbirdcommunications.ca
 speedtest.redefinitytelecom.com.br
