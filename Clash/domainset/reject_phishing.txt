@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-10-02T09:42:04.038Z
-# Size: 232
+# Last Updated: 2023-10-02T12:31:09.907Z
+# Size: 227
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -18,10 +18,8 @@
 +.lstjj.cn
 +.mpaa.top
 +.mzdzb.cn
-+.nkdo.top
 +.qdsed.cn
 +.ucseo.cc
-+.xmlct.cn
 +.zzux.com
 +.bkafvb.cn
 +.cpnel.xyz
@@ -30,7 +28,6 @@
 +.fleek.one
 +.oss08.top
 +.rdwrtu.cn
-+.rgtbpf.cn
 +.10web.site
 +.513586.top
 +.agahapa.cn
@@ -48,10 +45,8 @@
 +.cq6789.top
 +.cq8848.top
 +.crxjjkt.cn
-+.csoqdb.top
 +.cwfbgrv.cn
 +.cxqymio.cn
-+.deqavt.top
 +.dpgjoop.cn
 +.dqlwubq.cn
 +.drjckqn.cn
@@ -64,6 +59,7 @@
 +.gbykac.top
 +.gfzdcv.top
 +.gm5678.top
++.goorm.site
 +.gu1aaw.cfd
 +.gvamjw.cfd
 +.hamult.top
@@ -103,7 +99,6 @@
 +.qxcmrv.top
 +.r8ezah.cfd
 +.rdaqfe.top
-+.rgduhhc.cn
 +.ruhzsjo.cn
 +.rvxxkq.top
 +.rzdobw.top
@@ -124,7 +119,6 @@
 +.vjyozq.top
 +.vnchol.top
 +.wikaba.com
-+.wrbpva.top
 +.xlppzb.top
 +.xtdvmi.top
 +.xynthp.top
@@ -142,6 +136,7 @@
 +.chafalv.top
 +.chajilu.top
 +.dlzhjcyx.cn
++.mantull.xyz
 +.mare01.club
 +.mefound.com
 +.mrbasic.com
@@ -155,17 +150,16 @@
 +.almostmy.com
 +.chalvshe.top
 +.chamitan.top
-+.chataren.top
 +.company.site
 +.dbvfna.cloud
 +.inble.com.cn
 +.misecure.com
 +.mitanren.top
 +.negocio.site
-+.newfilee.cfd
 +.ourhobby.com
 +.ranaonra.top
 +.sexidude.com
++.uflorist.pro
 +.vmlx98.codes
 +.yourtrap.com
 +.chajiashi.top
@@ -197,6 +191,7 @@
 +.kaifangjilu.top
 +.mailbutler.link
 +.pass-cdpay.site
++.telegramfack.cf
 +.ucd-paycss.site
 +.vodfaone.sa.com
 +.youdontcare.com
@@ -212,13 +207,13 @@
 +.marketmaking.pro
 +.omniforce.com.cn
 +.shhongxin.com.cn
++.homemfirme.online
 +.lovetennis.com.cn
 +.toshibanetcam.com
 +.amazon-shopping.cc
 +.asiflyerbio.com.cn
 +.sunsofm0ons.sa.com
 +.tinipmusighnaca.gq
-+.trongxinhgai.click
 +.page-management.ink
 +.0g3t8jpt27d8fxj0.shop
 +.4lpfd9ptb5m684qa.shop
@@ -237,8 +232,8 @@
 +.rassnonsdeconsiewhor.ml
 +.gbyfdwjdoexkbdjehdid.top
 +.spankkispanishstray.site
++.bezpieczna-wysylka.online
 +.mengunjungi-website15.cfd
-+.longterm-rental-apartments.one
 +.distribuidoradebebidasambev.online
 +.quality-page-bussiness-5621325678451268.ink
 +.community-protection-social-media-review-page.ink
