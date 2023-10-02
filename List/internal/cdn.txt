@@ -482,6 +482,7 @@ SUFFIX,hbonow.com
 SUFFIX,hembed.com
 SUFFIX,heroku.com
 SUFFIX,hextom.com
+SUFFIX,holopin.io
 SUFFIX,hotjar.com
 SUFFIX,huluim.com
 SUFFIX,icon.horse

@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-10-01T18:22:55.177Z
-# Size: 1508
+# Last Updated: 2023-10-02T09:42:02.411Z
+# Size: 1510
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -292,6 +292,7 @@ player.vimeo.com
 +.itsre-sumo.mozilla.net
 +.cdn.mozilla.net
 archive.mozilla.org
+detectportal.firefox.com
 +.hubspotusercontent30.com
 +.hubspotusercontent30.net
 +.cdn2.hubspot.net
@@ -1154,6 +1155,7 @@ alt.idgesg.net
 images.idgesg.net
 +.staticworld.net
 +.iggcdn.com
+assets.holopin.io
 static.dynamicyield.com
 st.dynamicyield.com
 st-eu.dynamicyield.com
