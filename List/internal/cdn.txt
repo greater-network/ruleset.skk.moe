@@ -1272,6 +1272,7 @@ SUFFIX,byteoversea.com
 SUFFIX,calibermind.com
 SUFFIX,comtucdncom.com
 SUFFIX,createsend1.com
+SUFFIX,crowdstrike.com
 SUFFIX,dailymotion.com
 SUFFIX,disney-plus.net
 SUFFIX,divio-media.net
