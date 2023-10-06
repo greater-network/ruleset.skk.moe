@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-10-05T08:17:34.862Z
-# Size: 1511
+# Last Updated: 2023-10-06T15:32:50.750Z
+# Size: 1514
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -61,6 +61,7 @@ www.typescriptlang.org
 typescript.azureedge.net
 +.rollupjs.org
 +.pnpm.io
+telemetry.nextjs.org
 api.bintray.com
 badge.buildkite.com
 badge.fury.io
@@ -90,6 +91,7 @@ playwright.azureedge.net
 +.vscode-cdn.net
 vscode-sync.trafficmanager.net
 vscode-sync-insiders.trafficmanager.net
+az700632.vo.msecnd.net
 registry.npmjs.org
 replicate.npmjs.com
 static.npmjs.com
@@ -1519,4 +1521,5 @@ opensignal.cdnbye.com
 signalcloud.cdnbye.com
 tracker.cdnbye.com
 images.store.crowdstrike.com
++.ss-cdn.com
 ################# END ###################

@@ -523,6 +523,7 @@ SUFFIX,nagich.com
 SUFFIX,namemc.com
 SUFFIX,netflix.ca
 SUFFIX,nextdns.io
+SUFFIX,nextjs.org
 SUFFIX,nflxso.net
 SUFFIX,nhncorp.jp
 SUFFIX,niupic.com
@@ -575,6 +576,7 @@ SUFFIX,sketch.com
 SUFFIX,sndcdn.com
 SUFFIX,solvvy.com
 SUFFIX,sph.com.sg
+SUFFIX,ss-cdn.com
 SUFFIX,stamped.io
 SUFFIX,strava.com
 SUFFIX,stripe.com
