@@ -199,6 +199,7 @@ SUFFIX,joox.com
 SUFFIX,jspm.dev
 SUFFIX,judge.me
 SUFFIX,kagi.com
+SUFFIX,ksyuncs.
 SUFFIX,kwai.net
 SUFFIX,legra.ph
 SUFFIX,live.com
@@ -722,6 +723,7 @@ SUFFIX,jortage.com
 SUFFIX,kaleido.art
 SUFFIX,kavin.rocks
 SUFFIX,kktv.com.tw
+SUFFIX,ksyuncs.com
 SUFFIX,kym-cdn.com
 SUFFIX,litnet.work
 SUFFIX,livedoor.jp
@@ -822,6 +824,7 @@ SUFFIX,4everland.io
 SUFFIX,abema-tv.com
 SUFFIX,addtoany.com
 SUFFIX,adobedtm.com
+SUFFIX,aliyuncs.com
 SUFFIX,amazon.co.jp
 SUFFIX,amcharts.com
 SUFFIX,anaconda.com
@@ -922,6 +925,7 @@ SUFFIX,mintlify.com
 SUFFIX,mobilius.top
 SUFFIX,modrinth.com
 SUFFIX,mokeedev.com
+SUFFIX,myqcloud.com
 SUFFIX,navattic.com
 SUFFIX,newsblur.com
 SUFFIX,nicovideo.jp
