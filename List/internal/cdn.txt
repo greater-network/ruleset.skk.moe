@@ -40,6 +40,7 @@ SUFFIX,npm.im
 SUFFIX,ptt.cc
 SUFFIX,qy0.ru
 SUFFIX,rfi.fr
+SUFFIX,s7s.ai
 SUFFIX,vgy.me
 SUFFIX,viu.tv
 SUFFIX,w-x.co
@@ -298,6 +299,7 @@ SUFFIX,dlsite.jp
 SUFFIX,dmm.co.jp
 SUFFIX,dnitv.com
 SUFFIX,docker.io
+SUFFIX,dsc.cloud
 SUFFIX,dweb.link
 SUFFIX,dzcdn.net
 SUFFIX,emome.net
@@ -637,6 +639,7 @@ SUFFIX,biliapi.net
 SUFFIX,bilibili.tv
 SUFFIX,binance.com
 SUFFIX,bintray.com
+SUFFIX,bitcoin.com
 SUFFIX,bizzabo.com
 SUFFIX,blobcdn.com
 SUFFIX,blogger.com
@@ -845,6 +848,7 @@ SUFFIX,circleci.com
 SUFFIX,clearbit.com
 SUFFIX,codeberg.org
 SUFFIX,coinbase.com
+SUFFIX,coindesk.com
 SUFFIX,comfy.social
 SUFFIX,connatix.com
 SUFFIX,crossbell.io
@@ -1090,6 +1094,7 @@ SUFFIX,shopimind.com
 SUFFIX,shortpixel.ai
 SUFFIX,skyassets.com
 SUFFIX,sociabble.com
+SUFFIX,softswiss.net
 SUFFIX,spankbang.com
 SUFFIX,stackblitz.io
 SUFFIX,starbucks.com
@@ -1304,6 +1309,7 @@ SUFFIX,mastodon.social
 SUFFIX,myportfolio.com
 SUFFIX,neverbounce.com
 SUFFIX,nftstorage.link
+SUFFIX,npmgraph.js.org
 SUFFIX,packagecloud.io
 SUFFIX,parastorage.com
 SUFFIX,pathfactory.com
@@ -1357,6 +1363,7 @@ SUFFIX,appleinsider.com
 SUFFIX,arching-kaos.com
 SUFFIX,best-practice.se
 SUFFIX,bootstrapcdn.com
+SUFFIX,bundlephobia.com
 SUFFIX,cdninstagram.com
 SUFFIX,chisdealhd.co.uk
 SUFFIX,chromestatus.com
@@ -1496,6 +1503,7 @@ SUFFIX,pixelexperience.org
 SUFFIX,polymer-project.org
 SUFFIX,reasoningtheory.net
 SUFFIX,searchserverapi.com
+SUFFIX,speedtestcustom.com
 SUFFIX,squarespace-cdn.com
 SUFFIX,the-independent.com
 SUFFIX,xn--ngstr-lra8j.com

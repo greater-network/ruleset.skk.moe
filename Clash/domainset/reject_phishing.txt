@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-10-07T12:27:32.674Z
-# Size: 169
+# Last Updated: 2023-10-08T07:50:09.957Z
+# Size: 165
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13,7 +13,6 @@
 +.00673.cn
 +.app.link
 +.biz.site
-+.gscdc.cn
 +.lstjj.cn
 +.mpaa.top
 +.mzdzb.cn
@@ -25,7 +24,6 @@
 +.oss08.top
 +.rdwrtu.cn
 +.10web.site
-+.aqvtwz.top
 +.atwtfm.top
 +.ay0123.top
 +.bfzxpl.top
@@ -47,7 +45,6 @@
 +.gbykac.top
 +.gm5678.top
 +.gu1aaw.cfd
-+.gvamjw.cfd
 +.ifdrps.top
 +.igqeylg.cn
 +.ihuzmn.top
@@ -68,7 +65,6 @@
 +.nvqbnq.top
 +.nydhxz.top
 +.odzjkf.top
-+.oegkvr.top
 +.okeonv.top
 +.omrntt.top
 +.ppjltg.top
@@ -123,8 +119,8 @@
 +.dabvgdv.cloud
 +.imagesns.club
 +.kpages.online
-+.law04wuk.club
 +.spraid.com.cn
++.updetbaru.vip
 +.xiuluo888.top
 +.yunclouds.top
 +.chadingwei.top
@@ -143,12 +139,14 @@
 +.mailbutler.link
 +.ucd-paycss.site
 +.youdontcare.com
++.amazon-group.vip
 +.binguanxinxi.top
 +.bjlangjie.com.cn
 +.chuguichaxun.top
 +.chunyulaile.shop
 +.cxblovker.sa.com
 +.dshsewc3332rv.cn
++.imptradecan.site
 +.jiudianruzhu.top
 +.konpakuyoumu.top
 +.mangguotv.com.cn
@@ -157,13 +155,11 @@
 +.homemfirme.online
 +.toshibanetcam.com
 +.asiflyerbio.com.cn
-+.sunsofm0ons.sa.com
 +.tinipmusighnaca.gq
 +.gentepersonass.buzz
 +.page-management.ink
 +.econtablesegui.online
 +.imkd3c1ssk3d776f.shop
-+.n8tc64cy5dhqe5el.shop
 +.nu0bsdelbbytgiqi.shop
 +.sb74ht3humc1u51i.shop
 +.x6np956g63nvhtn7.shop
