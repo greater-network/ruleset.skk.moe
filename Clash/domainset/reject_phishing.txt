@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-10-08T12:27:43.249Z
-# Size: 158
+# Last Updated: 2023-10-09T03:50:01.619Z
+# Size: 147
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -15,20 +15,16 @@
 +.biz.site
 +.lstjj.cn
 +.mpaa.top
-+.mzdzb.cn
 +.ucseo.cc
 +.vxsz.xyz
 +.zzux.com
-+.12fdr.cfd
 +.dnset.com
 +.oss08.top
 +.rdwrtu.cn
-+.zxcom.cfd
 +.10web.site
 +.atwtfm.top
 +.ay0123.top
 +.bfzxpl.top
-+.bpiuub.cfd
 +.bqfpes.top
 +.brizy.site
 +.bzemap.top
@@ -63,7 +59,6 @@
 +.nowfjwa.cn
 +.noxnfg.top
 +.nvqbnq.top
-+.nydhxz.top
 +.odzjkf.top
 +.okeonv.top
 +.omrntt.top
@@ -80,10 +75,8 @@
 +.turbzs.top
 +.ufvnjr.top
 +.uxknjiu.cn
-+.vahmgl.top
 +.vcbfvc.top
 +.vizvaz.com
-+.vjyozq.top
 +.wikaba.com
 +.xynthp.top
 +.yigewg.top
@@ -94,7 +87,6 @@
 +.arborth.top
 +.audacad.top
 +.chajilu.top
-+.dlzhjcyx.cn
 +.mare01.club
 +.mrbasic.com
 +.onedumb.com
@@ -103,7 +95,6 @@
 +.yahaha.mobi
 +.zdsxcac.top
 +.zhenruo.top
-+.almostmy.com
 +.chalvshe.top
 +.chamitan.top
 +.company.site
@@ -121,7 +112,6 @@
 +.kpages.online
 +.spraid.com.cn
 +.xiuluo888.top
-+.yunclouds.top
 +.chadingwei.top
 +.d7agencia.site
 +.fumeisi.com.cn
@@ -141,11 +131,9 @@
 +.binguanxinxi.top
 +.bjlangjie.com.cn
 +.chuguichaxun.top
-+.chunyulaile.shop
 +.cxblovker.sa.com
 +.jiudianruzhu.top
 +.konpakuyoumu.top
-+.mangguotv.com.cn
 +.marketmaking.pro
 +.omniforce.com.cn
 +.homemfirme.online
@@ -161,6 +149,7 @@
 +.amazon-verify-link.top
 +.lifebiosciences.com.cn
 +.agsgw1gq61g16g1asd.cyou
++.amazon-developments.com
 +.intelligentpower.com.cn
 +.rassnonsdeconsiewhor.ml
 +.gbyfdwjdoexkbdjehdid.top

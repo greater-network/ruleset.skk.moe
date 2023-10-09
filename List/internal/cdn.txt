@@ -343,6 +343,7 @@ SUFFIX,issuu.com
 SUFFIX,itch.zone
 SUFFIX,jbkcdn.io
 SUFFIX,jboss.org
+SUFFIX,jotfor.ms
 SUFFIX,jtvnw.net
 SUFFIX,kakao.com
 SUFFIX,kk.stream
@@ -1414,6 +1415,7 @@ SUFFIX,staticflickr.com
 SUFFIX,steampowered.com
 SUFFIX,streamhentai.org
 SUFFIX,sunofbeaches.com
+SUFFIX,tampermonkey.net
 SUFFIX,unrealengine.com
 SUFFIX,usercontent.goog
 SUFFIX,visualstudio.com
