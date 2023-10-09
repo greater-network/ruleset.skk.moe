@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-10-09T03:50:01.619Z
-# Size: 147
+# Last Updated: 2023-10-09T12:33:02.510Z
+# Size: 144
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -18,6 +18,7 @@
 +.ucseo.cc
 +.vxsz.xyz
 +.zzux.com
++.12fdr.cfd
 +.dnset.com
 +.oss08.top
 +.rdwrtu.cn
@@ -91,7 +92,6 @@
 +.mrbasic.com
 +.onedumb.com
 +.wsoqwa9.top
-+.x-baru5.icu
 +.yahaha.mobi
 +.zdsxcac.top
 +.zhenruo.top
@@ -123,10 +123,8 @@
 +.becheery.com.cn
 +.dengjixinxi.top
 +.help-co-jp.info
-+.jungleheart.com
 +.kaifangjilu.top
 +.mailbutler.link
-+.ucd-paycss.site
 +.youdontcare.com
 +.binguanxinxi.top
 +.bjlangjie.com.cn
@@ -136,6 +134,7 @@
 +.konpakuyoumu.top
 +.marketmaking.pro
 +.omniforce.com.cn
++.airbnbaffitti.one
 +.homemfirme.online
 +.toshibanetcam.com
 +.asiflyerbio.com.cn
@@ -145,11 +144,9 @@
 +.econtablesegui.online
 +.imkd3c1ssk3d776f.shop
 +.sb74ht3humc1u51i.shop
-+.x6np956g63nvhtn7.shop
 +.amazon-verify-link.top
 +.lifebiosciences.com.cn
 +.agsgw1gq61g16g1asd.cyou
-+.amazon-developments.com
 +.intelligentpower.com.cn
 +.rassnonsdeconsiewhor.ml
 +.gbyfdwjdoexkbdjehdid.top
