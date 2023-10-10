@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Sogou Input
-# Last Updated: 2023-09-10T17:38:41.920Z
-# Size: 6
+# Last Updated: 2023-10-10T07:58:28.185Z
+# Size: 8
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -14,4 +14,6 @@ DOMAIN-SUFFIX,pinyin.sogou.com
 DOMAIN-SUFFIX,account.sogou.com
 DOMAIN-SUFFIX,shouji.sogou.com
 DOMAIN-SUFFIX,get.sogou.com
+DOMAIN,oth.str.mdt.qq.com
+DOMAIN,otheve.beacon.qq.com
 ################# END ###################

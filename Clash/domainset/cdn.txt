@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-10-09T03:50:00.511Z
-# Size: 1533
+# Last Updated: 2023-10-10T07:58:28.204Z
+# Size: 1534
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -768,6 +768,7 @@ yep.video.yahoo.com
 cookie-cdn.cookiepro.com
 static.dash.cloudflare.com
 info.cloudflare.com
+cf-assets.www.cloudflare.com
 assets.tumblr.com
 static.tumblr.com
 +.media.tumblr.com
