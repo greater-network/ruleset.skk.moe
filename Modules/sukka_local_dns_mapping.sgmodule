@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2023-09-30T14:49:35.282Z
+#!desc=Last Updated: 2023-10-11T09:26:24.062Z
 
 [Host]
 uc.cn = server:quic://223.6.6.6:853
@@ -18,6 +18,10 @@ alikunlun.com = server:quic://223.6.6.6:853
 *.alikunlun.com = server:quic://223.6.6.6:853
 alipay.com = server:quic://223.6.6.6:853
 *.alipay.com = server:quic://223.6.6.6:853
+alipayobjects.com = server:quic://223.6.6.6:853
+*.alipayobjects.com = server:quic://223.6.6.6:853
+alibaba-inc.com = server:quic://223.6.6.6:853
+*.alibaba-inc.com = server:quic://223.6.6.6:853
 cainiao.com = server:quic://223.6.6.6:853
 *.cainiao.com = server:quic://223.6.6.6:853
 etao.com = server:quic://223.6.6.6:853
@@ -102,6 +106,8 @@ weixinbridge.com = server:https://120.53.53.53/dns-query
 *.weixinbridge.com = server:https://120.53.53.53/dns-query
 weixin.com = server:https://120.53.53.53/dns-query
 *.weixin.com = server:https://120.53.53.53/dns-query
+wechat.com = server:https://120.53.53.53/dns-query
+*.wechat.com = server:https://120.53.53.53/dns-query
 acg.tv = server:https://120.53.53.53/dns-query
 *.acg.tv = server:https://120.53.53.53/dns-query
 b23.tv = server:https://120.53.53.53/dns-query
