@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-10-10T07:58:28.204Z
-# Size: 1534
+# Last Updated: 2023-10-11T07:44:05.810Z
+# Size: 1554
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -48,6 +48,7 @@ cdn.pika.dev
 +.jspm.dev
 +.polyfill.io
 ajax.microsoft.com
+cdn.datatables.net
 cdn.plyr.io
 lib.arvancloud.com
 cdn.tailwindcss.com
@@ -137,6 +138,7 @@ assets-production.packagecloud.io
 repos.danosproject.org
 cdn.sheetjs.com
 repo.nextdns.io
+oss-binaries.phusionpassenger.com
 s0.wp.com
 s1.wp.com
 s2.wp.com
@@ -529,6 +531,9 @@ w.chatlio.com
 snippet.maze.co
 +.transcend-cdn.com
 imgssl.constantcontact.com
+secure.beer7live.com
+scripts.webeo.com
+widgets.zohosalesiq.com
 cdn01.jotfor.ms
 cdn02.jotfor.ms
 cdn03.jotfor.ms
@@ -722,6 +727,9 @@ s3.us-west-004.backblazeb2.com
 webfonts.zoho.com
 media.licdn.com
 static.licdn.com
+static-exp1.licdn.com
+static-exp2.licdn.com
+static-exp3.licdn.com
 link.storjshare.io
 s3.eu-central-2.wasabisys.com
 +.s3.wasabisys.com
@@ -1542,4 +1550,16 @@ cdn.softswiss.net
 app-updates.agilebits.com
 updates.istatmenus.app
 blacklist.tampermonkey.net
+public-pages.cbinsights.com
++.cdn.runcloud.io
+scdn1.plesk.com
+i.geekflare.com
+cdn.manageengine.com
+static.solarwinds.com
++.els-cdn.com
+cdn.plu.mx
++.sciencedirectassets.com
+static.mendeley.com
+assets.apilayer.com
+static.fasthosts.co.uk
 ################# END ###################

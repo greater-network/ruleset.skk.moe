@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-10-10T12:30:49.540Z
-# Size: 741
+# Last Updated: 2023-10-11T07:44:20.390Z
+# Size: 743
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -25,6 +25,7 @@ speedtest.ddps.jp
 ookla-speedtest.fsr.com
 speedtest.hay.net
 +.speedtest.i3d.net
+speedtesta.kpn.com
 speedtest.krhs.de
 st2a.les.net
 speedtest.link.bm
@@ -267,7 +268,6 @@ speedtest.reicosa.com
 spt1.seed.net.tw
 fetdl2.seed.net.tw
 fetml1.seed.net.tw
-fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetyl1.seed.net.tw
 fetzl1.seed.net.tw
@@ -427,6 +427,7 @@ speedtestus.pvdatanet.com
 speedtest1.net.rochester.edu
 mfl.speedtest.sbcglobal.net
 speedtest.scotnet.co.uk
+speed.sdmnet.com.br
 speedtest.seaside.ns.ca
 speedtest3.serverius.net
 ookla.la.ca.sharktech.net
@@ -473,6 +474,7 @@ speedtest1.hurontel.on.ca
 speedtest2.hurontel.on.ca
 speedlon.hyperoptic.com
 speedtest.ip-projects.de
+ts.ipernet.net.br
 speedtest.jvswifi.com.br
 speedtest-hob.launtel.net.au
 speedtest-syd.launtel.net.au
@@ -596,6 +598,7 @@ stdal.highlinefast.com
 speedtest.inyonetworks.com
 speedtest.lightsource1.com
 speedtest.msfibraam.com.br
+speedtest.quadcloud.com.au
 miami-speedtest.reliablesite.net
 los-angeles-speedtest.reliablesite.net
 speedtest.routinger.com.br
@@ -739,12 +742,11 @@ ookla.siditelecom-isp.com.br
 ookla.speedtestunonet.com.br
 speedtest.webfibertelecom.com.br
 askeycsit.dyndns-ip.com
-ok.conectmastelecom.com.br
+speedtest.fiberlinknetwork.com.br
 +.linknetspeedtest.net.br
 speedtest.mirror.serversaustralia.com.au
 speedtest.walastikinternet.com.ph
 speedtest.redefinitytelecom.com.br
 speedtest.centralnetprovedor.net.br
-test.infoconnecttelecom.com.br
 speedtestmera.vs.mythic-beasts.com
 ################# END ###################

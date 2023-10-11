@@ -38,6 +38,7 @@ SUFFIX,mrh.io
 SUFFIX,my5.tv
 SUFFIX,now.gg
 SUFFIX,npm.im
+SUFFIX,plu.mx
 SUFFIX,ptt.cc
 SUFFIX,qy0.ru
 SUFFIX,rfi.fr
@@ -372,6 +373,7 @@ SUFFIX,pixiv.cat
 SUFFIX,pixiv.net
 SUFFIX,pixura.io
 SUFFIX,player.fm
+SUFFIX,plesk.com
 SUFFIX,plurk.com
 SUFFIX,prisma.sh
 SUFFIX,quora.com
@@ -406,6 +408,7 @@ SUFFIX,volvo.com
 SUFFIX,vuejs.org
 SUFFIX,waffle.io
 SUFFIX,waymo.com
+SUFFIX,webeo.com
 SUFFIX,webtoo.ls
 SUFFIX,weserv.nl
 SUFFIX,whoer.net
@@ -678,6 +681,7 @@ SUFFIX,dwebops.pub
 SUFFIX,easylist.to
 SUFFIX,ebayimg.com
 SUFFIX,elephas.app
+SUFFIX,els-cdn.com
 SUFFIX,exp-tas.com
 SUFFIX,f-droid.org
 SUFFIX,filen-1.net
@@ -771,6 +775,7 @@ SUFFIX,reactjs.org
 SUFFIX,recurly.com
 SUFFIX,redgifs.com
 SUFFIX,reuters.com
+SUFFIX,runcloud.io
 SUFFIX,segment.com
 SUFFIX,sendvid.com
 SUFFIX,sheetjs.com
@@ -829,6 +834,7 @@ SUFFIX,aliyuncs.com
 SUFFIX,amazon.co.jp
 SUFFIX,amcharts.com
 SUFFIX,anaconda.com
+SUFFIX,apilayer.com
 SUFFIX,apkcombo.com
 SUFFIX,ashbyprd.com
 SUFFIX,atl-paas.net
@@ -921,6 +927,7 @@ SUFFIX,maptiler.com
 SUFFIX,marsflag.com
 SUFFIX,matters.news
 SUFFIX,medallia.com
+SUFFIX,mendeley.com
 SUFFIX,mikuclub.xyz
 SUFFIX,mintlify.com
 SUFFIX,mobilius.top
@@ -1010,6 +1017,7 @@ SUFFIX,aspnetcdn.com
 SUFFIX,atlassian.com
 SUFFIX,awsstatic.com
 SUFFIX,azureedge.net
+SUFFIX,beer7live.com
 SUFFIX,bigcloud.cyou
 SUFFIX,blockchair.io
 SUFFIX,bnbstatic.com
@@ -1041,6 +1049,7 @@ SUFFIX,freshchat.com
 SUFFIX,frostming.com
 SUFFIX,funnychain.co
 SUFFIX,futurecdn.net
+SUFFIX,geekflare.com
 SUFFIX,getpocket.com
 SUFFIX,glitch.global
 SUFFIX,goodreads.com
@@ -1159,6 +1168,7 @@ SUFFIX,beyondwords.io
 SUFFIX,bluestacks.com
 SUFFIX,brightcove.com
 SUFFIX,brightcove.net
+SUFFIX,cbinsights.com
 SUFFIX,cbsaavideo.com
 SUFFIX,cdn-sellix.com
 SUFFIX,cdn-spurit.com
@@ -1172,6 +1182,7 @@ SUFFIX,codestream.com
 SUFFIX,commandbar.com
 SUFFIX,contentful.com
 SUFFIX,convertkit.com
+SUFFIX,datatables.net
 SUFFIX,deviantart.net
 SUFFIX,dialogflow.com
 SUFFIX,discordapp.com
@@ -1242,6 +1253,7 @@ SUFFIX,slack-edge.com
 SUFFIX,sleazyfork.org
 SUFFIX,slideshare.net
 SUFFIX,smartholdem.io
+SUFFIX,solarwinds.com
 SUFFIX,soundcloud.com
 SUFFIX,south-plus.net
 SUFFIX,south-plus.org
@@ -1294,6 +1306,7 @@ SUFFIX,disney-plus.net
 SUFFIX,divio-media.net
 SUFFIX,dnsleaktest.com
 SUFFIX,domaintools.com
+SUFFIX,fasthosts.co.uk
 SUFFIX,fontawesome.com
 SUFFIX,foxbusiness.com
 SUFFIX,freepiklabs.com
@@ -1367,6 +1380,7 @@ SUFFIX,writefreely.org
 SUFFIX,xiangbinjun.com
 SUFFIX,xvideos-cdn.com
 SUFFIX,youtubekids.com
+SUFFIX,zohosalesiq.com
 SUFFIX,aiv-delivery.net
 SUFFIX,appleinsider.com
 SUFFIX,arching-kaos.com
@@ -1397,6 +1411,7 @@ SUFFIX,ktachibana.party
 SUFFIX,lemonsqueezy.com
 SUFFIX,liuxingbaoyu.xyz
 SUFFIX,madewithcode.com
+SUFFIX,manageengine.com
 SUFFIX,media-amazon.com
 SUFFIX,olemovienews.com
 SUFFIX,omnisnippet1.com
@@ -1523,6 +1538,7 @@ SUFFIX,chart.googleapis.com
 SUFFIX,cloudflarestream.com
 SUFFIX,fonts.googleapis.com
 SUFFIX,hscollectedforms.net
+SUFFIX,phusionpassenger.com
 SUFFIX,sharepointonline.com
 SUFFIX,spotifyforbrands.com
 SUFFIX,steamusercontent.com
@@ -1559,6 +1575,7 @@ SUFFIX,hboasia3-i.akamaihd.net
 SUFFIX,hboasia4-i.akamaihd.net
 SUFFIX,hboasia5-i.akamaihd.net
 SUFFIX,netlify-rum.netlify.app
+SUFFIX,sciencedirectassets.com
 SUFFIX,steamcdn-a.akamaihd.net
 SUFFIX,vsmarketplacebadges.dev
 SUFFIX,youtubei.googleapis.com
