@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-10-11T07:44:19.503Z
-# Size: 149709
+# Last Updated: 2023-10-11T09:21:36.239Z
+# Size: 149766
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13,7 +13,7 @@
 #  - https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt
 #  - https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt
 #  - https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-#  - https://urlhaus.abuse.ch/downloads/hostfile/
+#  - https://raw.githubusercontent.com/durablenapkin/block/master/luminati.txt
 #  - https://easylist.to/easylist/easylist.txt
 #  - https://easylist.to/easylist/easyprivacy.txt
 #  - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
@@ -48,6 +48,7 @@
 #  - https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-cname.txt
 #  - https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt
 ########################################
+ec2-107-22-193-119.compute-1.amazonaws.com
 +.atom-log.3.cn
 +.mitt.3.se
 +.mitt3.3.se
@@ -3203,6 +3204,11 @@ msg.ptqy.gitv.tv
 +.hoct.cc
 +.affiliate.hokr.eu
 +.dove.hoku.nz
+hola.hk
+www.hola.hk
+hola.ph
+hola.sk
+www.hola.sk
 +.holm.ru
 +.postag.home.kg
 +.anneberg.home.pl
@@ -7188,7 +7194,7 @@ hide.ovh
 +.hnws.xyz
 +.sailfish.hoap.com
 +.antelope.hoap.dev
-+.perr.hola.org
++.hola.org
 +.ads.holid.io
 +.landing.honco.ca
 +.b.hooch.co
@@ -13782,6 +13788,7 @@ trackapp.guahao.cn
 +.perr.h-cdn.com
 +.h-spe.net
 +.mail.h-t.co.jp
++.h-vpn.org
 +.h1z1.cash
 +.h2n3c.top
 +.h6295.com
@@ -14872,6 +14879,8 @@ splashimgbssdl.yun.kugou.com
 +.rakoten-cacd.kziwyv.cn
 +.l-chat.jp
 +.go.l-com.com
+l-err.biz
+perr.l-err.biz
 +.bfzikn.l-wine.ru
 +.l00t.farm
 +.l3op.info
@@ -17502,6 +17511,7 @@ msmetrics-test.ws.sonos.com
 +.1.topjob.de
 +.ads.topsex.cc
 +.top.topua.net
+topvpn.io
 +.ad.topwar.ru
 +.a.topya.com
 +.c.topya.com
@@ -17612,6 +17622,7 @@ ad.api.3g.tudou.com
 +.smetrics.tui.co.uk
 +.smetrics.flightextras.tui.co.uk
 +.smetrics.retailagents.tui.co.uk
+hola.tukif.com
 +.smetrics.tuleva.fi
 +.lm1.tuliu.com
 +.tumri.net
@@ -24940,6 +24951,8 @@ ssp1.kfadx.tech
 +.kzjkexn.cn
 +.kzjqraj.cn
 +.kzwwamf.cn
+l-agent.me
+perr.l-agent.me
 +.go.l-is-b.com
 +.a8cv.l-meal.com
 +.smetrics.labaie.com
@@ -25288,6 +25301,12 @@ losital.ru
 +.ludied.com
 +.luffic.com
 +.go.lufkin.com
+lum-api.io
+lum-ext.io
+perr.lum-ext.io
+client.lum-ext.io
+159-65-244-61.lum-ext.io
+lum-int.io
 +.lum-sdk.io
 +.go.lumedx.com
 +.lumupu.xyz
@@ -37108,7 +37127,11 @@ adx-dra.op.hicloud.com
 +.aa-metrics.hokench.com
 +.hokkjen.com
 +.www2.hokushu.net
+hola.com.sg
 +.link.hola.health
+holacdn.com
+www.holacdn.com
+client.holacdn.com
 +.aupay.auoue.jp.holddom.top
 +.go.hollman.com
 +.emea.hologic.com
@@ -38522,11 +38545,16 @@ lgtvsdp.com
 +.lukomol.com
 +.lukpush.com
 +.ebis.lululun.com
+lum-lpm.com
+www.lum-lpm.com
+perr.lum-lpm.com
 +.www2.lumapps.com
 +.www2.lumenad.com
 +.web.lumicks.com
 +.luminati.io
 +.lumitos.com
+lumtest.com
+www.lumtest.com
 +.go.lunafarm.it
 +.go.lunainc.com
 +.luuming.com
@@ -42058,6 +42086,19 @@ susapi.dev.surepush.cn
 +.suzanne.pro
 +.suzuhen.xyz
 +.ssc.svaboda.org
+svd-cdn.com
+cdn4.svd-cdn.com
+perr.svd-cdn.com
+client.svd-cdn.com
+proxyjs.svd-cdn.com
+zs-proxyjs-hola.svd-cdn.com
+zs-proxyjs-hola2.svd-cdn.com
+zs-proxyjs-hola5.svd-cdn.com
+zs-proxyjs-hola6.svd-cdn.com
+zs-proxyjs-hola7.svd-cdn.com
+zs-proxyjs-hola8.svd-cdn.com
+zs-proxyjs-hola9.svd-cdn.com
+zs-proxyjs-hola10.svd-cdn.com
 +.svedkan.com
 +.sveklon.com
 +.lsoiat.svetodom.ru
@@ -49927,6 +49968,7 @@ fbapi.guguread.com
 +.hohmaryt.com
 +.hohshops.com
 +.a8clk.hokennews.jp
++.holashop.org
 +.hollykim.com
 +.trk.prdt.holmeshr.com
 +.marketing.holostik.com
@@ -51645,6 +51687,7 @@ nimwss-us-shark.lolopool.com
 +.smetrics.lululemon.jp
 +.jtracking.lulusoft.com
 +.jtracking-gate.lulusoft.com
+lum-bext.com
 +.email.lumavate.com
 +.doklln.lumecube.com
 +.marketing.lumenera.com
@@ -68591,6 +68634,7 @@ strip.taobaocdn.com
 +.ad.theatre.co.jp
 +.eat9.thebeat925.ca
 +.redtrack.thecapsula.ru
+thecodeil.com
 +.link.ripple.thedacare.org
 +.go.theedfund.org
 +.go.thegalley.com
@@ -78740,6 +78784,7 @@ www.mmnetwork.mobi
 +.b.mynewplace.com
 +.sb.mynewplace.com
 +.b.m.mynewplace.com
+mynextphone.io
 +.mynsystems.com
 +.myomnistar.com
 +.link.myoptimity.com
@@ -101389,6 +101434,8 @@ panger-top.click
 +.provideplant.com
 +.mdws.provincialcu.com
 +.news.proximoinfra.com
+proxy-review.com
+www.proxy-review.com
 +.prudential.distribution.team.prudential.co.uk
 +.ps-sns0girls.com
 +.ps3minecraft.net
@@ -104272,6 +104319,7 @@ telemetry.remoteapp.windowsazure.com
 +.zmhwaiapbtfq.com
 +.zodiakactive.com
 +.zombiharshen.top
+zon-networks.com
 +.tsbmkf.zonnebrillen.com
 +.zoomanalytics.co
 +.zoutubephaid.com
@@ -105153,6 +105201,7 @@ stat.zuimeitianqi.com
 +.mhmetr.billabongstore.jp
 +.billowybelief.com
 binarybusiness.de
+www.binaryoptionz.com
 +.binmenkollast.com
 +.binoticprotea.com
 +.marketing.bio-optronics.com
@@ -107757,6 +107806,9 @@ mail.ghmproperties.com
 +.a8cv.hoken-laundry.com
 +.a8tag.hokenleague.co.jp
 +.info.hokushinhouse.com
+hola-shopping.com
+www.hola-shopping.com
+perr.hola-shopping.com
 +.smetrics.holcimelevate.com
 +.hold-coinbase.com
 +.holduporatory.com
@@ -108653,7 +108705,10 @@ mail.ghmproperties.com
 +.ludicrousarch.com
 +.data-f1e447fbcf.ludwigshafen24.de
 +.data-f59db3288b.ludwigshafen24.de
+luminati-china.co
+www.luminati-china.co
 +.luminati-china.io
+luminatichina.net
 +.tracking.luminishealth.org
 +.luminous-iron.pro
 +.lumnstoodthe.info
@@ -111999,6 +112054,8 @@ api-ads.tiantianqutao.com
 +.whartfidalgo.life
 +.t.whartoncenter.com
 +.app.whartoncenter.com
+whatismyippro.com
+www.whatismyippro.com
 +.whatsapp-chat.xyz
 +.whatsapp-hack.com
 +.whatsapphack.info
