@@ -130,6 +130,7 @@ SUFFIX,snap.as
 SUFFIX,snyk.io
 SUFFIX,spot.im
 SUFFIX,tawk.to
+SUFFIX,ted.com
 SUFFIX,toot.io
 SUFFIX,tuk.dev
 SUFFIX,tvb.com
@@ -726,6 +727,7 @@ SUFFIX,jetboost.io
 SUFFIX,jkforum.net
 SUFFIX,jolipage.co
 SUFFIX,jortage.com
+SUFFIX,jscloud.net
 SUFFIX,kaleido.art
 SUFFIX,kavin.rocks
 SUFFIX,kktv.com.tw

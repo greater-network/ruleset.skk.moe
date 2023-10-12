@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-10-12T15:10:06.816Z
-# Size: 749
+# Last Updated: 2023-10-12T15:22:41.933Z
+# Size: 751
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -62,6 +62,8 @@ speedtest.inoc.net
 speedtest.itel.com
 40gspeedtest.mnsi.net
 snjscarc-speed01.nwrd.net
+wh-netspeed.nwtel.ca
+yk-netspeed.nwtel.ca
 speedtest01.o-net.ca
 speedtest.race.com
 speedtest-ams.retn.net
@@ -168,10 +170,10 @@ sp-de.nuxt.cloud
 speedtest-lhr-01.pdx.net.uk
 speedtest-de.pq.hosting
 speedtest-ru.pq.hosting
+speedtest.quadro.net
 speedtest2.rhitcr.com
 stlondon.rogers.com
 sttoronto.rogers.com
-ststthomas.rogers.com
 stlondonwireless.rogers.com
 stsarniawireless.rogers.com
 stsurreywireless.rogers.com
@@ -245,7 +247,6 @@ ncc-speed.kbro.com.tw
 ntp-speed.kbro.com.tw
 nty-speed.kbro.com.tw
 yms-speed.kbro.com.tw
-speedtest.lekloud.net
 speedtest-ca.mathys.page
 ookla.mbspeed.net
 speedtest.mhcable.com
@@ -373,6 +374,7 @@ speedtest.wpnet.com.br
 speedtest-1.london.network.youfibre.com
 speedtest.45networks.ca
 nt-drwn-speedtest.aarnet.net.au
+sa-prka-speedtest.aarnet.net.au
 act-dksn-speedtest.aarnet.net.au
 nsw-brwy-speedtest.aarnet.net.au
 tas-dwpk-speedtest.aarnet.net.au
@@ -387,7 +389,6 @@ dallas1.cabospeed.com
 +.speedtest.clouvider.net
 sp1.contilnet.net
 speedtest1.mia.fl.us.convergia.net
-sa.speedtest.exetel.com.au
 nsw.speedtest.exetel.com.au
 qld.speedtest.exetel.com.au
 vic.speedtest.exetel.com.au
@@ -547,7 +548,6 @@ speedtest.linkamos.com.br
 sp1.logicpro.com.br
 speed.mpvnetworks.com
 +.ooklaserver.net
-speedtest-adl.optusnet.com.au
 speedtest-bla.optusnet.com.au
 speedtest-bri.optusnet.com.au
 speedtest-ebw.optusnet.com.au
@@ -652,6 +652,7 @@ nyc1.fnbuilds.services
 syd1.fnbuilds.services
 tor1.fnbuilds.services
 spd-01.thn.fullfibre.systems
+speedtest.hearstconnect.com
 teste.jlatelecom.com.br
 speedtest.myrepublic.com.sg
 speedtest.provisiondata.net
@@ -737,6 +738,7 @@ speedtest.albatroznetwork.com.br
 ookla-itacoatiara.amazoniasat-isp.com.br
 velocidade.amazoniatelecom.com.br
 velocidade-pvh.amazoniatelecom.com.br
+speed.ade.aussiebroadband.com.au
 speed.bne.aussiebroadband.com.au
 speed.mel.aussiebroadband.com.au
 speed.syd.aussiebroadband.com.au
