@@ -472,6 +472,7 @@ SUFFIX,feedly.com
 SUFFIX,flickr.com
 SUFFIX,fontbit.io
 SUFFIX,fooock.com
+SUFFIX,forbes.com
 SUFFIX,foxdcg.com
 SUFFIX,g0v.social
 SUFFIX,gfycat.com
@@ -954,6 +955,7 @@ SUFFIX,pinata.cloud
 SUFFIX,placeimg.com
 SUFFIX,porntube.com
 SUFFIX,pullopen.xyz
+SUFFIX,px-cloud.net
 SUFFIX,qrserver.com
 SUFFIX,quoracdn.net
 SUFFIX,quriobot.com
@@ -1044,6 +1046,7 @@ SUFFIX,epicgames.com
 SUFFIX,ext-twitch.tv
 SUFFIX,filehippo.net
 SUFFIX,fiverrcdn.com
+SUFFIX,forbesimg.com
 SUFFIX,fosstodon.org
 SUFFIX,freshchat.com
 SUFFIX,frostming.com
