@@ -155,6 +155,7 @@ SUFFIX,7mmtv.tv
 SUFFIX,abema.io
 SUFFIX,abema.tv
 SUFFIX,afeld.me
+SUFFIX,ajay.app
 SUFFIX,ameba.jp
 SUFFIX,angry.im
 SUFFIX,ax1x.com
@@ -266,6 +267,7 @@ SUFFIX,youtu.be
 SUFFIX,zoho.com
 SUFFIX,10086.win
 SUFFIX,365dm.com
+SUFFIX,500px.org
 SUFFIX,91pic.org
 SUFFIX,acsta.net
 SUFFIX,adobe.com
@@ -936,6 +938,7 @@ SUFFIX,mintlify.com
 SUFFIX,mobilius.top
 SUFFIX,modrinth.com
 SUFFIX,mokeedev.com
+SUFFIX,muscache.com
 SUFFIX,myqcloud.com
 SUFFIX,navattic.com
 SUFFIX,newsblur.com
@@ -1030,6 +1033,7 @@ SUFFIX,buildkite.com
 SUFFIX,byspotify.com
 SUFFIX,cbsivideo.com
 SUFFIX,cdn.glitch.me
+SUFFIX,cdnjs.network
 SUFFIX,ceres9350.com
 SUFFIX,chargebee.com
 SUFFIX,cloudcraft.co
@@ -1418,6 +1422,7 @@ SUFFIX,liuxingbaoyu.xyz
 SUFFIX,madewithcode.com
 SUFFIX,manageengine.com
 SUFFIX,media-amazon.com
+SUFFIX,meetupstatic.com
 SUFFIX,olemovienews.com
 SUFFIX,omnisnippet1.com
 SUFFIX,onekey-asset.com
