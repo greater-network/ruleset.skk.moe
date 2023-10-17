@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-10-17T09:27:38.097Z
+# Last Updated: 2023-10-17T12:31:33.904Z
 # Size: 748
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -317,7 +317,6 @@ speedtest.lax01.xfernet.net
 velocidade.4wnet.com.br
 velocidade-mns.4wnet.net.br
 speedtest.aeza.network
-speedtest.amnet.net.br
 speedtest.thn.lon.network.as201838.net
 speedtest.as210667.net
 speedtest.asymptote.cc
@@ -577,6 +576,7 @@ speedtest-vds1.tasmanet.com.au
 speedtestnyc.telebermuda.com
 speedtest.telecablecr.com
 speedtest.ufinetlatam.net
+speedtest.uplinkrr.com.br
 nn.speedtest.vodafone.com.au
 speedtest2.voicehost.co.uk
 speedtest.actelecom.com.br
@@ -693,7 +693,6 @@ speedtest.unlimitedfiber.com
 speedtest.voip-unlimited.net
 speedtest03.bluestreamfiber.net
 east-speedtest.frontiernetworks.ca
-velocimetro.infinitemais.com.br
 speedtest.naturalwireless.com
 speedtest2.pacificinternet.com
 ookla.padraosystem.net.br
@@ -704,6 +703,7 @@ ookla.araujotelecom.com.br
 a-speedtest.brasildigital.net.br
 miami.getstreamhosting.com
 speedtest.getstreamhosting.com
+velocidade.idnetttelecom.com.br
 speedtest-sydney.macquarietelecom.com
 speedtest-brisbane.macquarietelecom.com
 speedtest-melbourne.macquarietelecom.com
