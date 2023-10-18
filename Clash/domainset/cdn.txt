@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-10-16T09:05:30.738Z
+# Last Updated: 2023-10-18T07:19:48.836Z
 # Size: 1568
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -849,7 +849,7 @@ mwcm.nyt.com
 static.zaobao.com
 static.mysph.sph.com.sg
 static-assets.clubhouseapi.com
-stripecdn.com
++.stripecdn.com
 +.similarcdn.com
 static.missav.com
 cdn.missav.com
