@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-10-18T12:31:13.930Z
-# Size: 81
+# Last Updated: 2023-10-19T12:31:06.239Z
+# Size: 73
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -32,8 +32,6 @@
 +.khtqts.top
 +.kvzcny.top
 +.ljhlna.top
-+.odzjkf.top
-+.omrntt.top
 +.qhdseh.top
 +.qhncru.top
 +.rdaqfe.top
@@ -41,7 +39,6 @@
 +.rzdobw.top
 +.tul5an.cfd
 +.ufvnjr.top
-+.vcbfvc.top
 +.vizvaz.com
 +.xynthp.top
 +.yigewg.top
@@ -49,7 +46,6 @@
 +.aayy222.top
 +.arborth.top
 +.audacad.top
-+.cprapid.com
 +.mare01.club
 +.onedumb.com
 +.wsoqwa9.top
@@ -64,7 +60,6 @@
 +.chajiashi.top
 +.chashouji.top
 +.imagesns.club
-+.paneldeni.icu
 +.spraid.com.cn
 +.xiuluo888.top
 +.chadingwei.top
@@ -72,8 +67,6 @@
 +.temporary.link
 +.theprolife.xyz
 +.acces0-net.site
-+.deniprivate.xyz
-+.help-co-jp.info
 +.kaifangjilu.top
 +.mailbutler.link
 +.pr0nnerlca.site
@@ -89,6 +82,5 @@
 +.agsgw1gq61g16g1asd.cyou
 +.intelligentpower.com.cn
 +.spankkispanishstray.site
-+.mengunjungi-website15.cfd
 +.quality-page-bussiness-5621325678451268.ink
 ################# END ###################
