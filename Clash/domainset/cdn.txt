@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-10-18T07:19:48.836Z
-# Size: 1568
+# Last Updated: 2023-10-20T08:28:25.773Z
+# Size: 1569
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1576,4 +1576,5 @@ static.mendeley.com
 assets.apilayer.com
 static.fasthosts.co.uk
 static.vocadb.net
+content.any.run
 ################# END ###################

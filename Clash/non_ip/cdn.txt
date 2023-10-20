@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-10-08T08:18:19.075Z
+# Last Updated: 2023-10-20T08:28:25.876Z
 # Size: 127
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -10,7 +10,7 @@
 ########################################
 DOMAIN-SUFFIX,ks3-sgp.ksyuncs.com
 DOMAIN-SUFFIX,ks3-rus.ksyuncs.com
-DOMAIN-SUFFIX,ks3-cn-hk-1.ksyuncs.
+DOMAIN-SUFFIX,ks3-cn-hk-1.ksyuncs.com
 DOMAIN-SUFFIX,usercontent.goog
 DOMAIN-SUFFIX,firebaseapp.com
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com

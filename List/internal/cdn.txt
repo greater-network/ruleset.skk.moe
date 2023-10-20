@@ -54,6 +54,7 @@ SUFFIX,5itv.tv
 SUFFIX,9191.ga
 SUFFIX,99av.tv
 SUFFIX,abc.xyz
+SUFFIX,any.run
 SUFFIX,arc.net
 SUFFIX,ask.com
 SUFFIX,bbb.org
@@ -202,7 +203,6 @@ SUFFIX,joox.com
 SUFFIX,jspm.dev
 SUFFIX,judge.me
 SUFFIX,kagi.com
-SUFFIX,ksyuncs.
 SUFFIX,kwai.net
 SUFFIX,legra.ph
 SUFFIX,live.com
@@ -899,6 +899,7 @@ SUFFIX,geoip-js.com
 SUFFIX,getbutton.io
 SUFFIX,getkirby.com
 SUFFIX,getkoala.com
+SUFFIX,gigabyte.com
 SUFFIX,gmodules.com
 SUFFIX,gravatar.com
 SUFFIX,growsumo.com
