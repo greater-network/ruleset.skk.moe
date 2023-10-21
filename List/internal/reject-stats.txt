@@ -1,7 +1,7 @@
 firebaseapp.com                                                                                     2438
 web.app                                                                                             2423
 cf-ipfs.com                                                                                         1242
-cloudfront.net                                                                                      1084
+cloudfront.net                                                                                      1085
 r2.dev                                                                                              916
 workers.dev                                                                                         591
 b2bmktg.com                                                                                         439

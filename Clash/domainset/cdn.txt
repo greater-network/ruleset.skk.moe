@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-10-20T08:28:25.773Z
-# Size: 1569
+# Last Updated: 2023-10-21T15:33:28.343Z
+# Size: 1592
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -139,6 +139,7 @@ repos.danosproject.org
 cdn.sheetjs.com
 repo.nextdns.io
 oss-binaries.phusionpassenger.com
+release.runcloud.io
 s0.wp.com
 s1.wp.com
 s2.wp.com
@@ -168,6 +169,7 @@ raw.github.com
 +.twimg.com
 cdn.cms-twdigitalassets.com
 fonts.twitter.com
+ton.local.twitter.com
 static.twitchcdn.net
 static-cdn.jtvnw.net
 clips-media-assets2.twitch.tv
@@ -345,6 +347,7 @@ ghavatars.staticblitz.com
 nr.staticblitz.com
 +.w-credentialless.staticblitz.com
 +.stackblitz.io
+newassets.hcaptcha.com
 megapx-assets.dcard.tw
 imgur.dcard.tw
 images.ptt.cc
@@ -516,6 +519,8 @@ na-library.klarnaservices.com
 cdn.onesignal.com
 cdn.concert.io
 euc-widget.freshworks.com
+widget.freshworks.com
+dam.freshworks.com
 cdn-public.sociabble.com
 netlify-rum.netlify.app
 embed.savvycal.com
@@ -780,6 +785,8 @@ cookie-cdn.cookiepro.com
 static.dash.cloudflare.com
 info.cloudflare.com
 cf-assets.www.cloudflare.com
++.nel.cloudflare.com
+favicons.teams.cloudflare.com
 assets.tumblr.com
 static.tumblr.com
 +.media.tumblr.com
@@ -891,6 +898,7 @@ static-web.grammarly.com
 image.send.grammarly.com
 assets.extension.grammarly.com
 assets.grammarly.com
+static.grammarly.com
 +.oktacdn.com
 i.hamreus.com
 us.hamreus.com
@@ -1102,6 +1110,7 @@ services.linkfire.com
 static.assetlab.io
 linkstorage.linkfire.com
 sponsor.ajay.app
+dearrow-thumb.ajay.app
 +.cdn.nintendo.net
 assets.nintendo.com
 cdn.accounts.nintendo.com
@@ -1110,6 +1119,7 @@ gmedia.playstation.com
 static.playstation.com
 web-toolbar.playstation.com
 cdn-a.sonyentertainmentnetwork.com
+static-resource.np.community.playstation.net
 cdn-assets.porntube.com
 cdn-thumbs.porntube.com
 +.rdtcdn.com
@@ -1204,7 +1214,16 @@ static-main.moovit.com
 appassets.mvtdev.com
 drscdn.500px.org
 pacdn.500px.org
+cdn-service.jp.sumologic.com
+assets.mailgun.com
++.www.s81c.com
+assets0.headwayapp.co
+cdn.headwayapp.co
+headway-widget.net
+cdn2.downdetector.com
++.ziffstatic.com
 +.muscache.com
+cdn.dnsimple.com
 pic.cangku.moe
 api.mintlify.com
 content-prod-live.cert.starbucks.com
@@ -1420,7 +1439,6 @@ tiles.stadiamaps.com
 e3.365dm.com
 proxy.beyondwords.io
 +.images.arcpublishing.com
-cdn.ziffstatic.com
 static.euronews.com
 static.killedbygoogle.com
 cdn.pagic.org
@@ -1479,7 +1497,6 @@ cdn.minecraft-server-list.com
 creativajs.altervista.org
 s.namemc.com
 minotar.net
-dam.freshworks.com
 cdn.now.gg
 cms-cdn.now.gg
 cdn-www.bluestacks.com
@@ -1565,6 +1582,7 @@ updates.istatmenus.app
 blacklist.tampermonkey.net
 public-pages.cbinsights.com
 +.cdn.runcloud.io
++.cdn.manage.runcloud.io
 scdn1.plesk.com
 i.geekflare.com
 cdn.manageengine.com
@@ -1577,4 +1595,9 @@ assets.apilayer.com
 static.fasthosts.co.uk
 static.vocadb.net
 content.any.run
+screenshots.downloadtorrentfile.com
+cdn.auth0.com
+cdn.freshdesk.com
+static.typingclub.com
+static.meiguo.com
 ################# END ###################

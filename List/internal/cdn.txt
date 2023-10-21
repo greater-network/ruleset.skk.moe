@@ -232,6 +232,7 @@ SUFFIX,rauno.me
 SUFFIX,ripe.net
 SUFFIX,rss3.dev
 SUFFIX,rules.ac
+SUFFIX,s81c.com
 SUFFIX,scarf.sh
 SUFFIX,seadn.io
 SUFFIX,senja.io
@@ -276,6 +277,7 @@ SUFFIX,apple.com
 SUFFIX,appsto.re
 SUFFIX,arkjp.net
 SUFFIX,arxiv.org
+SUFFIX,auth0.com
 SUFFIX,avgle.com
 SUFFIX,azure.net
 SUFFIX,b3log.org
@@ -523,6 +525,7 @@ SUFFIX,masto.host
 SUFFIX,maxcdn.com
 SUFFIX,medium.com
 SUFFIX,mega.co.nz
+SUFFIX,meiguo.com
 SUFFIX,micro.blog
 SUFFIX,missav.com
 SUFFIX,mojang.com
@@ -739,6 +742,7 @@ SUFFIX,kym-cdn.com
 SUFFIX,litnet.work
 SUFFIX,livedoor.jp
 SUFFIX,ltyears.com
+SUFFIX,mailgun.com
 SUFFIX,material.io
 SUFFIX,maxmind.com
 SUFFIX,meow.social
@@ -878,6 +882,7 @@ SUFFIX,dazn-api.com
 SUFFIX,deepmind.com
 SUFFIX,dicebear.com
 SUFFIX,discomax.com
+SUFFIX,dnsimple.com
 SUFFIX,dribbble.com
 SUFFIX,elsevier.com
 SUFFIX,equalweb.com
@@ -907,6 +912,7 @@ SUFFIX,hachyderm.io
 SUFFIX,hashnode.com
 SUFFIX,hayabusa.dev
 SUFFIX,hbogoasia.hk
+SUFFIX,hcaptcha.com
 SUFFIX,heysavvy.com
 SUFFIX,hiftporn.fun
 SUFFIX,himalaya.com
@@ -1057,6 +1063,7 @@ SUFFIX,fiverrcdn.com
 SUFFIX,forbesimg.com
 SUFFIX,fosstodon.org
 SUFFIX,freshchat.com
+SUFFIX,freshdesk.com
 SUFFIX,frostming.com
 SUFFIX,funnychain.co
 SUFFIX,futurecdn.net
@@ -1070,6 +1077,7 @@ SUFFIX,greenhouse.io
 SUFFIX,gtranslate.io
 SUFFIX,hbogoasia.com
 SUFFIX,hbomaxcdn.com
+SUFFIX,headwayapp.co
 SUFFIX,helpjuice.com
 SUFFIX,hjholdings.jp
 SUFFIX,ibytedtos.com
@@ -1104,6 +1112,7 @@ SUFFIX,packagist.org
 SUFFIX,parallels.com
 SUFFIX,peacocktv.com
 SUFFIX,perchance.org
+SUFFIX,pilotmoon.com
 SUFFIX,pinterest.com
 SUFFIX,primevideo.cc
 SUFFIX,primevideo.tv
@@ -1134,6 +1143,7 @@ SUFFIX,statuspage.io
 SUFFIX,storjshare.io
 SUFFIX,storyblok.com
 SUFFIX,stripecdn.com
+SUFFIX,sumologic.com
 SUFFIX,synergyse.com
 SUFFIX,thisiscdn.com
 SUFFIX,thumbsnap.com
@@ -1280,6 +1290,7 @@ SUFFIX,theinitium.com
 SUFFIX,tik-tokapi.com
 SUFFIX,trustpilot.com
 SUFFIX,trustpilot.net
+SUFFIX,typingclub.com
 SUFFIX,typography.com
 SUFFIX,ungrounded.net
 SUFFIX,union-game.com
@@ -1350,6 +1361,7 @@ SUFFIX,permaweb.eu.org
 SUFFIX,personalizer.io
 SUFFIX,photobucket.com
 SUFFIX,playstation.com
+SUFFIX,playstation.net
 SUFFIX,porndudecdn.com
 SUFFIX,postmarkapp.com
 SUFFIX,pplusstatic.com
@@ -1410,6 +1422,7 @@ SUFFIX,creativelab5.com
 SUFFIX,danosproject.org
 SUFFIX,digitalocean.com
 SUFFIX,discoveryplus.in
+SUFFIX,downdetector.com
 SUFFIX,dynamicyield.com
 SUFFIX,filestackapi.com
 SUFFIX,framerstatic.com
@@ -1509,6 +1522,7 @@ SUFFIX,customeriomail.com
 SUFFIX,datocms-assets.com
 SUFFIX,foreignaffairs.com
 SUFFIX,freepikcompany.com
+SUFFIX,headway-widget.net
 SUFFIX,intercomassets.com
 SUFFIX,ipfs-gateway.cloud
 SUFFIX,kc-usercontent.com
@@ -1582,6 +1596,7 @@ SUFFIX,youtube.googleapis.com
 SUFFIX,1passwordusercontent.ca
 SUFFIX,1passwordusercontent.eu
 SUFFIX,cms-twdigitalassets.com
+SUFFIX,downloadtorrentfile.com
 SUFFIX,hboasia1-i.akamaihd.net
 SUFFIX,hboasia2-i.akamaihd.net
 SUFFIX,hboasia3-i.akamaihd.net

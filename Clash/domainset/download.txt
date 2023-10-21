@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2023-10-20T08:28:25.760Z
-# Size: 57
+# Last Updated: 2023-10-21T15:33:28.331Z
+# Size: 59
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -40,6 +40,7 @@ down.filen.io
 downloadr2.apkmirror.com
 download.parallels.com
 desktop.parallels.com
+api-updates.orbstack.dev
 cdn-updates.orbstack.dev
 update.code.visualstudio.com
 az764295.vo.msecnd.net
@@ -65,4 +66,5 @@ dl.discordapp.net
 cdn.kagi.com
 +.files.1drv.com
 download.gigabyte.com
+softwareupdate.pilotmoon.com
 ################# END ###################

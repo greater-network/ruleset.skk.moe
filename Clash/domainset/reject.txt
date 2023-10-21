@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-10-21T12:27:37.050Z
-# Size: 151339
+# Last Updated: 2023-10-21T15:33:40.905Z
+# Size: 151353
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -36261,6 +36261,7 @@ e.duomeng.org
 +.info2.emtrain.com
 +.pd.en-gage.net
 +.med.enablex.com
++.enchroe.com
 +.go.endevco.com
 +.app.go.endicia.com
 +.pardot.endomag.com
@@ -42648,6 +42649,7 @@ analytics.spotify.com
 +.tracking.stihl.co.za
 +.stilaed.com
 +.haddock.stillio.com
++.stinicf.com
 +.stmm.com.br
 +.stnitro.com
 +.www3.stocorp.com
@@ -64351,6 +64353,7 @@ ysm.hauchi.com.tw
 +.vzal21mooz.hyperwrite.ai
 +.hyphenion.com
 +.hyrewusha.pro
++.hzoywchsp.com
 +.dnata.i-context.net
 +.a8cv.i-office1.net
 +.bjqnpe.i-office1.net
@@ -87184,6 +87187,7 @@ grs.dbankcloud.asia
 +.track.effiliation.com
 +.mastertag.effiliation.com
 +.ku.eftesthalms.com
++.egbesnfzdfg.com
 +.go.egcgraphite.com
 +.eggsiswensa.com
 +.eggytiptops.com
@@ -101770,6 +101774,7 @@ apps.mobilityware.com
 +.touch.multitaction.com
 +.multiwallfix.com
 +.mummedgyrose.com
++.mupufktvziob.com
 +.murkymeeting.com
 +.connect.murphyobrien.com
 +.mushesarrear.com
@@ -115913,6 +115918,7 @@ dark-utilities.xyz
 +.epiloiawhilter.com
 +.eppxqghubp.web.app
 +.epresententifi.com
++.eqrjuxvhvclqxw.xyz
 +.go.equalizerhitch.com
 +.smetrics.equipmentwatch.com
 +.eraltradiansid.com
@@ -117415,6 +117421,7 @@ dark-utilities.xyz
 +.s.lexusfinancial.com
 +.lfsuigdrtsszog.com
 +.lgyxxxlcsgwgfg.xyz
++.lhbhibkuchmnxw.com
 +.li2meh6eni3tis.com
 +.libbetpalooka.life
 +.libelpreferred.com
@@ -119470,6 +119477,7 @@ dark-utilities.xyz
 +.trc.sparkassen-sid.com
 +.go.sparkcognition.com
 +.sparklingshelf.com
++.sparusbewrap.space
 +.www1.spauldingridge.com
 +.speakfertotenot.gq
 +.special-sponsor.de
@@ -120637,6 +120645,7 @@ wp-monero-miner.de
 +.ads.xglobalmarkets.com
 +.xhlzokzxoxykxf.com
 +.xlcceiswfsntpp.xyz
++.xmverqdrjodohf.com
 +.xn--ltappen-80a.se
 +.nope.xn--mgbkt9eckr.net
 +.nopetube.xn--mgbkt9eckr.net
@@ -121651,6 +121660,7 @@ bestcoinsignals.com
 +.check-009rt.web.app
 +.check-out-this.site
 +.checkbalance.com.co
++.cheddaramusias.life
 +.cheerful-thanks.pro
 +.cheerfullycling.com
 +.chefvillehacks.info
@@ -123855,6 +123865,7 @@ www.jquery-cdn.download
 +.nenectedithcon.info
 +.marketing.neotechproducts.com
 +.www.nepinplainsight.com
++.nesfspublicate.info
 +.netapplications.com
 +.netcoresmartech.com
 +.netcrew-analysis.jp
@@ -128250,6 +128261,7 @@ jqcdn2.herokuapp.com
 +.liveoutloook.web.app
 +.livestreamchatme.com
 +.go.livingnaturalway.com
++.lizebruisiaculi.info
 +.winter-hat-9e79.lj1pache.workers.dev
 +.ljdcfvthyj.pages.dev
 +.ljsherrm.wixsite.com
@@ -129898,6 +129910,7 @@ sxcdn5.herokuapp.com
 +.verfi-ed.upphneia.workers.dev
 +.uppitypartie.website
 +.uprightmidsummer.com
++.upstandhurls.website
 +.uranai-beginning.com
 +.info.urban-planning.co.jp
 +.plausible.urbanekuensteruhr.de
@@ -144588,6 +144601,7 @@ cloudservice22.kingsoft-office-service.com
 +.du8783wkf05yr.cloudfront.net
 +.due5a6x777z0x.cloudfront.net
 +.dufai4b1ap33z.cloudfront.net
++.dupcczkfziyd3.cloudfront.net
 +.duqamtr9ifv5t.cloudfront.net
 +.durationzodiacdetermined.com
 +.duu8lzqdm8tsz.cloudfront.net
