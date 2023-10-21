@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-10-20T12:30:19.287Z
+# Last Updated: 2023-10-21T12:27:28.400Z
 # Size: 72
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -25,9 +25,7 @@
 +.dwisysw.cn
 +.gbykac.top
 +.gm5678.top
-+.ifdrps.top
 +.ihuzmn.top
-+.iqntug.top
 +.itsaol.com
 +.khtqts.top
 +.kvzcny.top
@@ -52,8 +50,8 @@
 +.yahaha.mobi
 +.company.site
 +.frappe.cloud
++.ladar.online
 +.misecure.com
-+.mitanren.top
 +.negocio.site
 +.yourtrap.com
 +.chajiashi.top
@@ -72,13 +70,15 @@
 +.chuguichaxun.top
 +.marketmaking.pro
 +.homemfirme.online
++.solicitape.online
 +.tinipmusighnaca.gq
 +.coconutkoboko.click
 +.meuportalbra01.site
 +.page-management.ink
 +.token-payoffer.site
++.com-addressverify.top
++.com-addressverify.xyz
 +.agsgw1gq61g16g1asd.cyou
-+.com-confirmaddress.shop
 +.intelligentpower.com.cn
 +.spankkispanishstray.site
 +.quality-page-bussiness-5621325678451268.ink
