@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-10-22T12:27:44.079Z
-# Size: 151325
+# Last Updated: 2023-10-22T15:06:09.225Z
+# Size: 151338
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11854,6 +11854,7 @@ st.appsad.cn
 +.marketing.avtex.com
 +.track.avxid.com
 +.eel.aware7.de
++.awaw.asia
 +.content.awaze.com
 +.mdws.awccu.com
 +.awdc6.com
@@ -15148,6 +15149,7 @@ splashimgbssdl.yun.kugou.com
 +.kveww.com
 +.kvexx.com
 +.kvezz.com
++.kvhee.com
 +.kvhmm.com
 +.kvhnn.com
 +.sdc.kvm-ga.de
@@ -23778,6 +23780,7 @@ ads.google.com
 +.tr.update.groupon.be
 +.groutf.com
 +.grteab.com
++.grthhr.xyz
 +.api.grumft.com
 +.grumrt.com
 +.grxwqq.com
@@ -25196,6 +25199,7 @@ ssp1.kfadx.tech
 +.kmindex.ru
 +.metrics.kmsmep.com
 +.kmzayrt.cn
++.knhmgn.com
 +.knigna.com
 +.knliylh.cn
 +.knocia.com
@@ -26764,6 +26768,7 @@ js.nahnoji.cz
 +.nobost.com
 +.noclef.com
 +.noddus.com
++.nofizx.xyz
 +.nohcff.xyz
 +.nohezu.xyz
 +.info.nohken.com
@@ -71784,6 +71789,7 @@ plugin.2easydroid.com
 +.8a9aa371bb.3441134261.com
 +.e4d5cdb482.3455f431fa.com
 +.345f780221.com
++.34710af267.com
 +.044f8ad3e9.3482f0c95a.com
 +.58ac5dbcb6.34946d7678.com
 +.349c3c0859.com
@@ -72137,6 +72143,7 @@ plugin.2easydroid.com
 +.6002296e53.64df8e1c63.com
 +.e87b92329f.64eab1d337.com
 +.c54dc03ed6.650e18138d.com
++.6528fdyngk.xyz
 +.6593167243.com
 +.37dfd89a35.65d2bef787.com
 +.65mjvw6i1z.com
@@ -73162,6 +73169,7 @@ plugin.2easydroid.com
 +.beta-log.anninhthudo.vn
 +.anonyscrip.com
 +.anpjcoapgd.com
++.anpptedtah.com
 +.data-1381d79962.ansbachplus.de
 +.data-8522662a32.ansbachplus.de
 +.outreach.ansecurity.com
@@ -89033,7 +89041,7 @@ material.istreamsche.com
 +.smetrics.jynarquehcp.com
 +.k-09mobiles.com
 +.k8trangphim.com
-+.zk.kabscarbide.com
++.kabscarbide.com
 +.kadniltuwsu.com
 +.treefrog.kaffeknappen.no
 +.kagayaki-tk.biz
@@ -109178,6 +109186,7 @@ mail.ghmproperties.com
 +.hionedaugsbu.info
 +.hipersushiads.com
 +.email.hippohomecare.com
++.hippusanglist.com
 +.hircinnative.guru
 +.media.hireascension.com
 +.go.hireheroesusa.org
@@ -113168,6 +113177,7 @@ api-ads.tiantianqutao.com
 +.ukqgrxlxvockj.xyz
 +.uldthinkhimu.info
 +.ulojlvmejkaem.xyz
++.ulseugnrmnrww.com
 +.ultimatehacks.net
 +.ultimumflyers.uno
 +.ultrapartners.com
@@ -113694,6 +113704,7 @@ www.whatismyippro.com
 +.wurstsmikael.life
 +.ww2.wuxibiologics.com
 +.content.wuxibiologics.com
++.wvpfumotgpsfy.com
 +.ww-s-id-check.com
 +.wwopenclick.space
 +.wxejroeeteesr.com
@@ -138514,6 +138525,7 @@ html5adkit.plusmo.s3.amazonaws.com
 +.1348457791.rsc.cdn77.org
 +.1356894170.rsc.cdn77.org
 +.1409674995.rsc.cdn77.org
++.1423653471.rsc.cdn77.org
 +.1431327521.rsc.cdn77.org
 +.1436653548.rsc.cdn77.org
 +.1437953666.rsc.cdn77.org
@@ -138533,6 +138545,7 @@ html5adkit.plusmo.s3.amazonaws.com
 +.1786830340.rsc.cdn77.org
 +.1806217162.rsc.cdn77.org
 +.1809442125.rsc.cdn77.org
++.1819289999.rsc.cdn77.org
 +.1857169728.rsc.cdn77.org
 +.1871869301.rsc.cdn77.org
 +.1917697853.rsc.cdn77.org
