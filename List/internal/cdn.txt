@@ -305,6 +305,7 @@ SUFFIX,debug.com
 SUFFIX,deepl.com
 SUFFIX,deno.land
 SUFFIX,dlsite.jp
+SUFFIX,dmcdn.net
 SUFFIX,dmm.co.jp
 SUFFIX,dnitv.com
 SUFFIX,docker.io
@@ -385,6 +386,7 @@ SUFFIX,quora.com
 SUFFIX,qwant.com
 SUFFIX,react.dev
 SUFFIX,readme.io
+SUFFIX,safing.io
 SUFFIX,sanity.io
 SUFFIX,sb-cd.com
 SUFFIX,sellix.io
@@ -400,6 +402,7 @@ SUFFIX,trusti.id
 SUFFIX,ttvnw.net
 SUFFIX,twimg.com
 SUFFIX,twitch.tv
+SUFFIX,typora.io
 SUFFIX,unpkg.com
 SUFFIX,upload.io
 SUFFIX,upset.dev
@@ -857,6 +860,7 @@ SUFFIX,bitstamp.net
 SUFFIX,blazingly.io
 SUFFIX,blogblog.com
 SUFFIX,bytedapm.com
+SUFFIX,byteplus.com
 SUFFIX,c4assets.com
 SUFFIX,calendly.com
 SUFFIX,capitalg.com

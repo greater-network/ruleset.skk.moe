@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-10-21T15:33:28.343Z
-# Size: 1592
+# Last Updated: 2023-10-25T02:25:48.251Z
+# Size: 1595
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1221,6 +1221,7 @@ assets0.headwayapp.co
 cdn.headwayapp.co
 headway-widget.net
 cdn2.downdetector.com
++.dmcdn.net
 +.ziffstatic.com
 +.muscache.com
 cdn.dnsimple.com
@@ -1599,5 +1600,7 @@ screenshots.downloadtorrentfile.com
 cdn.auth0.com
 cdn.freshdesk.com
 static.typingclub.com
+assets.byteplus.com
 static.meiguo.com
+assets.safing.io
 ################# END ###################

@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-10-24T12:30:00.777Z
+# Last Updated: 2023-10-25T02:25:49.320Z
 # Size: 67
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -13,7 +13,6 @@
 +.00673.cn
 +.biz.site
 +.mpaa.top
-+.mytme.id
 +.zzux.com
 +.rdwrtu.cn
 +.ay0123.top
@@ -22,7 +21,6 @@
 +.bzemap.top
 +.canva.site
 +.gbykac.top
-+.gm5678.top
 +.ihuzmn.top
 +.jjkoyxy.cn
 +.kcvdruu.cn
@@ -30,7 +28,6 @@
 +.kvzcny.top
 +.ljhlna.top
 +.lmrauxc.cn
-+.mclpipv.cn
 +.mrsdeao.cn
 +.nezlwpn.cn
 +.omoefyr.cn
@@ -54,9 +51,9 @@
 +.ladar.online
 +.misecure.com
 +.negocio.site
-+.yourtrap.com
 +.chajiashi.top
 +.imagesns.club
++.paneldeni.icu
 +.spraid.com.cn
 +.temp-site.link
 +.temporary.link
@@ -64,6 +61,7 @@
 +.acces0-net.site
 +.mailbutler.link
 +.pr0nnerlca.site
++.token-jpay.site
 +.bjlangjie.com.cn
 +.chuguichaxun.top
 +.marketmaking.pro
@@ -74,7 +72,9 @@
 +.coconutkoboko.click
 +.page-management.ink
 +.token-payoffer.site
++.standopen.workers.dev
 +.agsgw1gq61g16g1asd.cyou
 +.intelligentpower.com.cn
++.amazon-clone-asz.pages.dev
 +.quality-page-bussiness-5621325678451268.ink
 ################# END ###################
