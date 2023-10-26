@@ -1675,6 +1675,7 @@ SUFFIX,runkit-packages-static-executables.com
 SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net
 SUFFIX,practicaldev-herokuapp-com.freetls.fastly.net
 SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net
+SUFFIX,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 REGEX,-files\.gitbook\.io
 REGEX,-res\.cloudinary\.com
 REGEX,-spotify-com
