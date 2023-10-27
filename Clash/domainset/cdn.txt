@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-10-25T02:25:48.251Z
-# Size: 1595
+# Last Updated: 2023-10-27T02:51:44.595Z
+# Size: 1602
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -120,7 +120,9 @@ packages.jetbrains.team
 pkg-cdn.jetbrains.team
 +.ubuntu.com
 +.debian.org
+screenshots.debian.net
 dl-cdn.alpinelinux.org
+downloads.openwrt.org
 ppa.launchpad.net
 +.mvnrepository.com
 repo1.maven.org
@@ -128,6 +130,9 @@ repository.jboss.org
 +.jitpack.io
 repo.maven.apache.org
 maven.google.com
+packages.termux.dev
+packages-cf.termux.dev
++.mirrors.utermux.dev
 +.gcr.io
 +.k8s.io
 formulae.brew.sh
@@ -1013,6 +1018,7 @@ pcdn-my.pcloud.com
 +.xingcdn.com
 profile-images.xing.com
 fonts1.unidays.world
++.userapi.com
 stories.freepiklabs.com
 +.cdnpk.net
 avatar.freepik.com
@@ -1603,4 +1609,5 @@ static.typingclub.com
 assets.byteplus.com
 static.meiguo.com
 assets.safing.io
++.pxgcdn.com
 ################# END ###################

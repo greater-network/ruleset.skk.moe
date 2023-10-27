@@ -572,6 +572,7 @@ SUFFIX,poecdn.net
 SUFFIX,postimg.cc
 SUFFIX,prismic.io
 SUFFIX,pusher.com
+SUFFIX,pxgcdn.com
 SUFFIX,pzvcdn.com
 SUFFIX,qikify.com
 SUFFIX,rawgit.com
@@ -606,6 +607,7 @@ SUFFIX,talent.com
 SUFFIX,tedcdn.com
 SUFFIX,telegra.ph
 SUFFIX,telesco.pe
+SUFFIX,termux.dev
 SUFFIX,thefly.com
 SUFFIX,thisav.com
 SUFFIX,tiktok.com
@@ -772,6 +774,7 @@ SUFFIX,nytimes.com
 SUFFIX,oktacdn.com
 SUFFIX,olelive.com
 SUFFIX,onestore.ms
+SUFFIX,openwrt.org
 SUFFIX,overcast.fm
 SUFFIX,p-smith.com
 SUFFIX,pandora.com
@@ -815,6 +818,8 @@ SUFFIX,typekit.com
 SUFFIX,typekit.net
 SUFFIX,ubembed.com
 SUFFIX,ubisoft.com
+SUFFIX,userapi.com
+SUFFIX,utermux.dev
 SUFFIX,utteranc.es
 SUFFIX,viblast.com
 SUFFIX,vidyard.com
@@ -1592,6 +1597,7 @@ SUFFIX,digitaloceanspaces.com
 SUFFIX,dropboxusercontent.com
 SUFFIX,firefoxusercontent.com
 SUFFIX,misskeyusercontent.com
+SUFFIX,screenshots.debian.net
 SUFFIX,skills-assets.pstmn.io
 SUFFIX,spoprod-a.akamaihd.net
 SUFFIX,spotify-everywhere.com
