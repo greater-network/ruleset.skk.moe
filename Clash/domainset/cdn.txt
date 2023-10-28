@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-10-27T02:51:44.595Z
-# Size: 1602
+# Last Updated: 2023-10-28T11:56:26.637Z
+# Size: 1605
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -102,6 +102,7 @@ static-production.npmjs.com
 registry.npmjs.com
 +.yarnpkg.com
 registry.npmjs.cf
+registry-cdn.wapm.io
 registry.bower.io
 +.pypi.org
 +.pythonhosted.org
@@ -121,9 +122,6 @@ pkg-cdn.jetbrains.team
 +.ubuntu.com
 +.debian.org
 screenshots.debian.net
-dl-cdn.alpinelinux.org
-downloads.openwrt.org
-ppa.launchpad.net
 +.mvnrepository.com
 repo1.maven.org
 repository.jboss.org
@@ -171,6 +169,7 @@ raw.github.com
 +.vsassets.io
 +.vsmarketplacebadges.dev
 +.gitlab-static.net
++.bytebucket.org
 +.twimg.com
 cdn.cms-twdigitalassets.com
 fonts.twitter.com
@@ -223,6 +222,7 @@ a5.behance.net
 mir-s3-cdn-cf.behance.net
 +.ssl-images-amazon.com
 +.media-amazon.com
++.cloudfront.net
 +.awsstatic.com
 cdn.assets.as2.amazonaws.com
 ooo.0o0.ooo
@@ -547,6 +547,8 @@ widgets.zohosalesiq.com
 client.px-cloud.net
 +.jscloud.net
 widgets.tree-nation.com
+img.announcekit.app
+cdn.announcekit.app
 cdn01.jotfor.ms
 cdn02.jotfor.ms
 cdn03.jotfor.ms
@@ -579,6 +581,7 @@ wac-cdn.atlassian.com
 wac-cdn-2.atlassian.com
 +.prod.public.atl-paas.net
 confluence-v1.prod.atl-paas.net
++.trackerslist.com
 assets.swoogo.com
 cdn.sanity.io
 +.kc-usercontent.com
@@ -897,7 +900,6 @@ play.vidyard.com
 cdn.vidyard.com
 assets.leetcode.com
 userfiles.uptimerobot.com
-d27xxe7juh1us6.cloudfront.net
 denali-static.grammarly.com
 static-web.grammarly.com
 image.send.grammarly.com
@@ -1133,7 +1135,6 @@ optimizely.com
 web-assets.ifttt.com
 assets.ifttt.com
 web.onekey-asset.com
-d3el26csp1xekx.cloudfront.net
 img.merch.cameo.com
 img.represent.com
 cache-05.filehippo.net
@@ -1610,4 +1611,6 @@ assets.byteplus.com
 static.meiguo.com
 assets.safing.io
 +.pxgcdn.com
++.cdn.printfriendly.com
++.cfcdn.mux.com
 ################# END ###################

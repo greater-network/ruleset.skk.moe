@@ -105,6 +105,7 @@ SUFFIX,mega.io
 SUFFIX,mega.nz
 SUFFIX,moe.cat
 SUFFIX,msn.com
+SUFFIX,mux.com
 SUFFIX,nfs.pub
 SUFFIX,nimg.jp
 SUFFIX,now.com
@@ -140,11 +141,17 @@ SUFFIX,ubi.com
 SUFFIX,v2ex.co
 SUFFIX,vine.co
 SUFFIX,viu.com
+SUFFIX,wapm.io
 SUFFIX,webp.se
 SUFFIX,wsj.com
 SUFFIX,wsj.net
 SUFFIX,wxw.moe
 SUFFIX,xoqq.ch
+SUFFIX,xtom.au
+SUFFIX,xtom.de
+SUFFIX,xtom.ee
+SUFFIX,xtom.jp
+SUFFIX,xtom.nl
 SUFFIX,z4a.net
 SUFFIX,zoom.us
 SUFFIX,1drv.com
@@ -260,6 +267,7 @@ SUFFIX,xbox.com
 SUFFIX,xing.com
 SUFFIX,xkcd.com
 SUFFIX,xlog.app
+SUFFIX,xtom.com
 SUFFIX,yande.re
 SUFFIX,yext.com
 SUFFIX,yimg.com
@@ -785,6 +793,7 @@ SUFFIX,pixabay.com
 SUFFIX,polyfill.io
 SUFFIX,pornhub.com
 SUFFIX,pornimg.xyz
+SUFFIX,proxmox.com
 SUFFIX,pstatic.net
 SUFFIX,ravenjs.com
 SUFFIX,reactjs.org
@@ -834,6 +843,7 @@ SUFFIX,windows.net
 SUFFIX,writeas.net
 SUFFIX,x-n-x-x.pro
 SUFFIX,xingcdn.com
+SUFFIX,xtom.com.hk
 SUFFIX,xvideos.com
 SUFFIX,yarnpkg.com
 SUFFIX,yelpcdn.com
@@ -1112,6 +1122,7 @@ SUFFIX,memberful.com
 SUFFIX,messenger.com
 SUFFIX,microsoft.com
 SUFFIX,mytvsuper.com
+SUFFIX,navercorp.com
 SUFFIX,nflxvideo.net
 SUFFIX,oculuscdn.com
 SUFFIX,office365.com
@@ -1198,6 +1209,7 @@ SUFFIX,beyondwords.io
 SUFFIX,bluestacks.com
 SUFFIX,brightcove.com
 SUFFIX,brightcove.net
+SUFFIX,bytebucket.org
 SUFFIX,cbinsights.com
 SUFFIX,cbsaavideo.com
 SUFFIX,cdn-sellix.com
@@ -1319,6 +1331,7 @@ SUFFIX,addons.business
 SUFFIX,alpinelinux.org
 SUFFIX,amazonvideo.com
 SUFFIX,amebaowndme.com
+SUFFIX,announcekit.app
 SUFFIX,arcade.software
 SUFFIX,arstechnica.net
 SUFFIX,backblazeb2.com
@@ -1466,6 +1479,7 @@ SUFFIX,steampowered.com
 SUFFIX,streamhentai.org
 SUFFIX,sunofbeaches.com
 SUFFIX,tampermonkey.net
+SUFFIX,trackerslist.com
 SUFFIX,unrealengine.com
 SUFFIX,usercontent.goog
 SUFFIX,visualstudio.com
@@ -1512,6 +1526,7 @@ SUFFIX,northern-apps.com
 SUFFIX,notion-static.com
 SUFFIX,oreillystatic.com
 SUFFIX,paramountplus.com
+SUFFIX,printfriendly.com
 SUFFIX,purevpn-tools.com
 SUFFIX,recovermycart.com
 SUFFIX,smartmediarep.com
@@ -1669,7 +1684,6 @@ SUFFIX,d2anahhhmp1ffz.cloudfront.net
 SUFFIX,d3196yreox78o9.cloudfront.net
 SUFFIX,d349g9zuie06uo.cloudfront.net
 SUFFIX,d3c7rimkq79yfu.cloudfront.net
-SUFFIX,d3el26csp1xekx.cloudfront.net
 SUFFIX,freeshippingbar.herokuapp.com
 SUFFIX,firebasestorage.googleapis.com
 SUFFIX,steamuserimages-a.akamaihd.net
