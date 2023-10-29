@@ -1190,6 +1190,7 @@ SUFFIX,wikipedia.org
 SUFFIX,wireshark.org
 SUFFIX,wixstatic.com
 SUFFIX,wordpress.com
+SUFFIX,wordpress.org
 SUFFIX,xdaimages.com
 SUFFIX,zendesk.co.jp
 SUFFIX,zerohedge.com
