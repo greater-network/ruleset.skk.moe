@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-10-29T12:27:36.295Z
-# Size: 757
+# Last Updated: 2023-10-30T12:30:41.802Z
+# Size: 759
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -256,7 +256,6 @@ ncc-speed.kbro.com.tw
 ntp-speed.kbro.com.tw
 nty-speed.kbro.com.tw
 yms-speed.kbro.com.tw
-speedtest.lekloud.net
 speedtest.lumaserv.me
 speedtest-ca.mathys.page
 ookla.mbspeed.net
@@ -354,6 +353,7 @@ speedtest.eu.kamatera.com
 speedtest.eu-lo.kamatera.com
 speedtest.us-mi.kamatera.com
 ookla.speedtest.seattle.wa.limewave.net
+speedtest.linkchina.hk
 speedtest-1.litfibre.com
 m1speedtest1.m1net.com.sg
 speedtest-ams.melbicom.net
@@ -391,6 +391,7 @@ nsw-brwy-speedtest.aarnet.net.au
 tas-dwpk-speedtest.aarnet.net.au
 vic-pmla-speedtest.aarnet.net.au
 tsdvuspeedtest01p.allstream.com
+ookla-ita.asanet.tec.br
 sp1.asthriona.com
 speed.bajianjun.com
 speedtest.beanfield.com
@@ -479,6 +480,7 @@ speedtest.gosfieldtel.ca
 sp1.hcetelecom.com
 speedtest.dal.hivelocity.net
 speedtest.lax.hivelocity.net
+speedtest.mia.hivelocity.net
 speedtest.nyc.hivelocity.net
 speedtest-la.hostsailor.com
 speedtest1.hurontel.on.ca
@@ -583,6 +585,7 @@ speedtest-vds1.tasmanet.com.au
 speedtestnyc.telebermuda.com
 speedtest.telecablecr.com
 speedtest.ufinetlatam.net
+speedtest.uplinkrr.com.br
 nn.speedtest.vodafone.com.au
 speedtest2.voicehost.co.uk
 speedtest.actelecom.com.br
@@ -639,6 +642,7 @@ spetstmns01.timbrasil.com.br
 hl-speed.twmbroadband.com
 gvc-speed.twmbroadband.com
 mct-speed.twmbroadband.com
+phc-speed.twmbroadband.com
 uct-speed.twmbroadband.com
 yjl-speed.twmbroadband.com
 sb-speedtest-1.twmbroadband.net
@@ -674,7 +678,6 @@ speedtest.suppcenter.global
 speedtest.unitelecom.net.br
 velocidade.vlctelecom.com.br
 ookla.actionevoce.com.br
-velocidade.atostelecom.com.br
 speedtest.beambarossa.com.au
 speedtest.belairinternet.com
 speedtest.boxbroadband.co.uk
@@ -745,7 +748,6 @@ speedtest.albatroznetwork.com.br
 ookla.amazoniasat-isp.com.br
 ookla-itacoatiara.amazoniasat-isp.com.br
 velocidade.amazoniatelecom.com.br
-velocidade-pvh.amazoniatelecom.com.br
 speed.bne.aussiebroadband.com.au
 speed.mel.aussiebroadband.com.au
 speed.syd.aussiebroadband.com.au
