@@ -820,6 +820,7 @@ SUFFIX,termius.com
 SUFFIX,tiktokv.com
 SUFFIX,tnaflix.com
 SUFFIX,tribecap.co
+SUFFIX,truenas.net
 SUFFIX,tubby.cloud
 SUFFIX,twitpic.com
 SUFFIX,twitter.com
@@ -1128,6 +1129,8 @@ SUFFIX,oculuscdn.com
 SUFFIX,office365.com
 SUFFIX,onesignal.com
 SUFFIX,onwardsmg.com
+SUFFIX,openshift.com
+SUFFIX,openshift.net
 SUFFIX,packagist.org
 SUFFIX,parallels.com
 SUFFIX,peacocktv.com
@@ -1276,6 +1279,7 @@ SUFFIX,ninjastream.to
 SUFFIX,nitro.download
 SUFFIX,nowestatic.com
 SUFFIX,optimizely.com
+SUFFIX,phonearena.com
 SUFFIX,pickystory.com
 SUFFIX,pornmaster.fun
 SUFFIX,primevideo.com
