@@ -296,6 +296,7 @@ SUFFIX,biguz.net
 SUFFIX,bit.cloud
 SUFFIX,branch.io
 SUFFIX,brave.com
+SUFFIX,brevo.com
 SUFFIX,bunny.net
 SUFFIX,cameo.com
 SUFFIX,cdnjs.com
@@ -1290,6 +1291,7 @@ SUFFIX,runfission.com
 SUFFIX,safecharge.com
 SUFFIX,salesforce.com
 SUFFIX,sbcdnvideo.com
+SUFFIX,sendinblue.com
 SUFFIX,sentry-cdn.com
 SUFFIX,sfdcstatic.com
 SUFFIX,shopifycdn.com
