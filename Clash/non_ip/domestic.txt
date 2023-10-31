@@ -1,13 +1,18 @@
 ########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2023-10-25T02:25:48.043Z
-# Size: 335
+# Last Updated: 2023-10-31T05:09:59.127Z
+# Size: 337
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains known addresses that are avaliable in the Mainland China.
 ########################################
+DOMAIN,www.layuicdn.com
+DOMAIN,cn.download.nvidia.com
+DOMAIN,cdn.bootcss.com
+DOMAIN,cdn.bootcdn.net
+DOMAIN,gs-loc-cn.apple.com
 DOMAIN-SUFFIX,ruguoapp.com
 DOMAIN-SUFFIX,ronghub.com
 DOMAIN-SUFFIX,raychase.net
@@ -338,9 +343,6 @@ DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-KEYWORD,amplifi
 DOMAIN-KEYWORD,officecdn
-DOMAIN,www.layuicdn.com
-DOMAIN,cn.download.nvidia.com
-DOMAIN,cdn.bootcss.com
-DOMAIN,cdn.bootcdn.net
-DOMAIN,gs-loc-cn.apple.com
+PROCESS-NAME,WeCom
+PROCESS-NAME,WeChat
 ################# END ###################

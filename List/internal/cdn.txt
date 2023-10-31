@@ -1501,6 +1501,7 @@ SUFFIX,akamaized.netflix
 SUFFIX,alternativeto.net
 SUFFIX,arcpublishing.com
 SUFFIX,assets-servd.host
+SUFFIX,assets-yammer.com
 SUFFIX,azurecontainer.io
 SUFFIX,bandwagonhost.com
 SUFFIX,chesscomfiles.com
@@ -1612,6 +1613,7 @@ SUFFIX,navismithapis-cdn.com
 SUFFIX,ssl-images-amazon.com
 SUFFIX,storjipfs-gateway.com
 SUFFIX,unified-streaming.com
+SUFFIX,yammerusercontent.com
 SUFFIX,brick.a.ssl.fastly.net
 SUFFIX,digitaloceanspaces.com
 SUFFIX,dropboxusercontent.com

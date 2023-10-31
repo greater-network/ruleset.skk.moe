@@ -1,13 +1,15 @@
 ########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2023-09-10T17:38:41.935Z
-# Size: 128
+# Last Updated: 2023-10-31T05:09:59.270Z
+# Size: 164
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains domains and process that should not be proxied.
 ########################################
+DOMAIN,local.adguard.org
+DOMAIN,injections.adguard.org
 DOMAIN-SUFFIX,wiley.com
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,uhdbits.org
@@ -134,6 +136,40 @@ DOMAIN-KEYWORD,cnki.net
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,torrent
 DOMAIN-KEYWORD,announce
-DOMAIN,local.adguard.org
-DOMAIN,injections.adguard.org
+PROCESS-NAME,Logi Options
+PROCESS-NAME,Logi Options Daemon
+PROCESS-NAME,SunloginClient_Helper
+PROCESS-NAME,SunloginClient_Desktop
+PROCESS-NAME,UUBooster
+PROCESS-NAME,Motrix.app
+PROCESS-NAME,WebTorrent
+PROCESS-NAME,WebTorrent Helper
+PROCESS-NAME,DownloadService
+PROCESS-NAME,qBittorrent
+PROCESS-NAME,qbittorrent-nox
+PROCESS-NAME,qbittorrent*
+PROCESS-NAME,uTorrent
+PROCESS-NAME,BaiduNetdisk_mac
+PROCESS-NAME,BitComet
+PROCESS-NAME,Transmission
+PROCESS-NAME,Thunder
+PROCESS-NAME,ThunderVIP
+PROCESS-NAME,NetTransport
+PROCESS-NAME,Folx
+PROCESS-NAME,fdm
+PROCESS-NAME,amuled
+PROCESS-NAME,aria2c
+PROCESS-NAME,parsecd
+PROCESS-NAME,privoxy
+PROCESS-NAME,tailscaled
+PROCESS-NAME,transmission-qt
+PROCESS-NAME,transmission-daemon
+PROCESS-NAME,trojan
+PROCESS-NAME,trojan-go
+PROCESS-NAME,ClashX
+PROCESS-NAME,cloudflared
+PROCESS-NAME,clash
+PROCESS-NAME,ss-local
+PROCESS-NAME,xray
+PROCESS-NAME,v2ray
 ################# END ###################

@@ -1,13 +1,14 @@
 ########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2023-09-20T05:34:17.716Z
-# Size: 121
+# Last Updated: 2023-10-31T05:09:59.264Z
+# Size: 126
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # The ruleset supports AD blocking, tracking protection, privacy protection, anti-phishing, anti-mining
 ########################################
+DOMAIN,stun.smartgslb.com
 DOMAIN-SUFFIX,vpndns.net
 DOMAIN-SUFFIX,mypi.co
 DOMAIN-SUFFIX,myiphost.com
@@ -128,5 +129,9 @@ DOMAIN-KEYWORD,.nimiq.
 DOMAIN-KEYWORD,.freecontent.
 DOMAIN-KEYWORD,.engage.3m.
 DOMAIN-KEYWORD,.estream.
-DOMAIN,stun.smartgslb.com
+PROCESS-NAME,LemonService
+PROCESS-NAME,LemonAgent
+PROCESS-NAME,LemonDaemon
+PROCESS-NAME,LemonMonitor
+PROCESS-NAME,Tencent Lemon
 ################# END ###################

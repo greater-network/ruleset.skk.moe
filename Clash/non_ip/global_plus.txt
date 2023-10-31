@@ -1,14 +1,15 @@
 ########################################
 # Sukka's Ruleset - Enhanced Global Services
-# Last Updated: 2023-09-10T17:38:41.934Z
-# Size: 117
+# Last Updated: 2023-10-31T05:09:59.268Z
+# Size: 122
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains rules for services that are not available inside the Mainland China.
 ########################################
-DOMAIN-SUFFIX,yahoo.com
+DOMAIN,ees.elsevier.com
+DOMAIN,onedrive.live.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,wsj.com
@@ -86,7 +87,13 @@ DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,gate.io
+DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,googleapis.cn
@@ -123,6 +130,4 @@ DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,google
-DOMAIN,ees.elsevier.com
-DOMAIN,onedrive.live.com
 ################# END ###################

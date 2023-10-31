@@ -1,21 +1,31 @@
 ########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2023-10-31T03:35:47.872Z
-# Size: 73
+# Last Updated: 2023-10-31T05:09:59.269Z
+# Size: 66
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains rules for services that are not available inside the Mainland China.
 ########################################
+DOMAIN,wego.here.com
+DOMAIN,media.steampowered.com
+DOMAIN,ccmdl.adobe.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,lookup-api.apple.com
+DOMAIN,itunes.apple.com
+DOMAIN,hls.itunes.apple.com
+DOMAIN,embed.music.apple.com
+DOMAIN,books.itunes.apple.com
+DOMAIN,beta.itunes.apple.com
+DOMAIN,audiocontentdownload.apple.com
+DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,office365.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN-SUFFIX,yt.be
-DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,windows.net
@@ -37,15 +47,12 @@ DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,gameloft.com
-DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,gmodules.com
-DOMAIN-SUFFIX,gmail.com
-DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,dialogflow.com
@@ -63,22 +70,8 @@ DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,520cc.cc
 DOMAIN-KEYWORD,github
-DOMAIN,wego.here.com
-DOMAIN,media.steampowered.com
-DOMAIN,ccmdl.adobe.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-client.apple.com
-DOMAIN,lookup-api.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,hls.itunes.apple.com
-DOMAIN,embed.music.apple.com
-DOMAIN,books.itunes.apple.com
-DOMAIN,beta.itunes.apple.com
-DOMAIN,audiocontentdownload.apple.com
-DOMAIN,api-glb-sea.smoot.apple.com
 ################# END ###################
