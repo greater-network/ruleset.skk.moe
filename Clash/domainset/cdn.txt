@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-11-01T04:46:33.892Z
-# Size: 1618
+# Last Updated: 2023-11-01T08:45:11.950Z
+# Size: 1621
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1238,6 +1238,9 @@ cdn.headwayapp.co
 headway-widget.net
 cdn2.downdetector.com
 +.dmcdn.net
+images.now-tv.com
++.nowestatic.com
++.pplusstatic.com
 +.ziffstatic.com
 +.muscache.com
 cdn.dnsimple.com

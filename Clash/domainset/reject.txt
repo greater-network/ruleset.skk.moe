@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-11-01T04:46:48.624Z
-# Size: 159903
+# Last Updated: 2023-11-01T08:45:26.249Z
+# Size: 159906
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13745,6 +13745,7 @@ vdapprecv.app.cntvwb.cn
 +.mkmree.dmm.co.jp
 +.widget-view.dmm.co.jp
 +.dmpxs.com
++.dmrtx.com
 +.dmtry.com
 +.dniwe.xyz
 +.dnjss.com
@@ -18462,6 +18463,7 @@ msmetrics-test.ws.sonos.com
 +.srgev.com
 +.plausible.srijn.net
 +.srkft.com
++.srlhgo.cn
 +.www2.srmax.com
 +.srnov.top
 +.commute.srpgo.com
@@ -68936,6 +68938,7 @@ ad.jamster.co.uk
 +.repdata.kitsapsun.com
 +.pay.kiwify.com.br
 +.goto.kiwiinsure.co
++.kjdbcjkmc.com
 +.kjvnfhdgb.com
 +.kkkjpg-522.cc
 +.data-32d8a1e8f7.kl-magazin.de

@@ -1,12 +1,65 @@
 ########################################
-# Sukka's Ruleset - Stream Services
-# Last Updated: 2023-10-31T05:09:59.255Z
-# Size: 296
+# Sukka's Ruleset - Stream Services: All
+# Last Updated: 2023-11-01T08:45:11.631Z
+# Size: 290
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
-# This file contains rules for popular stream services.
+# - 4gtv
+# - AbemaTV
+# - Amazon Prime Video
+# - All4
+# - Apple TV
+# - Apple Music TV
+# - Bahamut
+# - BBC
+# - Bilibili International
+# - DAZN
+# - Deezer
+# - Disney+
+# - Discovery+
+# - DMM
+# - encoreTVB
+# - Fox Now
+# - Fox+
+# - HBO Go / HBO Now / HBO Max
+# - HBO Asia
+# - Himalaya FM
+# - Hulu
+# - HWTV
+# - iQiYi Global
+# - ITV
+# - JOOX
+# - KKBOX
+# - KKTV
+# - Line TV
+# - LiTV
+# - Max
+# - My5
+# - myTV Super
+# - Netflix
+# - Naver TV
+# - niconico
+# - Now E
+# - Overcast FM
+# - Paramount+
+# - PBS
+# - Peacock
+# - Pandora
+# - Pornhub
+# - SoundCloud
+# - Spotify
+# - TaiwanGood
+# - TIDAL
+# - TikTok
+# - TVB Anywhere
+# - Twitch
+# - ViuTV
+# - WeTV
+# - YouTube
+# - YouTube Music
+# - SHOWTIME
 ########################################
 DOMAIN,youtube.googleapis.com
 DOMAIN,youtubei.googleapis.com
@@ -14,16 +67,14 @@ DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN,manifest.prod.boltdns.net
 DOMAIN,staticasiafox.akamaized.net
 DOMAIN,s3-ap-southeast-1.amazonaws.com
-DOMAIN,videos-f.jwpsrv.com
 DOMAIN,edge.api.brightcove.com
-DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
-DOMAIN,cache-video.iq.com
-DOMAIN,cache.video.iqiyi.com
 DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
 DOMAIN,cbsi.live.ott.irdeto.com
+DOMAIN,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
+DOMAIN,cache-video.iq.com
+DOMAIN,cache.video.iqiyi.com
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
-DOMAIN,content.jwplatform.com
 DOMAIN,cdn.registerdisney.go.com
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
@@ -82,20 +133,6 @@ DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,youtubegaming.com
 DOMAIN-SUFFIX,youtubeeducation.com
 DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,nowestatic.com
-DOMAIN-SUFFIX,nowe.com
-DOMAIN-SUFFIX,nimg.jp
-DOMAIN-SUFFIX,nicovideo.jp
-DOMAIN-SUFFIX,nflxvideo.net
-DOMAIN-SUFFIX,nflxsearch.net
-DOMAIN-SUFFIX,nflxso.net
-DOMAIN-SUFFIX,nflximg.net
-DOMAIN-SUFFIX,nflximg.com
-DOMAIN-SUFFIX,nflxext.com
-DOMAIN-SUFFIX,netflix.net
-DOMAIN-SUFFIX,netflix.com
-DOMAIN-SUFFIX,netflix.com.edgesuite.net
-DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,showtime.com
 DOMAIN-SUFFIX,sho.com
 DOMAIN-SUFFIX,skyking.com.tw
@@ -117,6 +154,19 @@ DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,smartmediarep.com
+DOMAIN-SUFFIX,nowe.com
+DOMAIN-SUFFIX,nimg.jp
+DOMAIN-SUFFIX,nicovideo.jp
+DOMAIN-SUFFIX,nflxvideo.net
+DOMAIN-SUFFIX,nflxsearch.net
+DOMAIN-SUFFIX,nflxso.net
+DOMAIN-SUFFIX,nflximg.net
+DOMAIN-SUFFIX,nflximg.com
+DOMAIN-SUFFIX,nflxext.com
+DOMAIN-SUFFIX,netflix.net
+DOMAIN-SUFFIX,netflix.com
+DOMAIN-SUFFIX,netflix.com.edgesuite.net
+DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,litv.tv
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,kk.stream
@@ -144,18 +194,18 @@ DOMAIN-SUFFIX,tidalhifi.com
 DOMAIN-SUFFIX,tidal.com
 DOMAIN-SUFFIX,tospotify.com
 DOMAIN-SUFFIX,theplatform.com
-DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,tv.naver.com
+DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,encoretvb.com
-DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,isnssdk.com
 DOMAIN-SUFFIX,ipstatp.com
 DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,itvstatic.com
 DOMAIN-SUFFIX,itv.com
+DOMAIN-SUFFIX,iq.com
 DOMAIN-SUFFIX,intl.iqiyi.com
 DOMAIN-SUFFIX,intl-subscription.iqiyi.com
 DOMAIN-SUFFIX,intl-rcd.iqiyi.com
@@ -176,19 +226,22 @@ DOMAIN-SUFFIX,viu.tv
 DOMAIN-SUFFIX,viu.now.com
 DOMAIN-SUFFIX,viu.com
 DOMAIN-SUFFIX,viblast.com
+DOMAIN-SUFFIX,cbsaavideo.com
+DOMAIN-SUFFIX,cbsivideo.com
+DOMAIN-SUFFIX,cbsi.com
+DOMAIN-SUFFIX,channel5.com
+DOMAIN-SUFFIX,channel4.com
+DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,foxplus.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,fls-na.amazon.com
 DOMAIN-SUFFIX,pscdn.co
-DOMAIN-SUFFIX,p-cdn.us
 DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,phprcdn.com
-DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,peacocktv.com
 DOMAIN-SUFFIX,pbs.org
-DOMAIN-SUFFIX,pplusstatic.com
 DOMAIN-SUFFIX,pandora.com
 DOMAIN-SUFFIX,paramountplus.com
 DOMAIN-SUFFIX,prime-video.com
@@ -197,18 +250,12 @@ DOMAIN-SUFFIX,primevideo.org
 DOMAIN-SUFFIX,primevideo.info
 DOMAIN-SUFFIX,primevideo.cc
 DOMAIN-SUFFIX,primevideo.com
-DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,musical.ly
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,my5.tv
+DOMAIN-SUFFIX,max.com
 DOMAIN-SUFFIX,media-amazon.com
-DOMAIN-SUFFIX,cbsaavideo.com
-DOMAIN-SUFFIX,cbsivideo.com
-DOMAIN-SUFFIX,cbsi.com
-DOMAIN-SUFFIX,channel5.com
-DOMAIN-SUFFIX,channel4.com
-DOMAIN-SUFFIX,c4assets.com
 DOMAIN-SUFFIX,wetvinfo.com
 DOMAIN-SUFFIX,wetv.vip
 DOMAIN-SUFFIX,withyoutube.com
@@ -236,7 +283,6 @@ DOMAIN-SUFFIX,dazndn.com
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN-SUFFIX,dokusho-ojikan.jp
-DOMAIN-SUFFIX,himalaya.com
 DOMAIN-SUFFIX,hjholdings.jp
 DOMAIN-SUFFIX,hulustream.com
 DOMAIN-SUFFIX,huluim.com
@@ -244,6 +290,7 @@ DOMAIN-SUFFIX,hulu.us
 DOMAIN-SUFFIX,hulu.tv
 DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,himalaya.com
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hbomaxcdn.com
 DOMAIN-SUFFIX,hbomax.com
@@ -275,11 +322,11 @@ DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,5itv.tv
 DOMAIN-SUFFIX,4gtv.tv
+DOMAIN-KEYWORD,tvbanywhere
 DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,dualstack.ichnaea-web-
 DOMAIN-KEYWORD,dualstack.apiproxy-
-DOMAIN-KEYWORD,tvbanywhere
 DOMAIN-KEYWORD,rthklive
 DOMAIN-KEYWORD,netflixdnstest
 DOMAIN-KEYWORD,nowtv100
@@ -294,11 +341,11 @@ DOMAIN-KEYWORD,abematv.akamaized.net
 PROCESS-NAME,music
 PROCESS-NAME,tv
 PROCESS-NAME,tv.twitch.android.app
-PROCESS-NAME,com.wbd.stream
 PROCESS-NAME,com.vuclip.viu
 PROCESS-NAME,com.viu.phone
 PROCESS-NAME,com.viu.pad
 PROCESS-NAME,com.netflix.mediaclient
+PROCESS-NAME,com.wbd.stream
 PROCESS-NAME,com.linecorp.linetv
 PROCESS-NAME,com.tencent.ibg.joox
 PROCESS-NAME,com.hulu.plus

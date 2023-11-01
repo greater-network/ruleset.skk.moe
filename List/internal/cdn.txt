@@ -226,7 +226,6 @@ SUFFIX,nowe.com
 SUFFIX,npmjs.cf
 SUFFIX,okex.com
 SUFFIX,osdn.net
-SUFFIX,p-cdn.us
 SUFFIX,piano.io
 SUFFIX,pika.dev
 SUFFIX,pixiv.nl
@@ -558,6 +557,7 @@ SUFFIX,nflxso.net
 SUFFIX,nhncorp.jp
 SUFFIX,niupic.com
 SUFFIX,nodejs.org
+SUFFIX,now-tv.com
 SUFFIX,o3o.studio
 SUFFIX,ocnttv.com
 SUFFIX,oculus.com
@@ -1190,6 +1190,7 @@ SUFFIX,unidays.world
 SUFFIX,video-cdn.net
 SUFFIX,waitlisted.co
 SUFFIX,wasabisys.com
+SUFFIX,whatpulse.org
 SUFFIX,wikimedia.org
 SUFFIX,wikipedia.org
 SUFFIX,wireshark.org
