@@ -474,6 +474,7 @@ SUFFIX,cracked.to
 SUFFIX,crisp.chat
 SUFFIX,crypto.com
 SUFFIX,cwinfo.net
+SUFFIX,cwwcdn.com
 SUFFIX,dazndn.com
 SUFFIX,debian.org
 SUFFIX,deezer.com
@@ -1362,6 +1363,7 @@ SUFFIX,fontawesome.com
 SUFFIX,foxbusiness.com
 SUFFIX,freepiklabs.com
 SUFFIX,genenetwork.org
+SUFFIX,getcomposer.org
 SUFFIX,gettyimages.com
 SUFFIX,googlevideo.com
 SUFFIX,graphassets.com
@@ -1516,6 +1518,7 @@ SUFFIX,dmm-extension.com
 SUFFIX,dokusho-ojikan.jp
 SUFFIX,dropboxstatic.com
 SUFFIX,envato-static.com
+SUFFIX,faveohelpdesk.com
 SUFFIX,flightradar24.com
 SUFFIX,fnbuilds.services
 SUFFIX,foresightnews.pro
