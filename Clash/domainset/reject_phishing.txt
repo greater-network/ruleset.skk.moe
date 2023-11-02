@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-11-01T12:39:44.026Z
-# Size: 51
+# Last Updated: 2023-11-02T12:30:02.570Z
+# Size: 49
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13,7 +13,7 @@
 +.00673.cn
 +.biz.site
 +.mpaa.top
-+.x7fx.win
++.warg.top
 +.zzux.com
 +.rdwrtu.cn
 +.bmbnzvl.cn
@@ -24,17 +24,13 @@
 +.ihuzmn.top
 +.kcvdruu.cn
 +.khtqts.top
-+.kvzcny.top
 +.ljhlna.top
 +.lmrauxc.cn
 +.mrsdeao.cn
 +.qhncru.top
 +.ufvnjr.top
 +.xynthp.top
-+.arborth.top
 +.audacad.top
-+.cprapid.com
-+.onedumb.com
 +.wsoqwa9.top
 +.company.site
 +.frappe.cloud
@@ -51,14 +47,16 @@
 +.pr0nnerlca.site
 +.duanjumao.com.cn
 +.marketmaking.pro
++.submarine001.xyz
 +.cpay-payment.site
 +.verifyaddress.xyz
 +.healthyrecipes.fit
-+.mymeritcoin.online
 +.tinipmusighnaca.gq
 +.coconutkoboko.click
 +.page-management.ink
 +.legmelimanmaq.online
 +.leqmellmanmag.online
 +.identity-sesion.online
++.web3validationvault.xyz
++.infectiousinfringement.cn
 ################# END ###################
