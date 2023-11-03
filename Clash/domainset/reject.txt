@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-11-03T03:09:12.411Z
-# Size: 160015
+# Last Updated: 2023-11-03T06:27:43.322Z
+# Size: 160021
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -22,15 +22,10 @@
 #  - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs.txt
 #  - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites.txt
 #  - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_mail_trackers.txt
-#  - https://ublockorigin.github.io/uAssets/filters/filters.txt
-#  - https://ublockorigin.github.io/uAssets/filters/filters-2020.txt
-#  - https://ublockorigin.github.io/uAssets/filters/filters-2021.txt
-#  - https://ublockorigin.github.io/uAssets/filters/filters-2022.txt
-#  - https://ublockorigin.github.io/uAssets/filters/filters-2023.txt
-#  - https://ublockorigin.github.io/uAssets/filters/badware.txt
-#  - https://ublockorigin.github.io/uAssets/filters/privacy.txt
-#  - https://ublockorigin.github.io/uAssets/filters/resource-abuse.txt
-#  - https://ublockorigin.github.io/uAssets/filters/unbreak.txt
+#  - https://ublockorigin.github.io/uAssets/filters/filters.min.txt
+#  - https://ublockorigin.github.io/uAssets/filters/badware.min.txt
+#  - https://ublockorigin.github.io/uAssets/filters/privacy.min.txt
+#  - https://ublockorigin.github.io/uAssets/filters/unbreak.min.txt
 #  - https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
 #  - https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
 #  - https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
@@ -46,8 +41,6 @@
 #  - https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
 #  - https://paulgb.github.io/BarbBlock/blacklists/ublock-origin.txt
 #  - https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty.txt
-#  - https://raw.githubusercontent.com/brave/adblock-lists/master/brave-lists/brave-firstparty-cname.txt
-#  - https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt
 ########################################
 ec2-107-22-193-119.compute-1.amazonaws.com
 +.atom-log.3.cn
@@ -6666,6 +6659,7 @@ telemetry.appex.bing.net
 +.cjok.net
 +.smetrics.cjoy.com
 +.go.cjpac.ca
++.cjt1.net
 +.ck33.top
 +.c0i.ckoi.com
 +.ckre.net
@@ -12269,6 +12263,7 @@ adx.apiok.net
 +.securemvt.apple.com
 +.iadcontent.apple.com
 securemetrics.apple.com
++.api-adservices.apple.com
 +.supportmetrics.apple.com
 +.books-analytics-events.apple.com
 +.notes-analytics-events.apple.com
@@ -14726,6 +14721,7 @@ sdk.open.talk.getui.net
 +.sec.lin101.mail.goo.ne.jp
 +.info.marketing-x.goo.ne.jp
 +.info.searchsolution.goo.ne.jp
++.adservice.google.se
 +.googlo.co
 +.goourl.me
 +.app.gopib.net
@@ -15934,6 +15930,7 @@ ads.bssdl.kugou.com
 mobilelog.kugou.com
 ads.service.kugou.com
 kgmobilestat.kugou.com
+adserviceretry.kugou.com
 kgmobilestatbak.kugou.com
 adsfile.bssdlbig.kugou.com
 splashimgbssdl.yun.kugou.com
@@ -15988,8 +15985,7 @@ splashimgbssdl.yun.kugou.com
 +.rakoten-cacd.kziwyv.cn
 +.l-chat.jp
 +.go.l-com.com
-l-err.biz
-perr.l-err.biz
++.l-err.biz
 +.bfzikn.l-wine.ru
 +.l00t.farm
 +.l3op.info
@@ -18291,6 +18287,7 @@ userimg.qunar.com
 +.sifuka.cn
 +.go.sigep.org
 dc.sigmob.cn
+adservice.sigmob.cn
 +.statistik.simaja.de
 +.info.simco.com
 +.email.simeal.it
@@ -23789,6 +23786,7 @@ adguanggao.eee114.com
 +.metrics.egencia.se
 +.eggyey.com
 +.eghyahl.cn
++.eglizqf.cn
 +.egptz.cyou
 +.email.egress.com
 +.marketing.ehimrx.com
@@ -25009,6 +25007,7 @@ pdl.gionee.com
 ads.google.com
 +.fcmatch.google.com
 +.mail-ads.google.com
+adservice.google.com
 +.partnerad.l.google.com
 +.cert-test.sandbox.google.com
 +.ssl-google-analytics.l.google.com
@@ -45266,19 +45265,7 @@ susapi.dev.surepush.cn
 +.suzuhen.xyz
 +.ssc.svaboda.org
 +.email.send.svastika.in
-svd-cdn.com
-cdn4.svd-cdn.com
-perr.svd-cdn.com
-client.svd-cdn.com
-proxyjs.svd-cdn.com
-zs-proxyjs-hola.svd-cdn.com
-zs-proxyjs-hola2.svd-cdn.com
-zs-proxyjs-hola5.svd-cdn.com
-zs-proxyjs-hola6.svd-cdn.com
-zs-proxyjs-hola7.svd-cdn.com
-zs-proxyjs-hola8.svd-cdn.com
-zs-proxyjs-hola9.svd-cdn.com
-zs-proxyjs-hola10.svd-cdn.com
++.svd-cdn.com
 +.svedkan.com
 +.sveklon.com
 +.lsoiat.svetodom.ru
@@ -45782,6 +45769,7 @@ wkrd.tingyun.com
 +.todaymix.ru
 +.link.togaapp.com
 +.tohacks.com
++.adservice.tohsoft.com
 +.go.tokenex.com
 +.analytics.tokosia.com
 +.pub.toku-tag.jp
@@ -62438,6 +62426,7 @@ xdcs-collector.ximalaya.com
 +.explore.xjtlu.edu.cn
 +.xkjnvehk.com
 +.xlardaxq.com
++.xlca666.site
 +.t.xlcenter.com
 +.app.xlcenter.com
 +.xlviirdr.com
@@ -67549,6 +67538,7 @@ flightzy.date
 +.goods2you.net
 +.affiliates.goodvibes.com
 +.email.mail.goodwhale.com
+adservice.google.com.au
 +.googleads.com
 +.googles.video
 +.chrome.googls.com.ru
@@ -69730,7 +69720,6 @@ s.maketheweb.io
 +.maphuahin.com
 +.www2.maplesoft.com
 +.smetrics.maplesoft.com
-+.calculator.maplesoft.com
 +.mapmyuser.com
 +.email.marblepay.com
 +.blackbird.marcelgil.com
@@ -86125,6 +86114,7 @@ ivy.pchouse.com.cn
 +.q1-238.web.app
 +.q8ntfhfngm.com
 +.qa24ljic4i.com
++.qadservice.com
 +.qalruhvcoa.com
 +.qawpicxuca.com
 +.qawxtenkeo.com
@@ -101239,6 +101229,7 @@ ssl.360antivirus.org
 +.ads4media.online
 +.adscendmedia.com
 +.adscienceltd.com
++.adservice.google
 +.adshiftmedia.com
 +.adsloboclick.com
 +.adspredictiv.com
@@ -104576,6 +104567,7 @@ a.dounanhuahui.com
 +.email.mail.go-creighton.org
 +.go-ld-li-ne.site
 +.go4freehacks.com
++.goadservices.com
 +.click.goalexandria.com
 +.www3.gobrightdrop.com
 +.campaign.gobrightdrop.com
@@ -112329,6 +112321,7 @@ stat.zuimeitianqi.com
 +.ad.22betpartners.com
 +.metrics.24hourfitness.com
 +.smetrics.24hourfitness.com
++.24x7adservice.com
 +.2507u35ia6mk1.com
 +.2cnjuh34jbhub.com
 +.2cnjuh34jbman.com
@@ -112482,6 +112475,7 @@ stat.zuimeitianqi.com
 +.adorableanger.com
 +.adorablespace.pro
 +.adpeepshosted.com
++.adservicemedia.dk
 +.adsessionserv.com
 +.adsforindians.com
 +.trk.adsgigaslot88.com
@@ -136124,6 +136118,7 @@ jqcdn2.herokuapp.com
 +.magicianboundary.com
 +.magicinfographic.com
 +.magikal-ai.pages.dev
++.magnetadservices.com
 +.magniffic-strean.com
 +.email.mailashlynwrites.com
 +.logn-folder-fdfa.maile-er.workers.dev
@@ -137191,6 +137186,7 @@ service4refresh.info
 +.skelpedwiney.website
 +.skenedomains.digital
 +.skierseatmileage.com
++.skilleadservices.com
 +.skipdearbeautify.com
 +.email.rg-mail.www.skycoastalrealty.com
 +.skylightpaycard.info
@@ -142560,6 +142556,7 @@ jqcdn03.herokuapp.com
 +.tracking.findyourpropathway.com
 +.dry-river-59de.finonr3356.workers.dev
 +.info.firerescue1academy.com
++.fireworkadservices.com
 +.firstcallautomation.in
 +.red.firstchoicesolar.co.uk
 +.sdc.firststatesuper.com.au
@@ -145275,6 +145272,7 @@ minero-proxy-03.now.sh
 +.data-47ee1b0882.filmcenter-dillingen.de
 +.finfutureonliup.web.app
 +.email.mg.fireflyreservations.com
++.fireworkadservices1.com
 +.marketing.firstchoiceservices.com
 +.content.firstinterstatebank.com
 +.go.firstlookappraisals.com
@@ -145396,6 +145394,7 @@ minero-proxy-03.now.sh
 +.www2.goodfridayappeal.com.au
 +.goodgameempirehacks.com
 +.google-analytics-cn.com
++.googleadservices-cn.com
 +.googleplaystorehack.com
 +.googletagmanager-cn.com
 +.gorgeousremoveplead.com
@@ -150807,6 +150806,7 @@ xn--xhq9mt12cf5v.website
 +.gloriarefreshsuspected.com
 +.goingtoothachemagician.com
 +.goodnesslocusemphasize.com
++.googletraveladservices.com
 +.gopdflibsg.firebaseapp.com
 +.gordaisbas-assiais.web.app
 +.gorgecollisioncovering.com
@@ -152071,7 +152071,6 @@ api-access.pangolin-sdk-toutiao-b.com
 +.illuminateslydeliberate.com
 +.contact.illustrativemathematics.org
 +.ils37427456.firebaseapp.com
-img-s-msn-com.akamaized.net
 +.impatientbowpersecution.com
 +.imperturbableresponsive.com
 +.impots-gouv-fr.tempurl.host

@@ -199,7 +199,6 @@ mi.com                                                                          
 netspend.com                                                                                        13
 powzers.lol                                                                                         13
 sharpmarketing.eu                                                                                   13
-svd-cdn.com                                                                                         13
 sviluppo.host                                                                                       13
 vonage.com                                                                                          13
 zalo.me                                                                                             13
@@ -208,6 +207,7 @@ zettle.com                                                                      
 360safe.com                                                                                         12
 advancedtech.com                                                                                    12
 afkwa.com                                                                                           12
+apple.com                                                                                           12
 avaya.com                                                                                           12
 averydennison.com                                                                                   12
 chip.de                                                                                             12
@@ -231,7 +231,6 @@ ximalaya.com                                                                    
 xunlei.com                                                                                          12
 zip.co                                                                                              12
 amplifyapp.com                                                                                      11
-apple.com                                                                                           11
 cdiscount.com                                                                                       11
 cresa.com                                                                                           11
 fc2.com                                                                                             11
@@ -240,6 +239,7 @@ garenav.vn                                                                      
 hismarttv.com                                                                                       11
 informaengage.com                                                                                   11
 kajabimail.net                                                                                      11
+kugou.com                                                                                           11
 lenovo.com                                                                                          11
 mathworks.com                                                                                       11
 mingle.com                                                                                          11

@@ -1674,6 +1674,7 @@ SUFFIX,runkit-packages-static.com
 SUFFIX,visualwebsiteoptimizer.com
 SUFFIX,akamai-content-delivery.com
 SUFFIX,hbogoprod-vod.akamaized.net
+SUFFIX,img-s-msn-com.akamaized.net
 SUFFIX,itvpnpmobile-a.akamaihd.net
 SUFFIX,p-bstarstatic.akamaized.net
 SUFFIX,safebrowsing.googleapis.com

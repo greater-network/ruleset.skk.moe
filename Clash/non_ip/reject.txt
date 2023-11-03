@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2023-10-31T05:09:59.264Z
-# Size: 126
+# Last Updated: 2023-11-03T06:27:30.091Z
+# Size: 125
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -101,12 +101,11 @@ DOMAIN-KEYWORD,admob
 DOMAIN-KEYWORD,admaster
 DOMAIN-KEYWORD,adsyndication
 DOMAIN-KEYWORD,adspace
-DOMAIN-KEYWORD,adsdk
-DOMAIN-KEYWORD,adsby
 DOMAIN-KEYWORD,adsense
 DOMAIN-KEYWORD,adserver
 DOMAIN-KEYWORD,adserve2
-DOMAIN-KEYWORD,adservice
+DOMAIN-KEYWORD,adsdk
+DOMAIN-KEYWORD,adsby
 DOMAIN-KEYWORD,anybest.
 DOMAIN-KEYWORD,smetrics.marketing.
 DOMAIN-KEYWORD,sunnimiq
