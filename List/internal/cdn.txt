@@ -5,6 +5,7 @@ SUFFIX,t.me
 SUFFIX,0x.mk
 SUFFIX,fb.me
 SUFFIX,ip.cn
+SUFFIX,mt.lv
 SUFFIX,ok.ru
 SUFFIX,sc.gl
 SUFFIX,tx.me
@@ -210,6 +211,7 @@ SUFFIX,joox.com
 SUFFIX,jspm.dev
 SUFFIX,judge.me
 SUFFIX,kagi.com
+SUFFIX,knak.com
 SUFFIX,kwai.net
 SUFFIX,legra.ph
 SUFFIX,live.com
