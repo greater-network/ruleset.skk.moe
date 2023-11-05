@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-11-05T12:27:41.509Z
-# Size: 160024
+# Last Updated: 2023-11-05T17:06:04.857Z
+# Size: 160028
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1022,7 +1022,6 @@ pool.hws.ru
 +.go.is.com
 +.go.isg.fr
 +.email.mg.isy.ec
-data.vod.itc.cn
 +.metric.its.de
 +.metrics.its.de
 +.c.ixi.to
@@ -21074,6 +21073,7 @@ aeros12.tk
 +.tag.unclaimedproperty.alaska.gov
 +.cnt.alawar.com
 +.pancake.albert.vip
++.albsgdq.cn
 +.teijs.alcampo.es
 +.go.alchera.ai
 +.alcmpn.com
@@ -31616,7 +31616,6 @@ vapi.tiandi.com
 +.tifpjz.xyz
 +.tigely.com
 +.ivory-reta-72.tiiny.site
-+.tikiwi.org
 +.mcs-sg.tiktok.com
 +.mssdk-sg.tiktok.com
 +.analytics.tiktok.com
@@ -80582,6 +80581,7 @@ adx-drru.op.dbankcloud.com
 +.e51710f24a.com
 +.e55629740f.com
 +.e55b290040.com
++.e59f087ae4.com
 +.e5bb7a50f5.com
 +.f4ca03f9ab.e614a5b887.com
 +.e6400a77fa.com
@@ -109327,6 +109327,7 @@ www.proxy-review.com
 +.go.qintegration.com
 +.qiqdpeovkobj.com
 +.qizjkwx9klim.com
++.qkyliljavzci.com
 +.qmaacxajsovk.com
 +.abc.qnjgipohki59.com
 +.qnlranvabaqk.top
@@ -120276,6 +120277,7 @@ api-ads.tiantianqutao.com
 +.mailers.unitedadlabel.com
 +.path.unitedclasses.com
 +.unitionistana.com
++.unitradingbot.com
 +.www2.unitymutual.co.uk
 +.universalhack.net
 +.go.universalpure.com
@@ -139206,6 +139208,7 @@ wpcdn1.herokuapp.com
 +.drinksinvoluntary.com
 +.email.kjbm.dropshipformula.co.uk
 +.email.email.dropshiplifestyle.com
++.drummerconvention.com
 +.druttlelimbec.digital
 +.dtoottuleringv.com.ua
 +.link.duluthnewstribune.com
@@ -152115,6 +152118,7 @@ api-access.pangolin-sdk-toutiao-b.com
 +.hamdouchijawad3.wixsite.com
 +.handelsamochodowy-mplace.pl
 +.handwritingdoorbellglum.com
++.happeningurinepomposity.com
 +.refer.harley-davidsonfootwear.com
 +.tr.haute-maurienne-vanoise.net
 +.havoccasualtypersistent.com
