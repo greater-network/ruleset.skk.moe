@@ -178,6 +178,7 @@ SUFFIX,busy.org
 SUFFIX,bwh1.net
 SUFFIX,canny.io
 SUFFIX,cbsi.com
+SUFFIX,ci-en.jp
 SUFFIX,cthd.icu
 SUFFIX,dazn.com
 SUFFIX,dcard.tw
@@ -532,6 +533,7 @@ SUFFIX,jshell.net
 SUFFIX,jwpcdn.com
 SUFFIX,jwpsrv.com
 SUFFIX,kdata1.com
+SUFFIX,kinsta.com
 SUFFIX,koala.live
 SUFFIX,magic.link
 SUFFIX,mapbox.com
@@ -753,6 +755,7 @@ SUFFIX,jortage.com
 SUFFIX,jscloud.net
 SUFFIX,kaleido.art
 SUFFIX,kavin.rocks
+SUFFIX,kinsta.page
 SUFFIX,kktv.com.tw
 SUFFIX,ksyuncs.com
 SUFFIX,kym-cdn.com
@@ -915,11 +918,13 @@ SUFFIX,evergent.com
 SUFFIX,facebook.com
 SUFFIX,facebook.net
 SUFFIX,fanboy.co.nz
+SUFFIX,fandango.com
 SUFFIX,favicone.com
 SUFFIX,filebase.com
 SUFFIX,firebase.com
 SUFFIX,flaticon.com
 SUFFIX,flixcart.com
+SUFFIX,flixster.com
 SUFFIX,frapsoft.com
 SUFFIX,gameloft.com
 SUFFIX,gamer.com.tw
@@ -1078,6 +1083,7 @@ SUFFIX,disconnect.me
 SUFFIX,disquscdn.com
 SUFFIX,dnsfilter.com
 SUFFIX,doppiocdn.com
+SUFFIX,elementary.io
 SUFFIX,embedgram.com
 SUFFIX,encoretvb.com
 SUFFIX,epicgames.com
@@ -1120,6 +1126,7 @@ SUFFIX,klarnacdn.net
 SUFFIX,launchpad.net
 SUFFIX,line-apps.com
 SUFFIX,line-scdn.net
+SUFFIX,linuxmint.com
 SUFFIX,lowendbox.com
 SUFFIX,macrumors.com
 SUFFIX,mailchimp.com
@@ -1613,6 +1620,7 @@ SUFFIX,youtubeeducation.com
 SUFFIX,amazonprimevideos.com
 SUFFIX,bahamut.akamaized.net
 SUFFIX,chromeexperiments.com
+SUFFIX,cloudflaremirrors.com
 SUFFIX,cloudflareresolve.com
 SUFFIX,envatousercontent.com
 SUFFIX,framerusercontent.com

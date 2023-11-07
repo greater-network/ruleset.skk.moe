@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-11-07T12:30:07.632Z
-# Size: 164128
+# Last Updated: 2023-11-07T15:12:56.141Z
+# Size: 164129
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -27322,6 +27322,7 @@ ssp1.kfadx.tech
 +.bultenler.klscdn.com
 +.klsdee.com
 +.email.klubok.com
++.klwhuci.cn
 +.a8.shop.km-link.jp
 +.km-sea.net
 +.beacon.kmi-us.com

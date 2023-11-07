@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-11-03T06:27:30.110Z
-# Size: 1628
+# Last Updated: 2023-11-07T15:12:44.605Z
+# Size: 1633
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -908,6 +908,7 @@ assets.vidyard.com
 play.vidyard.com
 cdn.vidyard.com
 assets.leetcode.com
+static-lccn.leetcode.com
 userfiles.uptimerobot.com
 denali-static.grammarly.com
 static-web.grammarly.com
@@ -1636,4 +1637,8 @@ assets.sendinblue.com
 designsystem.brevo.com
 cdn.faveohelpdesk.com
 +.cwwcdn.com
++.media.ci-en.jp
+resizing.flixster.com
+images.fandango.com
+cdn.kinsta.com
 ################# END ###################
