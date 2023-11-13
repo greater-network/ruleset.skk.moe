@@ -116,13 +116,13 @@ unity3d.com                                                                     
 walmart.com                                                                                         20
 alimama.com                                                                                         19
 atsnx.com                                                                                           19
+b-cdn.net                                                                                           19
 csb.app                                                                                             19
 intel.com                                                                                           19
 nba.com                                                                                             19
 sfr.fr                                                                                              19
 adpinfo.com                                                                                         18
 azurewebsites.net                                                                                   18
-b-cdn.net                                                                                           18
 cdn77.org                                                                                           18
 fupa.net                                                                                            18
 lexisnexis.com                                                                                      18
@@ -180,6 +180,7 @@ ni.com                                                                          
 pwc.com                                                                                             14
 rambler.ru                                                                                          14
 ru.com                                                                                              14
+sa.com                                                                                              14
 sogou.com                                                                                           14
 tajawal.com                                                                                         14
 tpced.com                                                                                           14
@@ -197,7 +198,6 @@ groc.press                                                                      
 hilton.com                                                                                          13
 mi.com                                                                                              13
 powzers.lol                                                                                         13
-sa.com                                                                                              13
 sharpmarketing.eu                                                                                   13
 vonage.com                                                                                          13
 x24hr.com                                                                                           13

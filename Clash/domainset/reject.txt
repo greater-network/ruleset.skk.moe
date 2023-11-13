@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-11-13T12:31:10.593Z
-# Size: 155589
+# Last Updated: 2023-11-13T15:35:31.786Z
+# Size: 155599
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9008,6 +9008,7 @@ adlaunch.moji.com
 +.oetn.xyz
 +.ogeri.ru
 +.oghub.io
++.sdk-monitoring.ogury.co
 +.consent-manager-events.ogury.io
 +.go.ogzon.nl
 +.ok.uz.ua
@@ -12230,6 +12231,7 @@ st.appsad.cn
 +.sp-wukong-tracker.b-cdn.net
 +.creatopy-adtag-production.b-cdn.net
 +.deprecated-custom-domains.b-cdn.net
++.happy-diwali-sabhiko-shubhkamneyen.b-cdn.net
 +.b-sms.com
 +.play.b-t11.com
 +.b1img.com
@@ -20248,6 +20250,7 @@ ad.adhouyi.cn
 +.adisfy.com
 +.aditic.net
 +.adition.de
++.fraud.adjoe.zone
 +.adjs.media
 +.adklick.de
 +.adklip.com
@@ -27908,6 +27911,7 @@ uvu.nojmlxq.cn
 +.email.messages.onpolo.com
 +.data-49dc40e643.onvista.de
 +.ooegpip.cn
++.ooejkd.xyz
 +.ooeogk.xyz
 +.ooexkqj.cn
 +.oogala.com
@@ -33424,6 +33428,7 @@ pvnapp.zol.com.cn
 +.zp0737.com
 +.zpfqolj.cn
 +.zppfjh.xyz
++.zpvuugw.cn
 +.zquent.com
 +.zrbabog.cn
 +.zreluo.com
@@ -73865,6 +73870,7 @@ api.ad.yipinread.com
 +.09b074f4cf.com
 +.3b712d30b3.09e852b0f3.com
 +.0a05d34d6f.com
++.0a2b3c4d5e.com
 +.02acc7c99a.0a40c2b172.com
 +.330cc1be66.0a65b6165b.com
 +.d36858b992.0a7f18e2b2.com
@@ -92492,6 +92498,7 @@ engine.liandaomobi.com
 +.a8clk.mapple-tour.com
 +.email.ecom.marchand.com.mx
 +.email.kjbm.marcindrozdz.co
++.mariage-inc.com
 +.email.marineverse.com
 +.zjrbwb.markenschuhe.de
 +.smetric.markenschuhe.de
@@ -116145,6 +116152,7 @@ wx.sifakaoshi360.com
 +.email.m.soomolearning.com
 +.rdtrker.sophiamillers.com
 +.eloqua.soprasteria.co.uk
++.soramabola.online
 +.sorbentfalsum.com
 +.sordorcourtin.com
 +.sorroaconcupy.com
@@ -133098,6 +133106,7 @@ spyneteurope.microsoft.akadns.net
 +.tr.quotesforbusiness.cl
 +.communications.quotientsciences.com
 +.qwertu-eb1f2.web.app
++.qwudbhasdwq9h.sa.com
 +.raactlv2k23confm.com
 +.go.radiancebyroller.com
 +.data-ee807be806.radioemscherlippe.de
@@ -153492,6 +153501,7 @@ inneractive-assets.s3.amazonaws.com
 +.santan-security-review.firebaseapp.com
 +.sbb-cff-ffs-erstattung.firebaseapp.com
 +.sec958-adsbusiness-pages-acc.github.io
++.security6.djilvblqywdp3.amplifyapp.com
 +.serv3r-r3ques5t-90o91e.firebaseapp.com
 +.b97bca39.srvr-cloudmail-srvr6754e5rte.pages.dev
 +.statuesque-entremet-5009b9.netlify.app

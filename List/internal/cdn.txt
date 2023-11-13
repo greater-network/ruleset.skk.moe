@@ -1028,6 +1028,7 @@ SUFFIX,osxdaily.com
 SUFFIX,outbrain.com
 SUFFIX,pastebin.com
 SUFFIX,pinata.cloud
+SUFFIX,pkg-size.dev
 SUFFIX,placeimg.com
 SUFFIX,porntube.com
 SUFFIX,pullopen.xyz
