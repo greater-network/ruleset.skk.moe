@@ -1708,6 +1708,7 @@ SUFFIX,tvdownloaddw-a.akamaihd.net
 SUFFIX,agechecker-northern-apps.com
 SUFFIX,certificate-transparency.org
 SUFFIX,sonyentertainmentnetwork.com
+SUFFIX,d3el26csp1xekx.cloudfront.net
 SUFFIX,freeshippingbar.herokuapp.com
 SUFFIX,firebasestorage.googleapis.com
 SUFFIX,steamuserimages-a.akamaihd.net

@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-11-07T15:12:44.696Z
-# Size: 336
+# Last Updated: 2023-11-16T04:50:56.659Z
+# Size: 337
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -35,22 +35,6 @@ DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,app.render.com
 DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,now.sh
-DOMAIN-SUFFIX,csb.app
-DOMAIN-SUFFIX,cos.eu-frankfurt.myqcloud.com
-DOMAIN-SUFFIX,cos.sa-saopaulo.myqcloud.com
-DOMAIN-SUFFIX,cos.na-toronto.myqcloud.com
-DOMAIN-SUFFIX,cos.na-ashburn.myqcloud.com
-DOMAIN-SUFFIX,cos.na-siliconvalley.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-tokyo.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-bangkok.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-jakarta.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-mumbai.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-seoul.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-singapore.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-hongkong.myqcloud.com
-DOMAIN-SUFFIX,codeberg.page
-DOMAIN-SUFFIX,cf-ipfs.com
-DOMAIN-SUFFIX,cloudflare-ipfs.com
 DOMAIN-SUFFIX,r2.dev
 DOMAIN-SUFFIX,web.app
 DOMAIN-SUFFIX,workers.dev
@@ -339,6 +323,23 @@ DOMAIN-SUFFIX,gitpage.si
 DOMAIN-SUFFIX,gitlab.io
 DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,csb.app
+DOMAIN-SUFFIX,cos.eu-frankfurt.myqcloud.com
+DOMAIN-SUFFIX,cos.sa-saopaulo.myqcloud.com
+DOMAIN-SUFFIX,cos.na-toronto.myqcloud.com
+DOMAIN-SUFFIX,cos.na-ashburn.myqcloud.com
+DOMAIN-SUFFIX,cos.na-siliconvalley.myqcloud.com
+DOMAIN-SUFFIX,cos.ap-tokyo.myqcloud.com
+DOMAIN-SUFFIX,cos.ap-bangkok.myqcloud.com
+DOMAIN-SUFFIX,cos.ap-jakarta.myqcloud.com
+DOMAIN-SUFFIX,cos.ap-mumbai.myqcloud.com
+DOMAIN-SUFFIX,cos.ap-seoul.myqcloud.com
+DOMAIN-SUFFIX,cos.ap-singapore.myqcloud.com
+DOMAIN-SUFFIX,cos.ap-hongkong.myqcloud.com
+DOMAIN-SUFFIX,codeberg.page
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-KEYWORD,dsn.algolia.net
 DOMAIN-KEYWORD,web-assets.zendesk
 DOMAIN-KEYWORD,vod-adaptive.akamaized.net

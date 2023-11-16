@@ -1,6 +1,6 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-11-14T03:23:32.915Z
+# Last Updated: 2023-11-16T04:50:56.721Z
 # Size: 1635
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -225,7 +225,6 @@ a5.behance.net
 mir-s3-cdn-cf.behance.net
 +.ssl-images-amazon.com
 +.media-amazon.com
-+.cloudfront.net
 +.awsstatic.com
 cdn.assets.as2.amazonaws.com
 ooo.0o0.ooo
@@ -1146,6 +1145,7 @@ optimizely.com
 web-assets.ifttt.com
 assets.ifttt.com
 web.onekey-asset.com
+d3el26csp1xekx.cloudfront.net
 img.merch.cameo.com
 img.represent.com
 cache-05.filehippo.net
