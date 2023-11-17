@@ -223,6 +223,7 @@ SUFFIX,filen.io
 SUFFIX,fleek.co
 SUFFIX,fork.dev
 SUFFIX,fsdn.com
+SUFFIX,gimp.org
 SUFFIX,goorm.io
 SUFFIX,gopkg.in
 SUFFIX,greyh.at
@@ -560,6 +561,7 @@ SUFFIX,ip-api.com
 SUFFIX,irdeto.com
 SUFFIX,javfree.me
 SUFFIX,javtxt.com
+SUFFIX,jing.rocks
 SUFFIX,jitpack.io
 SUFFIX,jquery.com
 SUFFIX,jshell.net
@@ -1171,6 +1173,7 @@ SUFFIX,microsoft.com
 SUFFIX,mytvsuper.com
 SUFFIX,navercorp.com
 SUFFIX,nflxvideo.net
+SUFFIX,oaistatic.com
 SUFFIX,oculuscdn.com
 SUFFIX,office365.com
 SUFFIX,onesignal.com
@@ -1395,6 +1398,7 @@ SUFFIX,bp.blogspot.com
 SUFFIX,bstarstatic.com
 SUFFIX,byteoversea.com
 SUFFIX,calibermind.com
+SUFFIX,cleanshot.cloud
 SUFFIX,comtucdncom.com
 SUFFIX,createsend1.com
 SUFFIX,crowdstrike.com
@@ -1609,6 +1613,7 @@ SUFFIX,kc-usercontent.com
 SUFFIX,killedbygoogle.com
 SUFFIX,klarnaservices.com
 SUFFIX,microsoftemail.com
+SUFFIX,oaiusercontent.com
 SUFFIX,opencollective.com
 SUFFIX,originprotocol.com
 SUFFIX,pornhubpremium.com

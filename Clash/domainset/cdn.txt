@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-11-16T04:50:56.721Z
-# Size: 1635
+# Last Updated: 2023-11-17T15:02:38.521Z
+# Size: 1638
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -917,6 +917,8 @@ assets.extension.grammarly.com
 assets.grammarly.com
 static.grammarly.com
 +.oktacdn.com
++.oaistatic.com
++.oaiusercontent.com
 i.hamreus.com
 us.hamreus.com
 eu.hamreus.com
@@ -1070,6 +1072,7 @@ cdn.search.brave.com
 imgs.search.brave.com
 +.odycdn.com
 fonts.codeberg.org
+media.cleanshot.cloud
 livedoor.blogimg.jp
 parts.blog.livedoor.jp
 resize.blogsys.jp
