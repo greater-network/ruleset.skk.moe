@@ -147,6 +147,7 @@ headlines.pw                                                                    
 letv.com                                                                                            16
 myfreesites.net                                                                                     16
 odoo.com                                                                                            16
+sa.com                                                                                              16
 topya.com                                                                                           16
 zing.vn                                                                                             16
 akadns.net                                                                                          15
@@ -161,7 +162,7 @@ inthere.link                                                                    
 mob.com                                                                                             15
 nespresso.com                                                                                       15
 ropescoursesinc.com                                                                                 15
-sa.com                                                                                              15
+ru.com                                                                                              15
 schroders.email                                                                                     15
 xiaomi.net                                                                                          15
 yahoo.co.jp                                                                                         15
@@ -181,7 +182,6 @@ moethennessy.com                                                                
 ni.com                                                                                              14
 pwc.com                                                                                             14
 rambler.ru                                                                                          14
-ru.com                                                                                              14
 sogou.com                                                                                           14
 tajawal.com                                                                                         14
 tpced.com                                                                                           14

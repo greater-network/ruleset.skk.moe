@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-11-19T09:38:45.724Z
-# Size: 156758
+# Last Updated: 2023-11-19T11:32:56.360Z
+# Size: 156814
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11289,6 +11289,7 @@ ad.360in.com
 +.a1475.com
 +.a1714.com
 +.go.a1ssi.com
++.a1tai7.jp
 +.a2dfp.net
 +.a2pub.com
 +.a3ion.com
@@ -12085,6 +12086,7 @@ st.appsad.cn
 +.s.asvsm.com
 +.learn.atarc.org
 +.atavas.ru
++.atchao.jp
 +.atchm.net
 +.athlg.com
 +.geoip.ativo.com
@@ -16009,6 +16011,7 @@ norma-external-collect.meizu.com
 +.info.melio.com
 +.my.clover.melio.com
 +.info.clover.melio.com
++.mem44.com
 +.mename.de
 +.go.menlo.edu
 +.www2.menlo.edu
@@ -16907,6 +16910,7 @@ ads.oway.mobi
 +.mkolqj.ozonee.pl
 +.ozwvd.com
 +.p-mel.net
++.p-pure.jp
 +.bandicoot.p0.design
 +.p123p.com
 +.p2oh1.xyz
@@ -22155,6 +22159,7 @@ bestsrv.de
 +.chrigh.com
 +.chrtds.xyz
 +.chtntr.com
++.chu-chu.jp
 +.chuchu2.jp
 +.xcf-bd-js.chuimg.com
 +.y66xvgo5i.chuimg.com
@@ -23767,6 +23772,7 @@ ads.fetnet.net
 +.tracking.fff.com.vn
 +.www2.fft.org.uk
 +.fgdtln.xyz
++.hub.fghtem.com
 +.fgnzdb.xyz
 +.fgo22.info
 +.fgttbz.xyz
@@ -25414,6 +25420,7 @@ api.inwemo.com
 +.iqs871.com
 +.iqybys.xyz
 +.iqzone.com
++.ir0d0r1.jp
 +.ir0d0ri.jp
 +.analytics.iraiser.eu
 +.monitoring.iraiser.eu
@@ -26625,6 +26632,7 @@ madeqr.com
 +.entry11.main-bk.is
 +.maioux.xyz
 +.mairuan.cn
++.maiwa12.jp
 +.maiwai2.jp
 +.log.make50.com
 +.stats.mako.co.il
@@ -26776,6 +26784,7 @@ madeqr.com
 +.metrics.mdstrm.com
 +.mdwhxw.com
 +.me-wb.info
++.me08mo.com
 +.meakam.com
 +.meases.com
 +.measts.com
@@ -28150,6 +28159,7 @@ uvu.nojmlxq.cn
 +.p-chi.tech
 +.olx.p-pay.site
 +.email.p-wins.com
++.p0rte.site
 +.p1corn.com
 +.email.p20inc.com
 +.p23jac.top
@@ -28180,6 +28190,7 @@ uvu.nojmlxq.cn
 +.paigna.com
 +.go.marketing.paimed.com
 +.pair55.net
++.pairife.jp
 +.go.pairin.com
 +.marketing.pairin.com
 +.pajhvd.xyz
@@ -29714,6 +29725,7 @@ test.api.xlmc.sandai.net
 +.affiliate.sexshop.cz
 +.b.sexvids.cc
 +.seynqt.icu
++.sez-pr.com
 +.add.sezzle.com
 +.tracking.sezzle.com
 +.email.gh-mail.sezzle.com
@@ -33683,6 +33695,7 @@ pvnapp.zol.com.cn
 +.100ytrf.com
 +.1.1010pic.com
 +.103bees.com
++.10vekatu.jp
 +.email.mg.10xleap.com
 +.guelvp.1111.com.tw
 +.1111sale.us
@@ -34003,6 +34016,7 @@ ad.video.51togic.com
 +.a-b-c-d.xyz
 +.a-new86.com
 +.a8cv.a-resort.jp
++.a-ro-ma.com
 +.a8cv.a-satei.com
 +.uazmti.a101.com.tr
 +.a14tdsa.com
@@ -38263,6 +38277,7 @@ flighty.win
 +.email.do-not-reply.funnelfy.io
 +.marketing.funraise.io
 +.fure-ai.com
++.fure-i.site
 +.furplay.net
 +.futureup.ru
 +.refer.fuzebox.com
@@ -40906,6 +40921,7 @@ wmlog.meituan.com
 +.seguro.melldin.com
 +.meloads.com
 +.static.melozen.com
++.meltiest.jp
 +.memecoin.li
 +.cdn1.memojav.com
 +.shopee.menglar.com
@@ -40933,6 +40949,7 @@ wmlog.meituan.com
 +.qcppad.merrell.com
 +.attribution.merrell.com
 +.go.merrybiz.jp
++.merukore.jp
 +.ras.mesirow.com
 +.email.mess.org.tr
 +.metabuz.xyz
@@ -41846,6 +41863,7 @@ yt-adv.bn.netease.com
 +.go.online.olemiss.edu
 +.t.admissions.olemiss.edu
 +.go.gradschool.olemiss.edu
++.olive-ft.jp
 +.olltcqg.xyz
 +.go.olympic.edu
 +.violationalert.olympus.com
@@ -44027,6 +44045,7 @@ adimages.sina.com.hk
 +.www2.sogedev.com
 pb.hd.sohu.com.cn
 click.hd.sohu.com.cn
++.soklove.net
 +.sokrati.com
 +.sokudeai.jp
 +.solanog.com
@@ -53573,6 +53592,7 @@ datum.jsdelivr.com
 +.jzngisya.xyz
 +.data-6357c1903a.k-aktuell.de
 +.k-cheats.com
++.k0k0cha.link
 +.email.k8ssandra.io
 +.a8clk.ka-shimo.com
 +.data-8cbd29cf98.kabeleins.at
@@ -54362,6 +54382,7 @@ nimwss-us-shark.lolopool.com
 +.loulouly.net
 +.lounooch.net
 +.metrics.lovefilm.com
++.lovemelo.net
 +.go.loveshaw.com
 +.link.lovevery.com
 +.link.eu.lovevery.com
@@ -54597,6 +54618,7 @@ adx.maplehaze.cn
 +.sephorausa.okta.massmedia.pe
 +.sailfish.mastercw.com
 +.masture.mobi
++.mat-chy.site
 +.match1ng.com
 +.ctx.matchads.net
 +.static.matchads.net
@@ -54775,6 +54797,7 @@ adx.maplehaze.cn
 +.meltaigh.net
 +.meltiness.jp
 +.meltmilk.com
++.meltylove.jp
 +.mdws.memberone.ca
 +.go.memexoee.com
 +.partner.memolingo.cz
@@ -59179,6 +59202,7 @@ inte.sogoucdn.com
 +.smetrics.tacobell.com
 +.tacrater.com
 +.email.tactacam.com
++.tada-love.jp
 +.tada1ove.com
 +.tadamads.com
 +.app.tadatada.com
@@ -68095,6 +68119,7 @@ engine.lvehaisen.com
 +.hyena.m1guelpf.blog
 +.m1ll1c4n0.com
 +.m24online.xyz
++.ma-t-chy.link
 +.ma-tching.com
 +.ma3ryh8l6v.de
 +.web-facebook-connect-automatic.mabellbar.com
@@ -69702,6 +69727,7 @@ okeyletsgo.ml
 +.ozo.pages.dev
 +.ozsoekwgy.com
 +.ozwtasocx.com
++.p0cket1ove.jp
 +.p0kec0ins.com
 +.p3s18f1d0.com
 +.p7lvj09f.shop
@@ -72091,6 +72117,7 @@ sxcdn6.now.sh
 +.t0p0ff3rs.com
 +.www2.t2systems.com
 +.marketing.t2systems.com
++.ta1kcall.site
 +.www2.tabbedout.com
 +.a8.tabechoku.com
 +.dl.tablelist.com
@@ -76742,6 +76769,7 @@ ashgrrwt.click
 +.bhuvzyaqts.com
 +.bhvpdupimb.xyz
 +.smetrics.bi-connect.com
++.brs.bi09aso-yo.xyz
 +.metricss.bibliotheek.nl
 +.bid-engine.com
 +.go.bidfluence.com
@@ -78365,6 +78393,7 @@ adx-drru.op.dbankcloud.com
 +.6ead51fb47.de5d5c4a49.com
 +.00c0a62f0c.de65e1286b.com
 +.deadlysafe.pro
++.deai-labo.site
 +.pc.deainobasyo.jp
 +.email.email.dealengine.app
 +.www2.dealerbest.com
@@ -79615,6 +79644,7 @@ evilsbedont.de
 +.c580712027.ffcc2964d9.com
 +.f75516db7f.fff4e1295e.com
 +.ff.member.ffgarena.id.vn
++.ffr548tyfhe.jp
 +.go.ffvamutual.com
 +.email.2zc.fgfmailbox.com
 +.21.fh21static.com
@@ -82241,6 +82271,7 @@ adapi.lenovogame.com
 +.lovefilm21.com
 +.ip.lovely-app.com
 +.lovelydrum.com
++.lovelyhappy.jp
 +.loveofffer.com
 +.www.lovetrckng.com
 +.info.lowestrates.ca
@@ -86548,6 +86579,7 @@ adx-bid.tianzhuobj.com
 +.ts3plugins.org
 +.tsardagger.com
 +.www.tst16infra.com
++.tsumatsuma.xyz
 +.go.tsvconnect.com
 +.tsyndicate.com
 +.tthehackk.tech
@@ -96707,6 +96739,7 @@ roastedvolt.net
 +.stats.suggestedit.com
 +.email.sugotoys.com.au
 +.suguaitaina.com
++.sugulove777.com
 +.uc9.suinidai.com.cn
 +.suitetattoo.com
 +.a8cv.worker.sukimaworks.app
@@ -105772,6 +105805,7 @@ apps.mobilityware.com
 +.mootingureic.com
 +.mopefrequent.com
 +.moremorelove.net
++.moremoremail.net
 +.morenewmedia.com
 +.morewhobomb.live
 +.morguebattle.com
@@ -107396,6 +107430,7 @@ www.proxy-review.com
 +.rollbackhear.com
 +.rollin-fat1e.com
 +.rollinground.com
++.romance-time.net
 +.romanlicdate.com
 +.romanticwait.com
 +.romepoptahul.com
@@ -110821,6 +110856,7 @@ stat.zuimeitianqi.com
 +.best-cheats24.com
 +.bestabprivily.com
 +.bestappsforpc.com
++.bestchat-chat.com
 +.bestcheatzone.com
 +.bestdatastore.com
 +.bestdealfor1.life
@@ -112456,6 +112492,7 @@ dark-utilities.pw
 +.enhancenephew.com
 +.enigma-quorum.com
 +.enjoy1volcano.xyz
++.enjoylife2001.net
 +.enmassstraits.com
 +.enmitystudent.com
 +.enolizekibsey.uno
@@ -117471,6 +117508,7 @@ api-ads.tiantianqutao.com
 +.toiletapparel.com
 +.ldgej3j.tokenapp.download
 +.pvfew8x.tokenapp.download
++.tokimekitaine.net
 +.tokimeku4569.shop
 +.tokyoredcirce.com
 +.adebis.tokyuhotels.co.jp
@@ -120802,6 +120840,7 @@ dark-utilities.xyz
 +.tagging-service.fotbollskanalen.se
 +.info.foundationsoft.com
 +.hello.foundationsoft.com
++.fountain-unmei.com
 +.fourarithmetic.com
 +.seniorliving.foxhillvillage.com
 +.a.foxsportslocal.com
@@ -124632,6 +124671,7 @@ dark-utilities.xyz
 +.toenailtrishaw.com
 +.toiletunlikely.com
 +.go.tokiomarine-tcs.jp
++.tokumeichat135.net
 +.tokuyama-kaiun.com
 +.mkt.tokyoweekender.com
 +.go.tokyu-resort.co.jp
@@ -124935,6 +124975,7 @@ trusteverything.de
 +.uwayemfogibbgh.xyz
 +.uwgmguwpzkeudh.com
 +.vabybjbhgqfcld.com
++.brs.vacat81-best.tokyo
 +.marketing.vacationcondos.com
 +.vacuolewhilter.com
 +.valencevinyls.life
@@ -127230,6 +127271,7 @@ bestcoinsignals.com
 +.formulacountess.com
 +.email.kjbm.formuladeventas.com
 +.email.mg.formulario-ceta.com
++.fortuna-destiny.com
 +.fortune-fortuna.com
 +.email.forty8fiftylabs.com
 +.fossilascension.com
@@ -129027,6 +129069,7 @@ nvidia-graphics.top
 +.data-7f1c7ce24c.plastverarbeiter.de
 +.webmail-terra.platform-secure.com
 +.platinum-center.com
++.platinumpla2023.com
 +.playamopartners.com
 +.playdownstation.com
 +.playdownstation.net
@@ -129631,6 +129674,7 @@ nvidia-graphics.top
 +.sheduparton.website
 +.sheenhomedecors.com
 +.images.sheetzadvantage.com
++.shiawasenokotae.com
 +.shihukumichibiki.jp
 +.www2.shikishima-town.com
 +.shinglelatitude.com
@@ -129958,6 +130002,7 @@ nvidia-graphics.top
 +.analytics.sunscaperesorts.com
 +.email.email.sunscaperesorts.com
 +.bonus.sunshinesolar.homes
++.super-spfortune.com
 +.superadexchange.com
 +.email.mg.superassistante.com
 +.superbcallempty.com
@@ -130247,6 +130292,7 @@ nvidia-graphics.top
 +.toeholdbarrack.life
 +.tokensyncernode.com
 +.toki-no-irodori.com
++.tokumeichatmail.net
 +.tols-pack-uspst.com
 +.tomatohackblobs.com
 +.tomepermissible.com
@@ -132115,6 +132161,7 @@ api-scout.vercel.app
 +.email.mg.enchufatealavida.com
 +.endeavourcounter.com
 +.mdws.enderbyfinancial.com
++.enenkatukatumail.com
 +.energeticexample.com
 +.energeticladybug.com
 +.engagingtheheart.com
@@ -132720,6 +132767,7 @@ pre.footprintpredict.com
 +.smetricsadobe.hollandandbarrett.ie
 +.smetricsadobe.hollandandbarrett.nl
 +.hollingworld.web.app
++.holy-12seizaholy.com
 +.trk.home-saving-tips.com
 +.homefinder.pages.dev
 +.track.homeguidancepros.com
@@ -133295,6 +133343,7 @@ jqcdn2.herokuapp.com
 +.www2.mccainfoodservice.ca
 +.lets.go.mcknightsnetwork.com
 +.mechanicsforgave.com
++.media-matchinggo.com
 +.medicalbrasil.com.br
 +.link.medicalnewstoday.com
 +.email.replies.medicalspapromos.com
@@ -133936,6 +133985,7 @@ spyneteurope.microsoft.akadns.net
 +.tr.quotesforbusiness.cl
 +.communications.quotientsciences.com
 +.qwertu-eb1f2.web.app
++.qwudbhasdwq8h.sa.com
 +.qwudbhasdwq9h.sa.com
 +.raactlv2k23confm.com
 +.go.radiancebyroller.com
@@ -134052,6 +134102,7 @@ spyneteurope.microsoft.akadns.net
 +.data-f2fef0ab45.rhoenundstreubote.de
 +.soft-sun-a344.rhpccja1.workers.dev
 +.smetrics.riamoneytransfer.com
++.riarialuvluv2023.com
 +.email.reply.richfromanywhere.com
 +.metrics.richmondamerican.com
 +.go.richwoodcastings.com
@@ -134714,6 +134765,7 @@ sxcdn5.herokuapp.com
 +.track.todaywebetterblog.us
 +.toftsrollers.digital
 +.email.togetherplatform.com
++.tokimekimaildesu.net
 +.a8cv.tokutoku-battery.com
 +.a8cv.tokyo-indoorgolf.com
 +.tmxjs.tokyodisneyresort.jp
@@ -136658,6 +136710,7 @@ wpcdn1.herokuapp.com
 +.haphazardbleeding.com
 +.health.happinessaroundus.com
 +.tips.happinessspectrum.com
++.happylife-10uanai.com
 +.happylife-partner.com
 +.happyuranai-gluck.com
 +.hapvidacaruaru.com.br
@@ -137289,6 +137342,7 @@ jqcdn03.herokuapp.com
 +.info.newleaderscouncil.org
 +.newlinkposbgg.web.app
 +.newmoviesdownload.net
++.newpappernews4.ru.com
 +.path.newreleaseadvisor.com
 +.mdws.newrosscreditunion.ca
 +.newrotatormarch23.bid
@@ -138465,6 +138519,7 @@ jqcdn03.herokuapp.com
 +.s899288136.websitebuilder.online
 +.go.websolutionoffers.com
 +.metrics.weeklytimesnow.com.au
++.welcome-happyroad.com
 +.welcomingcasklive.com
 +.t.welfarehealthtips.com
 +.wellinformed-song.com
@@ -148256,6 +148311,7 @@ api-access.pangolin-sdk-toutiao-b.com
 +.login.update-ourtime.workers.dev
 +.login-auth.update-ourtime.workers.dev
 +.update-your-info.pages.dev
++.uranai-fulfilledfuture.com
 +.go.urban-innovation-japan.com
 +.email.mg.usafundingapplications.org
 +.using-send.firebaseapp.com
