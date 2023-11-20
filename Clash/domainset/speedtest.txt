@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-11-19T11:33:00.036Z
-# Size: 855
+# Last Updated: 2023-11-20T07:46:09.484Z
+# Size: 854
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -173,6 +173,7 @@ speedtest.myarena.ru
 speedtest.netrack.ru
 mirror.nforce.com
 sp-de.nuxt.cloud
+handa.pcknob.com
 speedtest-lhr-01.pdx.net.uk
 boluspeedtest.posive.net
 usakspeedtest.posive.net
@@ -276,7 +277,6 @@ speedtest.fios.net.br
 iperf.gakijken.nl
 london.speedtest.highnet.com
 speedtest.host.com.tw
-teste.i9va.net.br
 speedtest1.indosat.com
 sp1.jump.net.uk
 ct-speed.kbro.com.tw
@@ -313,6 +313,7 @@ speedtest.reicosa.com
 spt1.seed.net.tw
 fetdl2.seed.net.tw
 fetml1.seed.net.tw
+fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetyl1.seed.net.tw
 fetzl1.seed.net.tw
@@ -442,7 +443,6 @@ speedtest.comnet.com.tr
 speedtest1.mia.fl.us.convergia.net
 speedtest.qld.edgeix.net.au
 mia.emiliauhh.com
-lax2.emiliauhh.com
 nsw.speedtest.exetel.com.au
 qld.speedtest.exetel.com.au
 vic.speedtest.exetel.com.au
@@ -588,7 +588,6 @@ speedtest.airlink.network
 speedtest.bursabil.com.tr
 +.speedtest.centurylink.net
 speedtest.hk.chinamobile.com
-speedtest1.gs.chinamobile.com
 speedtest1.sc.chinamobile.com
 speedtestbb.hk.chinamobile.com
 pauseq4vost1.datamossa.cloud
@@ -613,7 +612,6 @@ ntp-speedtest.homeplus.net.tw
 sky-speedtest.homeplus.net.tw
 speedtest-nl.hyperfilter.com
 teste.ihgfibra.net.br
-speedtest.frankfurt.jonasdevries.de
 teste.jsnet.manaus.br
 speedtest.kapteyan.com.tr
 de-fra2-lg1.level66.network
@@ -687,6 +685,7 @@ speedtest2.rvconnect.com.br
 speedtest3.rvconnect.com.br
 speedtest.serverpronto.com
 5g.shunicomtest.com
+servidor.speedplay.com.br
 speedtest.com.sg
 +.speedtest.idv.tw
 speedtest.syscom.manaus.br
@@ -720,6 +719,7 @@ teste.amcnetwork.com.br
 speedtest.asimonetworks.com
 nl.blackhost.network
 speed.ccspublichost.com
+speedtest.connectbv8.com.br
 speedtest.creolineserver.de
 speedtest.csmtelecom.net.br
 teste.diotelecom.com.br
@@ -743,7 +743,6 @@ velocimetro.superwiffi.com.br
 speedtest.suppcenter.global
 hkthspeedtest02.telstraglobal.net
 test.turuncunet.com.tr
-speedtest.unitelecom.net.br
 velocidade.vlctelecom.com.br
 speedtest.wbstelecom.com.br
 speedtestsantarem.zumtelecom.com.br
@@ -769,6 +768,7 @@ ultraconnect.ravisystems.com.br
 conexprovedor.ravisystems.com.br
 ooklatins.redeconexaonet.com
 speedtest.redrawinternet.com
+velocidade.softtelecom.net.br
 +.speedtestkorea.com
 speedtest.systemlifeline.com
 ber.wsqm.telekom-dienste.de
@@ -854,7 +854,6 @@ ok.conectmastelecom.com.br
 speedtest.mirror.serversaustralia.com.au
 teste.mundialnettelecom.com.br
 speedtest.redefinitytelecom.com.br
-speedtestspeednet.com.br
 aragonnetspeedtest.com.br
 test.infoconnecttelecom.com.br
 servidor.nuevanetbandalarga.com.br
