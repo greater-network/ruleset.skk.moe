@@ -1584,6 +1584,7 @@ SUFFIX,mvnrepository.com
 SUFFIX,nationbuilder.com
 SUFFIX,northern-apps.com
 SUFFIX,notion-static.com
+SUFFIX,openstreetmap.org
 SUFFIX,oreillystatic.com
 SUFFIX,paramountplus.com
 SUFFIX,printfriendly.com

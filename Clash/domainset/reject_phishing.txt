@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-11-20T12:32:01.603Z
-# Size: 29
+# Last Updated: 2023-11-23T04:04:25.050Z
+# Size: 32
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13,7 +13,6 @@
 +.ayra.fun
 +.biz.site
 +.rdwrtu.cn
-+.bmbnzvl.cn
 +.brizy.site
 +.canva.site
 +.khtqts.top
@@ -25,8 +24,10 @@
 +.kinsta.cloud
 +.negocio.site
 +.fxcfvgsec.top
++.getlinkk.link
 +.hpay-top.site
 +.spraid.com.cn
++.portalinfo.xyz
 +.temp-site.link
 +.theprolife.xyz
 +.weeblysite.com
@@ -37,6 +38,8 @@
 +.tinipmusighnaca.gq
 +.coconutkoboko.click
 +.page-management.ink
++.pl-oferta7239.online
++.pl-oferta7335.online
 +.verify-sesion.online
-+.tabonyventures.online
++.pidetucreditoaqui.site
 ################# END ###################
