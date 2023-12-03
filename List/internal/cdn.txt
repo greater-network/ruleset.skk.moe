@@ -76,6 +76,7 @@ SUFFIX,ptt.cc
 SUFFIX,qy0.ru
 SUFFIX,rfi.fr
 SUFFIX,s7s.ai
+SUFFIX,ui.com
 SUFFIX,vgy.me
 SUFFIX,viu.tv
 SUFFIX,w-x.co
@@ -517,6 +518,7 @@ SUFFIX,deezer.com
 SUFFIX,disqus.com
 SUFFIX,dlsite.com
 SUFFIX,docker.com
+SUFFIX,dotsrc.org
 SUFFIX,drink.cafe
 SUFFIX,dssott.com
 SUFFIX,envato.com
@@ -568,6 +570,7 @@ SUFFIX,jshell.net
 SUFFIX,jwpcdn.com
 SUFFIX,jwpsrv.com
 SUFFIX,kdata1.com
+SUFFIX,kernel.org
 SUFFIX,kinsta.com
 SUFFIX,koala.live
 SUFFIX,magic.link
@@ -638,6 +641,7 @@ SUFFIX,scalero.io
 SUFFIX,scene7.com
 SUFFIX,scribd.com
 SUFFIX,scroll.com
+SUFFIX,sdiapi.com
 SUFFIX,setapp.com
 SUFFIX,sftcdn.net
 SUFFIX,shgcdn.com
@@ -790,6 +794,7 @@ SUFFIX,jolipage.co
 SUFFIX,jortage.com
 SUFFIX,jscloud.net
 SUFFIX,kaleido.art
+SUFFIX,kaltura.com
 SUFFIX,kavin.rocks
 SUFFIX,kinsta.page
 SUFFIX,kktv.com.tw
@@ -840,6 +845,7 @@ SUFFIX,proxmox.com
 SUFFIX,pstatic.net
 SUFFIX,ravenjs.com
 SUFFIX,reactjs.org
+SUFFIX,reactos.org
 SUFFIX,recurly.com
 SUFFIX,redgifs.com
 SUFFIX,reuters.com
@@ -854,6 +860,7 @@ SUFFIX,smilecdn.co
 SUFFIX,snaptube.in
 SUFFIX,spotify.com
 SUFFIX,sqspcdn.com
+SUFFIX,srcspot.com
 SUFFIX,sstatic.net
 SUFFIX,syncbak.com
 SUFFIX,tealium.com
@@ -932,6 +939,7 @@ SUFFIX,chasecdn.com
 SUFFIX,chatwoot.com
 SUFFIX,chromium.org
 SUFFIX,circleci.com
+SUFFIX,clarkson.edu
 SUFFIX,clearbit.com
 SUFFIX,codeberg.org
 SUFFIX,coinbase.com
@@ -1114,6 +1122,7 @@ SUFFIX,cloudcraft.co
 SUFFIX,cocoapods.org
 SUFFIX,cookielaw.org
 SUFFIX,cookiepro.com
+SUFFIX,cookieyes.com
 SUFFIX,ctfassets.net
 SUFFIX,disco-api.com
 SUFFIX,disconnect.me
@@ -1334,6 +1343,7 @@ SUFFIX,pickystory.com
 SUFFIX,pornmaster.fun
 SUFFIX,primevideo.com
 SUFFIX,primevideo.org
+SUFFIX,profitihub.com
 SUFFIX,pstorage.space
 SUFFIX,redventures.io
 SUFFIX,runfission.com
@@ -1374,6 +1384,7 @@ SUFFIX,union-game.com
 SUFFIX,userreport.com
 SUFFIX,vanillicon.com
 SUFFIX,versionbadg.es
+SUFFIX,virtfusion.net
 SUFFIX,voachinese.com
 SUFFIX,vscode-cdn.net
 SUFFIX,webpack.js.org
@@ -1407,6 +1418,7 @@ SUFFIX,disney-plus.net
 SUFFIX,divio-media.net
 SUFFIX,dnsleaktest.com
 SUFFIX,domaintools.com
+SUFFIX,fanmingming.com
 SUFFIX,fasthosts.co.uk
 SUFFIX,fontawesome.com
 SUFFIX,foxbusiness.com
@@ -1558,6 +1570,7 @@ SUFFIX,assets-servd.host
 SUFFIX,assets-yammer.com
 SUFFIX,azurecontainer.io
 SUFFIX,bandwagonhost.com
+SUFFIX,cdn-cookieyes.com
 SUFFIX,chesscomfiles.com
 SUFFIX,codeblackbelt.com
 SUFFIX,combinatronics.io
@@ -1590,6 +1603,7 @@ SUFFIX,paramountplus.com
 SUFFIX,printfriendly.com
 SUFFIX,purevpn-tools.com
 SUFFIX,recovermycart.com
+SUFFIX,shoppinggives.com
 SUFFIX,smartmediarep.com
 SUFFIX,spotifycharts.com
 SUFFIX,static-upwork.com
@@ -1648,6 +1662,7 @@ SUFFIX,xn--ngstr-lra8j.com
 SUFFIX,amazonvideodirect.cc
 SUFFIX,braintreegateway.com
 SUFFIX,chart.googleapis.com
+SUFFIX,cloudflareclient.com
 SUFFIX,cloudflarestream.com
 SUFFIX,fonts.googleapis.com
 SUFFIX,hscollectedforms.net
