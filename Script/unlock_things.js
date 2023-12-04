@@ -57,17 +57,17 @@
         body: 'success'
       }
     });
+
+    return;
   }
 
   if (url.startsWith('https://coderunnerapp.com/api.php?')) {
     const response = { body: '{}' };
     const body = {};
 
-    if (url.includes('register')) {
+    if (url.includes('action=register')) {
       body.success = true;
-    }
-
-    if (url.includes('price')) {
+    } else if (url.includes('action=price')) {
       body.price = 'AEAAA-ADHY5-\n2LK2G-HOS2Q';
     }
 
