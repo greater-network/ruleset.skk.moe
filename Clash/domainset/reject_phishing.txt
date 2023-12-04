@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-12-04T07:52:26.215Z
-# Size: 71
+# Last Updated: 2023-12-04T12:30:38.855Z
+# Size: 84
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -24,6 +24,7 @@
 +.hostfree.pw
 +.202305300.cn
 +.202306135.cn
++.cekdisini.id
 +.company.site
 +.frappe.cloud
 +.kinsta.cloud
@@ -48,6 +49,8 @@
 +.oferty-prywatne.pl
 +.pl-oferta284518.pl
 +.pl-oferta284536.pl
++.pl-oferta285472.pl
++.pl-oferta523571.pl
 +.pl-oferta972374.pl
 +.zakupy-online24.pl
 +.coconutkoboko.click
@@ -56,7 +59,6 @@
 +.bezpieczny-ezakup.pl
 +.verify-sesion.online
 +.zakupy-prywatne24.pl
-+.amazon-informations.fr
 +.bezpieczny-zakup247.pl
 +.promowaneogloszenie.pl
 +.pl-kup-przedmiot3456.pl
@@ -77,8 +79,19 @@
 +.pl-prywatne-oferty6789.pl
 +.pl-prywatne-oferty7890.pl
 +.com-confirmationaddress.xyz
++.pl-oferta-uzytkownika34344.pl
++.pl-oferta-uzytkownika34554.pl
++.pl-oferta-uzytkownika43554.pl
 +.pl-prywatne-ogloszenie5585.pl
++.pl-oferta-uzytkownika125533.pl
++.pl-oferta-uzytkownika125534.pl
++.pl-oferta-uzytkownika125535.pl
++.pl-oferta-uzytkownika125536.pl
++.pl-oferta-uzytkownika345555.pl
 +.pl-prywatne-ogloszenie54565.pl
++.pl-oferta-uzytkownika1255367.pl
++.pl-oferta-uzytkownika1255368.pl
++.pl-oferta-uzytkownika1255370.pl
 +.pl-oferta-uzytkownika1255374.pl
 +.pl-prywatne-ogloszenie852948.pl
 ################# END ###################
