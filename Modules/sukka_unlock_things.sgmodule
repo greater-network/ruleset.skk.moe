@@ -1,0 +1,12 @@
+#!name=[Sukka] Unlock Things
+
+[MITM]
+hostname = %APPEND% v3.paddleapi.com, *.execute-api.*.amazonaws.com, coderunnerapp.com
+
+[Script]
+CodeRunner Crack = type=http-request,pattern=^https://coderunnerapp.com/api.php?action=(register|price|message)[&a-zA-Z0-9%=-]{0,},requires-body=1,max-size=0,script-path=https://ruleset.skk.moe/Script/unlock_things.js,script-update-interval=86400
+Paddle Verify = type=http-request,pattern=^https://v3.paddleapi.com/3.2/license/verify,requires-body=1,max-size=0,script-path=https://ruleset.skk.moe/Script/unlock_things.js,script-update-interval=86400
+Paddle Activate = type=http-request,pattern=^https://v3.paddleapi.com/3.2/license/activate,requires-body=1,max-size=0,script-path=https://ruleset.skk.moe/Script/unlock_things.js,script-update-interval=86400
+MacUpdater Activate = type=http-request,pattern=https://.*?.execute-api.*.amazonaws.com/default/meddle-activate,requires-body=1,max-size=0,script-path=https://ruleset.skk.moe/Script/unlock_things.js,script-update-interval=86400
+MacUpdater Deactivate = type=http-request,pattern=https://.*?.execute-api.*.amazonaws.com/default/meddle-deactivate,requires-body=1,max-size=0,script-path=https://ruleset.skk.moe/Script/unlock_things.js,script-update-interval=86400
+MacUpdater Authorization = type=http-request,pattern=https://.*?.execute-api.*.amazonaws.com/default/meddle-authenticate,requires-body=1,max-size=0,script-path=https://ruleset.skk.moe/Script/unlock_things.js,script-update-interval=86400

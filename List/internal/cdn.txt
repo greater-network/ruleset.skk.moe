@@ -49,6 +49,7 @@ SUFFIX,bgm.tv
 SUFFIX,cbc.ca
 SUFFIX,d.tube
 SUFFIX,dw.com
+SUFFIX,ea.com
 SUFFIX,eep.io
 SUFFIX,esm.sh
 SUFFIX,fb.com
@@ -102,6 +103,7 @@ SUFFIX,cat.net
 SUFFIX,csb.app
 SUFFIX,csb.dev
 SUFFIX,css.net
+SUFFIX,curl.se
 SUFFIX,dan.com
 SUFFIX,dmm.com
 SUFFIX,docs.rs
@@ -1101,6 +1103,7 @@ SUFFIX,alloyxuast.tk
 SUFFIX,amazonaws.com
 SUFFIX,amebaownd.com
 SUFFIX,anonymize.com
+SUFFIX,anthropic.com
 SUFFIX,apkmirror.com
 SUFFIX,aspnetcdn.com
 SUFFIX,atlassian.com
