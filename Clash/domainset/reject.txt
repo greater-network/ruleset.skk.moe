@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-12-05T06:06:25.383Z
-# Size: 169741
+# Last Updated: 2023-12-05T06:08:11.347Z
+# Size: 169740
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -26642,7 +26642,6 @@ ads.fetnet.net
 +.tracking.fff.com.vn
 +.www2.fft.org.uk
 +.fgdtln.xyz
-+.hub.fghtem.com
 +.fgnzdb.xyz
 +.fgo22.info
 +.fgttbz.xyz
@@ -169784,3 +169783,4 @@ data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com
 +.jshjshshjshsjhsjshssfhsjssksjskjsksjkssksjkshjsksksjksjs.us-east-1.linodeobjects.com
 +.na2-docusign-net-envelope-benefit-assessment-pacakge-review.nyc3.digitaloceanspaces.com
 ################# END ###################
+################
