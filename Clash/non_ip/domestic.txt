@@ -1,13 +1,15 @@
 ########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2023-10-31T05:09:59.127Z
-# Size: 337
+# Last Updated: 2023-12-05T06:06:18.701Z
+# Size: 339
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains known addresses that are avaliable in the Mainland China.
 ########################################
+DOMAIN,dl.steam.ksyna.com
+DOMAIN,dl.steam.clngaa.com
 DOMAIN,www.layuicdn.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,cdn.bootcss.com

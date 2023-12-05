@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2023-10-31T05:09:59.270Z
-# Size: 164
+# Last Updated: 2023-12-05T06:06:18.786Z
+# Size: 161
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11,7 +11,6 @@
 DOMAIN,local.adguard.org
 DOMAIN,injections.adguard.org
 DOMAIN-SUFFIX,wiley.com
-DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,uhdbits.org
 DOMAIN-SUFFIX,u2.dmhy.org
 DOMAIN-SUFFIX,trontv.com
@@ -24,7 +23,6 @@ DOMAIN-SUFFIX,springer.com
 DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,skyey2.com
-DOMAIN-SUFFIX,sjtu.edu.cn
 DOMAIN-SUFFIX,sdbits.org
 DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,redacted.ch
@@ -40,7 +38,6 @@ DOMAIN-SUFFIX,ourbits.club
 DOMAIN-SUFFIX,orpheus.network
 DOMAIN-SUFFIX,oppaiti.me
 DOMAIN-SUFFIX,open.cd
-DOMAIN-SUFFIX,nwsuaf6.edu.cn
 DOMAIN-SUFFIX,npupt.com
 DOMAIN-SUFFIX,nicept.net
 DOMAIN-SUFFIX,nebulance.io
@@ -61,6 +58,8 @@ DOMAIN-SUFFIX,jstor.org
 DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,joyhd.net
 DOMAIN-SUFFIX,j99.info
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,icetorrent.org
 DOMAIN-SUFFIX,hudbt.hust.edu.cn
 DOMAIN-SUFFIX,hitpt.org
 DOMAIN-SUFFIX,hitpt.com
@@ -96,6 +95,7 @@ DOMAIN-SUFFIX,discfan.net
 DOMAIN-SUFFIX,dicmusic.club
 DOMAIN-SUFFIX,cabdirect.org
 DOMAIN-SUFFIX,concertos.live
+DOMAIN-SUFFIX,comicat.org
 DOMAIN-SUFFIX,classix-unlimited.co.uk
 DOMAIN-SUFFIX,cinemaz.to
 DOMAIN-SUFFIX,cinematik.net
@@ -112,7 +112,6 @@ DOMAIN-SUFFIX,blutopia.xyz
 DOMAIN-SUFFIX,bibliotik.me
 DOMAIN-SUFFIX,beyond-hd.me
 DOMAIN-SUFFIX,beitai.pt
-DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,avgv.cc
@@ -121,7 +120,8 @@ DOMAIN-SUFFIX,anthelion.me
 DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,alpharatio.cc
 DOMAIN-SUFFIX,aidoru-online.me
-DOMAIN-SUFFIX,xauat6.edu.cn
+DOMAIN-SUFFIX,acm.org
+DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-KEYWORD,deepdyve
@@ -133,9 +133,6 @@ DOMAIN-KEYWORD,pkulaw
 DOMAIN-KEYWORD,westlawchina
 DOMAIN-KEYWORD,wanfangdata
 DOMAIN-KEYWORD,cnki.net
-DOMAIN-KEYWORD,tracker
-DOMAIN-KEYWORD,torrent
-DOMAIN-KEYWORD,announce
 PROCESS-NAME,Logi Options
 PROCESS-NAME,Logi Options Daemon
 PROCESS-NAME,SunloginClient_Helper

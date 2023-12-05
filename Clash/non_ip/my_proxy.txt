@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Proxy
-# Last Updated: 2023-10-31T05:09:59.267Z
-# Size: 49
+# Last Updated: 2023-12-05T06:06:18.783Z
+# Size: 48
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -19,7 +19,6 @@ DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,edns.ip-api.com
 DOMAIN-SUFFIX,elasticbeanstalk.com
 DOMAIN-SUFFIX,exp-tas.com
-DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,gitlab.com
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,grammarly.com

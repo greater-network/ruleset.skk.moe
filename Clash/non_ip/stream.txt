@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Stream Services: All
-# Last Updated: 2023-11-01T08:45:11.631Z
-# Size: 290
+# Last Updated: 2023-12-05T06:06:18.681Z
+# Size: 292
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -347,7 +347,9 @@ PROCESS-NAME,com.viu.pad
 PROCESS-NAME,com.netflix.mediaclient
 PROCESS-NAME,com.wbd.stream
 PROCESS-NAME,com.linecorp.linetv
+PROCESS-NAME,com.twgood.android
 PROCESS-NAME,com.tencent.ibg.joox
+PROCESS-NAME,com.hktve.viutv
 PROCESS-NAME,com.hulu.plus
 PROCESS-NAME,com.bstar.intl
 PROCESS-NAME,com.amazon.avod.thirdpartyclient

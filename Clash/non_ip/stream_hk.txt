@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Stream Services: Hong Kong
-# Last Updated: 2023-11-01T08:45:11.645Z
-# Size: 43
+# Last Updated: 2023-12-05T06:06:18.684Z
+# Size: 44
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -52,6 +52,7 @@ DOMAIN-KEYWORD,.hbogoasia.
 DOMAIN-KEYWORD,rthklive
 DOMAIN-KEYWORD,nowtv100
 PROCESS-NAME,com.bstar.intl
+PROCESS-NAME,com.hktve.viutv
 PROCESS-NAME,com.vuclip.viu
 PROCESS-NAME,com.viu.phone
 PROCESS-NAME,com.viu.pad

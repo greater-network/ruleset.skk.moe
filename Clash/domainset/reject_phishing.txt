@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-12-04T12:30:38.855Z
-# Size: 84
+# Last Updated: 2023-12-05T06:06:19.144Z
+# Size: 90
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -22,9 +22,9 @@
 +.canva.site
 +.garenav.vn
 +.hostfree.pw
++.u4sfqka.top
 +.202305300.cn
 +.202306135.cn
-+.cekdisini.id
 +.company.site
 +.frappe.cloud
 +.kinsta.cloud
@@ -35,8 +35,10 @@
 +.paginas.store
 +.sviluppo.host
 +.phillyana.info
++.solicitape.top
 +.temp-site.link
 +.weeblysite.com
++.dfgdfxfgdgg.xyz
 +.heniekmusiol.pl
 +.mailbutler.link
 +.hgcf65edfch.buzz
@@ -54,6 +56,7 @@
 +.pl-oferta972374.pl
 +.zakupy-online24.pl
 +.coconutkoboko.click
++.ledenergiedouk.info
 +.page-management.ink
 +.prywatnaaukcja24.pl
 +.bezpieczny-ezakup.pl
@@ -65,7 +68,6 @@
 +.pl-kup-przedmiot6789.pl
 +.pl-kup-przedmiot9012.pl
 +.pl-oferta-prywatna3455.pl
-+.pl-oferta-prywatna3457.pl
 +.pl-oferta-prywatna6735.pl
 +.pl-oferta-prywatna6739.pl
 +.pl-oferta-prywatna6741.pl
@@ -79,12 +81,16 @@
 +.pl-prywatne-oferty6789.pl
 +.pl-prywatne-oferty7890.pl
 +.com-confirmationaddress.xyz
++.pl-oferta-sprzedazy24699.pl
++.pl-oferta-sprzedazy65411.pl
++.pl-oferta-sprzedazy98710.pl
 +.pl-oferta-uzytkownika34344.pl
 +.pl-oferta-uzytkownika34554.pl
-+.pl-oferta-uzytkownika43554.pl
++.pl-oferta-uzytkownika43544.pl
++.pl-oferta-uzytkownika43555.pl
++.pl-oferta-uzytkownika43559.pl
 +.pl-prywatne-ogloszenie5585.pl
 +.pl-oferta-uzytkownika125533.pl
-+.pl-oferta-uzytkownika125534.pl
 +.pl-oferta-uzytkownika125535.pl
 +.pl-oferta-uzytkownika125536.pl
 +.pl-oferta-uzytkownika345555.pl

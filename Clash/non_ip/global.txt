@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2023-10-31T05:09:59.269Z
-# Size: 66
+# Last Updated: 2023-12-05T06:06:18.784Z
+# Size: 81
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -19,10 +19,17 @@ DOMAIN,hls.itunes.apple.com
 DOMAIN,embed.music.apple.com
 DOMAIN,books.itunes.apple.com
 DOMAIN,beta.itunes.apple.com
+DOMAIN,addons.mozilla.org
 DOMAIN,audiocontentdownload.apple.com
 DOMAIN,api-glb-sea.smoot.apple.com
+DOMAIN-SUFFIX,yadi.sk
+DOMAIN-SUFFIX,yandex.ru
+DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,newsblur.com
+DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN-SUFFIX,engadget.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,office365.com
@@ -36,6 +43,7 @@ DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,waymo.com
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,tiltbrush.com
+DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,shattered.io
@@ -45,7 +53,13 @@ DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,majsoul.union-game.com
 DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,madewithcode.com
+DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,itasoftware.com
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,githubstatus.com
+DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,gv.com
@@ -66,6 +80,8 @@ DOMAIN-SUFFIX,chromeexperiments.com
 DOMAIN-SUFFIX,chrome.com
 DOMAIN-SUFFIX,certificate-transparency.org
 DOMAIN-SUFFIX,capitalg.com
+DOMAIN-SUFFIX,aimoon.com
+DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,android.com
@@ -73,5 +89,4 @@ DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,520cc.cc
-DOMAIN-KEYWORD,github
 ################# END ###################

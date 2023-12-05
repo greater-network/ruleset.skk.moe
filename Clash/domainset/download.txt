@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2023-12-03T16:55:13.087Z
-# Size: 105
+# Last Updated: 2023-12-05T06:06:18.768Z
+# Size: 109
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13,9 +13,11 @@
 +.nitro.download
 dl.google.com
 dl.l.google.com
+update.googleapis.com
 download.mlcc.google.com
 download.tensorflow.google.com
 edgedl.me.gvt1.com
+download.jetbrains.com
 download.visualstudio.microsoft.com
 officecdn-microsoft-com.akamaized.net
 +.delivery.mp.microsoft.com
@@ -113,4 +115,6 @@ mirrors.edge.kernel.org
 releases.whatpulse.org
 download.gimp.org
 +.iso.reactos.org
+origin-a.akamaihd.net
+dlgarenanow-a.akamaihd.net
 ################# END ###################
