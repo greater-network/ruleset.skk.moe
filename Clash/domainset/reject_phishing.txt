@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-12-05T06:06:19.144Z
-# Size: 90
+# Last Updated: 2023-12-05T12:30:55.282Z
+# Size: 94
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -15,6 +15,7 @@
 +.ayra.fun
 +.biz.site
 +.ewp.live
++.3drm4.cfd
 +.gaerna.vn
 +.gareza.vn
 +.rdwrtu.cn
@@ -25,17 +26,19 @@
 +.u4sfqka.top
 +.202305300.cn
 +.202306135.cn
++.cekdisini.id
 +.company.site
 +.frappe.cloud
 +.kinsta.cloud
 +.negocio.site
++.apply-web.xyz
 +.estrasol.info
 +.fxcfvgsec.top
 +.goserver.host
++.newgirlsex.cf
 +.paginas.store
 +.sviluppo.host
 +.phillyana.info
-+.solicitape.top
 +.temp-site.link
 +.weeblysite.com
 +.dfgdfxfgdgg.xyz
@@ -67,13 +70,14 @@
 +.pl-kup-przedmiot3456.pl
 +.pl-kup-przedmiot6789.pl
 +.pl-kup-przedmiot9012.pl
++.solicitudamp-web.online
++.web3validationvault.xyz
 +.pl-oferta-prywatna3455.pl
 +.pl-oferta-prywatna6735.pl
 +.pl-oferta-prywatna6739.pl
 +.pl-oferta-prywatna6741.pl
 +.pl-oferta-prywatna6742.pl
 +.pl-oferta-prywatna8355.pl
-+.pl-prywatna-oferta2137.pl
 +.pl-prywatna-oferta2139.pl
 +.pl-prywatna-oferta3210.pl
 +.pl-prywatna-oferta3344.pl
