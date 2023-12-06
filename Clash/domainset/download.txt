@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2023-12-05T06:06:18.768Z
-# Size: 109
+# Last Updated: 2023-12-06T07:51:45.164Z
+# Size: 115
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -17,6 +17,10 @@ update.googleapis.com
 download.mlcc.google.com
 download.tensorflow.google.com
 edgedl.me.gvt1.com
+edgedl.me.gvt2.com
+edgedl.me.gvt3.com
+edgedl.me.gvt4.com
+edgedl.me.gvt5.com
 download.jetbrains.com
 download.visualstudio.microsoft.com
 officecdn-microsoft-com.akamaized.net
@@ -94,6 +98,7 @@ packages.linuxmint.com
 +.dl.elementary.io
 mirror-cdn.xtom.com
 mirrors.xtom.com
+mirrors.xtom.hk
 mirrors.xtom.com.hk
 mirrors.xtom.de
 mirrors.xtom.nl
@@ -102,6 +107,7 @@ mirrors.xtom.jp
 mirrors.xtom.au
 mirrors.cat.net
 enterprise.proxmox.com
+boot.netboot.xyz
 packages.virtfusion.net
 install.virtfusion.net
 os-cdn.virtfusion.net

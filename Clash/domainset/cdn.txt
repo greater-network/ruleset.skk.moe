@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-12-05T06:06:18.777Z
-# Size: 1663
+# Last Updated: 2023-12-06T07:51:45.172Z
+# Size: 1661
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -208,11 +208,7 @@ cdn.firebase.com
 +.blogblog.com
 img.youtube.com
 static.corp.google.com
-edgedl.me.gvt1.com
-edgedl.me.gvt2.com
-edgedl.me.gvt3.com
-edgedl.me.gvt4.com
-edgedl.me.gvt5.com
+events-live.apple.com
 wwwimages2.adobe.com
 +.adobeccstatic.com
 assets.adobedtm.com
@@ -1226,6 +1222,8 @@ imgs.plurk.com
 +.motherlessmedia.com
 +.cdn1122.com
 +.cdn2020.com
+panel-production-libs.b-cdn.net
++.images-iherb.com
 +.streamhentai.org
 static-assets.freeanimehentai.net
 akidoo.top

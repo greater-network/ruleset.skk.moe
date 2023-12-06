@@ -193,6 +193,7 @@ SUFFIX,xoqq.ch
 SUFFIX,xtom.au
 SUFFIX,xtom.de
 SUFFIX,xtom.ee
+SUFFIX,xtom.hk
 SUFFIX,xtom.jp
 SUFFIX,xtom.nl
 SUFFIX,yadi.sk
@@ -335,6 +336,7 @@ SUFFIX,arxiv.org
 SUFFIX,auth0.com
 SUFFIX,avgle.com
 SUFFIX,azure.net
+SUFFIX,b-cdn.net
 SUFFIX,b3log.org
 SUFFIX,bbc.co.uk
 SUFFIX,bgp.tools
@@ -844,6 +846,7 @@ SUFFIX,mozilla.org
 SUFFIX,namebase.io
 SUFFIX,nbcnews.com
 SUFFIX,nektony.com
+SUFFIX,netboot.xyz
 SUFFIX,netflix.com
 SUFFIX,netflix.net
 SUFFIX,nflxext.com
@@ -1571,6 +1574,7 @@ SUFFIX,freecodecamp.org
 SUFFIX,github.community
 SUFFIX,githubassets.com
 SUFFIX,githubstatus.com
+SUFFIX,images-iherb.com
 SUFFIX,incartupsell.com
 SUFFIX,infosec.exchange
 SUFFIX,joinmastodon.org
