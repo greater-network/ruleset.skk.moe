@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Enhanced Global Services
-# Last Updated: 2023-12-05T06:06:18.785Z
-# Size: 161
+# Last Updated: 2023-12-07T13:19:59.946Z
+# Size: 163
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -78,6 +78,8 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,xvideos.com
+DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,tineye.com
@@ -90,8 +92,7 @@ DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,t.co
-DOMAIN-SUFFIX,xvideos.com
-DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,ok.ru
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
@@ -110,6 +111,7 @@ DOMAIN-SUFFIX,initiummall.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,feedly.com
+DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fb.me

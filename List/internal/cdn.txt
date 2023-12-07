@@ -457,6 +457,7 @@ SUFFIX,socdm.com
 SUFFIX,sprig.com
 SUFFIX,status.io
 SUFFIX,tenor.com
+SUFFIX,tfbnw.net
 SUFFIX,tidal.com
 SUFFIX,toot.cafe
 SUFFIX,trusti.id
@@ -967,6 +968,7 @@ SUFFIX,cdnfonts.com
 SUFFIX,cdnmania.org
 SUFFIX,channel4.com
 SUFFIX,channel5.com
+SUFFIX,chaos.social
 SUFFIX,chasecdn.com
 SUFFIX,chatwoot.com
 SUFFIX,chromium.org
@@ -1419,6 +1421,7 @@ SUFFIX,spotifycdn.net
 SUFFIX,spotilocal.com
 SUFFIX,stackabuse.com
 SUFFIX,stadiamaps.com
+SUFFIX,static.domains
 SUFFIX,sukeycz.edu.kg
 SUFFIX,tensorflow.org
 SUFFIX,theinitium.com
@@ -1682,6 +1685,7 @@ SUFFIX,ipfs-gateway.cloud
 SUFFIX,kc-usercontent.com
 SUFFIX,killedbygoogle.com
 SUFFIX,klarnaservices.com
+SUFFIX,licensebuttons.net
 SUFFIX,microsoftemail.com
 SUFFIX,oaiusercontent.com
 SUFFIX,opencollective.com
@@ -1697,6 +1701,7 @@ SUFFIX,typescriptlang.org
 SUFFIX,ajax.googleapis.com
 SUFFIX,cleverecommerce.com
 SUFFIX,constantcontact.com
+SUFFIX,creativecommons.org
 SUFFIX,discoveryplus.co.uk
 SUFFIX,disneystreaming.com
 SUFFIX,freeanimehentai.net
