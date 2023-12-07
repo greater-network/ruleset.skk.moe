@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-12-06T12:31:06.320Z
-# Size: 97
+# Last Updated: 2023-12-07T12:31:05.991Z
+# Size: 104
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -20,9 +20,7 @@
 +.brizy.site
 +.canva.site
 +.garenav.vn
-+.wotd62.cfd
 +.hostfree.pw
-+.u4sfqka.top
 +.202305300.cn
 +.company.site
 +.frappe.cloud
@@ -48,7 +46,6 @@
 +.oferty-prywatne.pl
 +.pl-oferta284518.pl
 +.pl-oferta284536.pl
-+.pl-oferta285472.pl
 +.pl-oferta523571.pl
 +.pl-oferta972374.pl
 +.zakupy-online24.pl
@@ -57,11 +54,9 @@
 +.page-management.ink
 +.prywatnaaukcja24.pl
 +.bezpieczny-ezakup.pl
-+.wirtualneplatnosci.pl
 +.bezpieczny-zakup247.pl
 +.promowaneogloszenie.pl
 +.pl-kup-przedmiot3456.pl
-+.pl-kup-przedmiot6789.pl
 +.pl-kup-przedmiot9012.pl
 +.web3validationvault.xyz
 +.pl-oferta-prywatna3455.pl
@@ -79,19 +74,32 @@
 +.pl-oferta-sprzedazy12307.pl
 +.pl-oferta-sprzedazy12308.pl
 +.pl-oferta-sprzedazy12310.pl
-+.pl-oferta-sprzedazy12311.pl
 +.pl-oferta-sprzedazy12312.pl
 +.pl-oferta-sprzedazy12313.pl
-+.pl-oferta-sprzedazy12314.pl
 +.pl-oferta-sprzedazy12315.pl
 +.pl-oferta-sprzedazy12316.pl
 +.pl-oferta-sprzedazy12317.pl
 +.pl-oferta-sprzedazy12318.pl
 +.pl-oferta-sprzedazy12348.pl
++.pl-oferta-sprzedazy12451.pl
++.pl-oferta-sprzedazy13458.pl
 +.pl-oferta-sprzedazy15328.pl
 +.pl-oferta-sprzedazy24699.pl
-+.pl-oferta-sprzedazy65411.pl
 +.pl-oferta-sprzedazy98710.pl
++.pl-oferta-sprzedazy122212.pl
++.pl-oferta-sprzedazy122213.pl
++.pl-oferta-sprzedazy122221.pl
++.pl-oferta-sprzedazy122224.pl
++.pl-oferta-sprzedazy122225.pl
++.pl-oferta-sprzedazy122227.pl
++.pl-oferta-sprzedazy122235.pl
++.pl-oferta-sprzedazy122245.pl
++.pl-oferta-sprzedazy122246.pl
++.pl-oferta-sprzedazy122256.pl
++.pl-oferta-sprzedazy122257.pl
++.pl-oferta-sprzedazy122267.pl
++.pl-oferta-sprzedazy122268.pl
++.pl-oferta-sprzedazy122278.pl
 +.pl-oferta-uzytkownika34344.pl
 +.pl-oferta-uzytkownika43544.pl
 +.pl-oferta-uzytkownika43555.pl
@@ -106,5 +114,4 @@
 +.pl-oferta-uzytkownika1255368.pl
 +.pl-oferta-uzytkownika1255370.pl
 +.pl-oferta-uzytkownika1255374.pl
-+.pl-prywatne-ogloszenie852948.pl
 ################# END ###################
