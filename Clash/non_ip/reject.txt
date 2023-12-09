@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2023-11-03T06:27:30.091Z
-# Size: 125
+# Last Updated: 2023-12-09T13:27:37.608Z
+# Size: 120
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -128,9 +128,4 @@ DOMAIN-KEYWORD,.nimiq.
 DOMAIN-KEYWORD,.freecontent.
 DOMAIN-KEYWORD,.engage.3m.
 DOMAIN-KEYWORD,.estream.
-PROCESS-NAME,LemonService
-PROCESS-NAME,LemonAgent
-PROCESS-NAME,LemonDaemon
-PROCESS-NAME,LemonMonitor
-PROCESS-NAME,Tencent Lemon
 ################# END ###################

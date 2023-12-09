@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-12-07T13:19:59.935Z
-# Size: 1666
+# Last Updated: 2023-12-09T13:27:37.578Z
+# Size: 1669
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -49,6 +49,7 @@ cdn.pika.dev
 +.polyfill.io
 ajax.microsoft.com
 cdn.datatables.net
+code.highcharts.com
 cdn.plyr.io
 lib.arvancloud.com
 cdn.tailwindcss.com
@@ -66,6 +67,7 @@ telemetry.nextjs.org
 npmgraph.js.org
 bundlephobia.com
 pkg-size.dev
+vanilla-extract.style
 api.bintray.com
 badge.buildkite.com
 badge.fury.io
@@ -1674,4 +1676,5 @@ cdn.kinsta.com
 live.fanmingming.com
 i.creativecommons.org
 +.licensebuttons.net
+regmedia.co.uk
 ################# END ###################

@@ -138,6 +138,7 @@ SUFFIX,jbb.one
 SUFFIX,jpg.dog
 SUFFIX,jspm.io
 SUFFIX,kktv.me
+SUFFIX,kuku.lu
 SUFFIX,lain.la
 SUFFIX,line.me
 SUFFIX,litv.tv
@@ -1007,6 +1008,7 @@ SUFFIX,flaticon.com
 SUFFIX,flixcart.com
 SUFFIX,flixster.com
 SUFFIX,frapsoft.com
+SUFFIX,fuwamofu.com
 SUFFIX,gameloft.com
 SUFFIX,gamer.com.tw
 SUFFIX,geoapify.com
@@ -1361,6 +1363,7 @@ SUFFIX,hayabusa.media
 SUFFIX,headliner.link
 SUFFIX,hellofresh.com
 SUFFIX,hentaibomb.com
+SUFFIX,highcharts.com
 SUFFIX,hs-scripts.com
 SUFFIX,hs-scripts.net
 SUFFIX,hulustream.com
@@ -1396,6 +1399,7 @@ SUFFIX,primevideo.org
 SUFFIX,profitihub.com
 SUFFIX,pstorage.space
 SUFFIX,redventures.io
+SUFFIX,regmedia.co.uk
 SUFFIX,runfission.com
 SUFFIX,safecharge.com
 SUFFIX,salesforce.com
@@ -1746,6 +1750,7 @@ SUFFIX,ssl-images-amazon.com
 SUFFIX,storjipfs-gateway.com
 SUFFIX,unified-streaming.com
 SUFFIX,update.googleapis.com
+SUFFIX,vanilla-extract.style
 SUFFIX,yammerusercontent.com
 SUFFIX,brick.a.ssl.fastly.net
 SUFFIX,digitaloceanspaces.com
