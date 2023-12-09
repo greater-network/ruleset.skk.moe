@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-12-09T13:27:37.578Z
-# Size: 1669
+# Last Updated: 2023-12-09T18:25:47.962Z
+# Size: 1672
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1012,6 +1012,9 @@ hp.foxnews.com
 a57.foxnews.com
 static.files.bbci.co.uk
 ichef.bbci.co.uk
+media.cnn.com
+registry.api.cnn.io
++.cdn.turner.com
 +.xdaimages.com
 vjs.zencdn.net
 videos2-h.sendvid.com

@@ -50,6 +50,7 @@ SUFFIX,acg.mn
 SUFFIX,bgm.tv
 SUFFIX,bit.ly
 SUFFIX,cbc.ca
+SUFFIX,cnn.io
 SUFFIX,d.tube
 SUFFIX,dw.com
 SUFFIX,ea.com
@@ -106,6 +107,7 @@ SUFFIX,bmp.ovh
 SUFFIX,brew.sh
 SUFFIX,bwbx.io
 SUFFIX,cat.net
+SUFFIX,cnn.com
 SUFFIX,csb.app
 SUFFIX,csb.dev
 SUFFIX,css.net
@@ -698,6 +700,7 @@ SUFFIX,tineye.com
 SUFFIX,tiqcdn.com
 SUFFIX,tktube.com
 SUFFIX,tumblr.com
+SUFFIX,turner.com
 SUFFIX,twitter.jp
 SUFFIX,ubuntu.com
 SUFFIX,udn.com.tw
@@ -1101,6 +1104,7 @@ SUFFIX,sketch.cloud
 SUFFIX,smartbear.co
 SUFFIX,smassets.net
 SUFFIX,snapchat.com
+SUFFIX,snipaste.com
 SUFFIX,tdesktop.com
 SUFFIX,telegram.dog
 SUFFIX,telegram.org

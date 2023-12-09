@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2023-12-09T15:27:34.330Z
-# Size: 178136
+# Last Updated: 2023-12-09T18:25:54.194Z
+# Size: 178124
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -28,10 +28,10 @@
 #  - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs.txt
 #  - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites.txt
 #  - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_mail_trackers.txt
-#  - https://ublockorigin.github.io/uAssets/filters/filters.min.txt
-#  - https://ublockorigin.github.io/uAssets/filters/badware.min.txt
-#  - https://ublockorigin.github.io/uAssets/filters/privacy.min.txt
-#  - https://ublockorigin.github.io/uAssets/filters/unbreak.min.txt
+#  - https://ublockorigin.github.io/uAssetsCDN/filters/filters.min.txt
+#  - https://ublockorigin.github.io/uAssetsCDN/filters/badware.min.txt
+#  - https://ublockorigin.github.io/uAssetsCDN/filters/privacy.min.txt
+#  - https://ublockorigin.github.io/uAssetsCDN/filters/unbreak.min.txt
 #  - https://filters.adtidy.org/extension/ublock/filters/2_without_easylist.txt
 #  - https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
 #  - https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
@@ -57719,7 +57719,6 @@ cm.bilibili.com
 +.pardot.cbhhomes.com
 +.axp.cbs4indy.com
 +.nxslink.cbs4indy.com
-+.cbshanld.com
 +.mms.cbslocal.com
 +.metrics.cbslocal.com
 +.cbxcoins.vip
@@ -60242,7 +60241,6 @@ dsa-mfp.fengshows.cn
 +.tracking.flukecal.com
 +.xml.flurryad.com
 +.filter.flurryad.com
-+.flvpcdnb.com
 +.flyingpt.com
 +.flymyads.com
 +.flytechb.com
@@ -61247,7 +61245,6 @@ rt.funshion.net
 +.grooksom.com
 +.groomoub.com
 +.groomtoo.com
-+.groopsie.net
 +.groorsoa.net
 +.grooseem.net
 +.groosoum.xyz
@@ -64633,7 +64630,6 @@ ykugc.cp31.ott.cibntv.net.302.myalicdn.com
 +.filter.mymedia.club
 +.myoffers.bid
 +.content.myonlyid.com
-+.myownshop.at
 +.mypblife.com
 +.mypopads.com
 +.mypopups.com
@@ -68283,6 +68279,7 @@ click.qianqian.com
 +.misc.api.snaptube.app
 +.analytics.snaptube.app
 +.snekkergk.no
+stats.snipaste.com
 +.sniperdz.com
 +.sniperlog.ru
 +.snitcher.com
@@ -71000,7 +70997,6 @@ ftpcontent.worldnow.com
 +.xadsmart.com
 +.xakfdicg.com
 +.xapkgame.com
-+.xaqmijey.com
 +.xarbenul.com
 +.xblunter.net
 +.xboxboss.com
@@ -74038,7 +74034,6 @@ ad.caiyunapp.com
 +.clonezilla.it
 +.clongerip.com
 +.hello.closedloop.ai
-+.cloudaaaa.com
 +.email.mg.cloudamqp.com
 +.email.gh-mail.cloudbeds.com
 +.comms.cloudblue.com
@@ -101022,7 +101017,6 @@ app-ad.variflight.com
 +.6ow9rhxtolls.gq
 +.go.6smarketing.com
 +.email.7-eleven.com.ph
-+.71213zhazha.com
 +.720-trail.co.uk
 +.72hdownload.com
 +.73652253191.com
@@ -108173,7 +108167,6 @@ px.cdn.creative.medialytics.com
 +.ot.obi-baumarkt.ch
 +.go.objectfirst.com
 +.oblong-pool.pro
-+.obmnimarmos.com
 +.go.obora-pri.co.jp
 +.observerapp.com
 +.obstanceder.pro
@@ -111315,7 +111308,6 @@ roastedvolt.net
 +.link.connect.thevillages.com
 +.www.thewaycloud.com
 +.thewscozier.uno
-+.thichawheja.pro
 +.thickticket.com
 +.thicktrucks.com
 +.thillylivre.com
@@ -119743,7 +119735,6 @@ arketing.indianadunes.com
 +.jpovulldaghw.com
 +.jqr-cdn.download
 +.jqueryserver.com
-+.jqyde7msbro2.com
 +.go.jrautomation.com
 +.solutions.jrautomation.com
 +.jrklavzamkby.top
@@ -131497,7 +131488,6 @@ mail.ghmproperties.com
 +.s.muskokaregion.com
 +.ads.muslimehelfen.org
 +.musmentportal.com
-+.mutilatecoast.com
 +.mutteredadisa.com
 +.a8clk.muumuu-domain.com
 +.email.mvmotthonplusz.hu
@@ -132641,7 +132631,6 @@ mdn3origin.phluantmobile.net
 +.pushworldtool.com
 +.putfeableand.info
 +.puzzlepursued.com
-+.pvtypsgueyqey.com
 +.pvwtkxcpsrcsd.com
 +.pwbmdalngizhz.com
 +.pxmqdhcvpcsra.xyz
@@ -134241,7 +134230,6 @@ mail.techniservinc.com
 +.nsmetrics.themercury.com.au
 +.email.kjbm.themigostudio.com
 +.themoneytizer.com
-+.themoneytizer.net
 +.themotorsnews.com
 +.thenewstreams.com
 +.email.kjbm.thenewyou.academy
@@ -178180,4 +178168,6 @@ data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com
 +.na2-docusign-net-envelope-benefit-assessment-pacakge-review.nyc3.digitaloceanspaces.com
 +.validating-documentstoday-validatingdocumentstodayvalidating.us-lax-1.linodeobjects.com
 +.ra.kiech.correarealtygroup.cl.#.ahr0chm6ly9iywzrcmvpzjnkzdrwegz0n3hzeg83bxnqedv3axdwamq0zgdmbmxrnxh1advnamezzxdudxrnnghnbs5pcgzzlm5mdhn0b3jhz2uubgluay8jywjvbmlsbgfacmhyaw50zxjuyxrpb25hbc5jb20=3d
+################# END ###################
+ywzrcmvpzjnkzdrwegz0n3hzeg83bxnqedv3axdwamq0zgdmbmxrnxh1advnamezzxdudxrnnghnbs5pcgzzlm5mdhn0b3jhz2uubgluay8jywjvbmlsbgfacmhyaw50zxjuyxrpb25hbc5jb20=3d
 ################# END ###################
