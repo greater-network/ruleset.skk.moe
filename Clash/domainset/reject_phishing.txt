@@ -1,7 +1,7 @@
 ########################################
 # Sukka's Ruleset - Reject Phishing
-# Last Updated: 2023-12-08T12:30:16.143Z
-# Size: 113
+# Last Updated: 2023-12-09T12:27:59.893Z
+# Size: 117
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,11 +21,11 @@
 +.canva.site
 +.garenav.vn
 +.hostfree.pw
-+.202305300.cn
 +.company.site
 +.frappe.cloud
 +.kinsta.cloud
 +.negocio.site
++.304tattoo.xyz
 +.fxcfvgsec.top
 +.goserver.host
 +.paginas.store
@@ -33,7 +33,6 @@
 +.phillyana.info
 +.temp-site.link
 +.weeblysite.com
-+.dfgdfxfgdgg.xyz
 +.heniekmusiol.pl
 +.mailbutler.link
 +.hgcf65edfch.buzz
@@ -44,6 +43,7 @@
 +.chronionezakupy.pl
 +.isadijkroispsu.xyz
 +.oferty-prywatne.pl
++.pl-mojaplatnosc.pl
 +.pl-oferta284518.pl
 +.pl-oferta284536.pl
 +.pl-oferta523571.pl
@@ -58,7 +58,6 @@
 +.web3validationvault.xyz
 +.pl-bezpieczna-platnosc.pl
 +.pl-oferta-prywatna3455.pl
-+.pl-oferta-prywatna6735.pl
 +.pl-oferta-prywatna6739.pl
 +.pl-oferta-prywatna6742.pl
 +.pl-oferta-prywatna8355.pl
@@ -72,7 +71,6 @@
 +.pl-oferta-sprzedazy12306.pl
 +.pl-oferta-sprzedazy12307.pl
 +.pl-oferta-sprzedazy12308.pl
-+.pl-oferta-sprzedazy12310.pl
 +.pl-oferta-sprzedazy12312.pl
 +.pl-oferta-sprzedazy12313.pl
 +.pl-oferta-sprzedazy12315.pl
@@ -84,13 +82,16 @@
 +.pl-oferta-sprzedazy13458.pl
 +.pl-oferta-sprzedazy15328.pl
 +.pl-oferta-sprzedazy24699.pl
++.pl-oferta-sprzedazy63563.pl
++.pl-oferta-sprzedazy70023.pl
++.pl-oferta-sprzedazy72811.pl
 +.pl-oferta-sprzedazy98710.pl
 +.pl-bezpieczna-oferta11952.pl
 +.pl-bezpieczna-oferta11955.pl
 +.pl-bezpieczna-oferta11958.pl
 +.pl-bezpieczna-oferta11961.pl
++.pl-bezpieczna-oferta11995.pl
 +.pl-oferta-sprzedazy122212.pl
-+.pl-oferta-sprzedazy122213.pl
 +.pl-oferta-sprzedazy122221.pl
 +.pl-oferta-sprzedazy122222.pl
 +.pl-oferta-sprzedazy122223.pl
@@ -107,6 +108,9 @@
 +.pl-oferta-sprzedazy122279.pl
 +.pl-oferta-sprzedazy122289.pl
 +.pl-oferta-sprzedazy122290.pl
++.pl-oferta-sprzedazy651014.pl
++.pl-bezpieczna-oferta119435.pl
++.pl-bezpieczna-oferta119890.pl
 +.pl-bezpieczna-platnosc2478.pl
 +.pl-oferta-uzytkownika34344.pl
 +.pl-oferta-uzytkownika43544.pl
