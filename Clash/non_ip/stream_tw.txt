@@ -1,6 +1,6 @@
-########################################
+#########################################
 # Sukka's Ruleset - Stream Services: Taiwan
-# Last Updated: 2023-11-01T08:45:11.647Z
+# Last Updated: 2023-12-11T02:32:42.702Z
 # Size: 44
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -13,7 +13,7 @@
 # - HBO Asia
 # - Bahamut
 # - Bilibili International
-########################################
+#########################################
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,apm-misaka.biliapi.net
@@ -58,4 +58,4 @@ DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-KEYWORD,.hbogoasia.
 PROCESS-NAME,com.bstar.intl
 PROCESS-NAME,com.linecorp.linetv
-################# END ###################
+################## EOF ##################

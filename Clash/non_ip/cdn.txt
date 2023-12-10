@@ -1,13 +1,13 @@
-########################################
+#########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-12-07T13:19:59.899Z
+# Last Updated: 2023-12-11T02:32:42.767Z
 # Size: 338
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
-########################################
+#########################################
 DOMAIN-SUFFIX,usercontent.goog
 DOMAIN-SUFFIX,ks3-sgp.ksyuncs.com
 DOMAIN-SUFFIX,ks3-rus.ksyuncs.com
@@ -346,4 +346,4 @@ DOMAIN-KEYWORD,web-assets.zendesk
 DOMAIN-KEYWORD,vod-adaptive.akamaized.net
 DOMAIN-KEYWORD,-res.cloudinary.com
 DOMAIN-KEYWORD,-files.gitbook.io
-################# END ###################
+################## EOF ##################

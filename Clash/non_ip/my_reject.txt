@@ -1,11 +1,11 @@
-########################################
+#########################################
 # Sukka's Ruleset - Reject
-# Last Updated: 2023-12-09T13:27:37.586Z
+# Last Updated: 2023-12-11T02:32:42.810Z
 # Size: 21
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
-########################################
+#########################################
 DOMAIN,daisydiskapp.com
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,my.parallels.com
@@ -27,4 +27,4 @@ PROCESS-NAME,LemonAgent
 PROCESS-NAME,LemonDaemon
 PROCESS-NAME,LemonMonitor
 PROCESS-NAME,Tencent Lemon
-################# END ###################
+################## EOF ##################

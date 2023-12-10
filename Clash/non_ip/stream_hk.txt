@@ -1,6 +1,6 @@
-########################################
+#########################################
 # Sukka's Ruleset - Stream Services: Hong Kong
-# Last Updated: 2023-12-05T06:06:18.684Z
+# Last Updated: 2023-12-11T02:32:42.702Z
 # Size: 44
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -11,7 +11,7 @@
 # - myTV Super
 # - HBO Asia
 # - Bilibili International
-########################################
+#########################################
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,s3-ap-southeast-1.amazonaws.com
@@ -56,4 +56,4 @@ PROCESS-NAME,com.hktve.viutv
 PROCESS-NAME,com.vuclip.viu
 PROCESS-NAME,com.viu.phone
 PROCESS-NAME,com.viu.pad
-################# END ###################
+################## EOF ##################

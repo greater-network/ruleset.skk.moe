@@ -1,6 +1,6 @@
-########################################
+#########################################
 # Sukka's Ruleset - Stream Services: Japan
-# Last Updated: 2023-11-01T08:45:11.649Z
+# Last Updated: 2023-12-11T02:32:42.703Z
 # Size: 21
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -9,7 +9,7 @@
 # - DMM
 # - AbemaTV
 # - niconico
-########################################
+#########################################
 DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,nicovideo.jp
@@ -31,4 +31,4 @@ DOMAIN-SUFFIX,dmm-extension.com
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dmm.co.jp
 DOMAIN-KEYWORD,abematv.akamaized.net
-################# END ###################
+################## EOF ##################

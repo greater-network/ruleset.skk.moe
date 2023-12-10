@@ -1,13 +1,13 @@
-########################################
+#########################################
 # Sukka's Ruleset - Netease Music IPs
-# Last Updated: 2023-09-10T17:38:41.947Z
+# Last Updated: 2023-12-11T02:32:42.792Z
 # Size: 19
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains IPs used by Netease Music.
-########################################
+#########################################
 IP-CIDR,59.111.181.60/32,no-resolve
 IP-CIDR,59.111.181.38/32,no-resolve
 IP-CIDR,59.111.181.35/32,no-resolve
@@ -27,4 +27,4 @@ IP-CIDR,112.13.119.17/32,no-resolve
 IP-CIDR,103.126.92.133/32,no-resolve
 IP-CIDR,103.126.92.132/32,no-resolve
 IP-CIDR,101.71.154.241/32,no-resolve
-################# END ###################
+################## EOF ##################

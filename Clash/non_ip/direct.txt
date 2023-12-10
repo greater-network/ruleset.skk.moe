@@ -1,13 +1,13 @@
-########################################
+#########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2023-12-05T06:06:18.786Z
+# Last Updated: 2023-12-11T02:32:42.813Z
 # Size: 161
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains domains and process that should not be proxied.
-########################################
+#########################################
 DOMAIN,local.adguard.org
 DOMAIN,injections.adguard.org
 DOMAIN-SUFFIX,wiley.com
@@ -169,4 +169,4 @@ PROCESS-NAME,clash
 PROCESS-NAME,ss-local
 PROCESS-NAME,xray
 PROCESS-NAME,v2ray
-################# END ###################
+################## EOF ##################

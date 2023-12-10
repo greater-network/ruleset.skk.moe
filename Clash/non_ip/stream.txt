@@ -1,6 +1,6 @@
-########################################
+#########################################
 # Sukka's Ruleset - Stream Services: All
-# Last Updated: 2023-12-05T06:06:18.681Z
+# Last Updated: 2023-12-11T02:32:42.699Z
 # Size: 292
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -60,7 +60,7 @@
 # - YouTube
 # - YouTube Music
 # - SHOWTIME
-########################################
+#########################################
 DOMAIN,youtube.googleapis.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,itvpnpmobile-a.akamaihd.net
@@ -353,4 +353,4 @@ PROCESS-NAME,com.hktve.viutv
 PROCESS-NAME,com.hulu.plus
 PROCESS-NAME,com.bstar.intl
 PROCESS-NAME,com.amazon.avod.thirdpartyclient
-################# END ###################
+################## EOF ##################

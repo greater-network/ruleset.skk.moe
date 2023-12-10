@@ -1,11 +1,11 @@
-########################################
+#########################################
 # Sukka's Ruleset - Proxy
-# Last Updated: 2023-12-05T06:06:18.783Z
+# Last Updated: 2023-12-11T02:32:42.810Z
 # Size: 48
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
-########################################
+#########################################
 DOMAIN,vscodeexperiments.azureedge.net
 DOMAIN,ip.cn
 DOMAIN,ip.istatmenus.app
@@ -54,4 +54,4 @@ DOMAIN-SUFFIX,mikuclub.xyz
 DOMAIN-SUFFIX,1password.eu
 DOMAIN-SUFFIX,1password.ca
 DOMAIN-SUFFIX,1password.com
-################# END ###################
+################## EOF ##################

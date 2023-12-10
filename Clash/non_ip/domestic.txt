@@ -1,13 +1,13 @@
-########################################
+#########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2023-12-06T07:51:45.088Z
+# Last Updated: 2023-12-11T02:32:42.715Z
 # Size: 340
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains known addresses that are avaliable in the Mainland China.
-########################################
+#########################################
 DOMAIN,dl.steam.ksyna.com
 DOMAIN,dl.steam.clngaa.com
 DOMAIN,www.layuicdn.com
@@ -348,4 +348,4 @@ DOMAIN-KEYWORD,amplifi
 DOMAIN-KEYWORD,officecdn
 PROCESS-NAME,WeCom
 PROCESS-NAME,WeChat
-################# END ###################
+################## EOF ##################

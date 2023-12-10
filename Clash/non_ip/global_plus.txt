@@ -1,13 +1,13 @@
-########################################
+#########################################
 # Sukka's Ruleset - Enhanced Global Services
-# Last Updated: 2023-12-07T13:19:59.946Z
+# Last Updated: 2023-12-11T02:32:42.812Z
 # Size: 163
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains rules for services that are not available inside the Mainland China.
-########################################
+#########################################
 DOMAIN,ees.elsevier.com
 DOMAIN,onedrive.live.com
 DOMAIN,search.yahoo.co.jp
@@ -171,4 +171,4 @@ DOMAIN-KEYWORD,facebook
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,google
-################# END ###################
+################## EOF ##################

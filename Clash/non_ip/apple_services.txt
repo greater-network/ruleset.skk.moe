@@ -1,13 +1,13 @@
-########################################
+#########################################
 # Sukka's Ruleset - Apple Domains
-# Last Updated: 2023-10-31T05:09:59.270Z
+# Last Updated: 2023-12-11T02:32:42.809Z
 # Size: 18
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains domains of Apple, Inc that have PoP inside the Mainland China.
-########################################
+#########################################
 DOMAIN-SUFFIX,organicfruitapps.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,itunes.com
@@ -26,4 +26,4 @@ DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,aaplimg.com
 PROCESS-NAME,com.apple.geod
-################# END ###################
+################## EOF ##################

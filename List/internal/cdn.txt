@@ -1020,6 +1020,7 @@ SUFFIX,geoip-js.com
 SUFFIX,getbutton.io
 SUFFIX,getkirby.com
 SUFFIX,getkoala.com
+SUFFIX,ghostery.com
 SUFFIX,gigabyte.com
 SUFFIX,gmodules.com
 SUFFIX,gravatar.com

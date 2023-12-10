@@ -1,6 +1,6 @@
-########################################
+#########################################
 # Sukka's Ruleset - Stream Services: North America
-# Last Updated: 2023-11-01T08:45:11.639Z
+# Last Updated: 2023-12-11T02:32:42.702Z
 # Size: 36
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -14,7 +14,7 @@
 # - Discovery+
 # - Paramount+
 # - Peacock
-########################################
+#########################################
 DOMAIN,link.theplatform.com
 DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
@@ -51,4 +51,4 @@ DOMAIN-SUFFIX,foxplus.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,fox.com
 PROCESS-NAME,com.hulu.plus
-################# END ###################
+################## EOF ##################
