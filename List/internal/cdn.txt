@@ -601,6 +601,7 @@ SUFFIX,kdata1.com
 SUFFIX,kernel.org
 SUFFIX,kinsta.com
 SUFFIX,koala.live
+SUFFIX,linear.app
 SUFFIX,magic.link
 SUFFIX,mapbox.com
 SUFFIX,masto.host

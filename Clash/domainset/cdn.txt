@@ -1,13 +1,13 @@
-########################################
+#########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-12-09T18:25:47.962Z
-# Size: 1672
+# Last Updated: 2023-12-10T14:32:54.177Z
+# Size: 1673
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
-########################################
+#########################################
 ruleset.skk.moe
 pic.skk.moe
 img.skk.moe
@@ -330,7 +330,6 @@ avatars.hubspot.net
 +.yastatic.net
 avatars.mds.yandex.net
 resize.yandex.net
-storage.yandexcloud.net
 ysa-static.passport.yandex.net
 +.cms.replit.com
 +.cdn.replit.com
@@ -1282,6 +1281,8 @@ secure-uploads.ui.com
 +.sftcdn.net
 img.apponic.com
 cdn.apponic.com
++.cms-cdn.linear.app
+static.linear.app
 +.ziffstatic.com
 +.muscache.com
 cdn.dnsimple.com
@@ -1680,4 +1681,4 @@ live.fanmingming.com
 i.creativecommons.org
 +.licensebuttons.net
 regmedia.co.uk
-################# END ###################
+################## EOF ##################
