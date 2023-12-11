@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-12-11T02:32:42.801Z
-# Size: 1674
+# Last Updated: 2023-12-11T14:34:42.060Z
+# Size: 1676
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1682,4 +1682,6 @@ live.fanmingming.com
 i.creativecommons.org
 +.licensebuttons.net
 regmedia.co.uk
+rsi.grafana.com
++.pravatar.cc
 ################## EOF ##################
