@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-12-11T02:32:51.808Z
-# Size: 886
+# Last Updated: 2023-12-11T02:59:29.992Z
+# Size: 887
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -606,6 +606,7 @@ speedtest1.sc.chinamobile.com
 speedtestbb.hk.chinamobile.com
 speedtest.datacasa.com.tr
 pauseq4vost1.datamossa.cloud
+speedtest.dongfong.com.tw
 speedtestmia.gethotwired.com
 speed-mel.gigacomm.net.au
 speed-syd.gigacomm.net.au
