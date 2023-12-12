@@ -895,6 +895,7 @@ SUFFIX,shopify.com
 SUFFIX,skypack.dev
 SUFFIX,sloppyta.co
 SUFFIX,smilecdn.co
+SUFFIX,snapkit.com
 SUFFIX,snaptube.in
 SUFFIX,spotify.com
 SUFFIX,sqspcdn.com
