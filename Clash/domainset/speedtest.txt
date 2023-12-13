@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-12-13T10:51:10.079Z
-# Size: 874
+# Last Updated: 2023-12-13T12:31:04.919Z
+# Size: 875
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -317,6 +317,7 @@ sydspeedtest.rackdog.com
 speedtest.reicosa.com
 spt1.seed.net.tw
 fetml1.seed.net.tw
+fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetyl1.seed.net.tw
 fetzl1.seed.net.tw
@@ -332,6 +333,7 @@ speedtest.sfinnov.com
 speed4.snap.net.nz
 speedtest.spacenet.ru
 +.speedtest.starhub.com
+speedtest2.starlink.ru
 speedtest.ams.t-mobile.nl
 +.speedtest.telstra.net
 speedtest.sjc.timkevin.us
@@ -550,7 +552,6 @@ speedtest.intlink.com.br
 speedtest.ip-projects.de
 speedtest.jvswifi.com.br
 speedtest-hob.launtel.net.au
-speedtest-syd.launtel.net.au
 speedtest-bris.launtel.net.au
 speedtest-lton.launtel.net.au
 speedtest-melb.launtel.net.au
