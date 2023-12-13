@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-12-12T14:25:59.028Z
-# Size: 1677
+# Last Updated: 2023-12-13T04:02:33.691Z
+# Size: 1678
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -273,6 +273,7 @@ compass-ssl.xbox.com
 +.file.core.windows.net
 amp.azure.net
 +.catbox.moe
+share.riseup.net
 uploads.codesandbox.io
 screenshots.codesandbox.io
 prod-packager-packages.codesandbox.io

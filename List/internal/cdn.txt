@@ -667,6 +667,7 @@ SUFFIX,redhat.com
 SUFFIX,render.com
 SUFFIX,repair.org
 SUFFIX,replit.com
+SUFFIX,riseup.net
 SUFFIX,runkit.com
 SUFFIX,scalero.io
 SUFFIX,scene7.com
