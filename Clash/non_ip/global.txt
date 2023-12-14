@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2023-12-11T02:32:42.811Z
-# Size: 81
+# Last Updated: 2023-12-14T12:05:07.728Z
+# Size: 96
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -22,19 +22,25 @@ DOMAIN,beta.itunes.apple.com
 DOMAIN,addons.mozilla.org
 DOMAIN,audiocontentdownload.apple.com
 DOMAIN,api-glb-sea.smoot.apple.com
+DOMAIN-SUFFIX,quillbot.com
+DOMAIN-SUFFIX,kwai.com
 DOMAIN-SUFFIX,yadi.sk
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,newsblur.com
-DOMAIN-SUFFIX,bit.ly
-DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,engadget.com
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,lnkd.in
+DOMAIN-SUFFIX,linkedin.at
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,x.company
+DOMAIN-SUFFIX,wordtune.com
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,whatbrowser.org
@@ -45,9 +51,15 @@ DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,snapkit.co
+DOMAIN-SUFFIX,snapchat.com
+DOMAIN-SUFFIX,snap.com
+DOMAIN-SUFFIX,snap-dev.net
+DOMAIN-SUFFIX,sc-cdn.net
 DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,shattered.io
 DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,prowritingaid.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,majsoul.union-game.com
@@ -55,12 +67,13 @@ DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,itasoftware.com
+DOMAIN-SUFFIX,gameloft.com
+DOMAIN-SUFFIX,globo.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,githubstatus.com
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.community
-DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,gstatic.com
@@ -68,11 +81,13 @@ DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,getmdl.io
+DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,chromestatus.com
