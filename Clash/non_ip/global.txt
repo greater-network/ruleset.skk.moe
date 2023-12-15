@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2023-12-14T12:05:07.728Z
-# Size: 96
+# Last Updated: 2023-12-15T09:25:52.072Z
+# Size: 88
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -51,11 +51,6 @@ DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,tiltbrush.com
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,tensorflow.org
-DOMAIN-SUFFIX,snapkit.co
-DOMAIN-SUFFIX,snapchat.com
-DOMAIN-SUFFIX,snap.com
-DOMAIN-SUFFIX,snap-dev.net
-DOMAIN-SUFFIX,sc-cdn.net
 DOMAIN-SUFFIX,synergyse.com
 DOMAIN-SUFFIX,shattered.io
 DOMAIN-SUFFIX,recaptcha.net
@@ -76,7 +71,6 @@ DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,gv.com
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,gmodules.com
@@ -99,8 +93,6 @@ DOMAIN-SUFFIX,aimoon.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,androidify.com
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,520cc.cc

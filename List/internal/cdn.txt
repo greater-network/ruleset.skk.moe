@@ -26,6 +26,7 @@ SUFFIX,withyoutube.com
 SUFFIX,yandexcloud.net
 SUFFIX,azure-mobile.net
 SUFFIX,azurewebsites.net
+SUFFIX,cloudfunctions.net
 SUFFIX,azurestaticapps.net
 SUFFIX,cloudflare-ipfs.com
 SUFFIX,elasticbeanstalk.com
@@ -64,6 +65,7 @@ SUFFIX,ff.com
 SUFFIX,gcr.io
 SUFFIX,git.io
 SUFFIX,go.com
+SUFFIX,goo.gl
 SUFFIX,gv.com
 SUFFIX,gw3.io
 SUFFIX,he.net
@@ -294,6 +296,7 @@ SUFFIX,piano.io
 SUFFIX,pika.dev
 SUFFIX,pixiv.nl
 SUFFIX,pixiv.re
+SUFFIX,pki.goog
 SUFFIX,poool.fr
 SUFFIX,prcdn.co
 SUFFIX,pscdn.co
@@ -332,6 +335,7 @@ SUFFIX,xbox.com
 SUFFIX,xing.com
 SUFFIX,xkcd.com
 SUFFIX,xlog.app
+SUFFIX,xnxx.com
 SUFFIX,xtom.com
 SUFFIX,yande.re
 SUFFIX,yext.com
@@ -492,6 +496,7 @@ SUFFIX,v2fly.org
 SUFFIX,v2ray.com
 SUFFIX,vercel.sh
 SUFFIX,vetted.ai
+SUFFIX,viber.com
 SUFFIX,vidjet.io
 SUFFIX,vimeo.com
 SUFFIX,volvo.com
@@ -563,6 +568,7 @@ SUFFIX,debian.org
 SUFFIX,deezer.com
 SUFFIX,disqus.com
 SUFFIX,dlsite.com
+SUFFIX,dns.google
 SUFFIX,docker.com
 SUFFIX,dotsrc.org
 SUFFIX,drink.cafe
@@ -701,6 +707,7 @@ SUFFIX,setapp.com
 SUFFIX,sftcdn.net
 SUFFIX,shgcdn.com
 SUFFIX,shields.io
+SUFFIX,signal.art
 SUFFIX,signal.org
 SUFFIX,sketch.com
 SUFFIX,snapkit.co
@@ -828,6 +835,7 @@ SUFFIX,gitbook.com
 SUFFIX,gitcdn.link
 SUFFIX,githack.com
 SUFFIX,github.blog
+SUFFIX,godaddy.com
 SUFFIX,grafana.com
 SUFFIX,gstatic.com
 SUFFIX,gumroad.com
@@ -964,6 +972,7 @@ SUFFIX,webflow.com
 SUFFIX,windows.net
 SUFFIX,writeas.net
 SUFFIX,x-n-x-x.pro
+SUFFIX,xfinity.com
 SUFFIX,xingcdn.com
 SUFFIX,xtom.com.hk
 SUFFIX,xvideos.com
@@ -1021,6 +1030,7 @@ SUFFIX,coinbase.com
 SUFFIX,coindesk.com
 SUFFIX,comfy.social
 SUFFIX,connatix.com
+SUFFIX,constant.com
 SUFFIX,crossbell.io
 SUFFIX,datacamp.com
 SUFFIX,david-dm.org
@@ -1181,6 +1191,7 @@ SUFFIX,wikinews.org
 SUFFIX,winticket.jp
 SUFFIX,wordtune.com
 SUFFIX,xboxlive.com
+SUFFIX,xhamster.com
 SUFFIX,xnxx-cdn.com
 SUFFIX,yastatic.net
 SUFFIX,yukimochi.jp
@@ -1256,6 +1267,7 @@ SUFFIX,hbomaxcdn.com
 SUFFIX,headwayapp.co
 SUFFIX,helpjuice.com
 SUFFIX,hjholdings.jp
+SUFFIX,homedepot.com
 SUFFIX,ibytedtos.com
 SUFFIX,imageshack.us
 SUFFIX,imgmrplay.xyz
@@ -1329,6 +1341,7 @@ SUFFIX,storjshare.io
 SUFFIX,storyblok.com
 SUFFIX,stripecdn.com
 SUFFIX,sumologic.com
+SUFFIX,surfshark.com
 SUFFIX,synergyse.com
 SUFFIX,thisiscdn.com
 SUFFIX,thumbsnap.com
@@ -1596,6 +1609,7 @@ SUFFIX,scalaproject.io
 SUFFIX,schemastore.org
 SUFFIX,sciencecast.org
 SUFFIX,shadowsocks.org
+SUFFIX,signalusers.org
 SUFFIX,sourceforge.net
 SUFFIX,spotifyjobs.com
 SUFFIX,squarespace.com
@@ -1783,6 +1797,7 @@ SUFFIX,theblockbeats.info
 SUFFIX,trafficmanager.net
 SUFFIX,typescriptlang.org
 SUFFIX,washingtonpost.com
+SUFFIX,whispersystems.org
 SUFFIX,ajax.googleapis.com
 SUFFIX,cleverecommerce.com
 SUFFIX,constantcontact.com
