@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2023-12-14T12:05:07.647Z
+#!desc=Last Updated: 2023-12-15T07:40:57.459Z
 
 [Host]
 uc.cn = server:quic://223.6.6.6:853
@@ -108,6 +108,10 @@ weixin.com = server:https://120.53.53.53/dns-query
 *.weixin.com = server:https://120.53.53.53/dns-query
 wechat.com = server:https://120.53.53.53/dns-query
 *.wechat.com = server:https://120.53.53.53/dns-query
+soso.com = server:https://120.53.53.53/dns-query
+*.soso.com = server:https://120.53.53.53/dns-query
+sogou,cin = server:https://120.53.53.53/dns-query
+*.sogou,cin = server:https://120.53.53.53/dns-query
 acg.tv = server:https://120.53.53.53/dns-query
 *.acg.tv = server:https://120.53.53.53/dns-query
 b23.tv = server:https://120.53.53.53/dns-query
@@ -220,6 +224,8 @@ qhres2.com = server:https://101.198.198.198/dns-query
 *.qhres2.com = server:https://101.198.198.198/dns-query
 so.com = server:https://101.198.198.198/dns-query
 *.so.com = server:https://101.198.198.198/dns-query
+haosou.com = server:https://101.198.198.198/dns-query
+*.haosou.com = server:https://101.198.198.198/dns-query
 yunpan.cn = server:https://101.198.198.198/dns-query
 *.yunpan.cn = server:https://101.198.198.198/dns-query
 _hotspot_.m2m = server:system

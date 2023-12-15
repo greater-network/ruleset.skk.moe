@@ -488,6 +488,7 @@ SUFFIX,unpkg.com
 SUFFIX,upload.io
 SUFFIX,upset.dev
 SUFFIX,v-cdn.net
+SUFFIX,v2fly.org
 SUFFIX,v2ray.com
 SUFFIX,vercel.sh
 SUFFIX,vetted.ai
@@ -989,6 +990,7 @@ SUFFIX,apkcombo.com
 SUFFIX,ashbyprd.com
 SUFFIX,atl-paas.net
 SUFFIX,autodraw.com
+SUFFIX,avdocker.com
 SUFFIX,awwwards.com
 SUFFIX,badgesize.io
 SUFFIX,biliintl.com
@@ -1101,6 +1103,7 @@ SUFFIX,mobilius.top
 SUFFIX,modrinth.com
 SUFFIX,mokeedev.com
 SUFFIX,muscache.com
+SUFFIX,myavlive.com
 SUFFIX,myqcloud.com
 SUFFIX,navattic.com
 SUFFIX,newsblur.com
@@ -1197,6 +1200,7 @@ SUFFIX,apkmirror.com
 SUFFIX,archive.today
 SUFFIX,aspnetcdn.com
 SUFFIX,atlassian.com
+SUFFIX,avdocker3.com
 SUFFIX,awsstatic.com
 SUFFIX,azureedge.net
 SUFFIX,beer7live.com
@@ -1223,6 +1227,7 @@ SUFFIX,disconnect.me
 SUFFIX,disquscdn.com
 SUFFIX,dnsfilter.com
 SUFFIX,doppiocdn.com
+SUFFIX,doppiocdn.org
 SUFFIX,elementary.io
 SUFFIX,embedgram.com
 SUFFIX,encoretvb.com
@@ -1372,6 +1377,7 @@ SUFFIX,argotunnel.com
 SUFFIX,arvancloud.com
 SUFFIX,autoketing.org
 SUFFIX,bahamut.com.tw
+SUFFIX,bestjavcdn.com
 SUFFIX,beyondwords.io
 SUFFIX,bluestacks.com
 SUFFIX,brightcove.com
