@@ -1484,6 +1484,7 @@ SUFFIX,mayoclinic.org
 SUFFIX,mozilla.social
 SUFFIX,mypinata.cloud
 SUFFIX,myshopapps.com
+SUFFIX,nelreports.net
 SUFFIX,nerdschalk.com
 SUFFIX,netdna-ssl.com
 SUFFIX,nflxsearch.net
