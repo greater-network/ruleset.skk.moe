@@ -423,6 +423,7 @@ SUFFIX,h-cdn.com
 SUFFIX,hbogo.com
 SUFFIX,hinet.net
 SUFFIX,httpie.io
+SUFFIX,humix.com
 SUFFIX,huobi.pro
 SUFFIX,hyvor.com
 SUFFIX,iframe.ly
@@ -1750,6 +1751,7 @@ SUFFIX,bandwagonhost.com
 SUFFIX,cdn-cookieyes.com
 SUFFIX,chesscomfiles.com
 SUFFIX,codeblackbelt.com
+SUFFIX,codepenassets.com
 SUFFIX,coinmarketcap.com
 SUFFIX,combinatronics.io
 SUFFIX,cryptocompare.com

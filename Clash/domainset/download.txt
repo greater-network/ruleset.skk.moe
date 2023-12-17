@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2023-12-15T09:25:52.046Z
-# Size: 122
+# Last Updated: 2023-12-17T11:31:59.762Z
+# Size: 123
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -130,4 +130,5 @@ download.gimp.org
 origin-a.akamaihd.net
 dlgarenanow-a.akamaihd.net
 releases.grapheneos.org
+redstone-launcher.mojang.com
 ################## EOF ##################
