@@ -1352,6 +1352,7 @@ SUFFIX,skyassets.com
 SUFFIX,sociabble.com
 SUFFIX,softswiss.net
 SUFFIX,spankbang.com
+SUFFIX,speedtest.net
 SUFFIX,stackblitz.io
 SUFFIX,starbucks.com
 SUFFIX,startpage.com
@@ -1609,6 +1610,7 @@ SUFFIX,myportfolio.com
 SUFFIX,neverbounce.com
 SUFFIX,nftstorage.link
 SUFFIX,npmgraph.js.org
+SUFFIX,oraclecloud.com
 SUFFIX,packagecloud.io
 SUFFIX,parastorage.com
 SUFFIX,pathfactory.com

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-12-16T14:18:53.875Z
-# Size: 875
+# Last Updated: 2023-12-17T08:44:16.250Z
+# Size: 877
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -170,7 +170,6 @@ speedtest.maryno.net
 speedtest-stf.megafon.ru
 +.speed.misaka.one
 speedtest.mosline.ru
-teste.mov.pro.br
 speedtest.myarena.ru
 speedtest.netrack.ru
 mirror.nforce.com
@@ -259,7 +258,6 @@ speedtest.anksoft.net
 spt-nyc.as13786.net
 speedtest1-sttlwawb.as20055.net
 speedtest-ookla-par.as62000.net
-speedtest1.axes.com.br
 speedtest.bmcc.com.cn
 spt1.bsnlive.net
 speedtest-1.compute.dc1.cilix.cloud
@@ -316,7 +314,6 @@ sydspeedtest.rackdog.com
 speedtest.reicosa.com
 spt1.seed.net.tw
 fetml1.seed.net.tw
-fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetyl1.seed.net.tw
 fetzl1.seed.net.tw
@@ -616,6 +613,7 @@ sunmobile.hkspeedtest.com
 gd-speedtest.homeplus.net.tw
 gh-speedtest.homeplus.net.tw
 ks-speedtest.homeplus.net.tw
+sc-speedtest.homeplus.net.tw
 tn-speedtest.homeplus.net.tw
 tp-speedtest.homeplus.net.tw
 wd-speedtest.homeplus.net.tw
@@ -745,6 +743,7 @@ nl.blackhost.network
 speed.ccspublichost.com
 speedtest.connectbv8.com.br
 speedtest.creolineserver.de
+speedtest.csmtelecom.net.br
 teste.diotelecom.com.br
 speedtest-dfw.dish-wireless.com
 speedtest-lax.dish-wireless.com
@@ -754,6 +753,7 @@ speedtest-sea.dish-wireless.com
 speedtest-sjc.dish-wireless.com
 teste.easytecham.com.br
 velocidade.exytelecom.com.br
+spd-01.thn.fullfibre.systems
 teste.jlatelecom.com.br
 speedtest.myrepublic.com.sg
 medidor.nortelecom.com.br
@@ -781,7 +781,6 @@ sp1.fiberlinkce.com.br
 sy5.test.gslnetworks.com.au
 me1.speedtest.gslnetworks.com.au
 speedtest.internetbolaget.nu
-speedtest.isppapagaio.com.br
 speedtest.newberlinfiber.net
 ookla.ddnsgeek.com
 bne-speed.overthewire.com.au
@@ -841,6 +840,7 @@ speedtest.seveninternet.com.br
 velocimetro.speednetworks.com.br
 speed-server3.summit-broadband.com
 suntechspeedtest.com
+teste.suprainternet.com.br
 teste.tstelecomltda.com.br
 speedtest.visiontelecom.com.br
 speedtest.americatelecom.net.br
@@ -848,6 +848,7 @@ bmspeed.chinaunicomglobal.com
 cugspeed.chinaunicomglobal.com
 fraspeed.chinaunicomglobal.com
 teste.ddlsuprimentos.com.br
+speedtest.mirror.digitalpacific.com.au
 speedtest.mirror.mel1.digitalpacific.com.au
 teste.freedomnetwork.net.br
 st2.barquisimeto.intercomservicios.com
@@ -880,6 +881,7 @@ speedtest.redefinitytelecom.com.br
 speedtestspeednet.com.br
 aragonnetspeedtest.com.br
 test.infoconnecttelecom.com.br
+servidor.nuevanetbandalarga.com.br
 speedtestalmtelecom.com.br
 speedtest.topnettelecomservicos.com.br
 speedtestmera.vs.mythic-beasts.com

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Enhanced Global Services
-# Last Updated: 2023-12-16T08:00:35.125Z
-# Size: 261
+# Last Updated: 2023-12-17T08:44:03.607Z
+# Size: 262
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,quoracdn.net
 DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jkforum.net
 DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,substack.com
