@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2023-12-11T02:32:42.813Z
+# Last Updated: 2023-12-18T06:50:15.768Z
 # Size: 161
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -116,10 +116,10 @@ DOMAIN-SUFFIX,awesome-hd.me
 DOMAIN-SUFFIX,avistaz.to
 DOMAIN-SUFFIX,avgv.cc
 DOMAIN-SUFFIX,asiancinema.me
-DOMAIN-SUFFIX,anthelion.me
-DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,alpharatio.cc
 DOMAIN-SUFFIX,aidoru-online.me
+DOMAIN-SUFFIX,anthelion.me
+DOMAIN-SUFFIX,animebytes.tv
 DOMAIN-SUFFIX,acm.org
 DOMAIN-SUFFIX,acg.rip
 DOMAIN-SUFFIX,xunlei.com

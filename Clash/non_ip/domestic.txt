@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2023-12-16T08:00:35.033Z
-# Size: 456
+# Last Updated: 2023-12-18T06:50:15.614Z
+# Size: 450
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,6 +10,8 @@
 #########################################
 DOMAIN,dl.steam.ksyna.com
 DOMAIN,dl.steam.clngaa.com
+DOMAIN,assets2.xboxlive.cn
+DOMAIN,assets1.xboxlive.cn
 DOMAIN,www.layuicdn.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,cdn.bootcss.com
@@ -91,6 +93,7 @@ DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,paypalobjects.com
 DOMAIN-SUFFIX,paypal.com
+DOMAIN-SUFFIX,pdl.wow.battlenet.com.cn
 DOMAIN-SUFFIX,push.sogou.com
 DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,pps.tv
@@ -108,8 +111,6 @@ DOMAIN-SUFFIX,weico.cc
 DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibo.cn
-DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,whatismyip.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,toutiaovod.com
@@ -132,6 +133,7 @@ DOMAIN-SUFFIX,tencent.com.cn
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,shyhhema.com
 DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,snssdk.com
@@ -140,6 +142,7 @@ DOMAIN-SUFFIX,snapdrop.net
 DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,scomper.me
+DOMAIN-SUFFIX,s-reader.com
 DOMAIN-SUFFIX,seafile.com
 DOMAIN-SUFFIX,sevencdn.com
 DOMAIN-SUFFIX,staticfile.org
@@ -157,11 +160,6 @@ DOMAIN-SUFFIX,sohu-inc.com
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,sina.com.cn
 DOMAIN-SUFFIX,sina.cn
-DOMAIN-SUFFIX,shyhhema.com
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,sfx.ms
-DOMAIN-SUFFIX,s-reader.com
-DOMAIN-SUFFIX,s-microsoft.com
 DOMAIN-SUFFIX,saxyit.com
 DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,uczzd.cn
@@ -298,7 +296,6 @@ DOMAIN-SUFFIX,realmemobile.com
 DOMAIN-SUFFIX,realmebbs.com
 DOMAIN-SUFFIX,realme.com
 DOMAIN-SUFFIX,ourdvs.com
-DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,oneplusbbs.com
 DOMAIN-SUFFIX,oneplus.cn
 DOMAIN-SUFFIX,opstatics.com
@@ -315,19 +312,15 @@ DOMAIN-SUFFIX,netstatic.net
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,neixin.cn
 DOMAIN-SUFFIX,nearme.com.cn
-DOMAIN-SUFFIX,mmstat.com
-DOMAIN-SUFFIX,mxhichina.com
-DOMAIN-SUFFIX,mubu.com
-DOMAIN-SUFFIX,mobike.com
-DOMAIN-SUFFIX,msftncsi.com
-DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,mifile.cn
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
-DOMAIN-SUFFIX,microsoftstore.com.cn
-DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,mxhichina.com
+DOMAIN-SUFFIX,mubu.com
+DOMAIN-SUFFIX,mobike.com
 DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mtyun.com
 DOMAIN-SUFFIX,maoyun.tv
@@ -388,6 +381,7 @@ DOMAIN-SUFFIX,camera360.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cainiao.com.cn
 DOMAIN-SUFFIX,cailianpress.com
+DOMAIN-SUFFIX,cdn.ubionline.com.cn
 DOMAIN-SUFFIX,chushou.tv
 DOMAIN-SUFFIX,chunyu.mobi
 DOMAIN-SUFFIX,chuimg.com
@@ -401,6 +395,7 @@ DOMAIN-SUFFIX,ccgslb.net
 DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,cctv.com
+DOMAIN-SUFFIX,content.steamchina.com
 DOMAIN-SUFFIX,com-hs-hkdy.com
 DOMAIN-SUFFIX,coloros.com
 DOMAIN-SUFFIX,volccdn.com
@@ -461,7 +456,6 @@ DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-KEYWORD,amplifi
-DOMAIN-KEYWORD,officecdn
 PROCESS-NAME,WeCom
 PROCESS-NAME,WeChat
 ################## EOF ##################

@@ -129,6 +129,7 @@ SUFFIX,fury.io
 SUFFIX,gate.io
 SUFFIX,ghcr.io
 SUFFIX,gitv.tv
+SUFFIX,gnu.org
 SUFFIX,hbg.com
 SUFFIX,hbo.com
 SUFFIX,himg.nl
