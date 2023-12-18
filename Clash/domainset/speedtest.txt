@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-12-18T10:05:35.648Z
-# Size: 874
+# Last Updated: 2023-12-18T12:31:54.350Z
+# Size: 876
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -172,6 +172,7 @@ speedtest.maryno.net
 speedtest-stf.megafon.ru
 +.speed.misaka.one
 speedtest.mosline.ru
+teste.mov.pro.br
 speedtest.myarena.ru
 speedtest.netrack.ru
 mirror.nforce.com
@@ -241,7 +242,6 @@ speedtest.tay.net.tr
 speedtest.tcenter.ru
 t4y-tor-sts1.ser.tek4you.ca
 speedtestlondon.telecom.mu
-sy.tjtele.com
 speedtest.toob.co.uk
 speedtest.mia.upx.net.br
 +.speedtest.warian.net
@@ -260,7 +260,6 @@ speedtest.anksoft.net
 spt-nyc.as13786.net
 speedtest1-sttlwawb.as20055.net
 speedtest-ookla-par.as62000.net
-speedtest1.axes.com.br
 speedtest.bmcc.com.cn
 spt1.bsnlive.net
 speedtest-1.compute.dc1.cilix.cloud
@@ -388,6 +387,7 @@ sjdm-speedtest.globe.com.ph
 speed.golddata.net
 speedtest.helpmert.com
 speedtest.syd.infininet.au
+velocimetrostm.interlig.net
 speedtest.ixirhost.com
 speedtest.eu.kamatera.com
 speedtest.eu-lo.kamatera.com
@@ -509,6 +509,7 @@ speedtest.citytelecom.ru
 lon-hex-speedtest.cloudconnx.net
 +.speed.cloudflare.com
 speedtest.datafex.com.tr
+hizbolu.durunet.com.tr
 hizaydin.durunet.com.tr
 hizbursa.durunet.com.tr
 hizduzce.durunet.com.tr
@@ -591,9 +592,9 @@ speedtest.xcdtelecom.com
 speedtest.yless4u.com.au
 speedtest.airfiber.com.tr
 speedtest.airlink.network
-speedtest.bursabil.com.tr
 +.speedtest.centurylink.net
 speedtest.hk.chinamobile.com
+speedtest1.gs.chinamobile.com
 speedtest1.sc.chinamobile.com
 speedtestbb.hk.chinamobile.com
 speedtest.datacasa.com.tr
@@ -642,7 +643,6 @@ speedtest-townsville-qld.optusnet.com.au
 speedtest-limestonecoast-sa.optusnet.com.au
 speedtest.orixinet.com.br
 speedtest.packetworks.net
-speedtest.portalnt.com.br
 speedtest-obd.redeconecta.com
 speedtest.rekornet.com.tr
 speedtest-tx-da2.scalematrix.com
@@ -769,7 +769,9 @@ speedtest.wbstelecom.com.br
 speedtest-paris.whiteprovider.net
 speedtestsantarem.zumtelecom.com.br
 ookla.actionevoce.com.br
+miami.speedtest.angolacables.co.ao
 londres.speedtest.angolacables.co.ao
+newyork.speedtest.angolacables.co.ao
 speedtest1.atlantisnet.com.tr
 speedtest.belairinternet.com
 speedtest.boxbroadband.co.uk
@@ -779,6 +781,7 @@ sp1.fiberlinkce.com.br
 sy5.test.gslnetworks.com.au
 me1.speedtest.gslnetworks.com.au
 speedtest.internetbolaget.nu
+speedtest.isppapagaio.com.br
 speedtest.newberlinfiber.net
 ookla.ddnsgeek.com
 bne-speed.overthewire.com.au
@@ -828,7 +831,6 @@ ookla.araujotelecom.com.br
 miami.getstreamhosting.com
 speedtest.getstreamhosting.com
 velocidade.idnetttelecom.com.br
-speedtest.infowayconect.com.br
 speedtest-sydney.macquarietelecom.com
 speedtest-brisbane.macquarietelecom.com
 speedtest-melbourne.macquarietelecom.com
