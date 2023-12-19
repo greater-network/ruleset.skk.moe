@@ -1,6 +1,6 @@
 <?php
 
-// Build 2023-12-19T10:38:05.627Z
+// Build 2023-12-19T12:30:24.275Z
 
 declare(strict_types=1);
 
@@ -2013,6 +2013,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,59.153.4.0/22,Domestic,no-resolve',
         'IP-CIDR,59.153.32.0/22,Domestic,no-resolve',
         'IP-CIDR,59.153.92.0/22,Domestic,no-resolve',
+        'IP-CIDR,59.153.168.0/23,Domestic,no-resolve',
         'IP-CIDR,59.172.0.0/14,Domestic,no-resolve',
         'IP-CIDR,59.191.0.0/17,Domestic,no-resolve',
         'IP-CIDR,60.0.0.0/11,Domestic,no-resolve',
@@ -2048,6 +2049,9 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,61.242.0.0/15,Domestic,no-resolve',
         'IP-CIDR,62.234.0.0/16,Domestic,no-resolve',
         'IP-CIDR,63.140.0.0/24,Domestic,no-resolve',
+        'IP-CIDR,64.188.38.0/23,Domestic,no-resolve',
+        'IP-CIDR,64.188.40.0/22,Domestic,no-resolve',
+        'IP-CIDR,64.188.44.0/23,Domestic,no-resolve',
         'IP-CIDR,66.102.240.0/21,Domestic,no-resolve',
         'IP-CIDR,66.102.248.0/22,Domestic,no-resolve',
         'IP-CIDR,66.102.255.0/24,Domestic,no-resolve',
@@ -2184,6 +2188,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.8.220.0/22,Domestic,no-resolve',
         'IP-CIDR,103.9.8.0/22,Domestic,no-resolve',
         'IP-CIDR,103.9.248.0/21,Domestic,no-resolve',
+        'IP-CIDR,103.10.0.0/22,Domestic,no-resolve',
         'IP-CIDR,103.10.84.0/22,Domestic,no-resolve',
         'IP-CIDR,103.12.184.0/22,Domestic,no-resolve',
         'IP-CIDR,103.12.232.0/22,Domestic,no-resolve',
@@ -2503,7 +2508,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.144.66.0/23,Domestic,no-resolve',
         'IP-CIDR,103.144.70.0/24,Domestic,no-resolve',
         'IP-CIDR,103.144.158.0/23,Domestic,no-resolve',
-        'IP-CIDR,103.145.42.0/23,Domestic,no-resolve',
+        'IP-CIDR,103.145.42.0/24,Domestic,no-resolve',
         'IP-CIDR,103.146.8.0/23,Domestic,no-resolve',
         'IP-CIDR,103.147.124.0/24,Domestic,no-resolve',
         'IP-CIDR,103.149.242.0/24,Domestic,no-resolve',
