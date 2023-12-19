@@ -283,7 +283,6 @@ natwest.com                                                                     
 njrrs.com                                                                                           13
 oferta-pay.net                                                                                      13
 oferta-payment.net                                                                                  13
-plsener.com                                                                                         13
 ru.com                                                                                              13
 samsclub.com                                                                                        13
 szczur.warszawa.pl                                                                                  13
@@ -315,7 +314,9 @@ mynavi.jp                                                                       
 opentraderxwe.com                                                                                   12
 orders8354.com                                                                                      12
 palladiumhotelgroup.com                                                                             12
+paypal-merchant.ru                                                                                  12
 phweditorial.com                                                                                    12
+plsener.com                                                                                         12
 pop6.com                                                                                            12
 powzers.lol                                                                                         12
 pwc.fr                                                                                              12
@@ -339,6 +340,7 @@ catapultx.com                                                                   
 cdiscount.com                                                                                       11
 com.ru                                                                                              11
 cresa.com                                                                                           11
+ddnss.eu                                                                                            11
 discovery.com                                                                                       11
 drygas.warszawa.pl                                                                                  11
 flazio.com                                                                                          11
