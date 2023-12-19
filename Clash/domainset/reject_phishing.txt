@@ -1,0 +1,11 @@
+#########################################
+# Sukka's Ruleset - Reject Phishing
+# Last Updated: 2023-12-19T15:12:27.919Z
+# Size: 0
+# License: AGPL 3.0
+# Homepage: https://ruleset.skk.moe
+# GitHub: https://github.com/SukkaW/Surge
+#
+# The file has been deprecated, its content has been merged into the main `reject` domainset.
+#########################################
+################## EOF ##################
