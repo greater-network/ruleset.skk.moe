@@ -1,109 +1,130 @@
-(function () {
-  'use strict';
-
-  const noopfn = function () {
-  };
-  //
-  const Gaq = function () {
-  };
-  Gaq.prototype.Na = noopfn;
-  Gaq.prototype.O = noopfn;
-  Gaq.prototype.Sa = noopfn;
-  Gaq.prototype.Ta = noopfn;
-  Gaq.prototype.Va = noopfn;
-  Gaq.prototype._createAsyncTracker = noopfn;
-  Gaq.prototype._getAsyncTracker = noopfn;
-  Gaq.prototype._getPlugin = noopfn;
-  Gaq.prototype.push = function (a) {
-    if (typeof a === 'function') {
-      a(); return;
+(function(source, args) {
+    function GoogleAnalyticsGa(source) {
+        function Gaq() {}
+        Gaq.prototype.Na = noopFunc;
+        Gaq.prototype.O = noopFunc;
+        Gaq.prototype.Sa = noopFunc;
+        Gaq.prototype.Ta = noopFunc;
+        Gaq.prototype.Va = noopFunc;
+        Gaq.prototype._createAsyncTracker = noopFunc;
+        Gaq.prototype._getAsyncTracker = noopFunc;
+        Gaq.prototype._getPlugin = noopFunc;
+        Gaq.prototype.push = function(data) {
+            if (typeof data === "function") {
+                data();
+                return;
+            }
+            if (Array.isArray(data) === false) {
+                return;
+            }
+            if (typeof data[0] === "string" && /(^|\.)_link$/.test(data[0]) && typeof data[1] === "string") {
+                window.location.assign(data[1]);
+            }
+            if (data[0] === "_set" && data[1] === "hitCallback" && typeof data[2] === "function") {
+                data[2]();
+            }
+        };
+        var gaq = new Gaq;
+        var asyncTrackers = window._gaq || [];
+        if (Array.isArray(asyncTrackers)) {
+            while (asyncTrackers[0]) {
+                gaq.push(asyncTrackers.shift());
+            }
+        }
+        window._gaq = gaq.qf = gaq;
+        function Gat() {}
+        var api = [ "_addIgnoredOrganic", "_addIgnoredRef", "_addItem", "_addOrganic", "_addTrans", "_clearIgnoredOrganic", "_clearIgnoredRef", "_clearOrganic", "_cookiePathCopy", "_deleteCustomVar", "_getName", "_setAccount", "_getAccount", "_getClientInfo", "_getDetectFlash", "_getDetectTitle", "_getLinkerUrl", "_getLocalGifPath", "_getServiceMode", "_getVersion", "_getVisitorCustomVar", "_initData", "_link", "_linkByPost", "_setAllowAnchor", "_setAllowHash", "_setAllowLinker", "_setCampContentKey", "_setCampMediumKey", "_setCampNameKey", "_setCampNOKey", "_setCampSourceKey", "_setCampTermKey", "_setCampaignCookieTimeout", "_setCampaignTrack", "_setClientInfo", "_setCookiePath", "_setCookiePersistence", "_setCookieTimeout", "_setCustomVar", "_setDetectFlash", "_setDetectTitle", "_setDomainName", "_setLocalGifPath", "_setLocalRemoteServerMode", "_setLocalServerMode", "_setReferrerOverride", "_setRemoteServerMode", "_setSampleRate", "_setSessionTimeout", "_setSiteSpeedSampleRate", "_setSessionCookieTimeout", "_setVar", "_setVisitorCookieTimeout", "_trackEvent", "_trackPageLoadTime", "_trackPageview", "_trackSocial", "_trackTiming", "_trackTrans", "_visitCode" ];
+        var tracker = api.reduce((function(res, funcName) {
+            res[funcName] = noopFunc;
+            return res;
+        }), {});
+        tracker._getLinkerUrl = function(a) {
+            return a;
+        };
+        tracker._link = function(url) {
+            if (typeof url !== "string") {
+                return;
+            }
+            try {
+                window.location.assign(url);
+            } catch (e) {
+                logMessage(source, e);
+            }
+        };
+        Gat.prototype._anonymizeIP = noopFunc;
+        Gat.prototype._createTracker = noopFunc;
+        Gat.prototype._forceSSL = noopFunc;
+        Gat.prototype._getPlugin = noopFunc;
+        Gat.prototype._getTracker = function() {
+            return tracker;
+        };
+        Gat.prototype._getTrackerByName = function() {
+            return tracker;
+        };
+        Gat.prototype._getTrackers = noopFunc;
+        Gat.prototype.aa = noopFunc;
+        Gat.prototype.ab = noopFunc;
+        Gat.prototype.hb = noopFunc;
+        Gat.prototype.la = noopFunc;
+        Gat.prototype.oa = noopFunc;
+        Gat.prototype.pa = noopFunc;
+        Gat.prototype.u = noopFunc;
+        var gat = new Gat;
+        window._gat = gat;
+        hit(source);
     }
-    if (Array.isArray(a) === false) { return; }
-    // https://developers.google.com/analytics/devguides/collection/gajs/methods/gaJSApiDomainDirectory#_gat.GA_Tracker_._link
-    if (
-      typeof a[0] === 'string'
-      && /(^|\.)_link$/.test(a[0])
-      && typeof a[1] === 'string'
-    ) {
-      try {
-        window.location.assign(a[1]);
-      } catch {
-      }
+    function hit(source) {
+        if (source.verbose !== true) {
+            return;
+        }
+        try {
+            var log = console.log.bind(console);
+            var trace = console.trace.bind(console);
+            var prefix = source.ruleText || "";
+            if (source.domainName) {
+                var AG_SCRIPTLET_MARKER = "#%#//";
+                var UBO_SCRIPTLET_MARKER = "##+js";
+                var ruleStartIndex;
+                if (source.ruleText.includes(AG_SCRIPTLET_MARKER)) {
+                    ruleStartIndex = source.ruleText.indexOf(AG_SCRIPTLET_MARKER);
+                } else if (source.ruleText.includes(UBO_SCRIPTLET_MARKER)) {
+                    ruleStartIndex = source.ruleText.indexOf(UBO_SCRIPTLET_MARKER);
+                }
+                var rulePart = source.ruleText.slice(ruleStartIndex);
+                prefix = "".concat(source.domainName).concat(rulePart);
+            }
+            log("".concat(prefix, " trace start"));
+            if (trace) {
+                trace();
+            }
+            log("".concat(prefix, " trace end"));
+        } catch (e) {}
+        if (typeof window.__debug === "function") {
+            window.__debug(source);
+        }
     }
-    if (a[0] === '_set' && a[1] === 'hitCallback' && typeof a[2] === 'function') {
-      a[2]();
+    function noopFunc() {}
+    function logMessage(source, message) {
+        var forced = arguments.length > 2 && arguments[2] !== undefined ? arguments[2] : false;
+        var convertMessageToString = arguments.length > 3 && arguments[3] !== undefined ? arguments[3] : true;
+        var name = source.name, verbose = source.verbose;
+        if (!forced && !verbose) {
+            return;
+        }
+        var nativeConsole = console.log;
+        if (!convertMessageToString) {
+            nativeConsole("".concat(name, ":"), message);
+            return;
+        }
+        nativeConsole("".concat(name, ": ").concat(message));
     }
-  };
-  //
-  const tracker = (function () {
-    const out = {};
-    const api = [
-      '_addIgnoredOrganic _addIgnoredRef _addItem _addOrganic',
-      '_addTrans _clearIgnoredOrganic _clearIgnoredRef _clearOrganic',
-      '_cookiePathCopy _deleteCustomVar _getName _setAccount',
-      '_getAccount _getClientInfo _getDetectFlash _getDetectTitle',
-      '_getLinkerUrl _getLocalGifPath _getServiceMode _getVersion',
-      '_getVisitorCustomVar _initData _linkByPost',
-      '_setAllowAnchor _setAllowHash _setAllowLinker _setCampContentKey',
-      '_setCampMediumKey _setCampNameKey _setCampNOKey _setCampSourceKey',
-      '_setCampTermKey _setCampaignCookieTimeout _setCampaignTrack _setClientInfo',
-      '_setCookiePath _setCookiePersistence _setCookieTimeout _setCustomVar',
-      '_setDetectFlash _setDetectTitle _setDomainName _setLocalGifPath',
-      '_setLocalRemoteServerMode _setLocalServerMode _setReferrerOverride _setRemoteServerMode',
-      '_setSampleRate _setSessionTimeout _setSiteSpeedSampleRate _setSessionCookieTimeout',
-      '_setVar _setVisitorCookieTimeout _trackEvent _trackPageLoadTime',
-      '_trackPageview _trackSocial _trackTiming _trackTrans',
-      '_visitCode'
-    ].join(' ').split(/\s+/);
-    for (const method of api) {
-      out[method] = noopfn;
+    const updatedArgs = args ? [].concat(source).concat(args) : [ source ];
+    try {
+        GoogleAnalyticsGa.apply(this, updatedArgs);
+    } catch (e) {
+        console.log(e);
     }
-    out._getLinkerUrl = function (a) {
-      return a;
-    };
-    // https://github.com/AdguardTeam/Scriptlets/issues/154
-    out._link = function (a) {
-      if (typeof a !== 'string') { return; }
-      try {
-        window.location.assign(a);
-      } catch {
-      }
-    };
-    return out;
-  }());
-  //
-  const Gat = function () {
-  };
-  Gat.prototype._anonymizeIP = noopfn;
-  Gat.prototype._createTracker = noopfn;
-  Gat.prototype._forceSSL = noopfn;
-  Gat.prototype._getPlugin = noopfn;
-  Gat.prototype._getTracker = function () {
-    return tracker;
-  };
-  Gat.prototype._getTrackerByName = function () {
-    return tracker;
-  };
-  Gat.prototype._getTrackers = noopfn;
-  Gat.prototype.aa = noopfn;
-  Gat.prototype.ab = noopfn;
-  Gat.prototype.hb = noopfn;
-  Gat.prototype.la = noopfn;
-  Gat.prototype.oa = noopfn;
-  Gat.prototype.pa = noopfn;
-  Gat.prototype.u = noopfn;
-  const gat = new Gat();
-  window._gat = gat;
-  //
-  const gaq = new Gaq();
-  (function () {
-    const aa = window._gaq || [];
-    if (Array.isArray(aa)) {
-      while (aa[0]) {
-        gaq.push(aa.shift());
-      }
-    }
-  }());
-  gaq.qf = gaq;
-  window._gaq = gaq;
-}());
+})({
+    name: "google-analytics-ga",
+    args: []
+}, []);
