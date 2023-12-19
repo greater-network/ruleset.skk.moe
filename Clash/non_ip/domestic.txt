@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2023-12-19T05:49:23.551Z
-# Size: 490
+# Last Updated: 2023-12-19T10:24:18.445Z
+# Size: 516
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -23,7 +23,10 @@ DOMAIN-SUFFIX,etao.com
 DOMAIN-SUFFIX,eudic.net
 DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,xycdn.com
+DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,xmcdn.com
+DOMAIN-SUFFIX,xhscdn.com
 DOMAIN-SUFFIX,xinhuanet.com
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xiami.net
@@ -34,6 +37,7 @@ DOMAIN-SUFFIX,xiaomiyoupin.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomi.cn
 DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xiaote.net
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,toutiaovod.com
@@ -54,7 +58,29 @@ DOMAIN-SUFFIX,taopiaopiao.com
 DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,takungpao.com
+DOMAIN-SUFFIX,tantanapp.com
 DOMAIN-SUFFIX,t.cn
+DOMAIN-SUFFIX,zuimeitianqi.com
+DOMAIN-SUFFIX,zdmimg.com
+DOMAIN-SUFFIX,zhangzs.com
+DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,zhihu.com
+DOMAIN-SUFFIX,zhuanzfx.com
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,yy.com
+DOMAIN-SUFFIX,yunpan.com
+DOMAIN-SUFFIX,yunpan.cn
+DOMAIN-SUFFIX,yunjiasu-cdn.net
+DOMAIN-SUFFIX,yuewen.com
+DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,yinxiang.com
+DOMAIN-SUFFIX,yangkeduo.com
+DOMAIN-SUFFIX,yximgs.com
+DOMAIN-SUFFIX,youku.com
+DOMAIN-SUFFIX,youdao.com
+DOMAIN-SUFFIX,yqkk.link
+DOMAIN-SUFFIX,ydstatic.com
+DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,wangsu.com
 DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,wegame.com
@@ -68,28 +94,17 @@ DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibo.com.cn
 DOMAIN-SUFFIX,weibo.cn
-DOMAIN-SUFFIX,zdmimg.com
-DOMAIN-SUFFIX,zhangzs.com
-DOMAIN-SUFFIX,zhimg.com
-DOMAIN-SUFFIX,zhihu.com
-DOMAIN-SUFFIX,zhuanzfx.com
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,yunpan.com
-DOMAIN-SUFFIX,yunpan.cn
-DOMAIN-SUFFIX,yunjiasu-cdn.net
-DOMAIN-SUFFIX,yuewen.com
-DOMAIN-SUFFIX,yinxiang.com
-DOMAIN-SUFFIX,yangkeduo.com
-DOMAIN-SUFFIX,youku.com
-DOMAIN-SUFFIX,youdao.com
-DOMAIN-SUFFIX,yqkk.link
-DOMAIN-SUFFIX,ydstatic.com
-DOMAIN-SUFFIX,yeah.net
+DOMAIN-SUFFIX,wpscdn.com
 DOMAIN-SUFFIX,koubei.com
 DOMAIN-SUFFIX,kkmh.com
 DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,kaiyanapp.com
+DOMAIN-SUFFIX,kugou.com
+DOMAIN-SUFFIX,kuaishouzt.com
+DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,ksosoft.com
+DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,jstarkan.com
 DOMAIN-SUFFIX,jdcdn.com
 DOMAIN-SUFFIX,jdcache.com
@@ -130,6 +145,7 @@ DOMAIN-SUFFIX,qichacha.com
 DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,pstatp.com
+DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,pdl.wow.battlenet.com.cn
 DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,pingan.com
@@ -138,10 +154,12 @@ DOMAIN-SUFFIX,pplive.com
 DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,pps.tv
 DOMAIN-SUFFIX,snssdk.com
+DOMAIN-SUFFIX,shifen.com
 DOMAIN-SUFFIX,shyhhema.com
-DOMAIN-SUFFIX,speedtest.cn
+DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,sspai.com
+DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,s-reader.com
@@ -168,12 +186,14 @@ DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,sina.com.cn
 DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,saxyit.com
+DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,udache.com
 DOMAIN-SUFFIX,luojilab.com
+DOMAIN-SUFFIX,leiniao.com
 DOMAIN-SUFFIX,laiqukankan.com
 DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,linkedin.cn
@@ -216,6 +236,7 @@ DOMAIN-SUFFIX,gtimg.com.cn
 DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-SUFFIX,gaode.com
 DOMAIN-SUFFIX,guoguo-app.com
+DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,geilicdn.com
 DOMAIN-SUFFIX,godic.net
 DOMAIN-SUFFIX,gov.cn
@@ -312,6 +333,7 @@ DOMAIN-SUFFIX,oppo.cn
 DOMAIN-SUFFIX,npmmirror.com
 DOMAIN-SUFFIX,nubia.cn
 DOMAIN-SUFFIX,netstatic.net
+DOMAIN-SUFFIX,netease.im
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,neixin.cn
 DOMAIN-SUFFIX,nearme.com.cn
@@ -329,6 +351,7 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,mifile.cn
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,mihoyo.com
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,migucloud.com
@@ -395,6 +418,7 @@ DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,cmbchina.cn
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmvideo.cn
+DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cntv.com.cn
 DOMAIN-SUFFIX,cntv.cn
 DOMAIN-SUFFIX,chushou.tv
@@ -427,6 +451,7 @@ DOMAIN-SUFFIX,v-56.com
 DOMAIN-SUFFIX,vmallres.com
 DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vip.com
+DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,vivo.com.cn
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,alipan.com
@@ -446,6 +471,7 @@ DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,autohome.com.cn
+DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,air-matters.com
