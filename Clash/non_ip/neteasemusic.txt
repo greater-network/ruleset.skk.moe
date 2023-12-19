@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Netease Music
-# Last Updated: 2023-12-11T02:32:42.808Z
+# Last Updated: 2023-12-19T05:49:23.652Z
 # Size: 2
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe

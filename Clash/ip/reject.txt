@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Anti Bogus Domain
-# Last Updated: 2023-12-11T02:32:44.781Z
+# Last Updated: 2023-12-19T05:49:26.041Z
 # Size: 175
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe

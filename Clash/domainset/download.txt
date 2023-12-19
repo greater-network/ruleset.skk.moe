@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2023-12-18T06:50:15.780Z
+# Last Updated: 2023-12-19T05:49:23.669Z
 # Size: 124
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe

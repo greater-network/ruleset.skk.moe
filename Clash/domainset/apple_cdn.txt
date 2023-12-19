@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Apple CDN
-# Last Updated: 2023-12-11T02:32:44.783Z
+# Last Updated: 2023-12-19T05:49:26.030Z
 # Size: 140
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe

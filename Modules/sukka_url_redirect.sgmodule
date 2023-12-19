@@ -1,5 +1,5 @@
 #!name=[Sukka] URL Redirect
-#!desc=Last Updated: 2023-12-11T02:32:42.698Z
+#!desc=Last Updated: 2023-12-19T05:49:23.552Z
 
 [MITM]
 hostname = %APPEND% gravatar.neworld.org, cdn.v2ex.com, cdnjs.loli.net, fonts.loli.net, gstatic.loli.net, themes.loli.net, ajax.loli.net, gravatar.loli.net, gapis.geekzu.org, fonts.geekzu.org, sdn.geekzu.org, cravatar.cn, seccdn.libravatar.org, ghproxy.com, ghps.cc, github.moeyy.xyz, use.sevencdn.com, raw.gitmirror.com, gist.gitmirror.com, raw.githubusercontents.com, gist.githubusercontents.com, cdn.gitmirror.com, raw.fastgit.org, assets.fastgit.org, fastly.jsdelivr.net, gcore.jsdelivr.net, jsdelivr.ops.ci, fonts.ops.ci, jsd.onmicrosoft.cn, npm.onmicrosoft.cn, cdnjs.onmicrosoft.cn, raw.kgithub.com, raw.kkgithub.com, pics.javbus.com, googlefonts.wp-china-yes.net, googleajax.wp-china-yes.net
