@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2023-12-19T10:24:18.445Z
-# Size: 516
+# Last Updated: 2023-12-19T10:37:57.593Z
+# Size: 517
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,etao.com
 DOMAIN-SUFFIX,eudic.net
 DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,xycloud.com
 DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,xunlei.com
 DOMAIN-SUFFIX,xmcdn.com

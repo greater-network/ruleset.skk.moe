@@ -1,6 +1,6 @@
 <?php
 
-// Build 2023-12-19T10:33:06.604Z
+// Build 2023-12-19T10:38:05.627Z
 
 declare(strict_types=1);
 
@@ -78,6 +78,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,eudic.net,Domestic',
         'DOMAIN-SUFFIX,eastmoney.com,Domestic',
         'DOMAIN-SUFFIX,edu.cn,Domestic',
+        'DOMAIN-SUFFIX,xycloud.com,Domestic',
         'DOMAIN-SUFFIX,xycdn.com,Domestic',
         'DOMAIN-SUFFIX,xunlei.com,Domestic',
         'DOMAIN-SUFFIX,xmcdn.com,Domestic',
