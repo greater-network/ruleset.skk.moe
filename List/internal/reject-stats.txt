@@ -2,8 +2,8 @@ firebaseapp.com                                                                 
 web.app                                                                                             2109
 cf-ipfs.com                                                                                         1513
 page.link                                                                                           1468
-r2.dev                                                                                              1428
-cloudfront.net                                                                                      1134
+r2.dev                                                                                              1427
+cloudfront.net                                                                                      1135
 workers.dev                                                                                         913
 b2bmktg.com                                                                                         448
 pages.dev                                                                                           357
@@ -68,8 +68,8 @@ youku.com                                                                       
 lumindigitalhosting.com                                                                             49
 dramaririnaldi.com                                                                                  48
 espmp-agfr.net                                                                                      47
-microsoft.com                                                                                       46
 sina.com.cn                                                                                         46
+microsoft.com                                                                                       45
 miui.com                                                                                            45
 quickmarketnow.me                                                                                   44
 ebeenj.com                                                                                          43
@@ -119,9 +119,9 @@ total.fr                                                                        
 aleragroup.com                                                                                      28
 hoster-test.ru                                                                                      28
 mhi.co.jp                                                                                           28
-terbaru-2023.com                                                                                    28
 ebutudan.com                                                                                        27
 mystrikingly.com                                                                                    27
+terbaru-2023.com                                                                                    27
 vodafone.com                                                                                        27
 windows.net                                                                                         27
 akamaihd.net                                                                                        26
@@ -316,7 +316,6 @@ orders8354.com                                                                  
 palladiumhotelgroup.com                                                                             12
 paypal-merchant.ru                                                                                  12
 phweditorial.com                                                                                    12
-plsener.com                                                                                         12
 pop6.com                                                                                            12
 powzers.lol                                                                                         12
 pwc.fr                                                                                              12
@@ -368,6 +367,7 @@ opentext.com                                                                    
 optum.com                                                                                           11
 playstation.com                                                                                     11
 playstation.net                                                                                     11
+plsener.com                                                                                         11
 pyjamahr.com                                                                                        11
 realmadrid.com                                                                                      11
 sapo.pt                                                                                             11
