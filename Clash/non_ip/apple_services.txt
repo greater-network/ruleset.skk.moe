@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Apple Domains
-# Last Updated: 2023-12-19T15:12:27.905Z
-# Size: 18
+# Last Updated: 2023-12-20T04:06:37.578Z
+# Size: 26
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -25,5 +25,13 @@ DOMAIN-SUFFIX,apple-mapkit.com
 DOMAIN-SUFFIX,apple-cloudkit.com
 DOMAIN-SUFFIX,apple-dns.net
 DOMAIN-SUFFIX,aaplimg.com
+PROCESS-NAME,WeatherWidget
+PROCESS-NAME,CoreLocationAgent
+PROCESS-NAME,findmydevice-user-agent
+PROCESS-NAME,fmfd
+PROCESS-NAME,mapspushd
+PROCESS-NAME,com.apple.Maps
 PROCESS-NAME,com.apple.geod
+PROCESS-NAME,netbiosd
+PROCESS-NAME,trustd
 ################## EOF ##################
