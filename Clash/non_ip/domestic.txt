@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2023-12-20T04:06:37.448Z
-# Size: 531
+# Last Updated: 2023-12-21T05:21:56.155Z
+# Size: 535
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -228,6 +228,8 @@ DOMAIN-SUFFIX,bilibilipay.cn
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.cn
+DOMAIN-SUFFIX,bh3.com
+DOMAIN-SUFFIX,benghuai.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdatu.com
@@ -363,7 +365,9 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,mifile.cn
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miyoushe.com
 DOMAIN-SUFFIX,mihoyo.com
+DOMAIN-SUFFIX,mihayo.com
 DOMAIN-SUFFIX,miguvideo.com
 DOMAIN-SUFFIX,migu.cn
 DOMAIN-SUFFIX,migucloud.com

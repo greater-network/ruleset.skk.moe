@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2023-12-21T04:44:36.450Z
+// # Build 2023-12-21T05:22:01.132Z
 
 declare(strict_types=1);
 
@@ -283,6 +283,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,bilibili.tv,Domestic',
         'DOMAIN-SUFFIX,bilibili.com,Domestic',
         'DOMAIN-SUFFIX,bilibili.cn,Domestic',
+        'DOMAIN-SUFFIX,bh3.com,Domestic',
+        'DOMAIN-SUFFIX,benghuai.com,Domestic',
         'DOMAIN-SUFFIX,bdimg.com,Domestic',
         'DOMAIN-SUFFIX,bdstatic.com,Domestic',
         'DOMAIN-SUFFIX,bdatu.com,Domestic',
@@ -418,7 +420,9 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,mifile.cn,Domestic',
         'DOMAIN-SUFFIX,mi-img.com,Domestic',
         'DOMAIN-SUFFIX,mi.com,Domestic',
+        'DOMAIN-SUFFIX,miyoushe.com,Domestic',
         'DOMAIN-SUFFIX,mihoyo.com,Domestic',
+        'DOMAIN-SUFFIX,mihayo.com,Domestic',
         'DOMAIN-SUFFIX,miguvideo.com,Domestic',
         'DOMAIN-SUFFIX,migu.cn,Domestic',
         'DOMAIN-SUFFIX,migucloud.com,Domestic',
@@ -832,6 +836,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,wunderlist.com,Microsoft & Apple',
         'DOMAIN-SUFFIX,yammer.com,Microsoft & Apple',
         'DOMAIN-SUFFIX,yammerusercontent.com,Microsoft & Apple',
+        'DOMAIN,api.smoot.apple.cn,Microsoft & Apple',
+        'DOMAIN-SUFFIX,push-apple.com.akadns.net,Microsoft & Apple',
         'DOMAIN-SUFFIX,organicfruitapps.com,Microsoft & Apple',
         'DOMAIN-SUFFIX,me.com,Microsoft & Apple',
         'DOMAIN-SUFFIX,itunes.com,Microsoft & Apple',
