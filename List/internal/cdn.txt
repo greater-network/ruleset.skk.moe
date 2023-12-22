@@ -170,6 +170,7 @@ SUFFIX,nyt.com
 SUFFIX,o0o.ooo
 SUFFIX,okx.com
 SUFFIX,orz.uno
+SUFFIX,osm.org
 SUFFIX,ovh.net
 SUFFIX,pbs.org
 SUFFIX,picb.cc
@@ -1312,6 +1313,7 @@ SUFFIX,linuxmint.com
 SUFFIX,lowendbox.com
 SUFFIX,macrumors.com
 SUFFIX,mailchimp.com
+SUFFIX,mediafire.com
 SUFFIX,memberful.com
 SUFFIX,messenger.com
 SUFFIX,microsoft.com
