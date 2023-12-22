@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-12-22T09:39:28.354Z
-# Size: 872
+# Last Updated: 2023-12-22T09:59:29.397Z
+# Size: 868
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -68,8 +68,6 @@ speedtest.inoc.net
 speedtest.itel.com
 40gspeedtest.mnsi.net
 snjscarc-speed01.nwrd.net
-wh-netspeed.nwtel.ca
-yk-netspeed.nwtel.ca
 speedtest01.o-net.ca
 speedtest.race.com
 speedtest-ams.retn.net
@@ -191,6 +189,7 @@ mirror.nforce.com
 sp-de.nuxt.cloud
 handa.pcknob.com
 boluspeedtest.posive.net
+usakspeedtest.posive.net
 bursaspeedtest.posive.net
 duzcespeedtest.posive.net
 izmirspeedtest.posive.net
@@ -208,7 +207,6 @@ kastamonuspeedtest.posive.net
 kirklarelispeedtest.posive.net
 speedtest-de.pq.hosting
 speedtest-ru.pq.hosting
-speedtest.quadro.net
 speedtest2.rhitcr.com
 stlondon.rogers.com
 sttoronto.rogers.com
@@ -250,6 +248,7 @@ dpop.yondoo.com
 speedtest02a.web.zen.net.uk
 speedtest.139play.com
 speedtest.5x5tele.com
+speedtest.alastyr.com
 speedtest.anksoft.net
 +.speedtest.aptg.com.tw
 spt-nyc.as13786.net
@@ -425,7 +424,6 @@ speedtest.10line.com.tr
 speedtest.2etelekom.com
 speedtest.45networks.ca
 nt-drwn-speedtest.aarnet.net.au
-sa-prka-speedtest.aarnet.net.au
 act-dksn-speedtest.aarnet.net.au
 nsw-brwy-speedtest.aarnet.net.au
 tas-dwpk-speedtest.aarnet.net.au
@@ -629,6 +627,7 @@ sp1.logicpro.com.br
 speed.mpvnetworks.com
 speedtest.omegasul.com.br
 +.ooklaserver.net
+speedtest-adl.optusnet.com.au
 speedtest-bla.optusnet.com.au
 speedtest-bri.optusnet.com.au
 speedtest-ebw.optusnet.com.au
@@ -656,7 +655,6 @@ izmir.verinomidns.com
 istanbul.verinomidns.com
 +.speedtest.vodafone.com.au
 speedtest3.vodafone.com.tr
-speedtest8.vodafone.com.tr
 speedtest2.voicehost.co.uk
 speedtest.wifitelekom.com
 speedtest.actelecom.com.br
@@ -745,7 +743,6 @@ speedtest-sjc.dish-wireless.com
 teste.easytecham.com.br
 velocidade.exytelecom.com.br
 spd-01.thn.fullfibre.systems
-speedtest.hearstconnect.com
 teste.jlatelecom.com.br
 speedtest.myrepublic.com.sg
 velocimetro.proveinter.com.br
@@ -757,6 +754,7 @@ ookla-speedtest.starverse.network
 velocimetro.superwiffi.com.br
 speedtest.suppcenter.global
 hkthspeedtest02.telstraglobal.net
+test.turuncunet.com.tr
 speedtest.unitelecom.net.br
 velocidade.vlctelecom.com.br
 speedtest-paris.whiteprovider.net
@@ -796,7 +794,6 @@ esk1speedtest.turktelekom.com.tr
 gay1speedtest.turktelekom.com.tr
 geb1speedtest.turktelekom.com.tr
 gun1speedtest.turktelekom.com.tr
-sam1speedtest.turktelekom.com.tr
 umr1speedtest.turktelekom.com.tr
 speedtest.unlimitedfiber.com
 speedtest.voip-unlimited.net
@@ -818,7 +815,6 @@ speed.smartselects.online
 st-izmir-1.turksatkablo.com.tr
 st-atakoy-1.turksatkablo.com.tr
 st-manisa-1.turksatkablo.com.tr
-st-samsun-1.turksatkablo.com.tr
 st-yalova-1.turksatkablo.com.tr
 st-tekirdag-1.turksatkablo.com.tr
 st-balikesir-1.turksatkablo.com.tr
@@ -855,13 +851,13 @@ speedtest.extremanetwork.com.br
 teste.freedomnetwork.net.br
 st2.barquisimeto.intercomservicios.com
 speedtest.japanettelecom.com.br
+speedtest1.kablosuzonline.com.tr
 speedtest2.lightningfibre.net.uk
 speedteste.newsolutionnet.com.br
 speedtest.sea.accretive-networks.net
 speedtest.albatroznetwork.com.br
 ookla.amazoniasat-isp.com.br
 velocidade.amazoniatelecom.com.br
-speed.ade.aussiebroadband.com.au
 speed.bne.aussiebroadband.com.au
 speed.mel.aussiebroadband.com.au
 speed.syd.aussiebroadband.com.au
