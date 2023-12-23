@@ -1708,6 +1708,7 @@ SUFFIX,ktachibana.party
 SUFFIX,lemonsqueezy.com
 SUFFIX,line-apps-rc.com
 SUFFIX,liuxingbaoyu.xyz
+SUFFIX,louisvuitton.com
 SUFFIX,madewithcode.com
 SUFFIX,manageengine.com
 SUFFIX,media-amazon.com
