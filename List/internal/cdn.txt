@@ -1101,6 +1101,7 @@ SUFFIX,hcaptcha.com
 SUFFIX,heysavvy.com
 SUFFIX,hiftporn.fun
 SUFFIX,himalaya.com
+SUFFIX,iboysoft.com
 SUFFIX,ibyteimg.com
 SUFFIX,imagebam.com
 SUFFIX,imghaste.com
@@ -1290,6 +1291,7 @@ SUFFIX,hbogoasia.com
 SUFFIX,hbomaxcdn.com
 SUFFIX,headwayapp.co
 SUFFIX,helpjuice.com
+SUFFIX,hillwaver.com
 SUFFIX,hjholdings.jp
 SUFFIX,homedepot.com
 SUFFIX,ibytedtos.com

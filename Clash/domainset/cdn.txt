@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-12-23T17:55:41.926Z
-# Size: 1765
+# Last Updated: 2023-12-24T08:45:54.871Z
+# Size: 1766
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1756,6 +1756,7 @@ assets.prowritingaid.com
 +.myavlive.com
 +.avdocker.com
 +.teraboxcdn.com
+v.hillwaver.com
 static2.avg.com
 +.simplecastcdn.com
 wimg.rule34.xxx
