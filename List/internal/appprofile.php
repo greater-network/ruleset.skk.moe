@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2023-12-24T10:45:23.402Z
+// # Build 2023-12-24T16:21:50.080Z
 
 declare(strict_types=1);
 
@@ -1338,6 +1338,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,perplexity.ai,Global',
         'DOMAIN-SUFFIX,periscope.tv,Global',
         'DOMAIN-SUFFIX,voachinese.com,Global',
+        'DOMAIN-SUFFIX,vercel.app,Global',
         'DOMAIN-SUFFIX,vivaldi.com,Global',
         'DOMAIN-SUFFIX,viber.com,Global',
         'DOMAIN-SUFFIX,vimeo.com,Global',

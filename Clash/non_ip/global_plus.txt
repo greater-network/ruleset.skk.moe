@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Enhanced Global Services
-# Last Updated: 2023-12-19T15:12:27.913Z
-# Size: 262
+# Last Updated: 2023-12-24T16:21:48.124Z
+# Size: 263
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -98,6 +98,7 @@ DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,voachinese.com
+DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,viber.com
 DOMAIN-SUFFIX,vimeo.com
