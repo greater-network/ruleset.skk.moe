@@ -331,6 +331,7 @@ SUFFIX,t66y.com
 SUFFIX,time.com
 SUFFIX,tmdb.org
 SUFFIX,twimg.co
+SUFFIX,unpkg.co
 SUFFIX,user.com
 SUFFIX,v2ex.com
 SUFFIX,via0.com
@@ -690,6 +691,7 @@ SUFFIX,pagefly.io
 SUFFIX,parsec.app
 SUFFIX,paypal.com
 SUFFIX,pcloud.com
+SUFFIX,pexels.com
 SUFFIX,phncdn.com
 SUFFIX,pinimg.com
 SUFFIX,pixhost.to
@@ -931,6 +933,7 @@ SUFFIX,perfops.net
 SUFFIX,permaweb.io
 SUFFIX,phprcdn.com
 SUFFIX,pixabay.com
+SUFFIX,pngmart.com
 SUFFIX,polyfill.io
 SUFFIX,pornhub.com
 SUFFIX,pornimg.xyz
@@ -1183,6 +1186,7 @@ SUFFIX,smassets.net
 SUFFIX,snap-dev.net
 SUFFIX,snapchat.com
 SUFFIX,snipaste.com
+SUFFIX,stickpng.com
 SUFFIX,substack.com
 SUFFIX,tdesktop.com
 SUFFIX,telegram.dog
@@ -1824,6 +1828,7 @@ SUFFIX,line-apps-beta.com
 SUFFIX,linefriends.com.tw
 SUFFIX,microsoftemail.com
 SUFFIX,oaiusercontent.com
+SUFFIX,onlinewebfonts.com
 SUFFIX,opencollective.com
 SUFFIX,originprotocol.com
 SUFFIX,pornhubpremium.com
@@ -1914,6 +1919,7 @@ SUFFIX,firestore.googleapis.com
 SUFFIX,hubspotusercontent30.com
 SUFFIX,hubspotusercontent30.net
 SUFFIX,mycommerce.akamaized.net
+SUFFIX,viu-static.akamaized.net
 SUFFIX,creativajs.altervista.org
 SUFFIX,minecraft-server-list.com
 SUFFIX,mwf-service.akamaized.net
