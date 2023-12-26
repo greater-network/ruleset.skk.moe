@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-12-24T10:45:21.111Z
-# Size: 1775
+# Last Updated: 2023-12-26T09:41:54.377Z
+# Size: 1792
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -53,7 +53,10 @@ cdn.datatables.net
 code.highcharts.com
 cdn.plyr.io
 lib.arvancloud.com
++.proxy.ustclug.org
 cdn.tailwindcss.com
+cdn.mathjax.org
+cdn.embed.ly
 docs.rs
 godoc.org
 webpack.js.org
@@ -335,6 +338,9 @@ avatars.hubspot.net
 avatars.mds.yandex.net
 resize.yandex.net
 ysa-static.passport.yandex.net
+avatars.dzeninfra.ru
+s3.dzeninfra.ru
+static.dzeninfra.ru
 +.cms.replit.com
 +.cdn.replit.com
 sp.replit.com
@@ -421,6 +427,8 @@ t4.picb.cc
 +.i.optimole.com
 assets.stickpng.com
 www.pngmart.com
+i.imgflip.com
++.iili.io
 www.datocms-assets.com
 images.pexels.com
 cdn.shopify.com
@@ -573,6 +581,7 @@ vice-prod.sdiapi.com
 sdk.snapkit.com
 cdn-edge.karte.io
 cdn.cxense.com
+static.klaviyo.com
 cdn-yotpo-images-production.yotpo.com
 img.announcekit.app
 cdn.announcekit.app
@@ -827,6 +836,7 @@ assets.video.yahoo.net
 yep.video.yahoo.com
 +.cdn.cookielaw.org
 cookie-cdn.cookiepro.com
+ajax.cloudflare.com
 static.dash.cloudflare.com
 info.cloudflare.com
 cf-assets.www.cloudflare.com
@@ -1183,6 +1193,7 @@ cdn.micro.blog
 avatars.micro.blog
 +.wikia.nocookie.net
 images.wikia.com
+assets.fastly.com
 services.linkfire.com
 static.assetlab.io
 linkstorage.linkfire.com
@@ -1783,4 +1794,10 @@ assets.humix.com
 static.mediafire.com
 player.louisvuitton.com
 viu-static.akamaized.net
+files.reg.ru
+img.reg.ru
+static-effect.reg.ru
++.espncdn.com
+cdn.matterhorn.app
+lumiere-a.akamaihd.net
 ################## EOF ##################

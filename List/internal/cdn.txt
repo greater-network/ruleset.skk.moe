@@ -85,6 +85,7 @@ SUFFIX,npm.im
 SUFFIX,plu.mx
 SUFFIX,ptt.cc
 SUFFIX,qy0.ru
+SUFFIX,reg.ru
 SUFFIX,rfi.fr
 SUFFIX,s7s.ai
 SUFFIX,tg.dev
@@ -138,6 +139,7 @@ SUFFIX,hulu.jp
 SUFFIX,hulu.tv
 SUFFIX,hulu.us
 SUFFIX,ign.com
+SUFFIX,iili.io
 SUFFIX,iina.io
 SUFFIX,ipfs.io
 SUFFIX,ipfs.yt
@@ -247,6 +249,7 @@ SUFFIX,dcard.tw
 SUFFIX,decoo.io
 SUFFIX,dmc.nico
 SUFFIX,dmca.com
+SUFFIX,embed.ly
 SUFFIX,etsy.com
 SUFFIX,evolv.ai
 SUFFIX,fb.watch
@@ -590,6 +593,8 @@ SUFFIX,dssott.com
 SUFFIX,envato.com
 SUFFIX,eroimg.net
 SUFFIX,eternum.io
+SUFFIX,fastly.com
+SUFFIX,fastly.net
 SUFFIX,feedly.com
 SUFFIX,flickr.com
 SUFFIX,fontbit.io
@@ -836,6 +841,7 @@ SUFFIX,easylist.to
 SUFFIX,ebayimg.com
 SUFFIX,elephas.app
 SUFFIX,els-cdn.com
+SUFFIX,espncdn.com
 SUFFIX,exp-tas.com
 SUFFIX,f-droid.org
 SUFFIX,filen-1.net
@@ -871,6 +877,7 @@ SUFFIX,hubspot.net
 SUFFIX,ibruce.info
 SUFFIX,ignimgs.com
 SUFFIX,imagekit.io
+SUFFIX,imgflip.com
 SUFFIX,imgsmail.ru
 SUFFIX,intercom.io
 SUFFIX,ipstack.com
@@ -888,6 +895,7 @@ SUFFIX,kaltura.com
 SUFFIX,kavin.rocks
 SUFFIX,kinsta.page
 SUFFIX,kktv.com.tw
+SUFFIX,klaviyo.com
 SUFFIX,ksyuncs.com
 SUFFIX,kym-cdn.com
 SUFFIX,linegame.jp
@@ -897,6 +905,7 @@ SUFFIX,livedoor.jp
 SUFFIX,ltyears.com
 SUFFIX,mailgun.com
 SUFFIX,material.io
+SUFFIX,mathjax.org
 SUFFIX,maxmind.com
 SUFFIX,meow.social
 SUFFIX,metamask.io
@@ -981,6 +990,7 @@ SUFFIX,typekit.net
 SUFFIX,ubembed.com
 SUFFIX,ubisoft.com
 SUFFIX,userapi.com
+SUFFIX,ustclug.org
 SUFFIX,utermux.dev
 SUFFIX,utteranc.es
 SUFFIX,viblast.com
@@ -1064,6 +1074,7 @@ SUFFIX,dicebear.com
 SUFFIX,discomax.com
 SUFFIX,dnsimple.com
 SUFFIX,dribbble.com
+SUFFIX,dzeninfra.ru
 SUFFIX,e-hentai.org
 SUFFIX,elsevier.com
 SUFFIX,engadget.com
@@ -1489,6 +1500,7 @@ SUFFIX,kinematiks.com
 SUFFIX,libravatar.org
 SUFFIX,linemobile.com
 SUFFIX,linemyshop.com
+SUFFIX,matterhorn.app
 SUFFIX,mayoclinic.org
 SUFFIX,mozilla.social
 SUFFIX,mypinata.cloud
@@ -1898,6 +1910,7 @@ SUFFIX,digitaloceanspaces.com
 SUFFIX,dropboxusercontent.com
 SUFFIX,firefoxusercontent.com
 SUFFIX,lineshoppingseller.com
+SUFFIX,lumiere-a.akamaihd.net
 SUFFIX,misskeyusercontent.com
 SUFFIX,screenshots.debian.net
 SUFFIX,skills-assets.pstmn.io

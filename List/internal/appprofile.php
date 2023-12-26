@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2023-12-24T16:21:50.080Z
+// # Build 2023-12-26T09:41:57.103Z
 
 declare(strict_types=1);
 
@@ -1445,6 +1445,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,flickr.com,Global',
         'DOMAIN-SUFFIX,feedly.com,Global',
         'DOMAIN-SUFFIX,fc2.com,Global',
+        'DOMAIN-SUFFIX,fastly.net,Global',
         'DOMAIN-SUFFIX,facebook-hardware.com,Global',
         'DOMAIN-SUFFIX,fbsbx.com,Global',
         'DOMAIN-SUFFIX,fbmessenger.com,Global',
@@ -4672,6 +4673,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,211.150.114.0/23,Domestic',
         'IP-CIDR,211.150.122.0/24,Domestic',
         'IP-CIDR,211.150.124.0/23,Domestic',
+        'IP-CIDR,211.150.128.0/24,Domestic',
         'IP-CIDR,211.151.0.0/16,Domestic',
         'IP-CIDR,211.152.0.0/17,Domestic',
         'IP-CIDR,211.152.192.0/22,Domestic',
@@ -4785,6 +4787,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,218.98.112.0/22,Domestic',
         'IP-CIDR,218.98.160.0/24,Domestic',
         'IP-CIDR,218.98.176.0/24,Domestic',
+        'IP-CIDR,218.98.208.0/21,Domestic',
         'IP-CIDR,218.104.0.0/15,Domestic',
         'IP-CIDR,218.106.0.0/16,Domestic',
         'IP-CIDR,218.107.0.0/18,Domestic',
@@ -4851,7 +4854,10 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,219.234.80.0/20,Domestic',
         'IP-CIDR,219.234.96.0/19,Domestic',
         'IP-CIDR,219.234.128.0/17,Domestic',
-        'IP-CIDR,219.235.0.0/17,Domestic',
+        'IP-CIDR,219.235.8.0/21,Domestic',
+        'IP-CIDR,219.235.16.0/20,Domestic',
+        'IP-CIDR,219.235.32.0/19,Domestic',
+        'IP-CIDR,219.235.64.0/18,Domestic',
         'IP-CIDR,219.235.128.0/20,Domestic',
         'IP-CIDR,219.235.144.0/21,Domestic',
         'IP-CIDR,219.235.192.0/23,Domestic',
