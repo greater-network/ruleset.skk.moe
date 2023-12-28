@@ -635,6 +635,7 @@ SUFFIX,imgbox.com
 SUFFIX,indazn.com
 SUFFIX,ip-api.com
 SUFFIX,irdeto.com
+SUFFIX,iterm2.com
 SUFFIX,javfree.me
 SUFFIX,javtxt.com
 SUFFIX,jing.rocks
@@ -1151,6 +1152,7 @@ SUFFIX,mokeedev.com
 SUFFIX,muscache.com
 SUFFIX,myavlive.com
 SUFFIX,myqcloud.com
+SUFFIX,namebeta.com
 SUFFIX,navattic.com
 SUFFIX,newsblur.com
 SUFFIX,nicehash.com
