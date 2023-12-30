@@ -133,6 +133,7 @@ cloudlets.zone                                                                  
 eliteoftokens.com                                                                                   21
 epinlock.com                                                                                        21
 globalsources.com                                                                                   21
+hicloud.com                                                                                         21
 hstn.me                                                                                             21
 intuit.com                                                                                          21
 m-shop.me                                                                                           21
@@ -142,7 +143,6 @@ cdn77.org                                                                       
 csb.app                                                                                             20
 dnsfordomains.ru                                                                                    20
 globaltradruv.com                                                                                   20
-hicloud.com                                                                                         20
 liveblog365.com                                                                                     20
 sohu.com                                                                                            20
 terbaru-2023.com                                                                                    20
