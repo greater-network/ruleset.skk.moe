@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-12-30T13:41:06.797Z
-# Size: 857
+# Last Updated: 2023-12-30T16:23:56.773Z
+# Size: 856
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -112,7 +112,7 @@ sanjoseiturbide.openti.mx
 speedtest.pendc.com
 speedtest.ph.net.tr
 speedtest-engine.primus.ca
-msk.speedtest.rascom.ru
++.speedtest.rascom.ru
 speedtest.reconn.ru
 speedtest.reycom.cr
 ookla.sh.com.tr
@@ -144,7 +144,7 @@ librarian.comstar.ru
 speedtestsvq01.comvive.es
 speedtest.coreix.net
 warp.cronon.net
-tr.speedtest.dchost.com
++.speedtest.dchost.com
 speed2.dg-sys.net
 speedtest01.dns-net.de
 ffm-01-ovpn.vpn.eseven.net
@@ -282,7 +282,7 @@ sg-speedtest.fast.net.id
 speedtest.fios.net.br
 speedtest.fynndows.de
 iperf.gakijken.nl
-london.speedtest.highnet.com
++.speedtest.highnet.com
 speedtest.host.com.tw
 speedtest1.indosat.com
 sp1.jump.net.uk
@@ -389,7 +389,7 @@ speedtest.ixirhost.com
 speedtest.eu.kamatera.com
 speedtest.eu-lo.kamatera.com
 speedtest.us-mi.kamatera.com
-ookla.speedtest.seattle.wa.limewave.net
++.speedtest.seattle.wa.limewave.net
 speedtest.linkchina.hk
 speedtest-1.litfibre.com
 m1speedtest1.m1net.com.sg
@@ -548,13 +548,14 @@ speedtest-lton.launtel.net.au
 speedtest.mel01.launtel.net.au
 speedtest.syd01.launtel.net.au
 +.speedtest.leaptel.com.au
++.backend.librespeed.org
 speedtest.localhosts.ltd
 speedtest.meerfarbig.net
 sig-speedtest.moratelindo.io
 f1.netfast.com.br
 speedtest.nextpertise.nl
 ookla.opticaltel.com
-knx.speedtest.optitel.com.au
++.speedtest.optitel.com.au
 speednld.phoenixnap.com
 speedsin.phoenixnap.com
 speedtest.pilotfiber.com
@@ -635,7 +636,7 @@ speedtest-tx-da2.scalematrix.com
 speed.lax-1.serverforge.org
 speed1.yyz-1.serverforge.org
 speedtest.softether.co.jp
-test.speednet.net.tr
++.speednet.net.tr
 speedtest.springfibre.com
 speedtest-ndb1.tasmanet.com.au
 speedtest-ndm1.tasmanet.com.au
@@ -750,9 +751,7 @@ speedtest.wbstelecom.com.br
 speedtest-paris.whiteprovider.net
 speedtestsantarem.zumtelecom.com.br
 ookla.actionevoce.com.br
-miami.speedtest.angolacables.co.ao
-londres.speedtest.angolacables.co.ao
-newyork.speedtest.angolacables.co.ao
++.speedtest.angolacables.co.ao
 speedtest1.atlantisnet.com.tr
 speedtest.auratelecom.com.br
 speedtest.belairinternet.com
