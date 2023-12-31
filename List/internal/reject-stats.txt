@@ -3,11 +3,11 @@ web.app                                                                         
 cf-ipfs.com                                                                                         1515
 page.link                                                                                           1469
 r2.dev                                                                                              1440
-cloudfront.net                                                                                      1143
+cloudfront.net                                                                                      1141
 workers.dev                                                                                         964
 pages.dev                                                                                           403
 webcindario.com                                                                                     326
-blogspot.com                                                                                        297
+blogspot.com                                                                                        296
 wixsite.com                                                                                         294
 iocnt.de                                                                                            231
 start.page                                                                                          203
@@ -23,7 +23,7 @@ treker.fun                                                                      
 qq.com                                                                                              116
 webydo.com                                                                                          113
 eu5.net                                                                                             108
-github.io                                                                                           106
+github.io                                                                                           105
 vercel.app                                                                                          105
 llnw.net                                                                                            101
 trekkww.fun                                                                                         100
@@ -33,7 +33,7 @@ repl.co                                                                         
 xiaomi.com                                                                                          83
 trekkeeee.fun                                                                                       80
 fartit.com                                                                                          77
-amazonaws.com                                                                                       76
+amazonaws.com                                                                                       75
 msn.com                                                                                             70
 awicksin.com                                                                                        67
 godaddysites.com                                                                                    67
@@ -65,7 +65,7 @@ microsoft.com                                                                   
 oystergardens.club                                                                                  44
 quickmarketnow.me                                                                                   44
 kanuassociates.com                                                                                  43
-surge.sh                                                                                            43
+surge.sh                                                                                            42
 bankmillenium-pl.com                                                                                41
 dnsrobotuptime.ru                                                                                   39
 espmp-cufr.net                                                                                      39
@@ -138,7 +138,6 @@ intuit.com                                                                      
 m-shop.me                                                                                           21
 taplink.ws                                                                                          21
 b-cdn.net                                                                                           20
-cdn77.org                                                                                           20
 csb.app                                                                                             20
 dnsfordomains.ru                                                                                    20
 globaltradruv.com                                                                                   20
@@ -147,6 +146,7 @@ sohu.com                                                                        
 adp.ca                                                                                              19
 adpinfo.com                                                                                         19
 alimama.com                                                                                         19
+cdn77.org                                                                                           19
 gamemods.com.tr                                                                                     19
 happ.social                                                                                         19
 mcafee.com                                                                                          19
@@ -212,7 +212,6 @@ cisco.com                                                                       
 epoise.com                                                                                          14
 fc2.com                                                                                             14
 fleek.co                                                                                            14
-hostcontent.li                                                                                      14
 hotdoc.com.au                                                                                       14
 id-1771.me                                                                                          14
 id-76565.me                                                                                         14
