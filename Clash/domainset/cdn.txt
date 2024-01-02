@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-12-30T12:48:15.968Z
-# Size: 1795
+# Last Updated: 2024-01-02T14:53:07.995Z
+# Size: 1803
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -65,6 +65,7 @@ react.dev
 +.reactjs.org
 www.typescriptlang.org
 typescript.azureedge.net
+typescript.visualstudio.com
 +.rollupjs.org
 +.pnpm.io
 telemetry.nextjs.org
@@ -153,6 +154,7 @@ repo.nextdns.io
 oss-binaries.phusionpassenger.com
 release.runcloud.io
 curl.se
+plugins.dprint.dev
 s0.wp.com
 s1.wp.com
 s2.wp.com
@@ -281,6 +283,10 @@ amp.azure.net
 launchercontent.mojang.com
 +.catbox.moe
 share.riseup.net
++.file.io
++.tmpfiles.org
++.filebin.net
++.temp.sh
 uploads.codesandbox.io
 screenshots.codesandbox.io
 prod-packager-packages.codesandbox.io
@@ -430,6 +436,7 @@ assets.stickpng.com
 www.pngmart.com
 i.imgflip.com
 +.iili.io
++.imageban.ru
 www.datocms-assets.com
 images.pexels.com
 cdn.shopify.com
@@ -1803,4 +1810,5 @@ static-effect.reg.ru
 cdn.matterhorn.app
 lumiere-a.akamaihd.net
 static.namebeta.com
++.content001.bet365.com
 ################## EOF ##################

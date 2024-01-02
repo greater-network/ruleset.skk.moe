@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2023-12-20T04:06:37.481Z
+#!desc=Last Updated: 2024-01-02T14:53:07.912Z
 
 [Host]
 uc.cn = server:quic://223.6.6.6:853
@@ -10,6 +10,8 @@ alibaba.com = server:quic://223.6.6.6:853
 *.alibaba.com = server:quic://223.6.6.6:853
 alicdn.com = server:quic://223.6.6.6:853
 *.alicdn.com = server:quic://223.6.6.6:853
+alidns.com = server:quic://223.6.6.6:853
+*.alidns.com = server:quic://223.6.6.6:853
 aliimg.com = server:quic://223.6.6.6:853
 *.aliimg.com = server:quic://223.6.6.6:853
 aliyun.com = server:quic://223.6.6.6:853
@@ -346,6 +348,8 @@ shifen.com = server:180.76.76.76
 *.shifen.com = server:180.76.76.76
 jomodns.com = server:180.76.76.76
 *.jomodns.com = server:180.76.76.76
+bdydns.com = server:180.76.76.76
+*.bdydns.com = server:180.76.76.76
 qhimg.com = server:https://101.198.198.198/dns-query
 *.qhimg.com = server:https://101.198.198.198/dns-query
 qhimgs0.com = server:https://101.198.198.198/dns-query

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Enhanced Global Services
-# Last Updated: 2023-12-26T09:41:54.356Z
-# Size: 264
+# Last Updated: 2024-01-02T14:53:07.958Z
+# Size: 269
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kik.com
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kraken.com
@@ -114,6 +115,8 @@ DOMAIN-SUFFIX,xfinity.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,wsj.net
 DOMAIN-SUFFIX,wsj.com
+DOMAIN-SUFFIX,wp.com
+DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,wordpress.com
 DOMAIN-SUFFIX,wiktionary.org
 DOMAIN-SUFFIX,wikivoyage.org
@@ -218,11 +221,13 @@ DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,booklive.jp
+DOMAIN-SUFFIX,bet365.com
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,bibox.com
 DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,binance.me

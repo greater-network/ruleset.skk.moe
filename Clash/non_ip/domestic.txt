@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2023-12-21T05:21:56.155Z
-# Size: 535
+# Last Updated: 2024-01-02T14:53:07.809Z
+# Size: 548
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -91,9 +91,12 @@ DOMAIN-SUFFIX,kaiyanapp.com
 DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,ksmobile.com
 DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,ksosoft.com
 DOMAIN-SUFFIX,jomodns.com
+DOMAIN-SUFFIX,jianshu.io
+DOMAIN-SUFFIX,jianshu.com
 DOMAIN-SUFFIX,jstarkan.com
 DOMAIN-SUFFIX,jdcdn.com
 DOMAIN-SUFFIX,jdcache.com
@@ -203,14 +206,6 @@ DOMAIN-SUFFIX,weibo.com.cn
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,wpscdn.com
 DOMAIN-SUFFIX,wo.cn
-DOMAIN-SUFFIX,luojilab.com
-DOMAIN-SUFFIX,leiniao.com
-DOMAIN-SUFFIX,lagou.com
-DOMAIN-SUFFIX,laiqukankan.com
-DOMAIN-SUFFIX,lofter.com
-DOMAIN-SUFFIX,linkedin.cn
-DOMAIN-SUFFIX,livechina.com
-DOMAIN-SUFFIX,livechina.cn
 DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,bytecdn.cn
@@ -230,6 +225,7 @@ DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.cn
 DOMAIN-SUFFIX,bh3.com
 DOMAIN-SUFFIX,benghuai.com
+DOMAIN-SUFFIX,bdydns.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdatu.com
@@ -264,6 +260,7 @@ DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,igamecj.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,infinitynewtab.com
+DOMAIN-SUFFIX,ibreader.com
 DOMAIN-SUFFIX,ithome.com
 DOMAIN-SUFFIX,itc.cn
 DOMAIN-SUFFIX,iqiyipic.com
@@ -278,6 +275,16 @@ DOMAIN-SUFFIX,iconfont.cn
 DOMAIN-SUFFIX,icourse163.org
 DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,icloud.com.cn
+DOMAIN-SUFFIX,luojilab.com
+DOMAIN-SUFFIX,lagou.com
+DOMAIN-SUFFIX,laiqukankan.com
+DOMAIN-SUFFIX,lofter.com
+DOMAIN-SUFFIX,linkedin.cn
+DOMAIN-SUFFIX,livechina.com
+DOMAIN-SUFFIX,livechina.cn
+DOMAIN-SUFFIX,leiniao.com
+DOMAIN-SUFFIX,lenovo.com.cn
+DOMAIN-SUFFIX,lenovomm.com
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futu5.com
 DOMAIN-SUFFIX,freshhema.com
@@ -419,6 +426,9 @@ DOMAIN-SUFFIX,heytap.com
 DOMAIN-SUFFIX,h2os.com
 DOMAIN-SUFFIX,cibntv.net
 DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,csdnimg.cn
+DOMAIN-SUFFIX,csdn.net
+DOMAIN-SUFFIX,csdn.com
 DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,camera360.com
 DOMAIN-SUFFIX,cainiaoyizhan.com
@@ -482,6 +492,7 @@ DOMAIN-SUFFIX,aliyundrive.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliimg.com
+DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alibaba-inc.com
@@ -507,6 +518,8 @@ DOMAIN-SUFFIX,71.am.com
 DOMAIN-SUFFIX,58.com
 DOMAIN-SUFFIX,56.com
 DOMAIN-SUFFIX,52tesla.com
+DOMAIN-SUFFIX,51ctocdn.cn
+DOMAIN-SUFFIX,51cto.com
 DOMAIN-SUFFIX,4399.com
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,360webcache.com

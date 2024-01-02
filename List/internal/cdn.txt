@@ -125,6 +125,7 @@ SUFFIX,docs.rs
 SUFFIX,e4le.me
 SUFFIX,esm.run
 SUFFIX,fc2.com
+SUFFIX,file.io
 SUFFIX,fox.com
 SUFFIX,fury.io
 SUFFIX,gate.io
@@ -149,6 +150,7 @@ SUFFIX,itv.com
 SUFFIX,jbb.one
 SUFFIX,jpg.dog
 SUFFIX,jspm.io
+SUFFIX,kde.org
 SUFFIX,kik.com
 SUFFIX,kktv.me
 SUFFIX,kuku.lu
@@ -194,6 +196,7 @@ SUFFIX,snyk.io
 SUFFIX,spot.im
 SUFFIX,tawk.to
 SUFFIX,ted.com
+SUFFIX,temp.sh
 SUFFIX,toot.io
 SUFFIX,tuk.dev
 SUFFIX,tvb.com
@@ -553,6 +556,7 @@ SUFFIX,badgen.net
 SUFFIX,bbci.co.uk
 SUFFIX,bbthat.com
 SUFFIX,beeper.com
+SUFFIX,bet365.com
 SUFFIX,binance.cc
 SUFFIX,binance.me
 SUFFIX,binance.us
@@ -573,6 +577,7 @@ SUFFIX,chrome.com
 SUFFIX,cmx.edu.kg
 SUFFIX,codepen.io
 SUFFIX,concert.io
+SUFFIX,costco.com
 SUFFIX,cracked.io
 SUFFIX,cracked.to
 SUFFIX,crisp.chat
@@ -588,6 +593,7 @@ SUFFIX,dlsite.com
 SUFFIX,dns.google
 SUFFIX,docker.com
 SUFFIX,dotsrc.org
+SUFFIX,dprint.dev
 SUFFIX,drink.cafe
 SUFFIX,dssott.com
 SUFFIX,envato.com
@@ -649,6 +655,7 @@ SUFFIX,kernel.org
 SUFFIX,kinsta.com
 SUFFIX,koala.live
 SUFFIX,kraken.com
+SUFFIX,kucoin.com
 SUFFIX,linear.app
 SUFFIX,magic.link
 SUFFIX,mapbox.com
@@ -845,6 +852,7 @@ SUFFIX,els-cdn.com
 SUFFIX,espncdn.com
 SUFFIX,exp-tas.com
 SUFFIX,f-droid.org
+SUFFIX,filebin.net
 SUFFIX,filen-1.net
 SUFFIX,filen-2.net
 SUFFIX,filen-3.net
@@ -877,6 +885,7 @@ SUFFIX,hubspot.com
 SUFFIX,hubspot.net
 SUFFIX,ibruce.info
 SUFFIX,ignimgs.com
+SUFFIX,imageban.ru
 SUFFIX,imagekit.io
 SUFFIX,imgflip.com
 SUFFIX,imgsmail.ru
@@ -1208,6 +1217,7 @@ SUFFIX,telegram.org
 SUFFIX,testling.com
 SUFFIX,tildacdn.com
 SUFFIX,tinypass.com
+SUFFIX,tmpfiles.org
 SUFFIX,tokenview.io
 SUFFIX,tronscan.org
 SUFFIX,trysavvy.com
@@ -1312,6 +1322,7 @@ SUFFIX,helpjuice.com
 SUFFIX,hillwaver.com
 SUFFIX,hjholdings.jp
 SUFFIX,homedepot.com
+SUFFIX,hyperbeam.com
 SUFFIX,ibytedtos.com
 SUFFIX,imageshack.us
 SUFFIX,imgmrplay.xyz
@@ -1544,6 +1555,7 @@ SUFFIX,slideshare.net
 SUFFIX,smartholdem.io
 SUFFIX,solarwinds.com
 SUFFIX,soundcloud.com
+SUFFIX,sourceforge.io
 SUFFIX,south-plus.net
 SUFFIX,south-plus.org
 SUFFIX,spotify.design

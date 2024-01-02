@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2023-12-24T10:45:21.088Z
-# Size: 92
+# Last Updated: 2024-01-02T14:53:07.955Z
+# Size: 96
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,linkedin.at
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,xing.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,x.company
 DOMAIN-SUFFIX,wordtune.com
@@ -49,6 +50,7 @@ DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,waymo.com
 DOMAIN-SUFFIX,waveprotocol.org
 DOMAIN-SUFFIX,tiltbrush.com
+DOMAIN-SUFFIX,telegraph.co.uk
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,speedtestcustom.com
@@ -62,6 +64,7 @@ DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,majsoul.union-game.com
 DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,madewithcode.com
+DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,itasoftware.com
 DOMAIN-SUFFIX,gameloft.com
@@ -82,9 +85,10 @@ DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,debug.com
-DOMAIN-SUFFIX,codepen.io
-DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,codepen.io
+DOMAIN-SUFFIX,costco.com
+DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,chromium.org

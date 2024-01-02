@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2023-12-26T09:41:55.599Z
-# Size: 340
+# Last Updated: 2024-01-02T14:53:07.902Z
+# Size: 341
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,linodeobjects.com
 DOMAIN-SUFFIX,surge.sh
+DOMAIN-SUFFIX,sourceforge.io
 DOMAIN-SUFFIX,static.domains
 DOMAIN-SUFFIX,storage.yandexcloud.net
 DOMAIN-SUFFIX,s3-me-south-1.amazonaws.com
