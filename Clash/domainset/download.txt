@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-01-02T14:53:07.985Z
-# Size: 128
+# Last Updated: 2024-01-02T15:41:03.443Z
+# Size: 130
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -136,4 +136,6 @@ releases.grapheneos.org
 redstone-launcher.mojang.com
 download.iboysoft.com
 cdn.hyperbeam.com
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,download.epicgames.com
 ################## EOF ##################

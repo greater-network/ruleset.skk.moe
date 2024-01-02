@@ -1,15 +1,14 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-01-02T14:53:07.809Z
-# Size: 548
+# Last Updated: 2024-01-02T15:41:03.322Z
+# Size: 557
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains known addresses that are avaliable in the Mainland China.
 #########################################
-DOMAIN,dl.steam.ksyna.com
-DOMAIN,dl.steam.clngaa.com
+DOMAIN,xz.pphimalayanrt.com
 DOMAIN,assets2.xboxlive.cn
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,www.layuicdn.com
@@ -163,6 +162,12 @@ DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,s-reader.com
 DOMAIN-SUFFIX,sevencdn.com
+DOMAIN-SUFFIX,steamstatic.com.8686c.com
+DOMAIN-SUFFIX,steampowered.com.8686c.com
+DOMAIN-SUFFIX,steamchina.com
+DOMAIN-SUFFIX,steamcontent.tnkjmec.com
+DOMAIN-SUFFIX,steam.ksyna.com
+DOMAIN-SUFFIX,steam.clngaa.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,staticdn.net
 DOMAIN-SUFFIX,so.com
@@ -191,6 +196,8 @@ DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uc.cn
 DOMAIN-SUFFIX,udache.com
+DOMAIN-SUFFIX,wmsjsteam.com
+DOMAIN-SUFFIX,wmsj.cn
 DOMAIN-SUFFIX,wangsu.com
 DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,wegame.com
@@ -305,6 +312,9 @@ DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,dxycdn.com
 DOMAIN-SUFFIX,dxy.cn
 DOMAIN-SUFFIX,dfcfw.com
+DOMAIN-SUFFIX,dl.pinyuncloud.com
+DOMAIN-SUFFIX,dl.eccdnx.com
+DOMAIN-SUFFIX,dl.bscstorage.net
 DOMAIN-SUFFIX,dccnet.com.cn
 DOMAIN-SUFFIX,doh.pub
 DOMAIN-SUFFIX,docschina.org
@@ -471,7 +481,6 @@ DOMAIN-SUFFIX,coding.me
 DOMAIN-SUFFIX,coolapkmarket.net
 DOMAIN-SUFFIX,coolapkmarket.com
 DOMAIN-SUFFIX,coolapk.com
-DOMAIN-SUFFIX,content.steamchina.com
 DOMAIN-SUFFIX,coloros.com
 DOMAIN-SUFFIX,volccdn.com
 DOMAIN-SUFFIX,v-56.com

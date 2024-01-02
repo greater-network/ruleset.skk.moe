@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-01-02T14:53:09.425Z
+// # Build 2024-01-02T15:41:05.464Z
 
 declare(strict_types=1);
 
@@ -63,8 +63,7 @@ $_ENV['Clash_Group_Config'] = [
         ],
     ],
     'rules' => [
-        'DOMAIN,dl.steam.ksyna.com,Domestic',
-        'DOMAIN,dl.steam.clngaa.com,Domestic',
+        'DOMAIN,xz.pphimalayanrt.com,Domestic',
         'DOMAIN,assets2.xboxlive.cn,Domestic',
         'DOMAIN,assets1.xboxlive.cn,Domestic',
         'DOMAIN,www.layuicdn.com,Domestic',
@@ -218,6 +217,12 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,smzdm.com,Domestic',
         'DOMAIN-SUFFIX,s-reader.com,Domestic',
         'DOMAIN-SUFFIX,sevencdn.com,Domestic',
+        'DOMAIN-SUFFIX,steamstatic.com.8686c.com,Domestic',
+        'DOMAIN-SUFFIX,steampowered.com.8686c.com,Domestic',
+        'DOMAIN-SUFFIX,steamchina.com,Domestic',
+        'DOMAIN-SUFFIX,steamcontent.tnkjmec.com,Domestic',
+        'DOMAIN-SUFFIX,steam.ksyna.com,Domestic',
+        'DOMAIN-SUFFIX,steam.clngaa.com,Domestic',
         'DOMAIN-SUFFIX,staticfile.org,Domestic',
         'DOMAIN-SUFFIX,staticdn.net,Domestic',
         'DOMAIN-SUFFIX,so.com,Domestic',
@@ -246,6 +251,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ucweb.com,Domestic',
         'DOMAIN-SUFFIX,uc.cn,Domestic',
         'DOMAIN-SUFFIX,udache.com,Domestic',
+        'DOMAIN-SUFFIX,wmsjsteam.com,Domestic',
+        'DOMAIN-SUFFIX,wmsj.cn,Domestic',
         'DOMAIN-SUFFIX,wangsu.com,Domestic',
         'DOMAIN-SUFFIX,wegameplus.com,Domestic',
         'DOMAIN-SUFFIX,wegame.com,Domestic',
@@ -360,6 +367,9 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dxycdn.com,Domestic',
         'DOMAIN-SUFFIX,dxy.cn,Domestic',
         'DOMAIN-SUFFIX,dfcfw.com,Domestic',
+        'DOMAIN-SUFFIX,dl.pinyuncloud.com,Domestic',
+        'DOMAIN-SUFFIX,dl.eccdnx.com,Domestic',
+        'DOMAIN-SUFFIX,dl.bscstorage.net,Domestic',
         'DOMAIN-SUFFIX,dccnet.com.cn,Domestic',
         'DOMAIN-SUFFIX,doh.pub,Domestic',
         'DOMAIN-SUFFIX,docschina.org,Domestic',
@@ -526,7 +536,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,coolapkmarket.net,Domestic',
         'DOMAIN-SUFFIX,coolapkmarket.com,Domestic',
         'DOMAIN-SUFFIX,coolapk.com,Domestic',
-        'DOMAIN-SUFFIX,content.steamchina.com,Domestic',
         'DOMAIN-SUFFIX,coloros.com,Domestic',
         'DOMAIN-SUFFIX,volccdn.com,Domestic',
         'DOMAIN-SUFFIX,v-56.com,Domestic',
