@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-01-02T14:53:07.995Z
-# Size: 1803
+# Last Updated: 2024-01-03T03:39:03.049Z
+# Size: 1806
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -270,6 +270,9 @@ images.ecomm.microsoft.com
 +.assets-yammer.com
 +.edgestorewebcdn.azureedge.net
 img-s-msn-com.akamaized.net
+edge-mobile-static.azureedge.net
+xpaywalletcdn.azureedge.net
+edge-consumer-static.azureedge.net
 wcpstatic.microsoft.com
 statics-xbc-eas.xbox.com
 assets.xbox.com
