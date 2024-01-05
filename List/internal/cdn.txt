@@ -1836,6 +1836,7 @@ SUFFIX,walmartimages.com
 SUFFIX,webediamovies.pro
 SUFFIX,website-files.com
 SUFFIX,windowsreport.com
+SUFFIX,windowsupdate.com
 SUFFIX,youtubegaming.com
 SUFFIX,zdusercontent.com
 SUFFIX,zohowebstatic.com

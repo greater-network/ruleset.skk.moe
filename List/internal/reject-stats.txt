@@ -145,7 +145,6 @@ sohu.com                                                                        
 adp.ca                                                                                              19
 adpinfo.com                                                                                         19
 alimama.com                                                                                         19
-blogspot.sn                                                                                         19
 cdn77.org                                                                                           19
 gamemods.com.tr                                                                                     19
 gitbook.io                                                                                          19
@@ -207,7 +206,6 @@ zadn.vn                                                                         
 zaloapp.com                                                                                         15
 163.com                                                                                             14
 azureedge.net                                                                                       14
-blogspot.hu                                                                                         14
 cisco.com                                                                                           14
 epoise.com                                                                                          14
 fc2.com                                                                                             14
@@ -232,6 +230,7 @@ advance.net                                                                     
 alibaba.com                                                                                         13
 atsnx.com                                                                                           13
 averydennison.com                                                                                   13
+blogspot.hu                                                                                         13
 gcion.com                                                                                           13
 mi.com                                                                                              13
 myvipkontos.work                                                                                    13

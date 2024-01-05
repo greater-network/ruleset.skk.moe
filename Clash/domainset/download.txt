@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-01-03T03:39:03.042Z
-# Size: 131
+# Last Updated: 2024-01-05T10:27:35.890Z
+# Size: 133
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -26,6 +26,7 @@ download.visualstudio.microsoft.com
 officecdn-microsoft-com.akamaized.net
 +.delivery.mp.microsoft.com
 +.download.prss.microsoft.com
++.download.windowsupdate.com
 download-core.sys.truenas.net
 dl-portal.iina.io
 dl.iina.io
@@ -139,4 +140,5 @@ cdn.hyperbeam.com
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,download.epicgames.com
 DOMAIN,download.mikrotik.com
+DOMAIN,us.download.nvidia.com
 ################## EOF ##################

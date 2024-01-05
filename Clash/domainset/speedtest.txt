@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2023-12-30T18:43:51.238Z
-# Size: 875
+# Last Updated: 2024-01-05T10:27:44.937Z
+# Size: 890
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -160,6 +160,7 @@ ookla-speedtest-central.hgconair.hgc.com.hk
 speedtest.honest.net
 speedtest.imcloud.tw
 speedtest1.inetcom.ru
+speedtest.itm.net.tr
 speedtest-london.its-tg.net
 +.speedtest.jsinfo.net
 speedtest.keyubu.com
@@ -273,6 +274,7 @@ spt-nyc.as13786.net
 speedtest1-sttlwawb.as20055.net
 speedtest-ookla-par.as62000.net
 speedtest1.axes.com.br
+speedtest.bmcc.com.cn
 spt1.bsnlive.net
 speedtest-1.compute.dc1.cilix.cloud
 speedtest.claranet.nl
@@ -370,11 +372,13 @@ sp1.atcc-gns.net
 sp3.atcc-gns.net
 sp5.atcc-gns.net
 sp7.atcc-gns.net
+speedtest.capti.com.au
 mtcspeedtest.catskill.net
 speedtest.clarkson.edu
 spd33.claro.com.br
 hiztesti.codit.com.tr
 hiztesti-ist.codit.com.tr
+speedtest.eastcom.site
 speedtest-lon1.elite.net.uk
 speedtest-mel0.encoo.com.au
 speedtest-syd0.encoo.com.au
@@ -455,6 +459,7 @@ speedtest.qld.edgeix.net.au
 +.speedtest.exetel.com.au
 speedtest.feniks.net.tr
 speedtest.fixnet.com.tr
+speedtest.gamingvds.com
 speedtest-la.getonward.com
 speedtest1.gigafy.com.au
 speedtest.thn.uk.hso-group.net
@@ -517,6 +522,14 @@ speedtest.citytelecom.ru
 lon-hex-speedtest.cloudconnx.net
 +.speed.cloudflare.com
 speedtest.datafex.com.tr
+hizaydin.durunet.com.tr
+hizbursa.durunet.com.tr
+hizduzce.durunet.com.tr
+hizizmir.durunet.com.tr
+hizkutahya.durunet.com.tr
+hizsakarya.durunet.com.tr
+hizbalikesir.durunet.com.tr
+hizistanbul1.durunet.com.tr
 speedtest.eminnet.com.tr
 speedtest-bne-dn1.empower.net.au
 speedtest-mel-dn1.empower.net.au
@@ -621,6 +634,7 @@ ntp-speedtest.homeplus.net.tw
 sky-speedtest.homeplus.net.tw
 speedtest-nl.hyperfilter.com
 teste.ihgfibra.net.br
+speedtest.berlin.jonasdevries.de
 speedtest.frankfurt.jonasdevries.de
 teste.jsnet.manaus.br
 speedtest.kapteyan.com.tr
@@ -628,6 +642,7 @@ de-fra2-lg1.level66.network
 speed.lodosnet.com.tr
 speedtest.lodosnet.com.tr
 sp1.logicpro.com.br
+speedtest.massivemesh.com
 speedtest.metropolisrp.de
 speed.mpvnetworks.com
 speedtest.omegasul.com.br
