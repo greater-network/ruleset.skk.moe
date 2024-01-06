@@ -10,7 +10,7 @@ webcindario.com                                                                 
 blogspot.com                                                                                        315
 wixsite.com                                                                                         290
 iocnt.de                                                                                            232
-start.page                                                                                          203
+start.page                                                                                          202
 p2l.info                                                                                            198
 weebly.com                                                                                          178
 trekkww.space                                                                                       170
@@ -70,10 +70,10 @@ kanuassociates.com                                                              
 vizvaz.com                                                                                          43
 bankmillenium-pl.com                                                                                41
 azurewebsites.net                                                                                   40
-codeanyapp.com                                                                                      39
 dnsrobotuptime.ru                                                                                   39
 espmp-cufr.net                                                                                      39
 aimedia.lk                                                                                          38
+codeanyapp.com                                                                                      38
 sportbetsignupcode.com                                                                              38
 covidvcfund.com                                                                                     37
 experian.com                                                                                        37
@@ -276,7 +276,6 @@ vmkfz.at                                                                        
 ximalaya.com                                                                                        12
 xunlei.com                                                                                          12
 advancedtech.com                                                                                    11
-afkwa.com                                                                                           11
 catapultx.com                                                                                       11
 cresa.com                                                                                           11
 ddnss.eu                                                                                            11
