@@ -358,6 +358,7 @@ SUFFIX,yext.com
 SUFFIX,yimg.com
 SUFFIX,ymq.cool
 SUFFIX,youtu.be
+SUFFIX,yoyo.org
 SUFFIX,zoho.com
 SUFFIX,10086.win
 SUFFIX,365dm.com
@@ -1364,6 +1365,7 @@ SUFFIX,parallels.com
 SUFFIX,peacocktv.com
 SUFFIX,perchance.org
 SUFFIX,perplexity.ai
+SUFFIX,phishing.army
 SUFFIX,pilotmoon.com
 SUFFIX,pinterest.com
 SUFFIX,primevideo.cc
@@ -1472,6 +1474,7 @@ SUFFIX,datatables.net
 SUFFIX,deviantart.com
 SUFFIX,deviantart.net
 SUFFIX,dialogflow.com
+SUFFIX,digitalside.it
 SUFFIX,discordapp.com
 SUFFIX,discordapp.net
 SUFFIX,disneyplus.com
@@ -1887,6 +1890,7 @@ SUFFIX,pixelexperience.org
 SUFFIX,polymer-project.org
 SUFFIX,reasoningtheory.net
 SUFFIX,searchserverapi.com
+SUFFIX,someonewhocares.org
 SUFFIX,speedtestcustom.com
 SUFFIX,squarespace-cdn.com
 SUFFIX,the-independent.com
