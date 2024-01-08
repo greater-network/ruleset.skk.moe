@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-01-07T14:57:48.967Z
-# Size: 895
+# Last Updated: 2024-01-08T12:31:22.891Z
+# Size: 900
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -37,6 +37,7 @@ ookla.max.srl
 nl-ams-gbs-mtn-speedtest-server-01.mtn.com
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com
 speedtest.nrbn.ca
+s1.pfst.ru
 lax01-b.ookla.rcp.net
 speedtest.rit.edu
 speedtest.ropa.de
@@ -308,6 +309,7 @@ speedtest.mhcable.com
 speedtest.milkywan.fr
 speedtest-c.netgear.com
 speedtest.nexicom.net
+speedtest.noone.co.uk
 speedtest.octaplus.uk
 speedtestlon.orbital.net
 speedtest.procloud.ru
@@ -370,6 +372,7 @@ speedtest.aeza.network
 speedtest.amnet.net.br
 speedtest.thn.lon.network.as201838.net
 speedtest.as203416.net
+speedtest.as210667.net
 speedtest.asymptote.cc
 sp1.atcc-gns.net
 sp3.atcc-gns.net
@@ -563,6 +566,7 @@ speedtest.dal.hivelocity.net
 speedtest.lax.hivelocity.net
 speedtest.mia.hivelocity.net
 speedtest.nyc.hivelocity.net
+speedtest.ams1.hivelocity.net
 speedtest-la.hostsailor.com
 speedlon.hyperoptic.com
 speedtest-sg.iconpln.net.id
@@ -773,6 +777,7 @@ medidor.nortelecom.com.br
 velocimetro.proveinter.com.br
 teste.reatelecom.com.br
 speedtest.roraimanet.com.br
+speedtest.seedcloud.network
 teste.speednetpa.net.br
 ookla-speedtest.starverse.network
 velocimetro.superwiffi.com.br
