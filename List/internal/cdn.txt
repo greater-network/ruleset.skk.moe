@@ -386,6 +386,7 @@ SUFFIX,brave.com
 SUFFIX,brevo.com
 SUFFIX,bunny.net
 SUFFIX,cameo.com
+SUFFIX,carbon.sh
 SUFFIX,cdnjs.com
 SUFFIX,cdnpk.net
 SUFFIX,cdnst.net
@@ -1128,6 +1129,7 @@ SUFFIX,hiftporn.fun
 SUFFIX,himalaya.com
 SUFFIX,iboysoft.com
 SUFFIX,ibyteimg.com
+SUFFIX,iconduck.com
 SUFFIX,imagebam.com
 SUFFIX,imghaste.com
 SUFFIX,instant.page
@@ -1280,6 +1282,7 @@ SUFFIX,cdnjs.network
 SUFFIX,ceres9350.com
 SUFFIX,chargebee.com
 SUFFIX,cloudcraft.co
+SUFFIX,cloudflare.tv
 SUFFIX,cocoapods.org
 SUFFIX,coingecko.com
 SUFFIX,cookielaw.org
@@ -1553,6 +1556,7 @@ SUFFIX,similarcdn.com
 SUFFIX,skillshare.com
 SUFFIX,skyking.com.tw
 SUFFIX,slack-edge.com
+SUFFIX,slack-imgs.com
 SUFFIX,sleazyfork.org
 SUFFIX,slideshare.net
 SUFFIX,smartholdem.io
@@ -1785,6 +1789,7 @@ SUFFIX,adobeccstatic.com
 SUFFIX,akamaized.netflix
 SUFFIX,alternativeto.net
 SUFFIX,arcpublishing.com
+SUFFIX,arigatotravel.com
 SUFFIX,assets-servd.host
 SUFFIX,assets-yammer.com
 SUFFIX,azurecontainer.io

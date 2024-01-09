@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-01-06T17:12:14.789Z
-# Size: 1810
+# Last Updated: 2024-01-09T07:00:10.279Z
+# Size: 1816
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -271,6 +271,8 @@ images.ecomm.microsoft.com
 +.edgestorewebcdn.azureedge.net
 img-s-msn-com.akamaized.net
 edge-mobile-static.azureedge.net
+edgeassetservice.azureedge.net
+edgestatic.azureedge.net
 xpaywalletcdn.azureedge.net
 edge-consumer-static.azureedge.net
 wcpstatic.microsoft.com
@@ -870,6 +872,7 @@ api-frameworks.vercel.sh
 +.assets.heroku.com
 +.slack-edge.com
 files.slack.com
++.slack-imgs.com
 +.cdninstagram.com
 cdn.sstatic.net
 +.phncdn.com
@@ -1188,6 +1191,7 @@ t3.nhentai.net
 t5.nhentai.net
 t7.nhentai.net
 +.dogehls.xyz
+cloudflare.tv
 cdn-fck.tnaflix.com
 +.tnastatic.com
 mobilecenter.azureedge.net
@@ -1818,4 +1822,6 @@ cdn.matterhorn.app
 lumiere-a.akamaihd.net
 static.namebeta.com
 +.content001.bet365.com
+images.arigatotravel.com
+static-00.iconduck.com
 ################## EOF ##################

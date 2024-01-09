@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-01-02T15:41:03.322Z
-# Size: 557
+# Last Updated: 2024-01-09T07:00:10.090Z
+# Size: 558
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -312,6 +312,7 @@ DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,dxycdn.com
 DOMAIN-SUFFIX,dxy.cn
 DOMAIN-SUFFIX,dfcfw.com
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,dl.pinyuncloud.com
 DOMAIN-SUFFIX,dl.eccdnx.com
 DOMAIN-SUFFIX,dl.bscstorage.net
