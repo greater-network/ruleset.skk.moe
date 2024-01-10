@@ -1,7 +1,7 @@
 firebaseapp.com                                                                                     2132
 web.app                                                                                             2101
 cf-ipfs.com                                                                                         1517
-r2.dev                                                                                              1467
+r2.dev                                                                                              1468
 page.link                                                                                           1462
 cloudfront.net                                                                                      1147
 workers.dev                                                                                         986
@@ -125,10 +125,10 @@ evv-auditing.com                                                                
 herokuapp.com                                                                                       23
 hstn.me                                                                                             23
 oiu.edu.sd                                                                                          23
-terbaru-2023.com                                                                                    23
 tradedoubler.com                                                                                    23
 naver.com                                                                                           22
 pory.app                                                                                            22
+terbaru-2023.com                                                                                    22
 aq2e.com                                                                                            21
 cdn77.org                                                                                           21
 cloudlets.zone                                                                                      21
@@ -141,6 +141,7 @@ adp.ca                                                                          
 b-cdn.net                                                                                           20
 csb.app                                                                                             20
 dnsfordomains.ru                                                                                    20
+expobarrio.com                                                                                      20
 globaltradruv.com                                                                                   20
 intuit.com                                                                                          20
 liveblog365.com                                                                                     20
@@ -148,7 +149,6 @@ market-search.online                                                            
 sohu.com                                                                                            20
 adpinfo.com                                                                                         19
 alimama.com                                                                                         19
-expobarrio.com                                                                                      19
 gamemods.com.tr                                                                                     19
 mcafee.com                                                                                          19
 nespresso.com                                                                                       19

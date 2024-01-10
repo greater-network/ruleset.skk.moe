@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-01-10T12:33:02.621Z
-# Size: 901
+# Last Updated: 2024-01-10T15:10:31.803Z
+# Size: 906
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -34,6 +34,7 @@ speedtest.krhs.de
 speedtest.link.bm
 speed.uk.lon.m247.ro
 ookla.max.srl
+ookla.moji.fr
 nl-ams-gbs-mtn-speedtest-server-01.mtn.com
 uk-lon-tcy-mtn-speedtest-server-01.mtn.com
 speedtest.nrbn.ca
@@ -103,6 +104,7 @@ ookla.idnet.net
 speedtest.innsys.ca
 speedtest1.innsys.ca
 velocidade.ip.eti.br
+speedtest.jw.net.tr
 perf.keyyo.net
 speedtest.b2.mhn.cloud
 speedtest.mel.mhn.cloud
@@ -418,6 +420,7 @@ speedtest-fra.melbicom.net
 speedtest-lax.melbicom.net
 speedtest-msk.melbicom.net
 speedtest-sin.melbicom.net
+speedtest.meric.net.tr
 speedtest.micron21.com
 speed.navegalo.com
 speedtest.netflash.net
@@ -567,6 +570,7 @@ speedtest.lax.hivelocity.net
 speedtest.mia.hivelocity.net
 speedtest.nyc.hivelocity.net
 speedtest.ams1.hivelocity.net
+spd-tr-bursa.hostlayici.net
 speedtest-la.hostsailor.com
 speedlon.hyperoptic.com
 speedtest-sg.iconpln.net.id
@@ -784,6 +788,7 @@ ookla-speedtest.starverse.network
 velocimetro.superwiffi.com.br
 speedtest.suppcenter.global
 hkthspeedtest02.telstraglobal.net
+speed01.tresteknoloji.com
 test.turuncunet.com.tr
 speedtest.unitelecom.net.br
 velocidade.vlctelecom.com.br
