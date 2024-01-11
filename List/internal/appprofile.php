@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-01-11T04:30:40.037Z
+// # Build 2024-01-11T14:01:23.245Z
 
 declare(strict_types=1);
 
@@ -12,6 +12,19 @@ $_ENV['Clash_Config'] = [
     'ipv6' => true,
     'log-level' => 'error',
     'external-controller' => '0.0.0.0:9090',
+    'tun' => [
+      'enable' => true,
+      'stack' => 'system',
+      'auto-route' => true,
+      'auto-redir' => true,
+      'auto-detect-interface' => true,
+      'dns-hijack' => [
+        '8.8.8.8:53',
+        'any:53',
+        'tcp://8.8.8.8:53',
+        'tcp://any:53',
+      ]
+    ]
 ];
 
 $_ENV['Clash_Group_Indexes'] = [0,1,2,3,5];
