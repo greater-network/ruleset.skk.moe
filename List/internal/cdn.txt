@@ -1705,6 +1705,7 @@ SUFFIX,uscardforum.com
 SUFFIX,usemessages.com
 SUFFIX,usercontent.dev
 SUFFIX,usercontent.one
+SUFFIX,webcontainer.io
 SUFFIX,webmproject.org
 SUFFIX,webpkgcache.com
 SUFFIX,whatbrowser.org

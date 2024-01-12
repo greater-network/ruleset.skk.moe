@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-01-11T14:01:22.230Z
-# Size: 907
+# Last Updated: 2024-01-12T13:40:03.537Z
+# Size: 909
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -266,6 +266,7 @@ speedtest.mia.upx.net.br
 +.speedtest.warian.net
 speedtest-wa.waveip.org
 wiwan66.seattle.westnet.ca
++.wifiman.me
 laspeed.wiline.com
 speedam.wsp.net.br
 spdtst.xenyth.net
@@ -365,6 +366,7 @@ de-bln2-ookla-01.wemacom.net
 de-ffm1-ookla-01.wemacom.net
 speedtest.westcall.ru
 speedtest.wifi.net.tr
++.wifiman.com
 speed1.wirsnet.com
 speedtest01.wowrack.com
 speedtest.lax01.xfernet.net
