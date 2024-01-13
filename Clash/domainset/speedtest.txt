@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-01-13T12:28:43.551Z
-# Size: 910
+# Last Updated: 2024-01-13T14:21:21.296Z
+# Size: 915
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -310,6 +310,7 @@ speedtest.lumaserv.me
 ookla.mbspeed.net
 speedtest.mhcable.com
 speedtest.milkywan.fr
+speedtest.mitsupp.com
 speedtest-c.netgear.com
 speedtest.nexicom.net
 speedtest.noone.co.uk
@@ -465,6 +466,7 @@ sp1.burstfire.net
 dallas1.cabospeed.com
 +.speedtest.clouvider.net
 speedtest.comnet.com.tr
+fr.speedtest.comnet.com.tr
 speedtest1.mia.fl.us.convergia.net
 speedtest.qld.edgeix.net.au
 +.speedtest.exetel.com.au
@@ -524,6 +526,7 @@ speedtest.surfshark.com
 speed1.syseleven.net
 izmit-speed.tbtnet.com.tr
 speedtest.thryve.com.au
+st.tvcablesur.cl
 speed-test.ukservers.com
 speedtest-lon.veloxserv.net
 velocimetro-mns.virtua.com.br
@@ -678,6 +681,7 @@ speedtest.rekornet.com.tr
 speedtest-tx-da2.scalematrix.com
 speed.lax-1.serverforge.org
 speed1.yyz-1.serverforge.org
+ookla.la.us.smoketunnel.com
 speedtest.softether.co.jp
 +.speednet.net.tr
 speedtest.springfibre.com
@@ -729,6 +733,7 @@ frankfurt-speedtest-1.hostingswift.com
 speedtest.inyonetworks.com
 speedtest.lightsource1.com
 speedtest.markahost.com.tr
+speedtest.multicablehn.com
 speedtest.pdhosting.com.tr
 miami-speedtest.reliablesite.net
 los-angeles-speedtest.reliablesite.net
