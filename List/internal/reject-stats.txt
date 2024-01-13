@@ -1,7 +1,7 @@
 firebaseapp.com                                                                                     2136
 web.app                                                                                             2107
 cf-ipfs.com                                                                                         1555
-r2.dev                                                                                              1501
+r2.dev                                                                                              1499
 page.link                                                                                           1462
 cloudfront.net                                                                                      1147
 workers.dev                                                                                         1002
@@ -243,7 +243,6 @@ teraw.site                                                                      
 aols.pl                                                                                             24
 autovistagroup.com                                                                                  24
 bakerstreetfinance.tv                                                                               24
-blogspot.sn                                                                                         24
 coddes.top                                                                                          24
 crpt-gen.xyz                                                                                        24
 hostingkampanya.com                                                                                 24
@@ -563,8 +562,6 @@ akibacreative.com                                                               
 apple.com                                                                                           12
 arekhasnik.pl                                                                                       12
 avaya.com                                                                                           12
-blogspot.bg                                                                                         12
-blogspot.is                                                                                         12
 capitalloredfd.site                                                                                 12
 cenacoolo.pl                                                                                        12
 chip.de                                                                                             12
