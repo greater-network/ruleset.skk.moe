@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-01-12T13:40:01.205Z
-# Size: 1820
+# Last Updated: 2024-01-13T18:20:54.543Z
+# Size: 1821
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1630,6 +1630,7 @@ widget.trustpilot.com
 s1.qwant.com
 s2.qwant.com
 +.flagcdn.com
++.flagpedia.net
 static.snyk.io
 static1.smartbear.co
 img.domaintools.com

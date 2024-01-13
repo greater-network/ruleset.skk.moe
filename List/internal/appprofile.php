@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-01-13T12:28:38.466Z
+// # Build 2024-01-13T18:20:57.044Z
 
 declare(strict_types=1);
 
@@ -108,6 +108,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,xiaohongshu.com,Domestic',
         'DOMAIN-SUFFIX,xiaote.net,Domestic',
         'DOMAIN-SUFFIX,toutiao.com,Domestic',
+        'DOMAIN-SUFFIX,toutiaopage.com,Domestic',
+        'DOMAIN-SUFFIX,toutiaocloud.com,Domestic',
         'DOMAIN-SUFFIX,toutiaovod.com,Domestic',
         'DOMAIN-SUFFIX,toutiaostatic.com,Domestic',
         'DOMAIN-SUFFIX,toutiaoimg.cn,Domestic',
@@ -260,6 +262,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,saxyit.com,Domestic',
         'DOMAIN-SUFFIX,sandai.net,Domestic',
         'DOMAIN-SUFFIX,sankuai.com,Domestic',
+        'DOMAIN-SUFFIX,upos-sz-mirrorbos.bilivideo.com,Domestic',
+        'DOMAIN-SUFFIX,upos-sz-mirrorali.bilivideo.com,Domestic',
         'DOMAIN-SUFFIX,uczzd.cn,Domestic',
         'DOMAIN-SUFFIX,ucweb.com,Domestic',
         'DOMAIN-SUFFIX,uc.cn,Domestic',
@@ -514,6 +518,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,cainiao.com,Domestic',
         'DOMAIN-SUFFIX,cainiao.com.cn,Domestic',
         'DOMAIN-SUFFIX,cailianpress.com,Domestic',
+        'DOMAIN-SUFFIX,cdngslb.com,Domestic',
         'DOMAIN-SUFFIX,cdn.ubionline.com.cn,Domestic',
         'DOMAIN-SUFFIX,cmfunds.cn,Domestic',
         'DOMAIN-SUFFIX,cmfchina.com,Domestic',
