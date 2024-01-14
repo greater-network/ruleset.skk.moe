@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-01-14T12:28:25.692Z
+// # Build 2024-01-14T15:29:46.116Z
 
 declare(strict_types=1);
 
@@ -792,6 +792,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,download.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,download.visualstudio.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,officecdn.microsoft.com,Domestic',
+        'DOMAIN-SUFFIX,software.download.prss.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,sdx.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,cn.apple.com,Domestic',

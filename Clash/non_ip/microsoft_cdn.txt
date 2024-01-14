@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Microsoft CDN
-# Last Updated: 2023-12-20T04:06:37.455Z
-# Size: 15
+# Last Updated: 2024-01-14T15:29:45.898Z
+# Size: 16
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,download.windowsupdate.com
 DOMAIN-SUFFIX,download.microsoft.com
 DOMAIN-SUFFIX,download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,officecdn.microsoft.com
+DOMAIN-SUFFIX,software.download.prss.microsoft.com
 DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com
 DOMAIN-SUFFIX,sdx.microsoft.com
 ################## EOF ##################
