@@ -1,13 +1,14 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2023-12-19T15:12:27.903Z
-# Size: 9
+# Last Updated: 2024-01-14T14:10:38.073Z
+# Size: 10
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains domains of OpenAI, Claude.
 #########################################
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,x.ai
