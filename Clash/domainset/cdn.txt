@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-01-13T18:20:54.543Z
-# Size: 1821
+# Last Updated: 2024-01-15T08:38:05.396Z
+# Size: 1823
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -602,6 +602,8 @@ sdk.snapkit.com
 cdn-edge.karte.io
 cdn.cxense.com
 static.klaviyo.com
+cdn.wishpond.net
+app.viral-loops.com
 cdn-yotpo-images-production.yotpo.com
 img.announcekit.app
 cdn.announcekit.app
@@ -1238,7 +1240,6 @@ optimizely.com
 web-assets.ifttt.com
 assets.ifttt.com
 web.onekey-asset.com
-d3el26csp1xekx.cloudfront.net
 img.merch.cameo.com
 img.represent.com
 cache-05.filehippo.net
@@ -1829,4 +1830,5 @@ static.namebeta.com
 +.content001.bet365.com
 images.arigatotravel.com
 static-00.iconduck.com
+cdn.unwire.hk
 ################## EOF ##################

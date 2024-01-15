@@ -953,6 +953,7 @@ SUFFIX,twitch.tv
 SUFFIX,clips-media-assets2.twitch.tv
 SUFFIX,download.typora.io
 SUFFIX,unpkg.com
+SUFFIX,cdn.unwire.hk
 SUFFIX,js.upload.io
 SUFFIX,assets.upload.io
 SUFFIX,fonts.upset.dev
@@ -1938,6 +1939,7 @@ SUFFIX,widevine.com
 SUFFIX,wikidata.org
 SUFFIX,wikinews.org
 SUFFIX,winticket.jp
+SUFFIX,cdn.wishpond.net
 SUFFIX,wordtune.com
 SUFFIX,images-eds-ssl.xboxlive.com
 SUFFIX,xhamster.com
@@ -2566,6 +2568,7 @@ SUFFIX,asset-cdn.uscardforum.com
 SUFFIX,js.usemessages.com
 SUFFIX,usercontent.dev
 SUFFIX,usercontent.one
+SUFFIX,app.viral-loops.com
 SUFFIX,local.webcontainer.io
 SUFFIX,webmproject.org
 SUFFIX,webpkgcache.com
@@ -2908,7 +2911,6 @@ SUFFIX,d2anahhhmp1ffz.cloudfront.net
 SUFFIX,d3196yreox78o9.cloudfront.net
 SUFFIX,d349g9zuie06uo.cloudfront.net
 SUFFIX,d3c7rimkq79yfu.cloudfront.net
-SUFFIX,d3el26csp1xekx.cloudfront.net
 SUFFIX,freeshippingbar.herokuapp.com
 SUFFIX,DOMAIN-SUFFIX,steamcontent.com
 SUFFIX,firebasestorage.googleapis.com
