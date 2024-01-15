@@ -366,6 +366,7 @@ SUFFIX,static-effect.reg.ru
 SUFFIX,s.rfi.fr
 SUFFIX,cdn.s7s.ai
 SUFFIX,tg.dev
+SUFFIX,ttl.sh
 SUFFIX,secure-uploads.ui.com
 SUFFIX,i.vgy.me
 SUFFIX,viu.tv
@@ -1220,6 +1221,7 @@ SUFFIX,oculus.com
 SUFFIX,odycdn.com
 SUFFIX,res.cdn.office.net
 SUFFIX,cdn.forms.office.net
+SUFFIX,cdn.graph.office.net
 SUFFIX,res-1.cdn.office.net
 SUFFIX,public.cdn.office.net
 SUFFIX,res-geo.cdn.office.net

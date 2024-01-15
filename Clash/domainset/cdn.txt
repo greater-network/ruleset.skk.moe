@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-01-15T08:38:05.396Z
-# Size: 1823
+# Last Updated: 2024-01-15T12:31:17.785Z
+# Size: 1825
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -156,6 +156,7 @@ oss-binaries.phusionpassenger.com
 release.runcloud.io
 curl.se
 plugins.dprint.dev
++.ttl.sh
 s0.wp.com
 s1.wp.com
 s2.wp.com
@@ -249,6 +250,7 @@ gravatar.cat.net
 +.software-download.microsoft.com
 +.public.cdn.office.net
 cdn.forms.office.net
+cdn.graph.office.net
 +.res.office365.com
 res.cdn.office.net
 res-1.cdn.office.net
