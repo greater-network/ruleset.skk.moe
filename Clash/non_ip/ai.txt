@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2024-01-14T14:10:38.073Z
-# Size: 10
+# Last Updated: 2024-01-16T06:56:16.538Z
+# Size: 11
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,6 +10,7 @@
 #########################################
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,anthropic.com
