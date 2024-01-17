@@ -1,14 +1,13 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-01-13T18:20:54.322Z
-# Size: 563
+# Last Updated: 2024-01-17T11:16:07.996Z
+# Size: 562
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains known addresses that are avaliable in the Mainland China.
 #########################################
-DOMAIN,xz.pphimalayanrt.com
 DOMAIN,assets2.xboxlive.cn
 DOMAIN,assets1.xboxlive.cn
 DOMAIN,www.layuicdn.com
@@ -61,6 +60,7 @@ DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,takungpao.com
 DOMAIN-SUFFIX,tantanapp.com
+DOMAIN-SUFFIX,tnkjmec.com
 DOMAIN-SUFFIX,t.cn
 DOMAIN-SUFFIX,t3go.cn
 DOMAIN-SUFFIX,zuimeitianqi.com
@@ -151,6 +151,7 @@ DOMAIN-SUFFIX,pddpic.com
 DOMAIN-SUFFIX,pingan.com
 DOMAIN-SUFFIX,pinduoduo.com
 DOMAIN-SUFFIX,pplive.com
+DOMAIN-SUFFIX,pphimalayanrt.com
 DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,pps.tv
 DOMAIN-SUFFIX,snssdk.com
@@ -164,10 +165,7 @@ DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,s-reader.com
 DOMAIN-SUFFIX,sevencdn.com
-DOMAIN-SUFFIX,steamstatic.com.8686c.com
-DOMAIN-SUFFIX,steampowered.com.8686c.com
 DOMAIN-SUFFIX,steamchina.com
-DOMAIN-SUFFIX,steamcontent.tnkjmec.com
 DOMAIN-SUFFIX,steam.ksyna.com
 DOMAIN-SUFFIX,steam.clngaa.com
 DOMAIN-SUFFIX,staticfile.org
@@ -529,6 +527,7 @@ DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,95588.com
 DOMAIN-SUFFIX,95588.com.cn
 DOMAIN-SUFFIX,91.com
+DOMAIN-SUFFIX,8686c.com
 DOMAIN-SUFFIX,71.am.com
 DOMAIN-SUFFIX,58.com
 DOMAIN-SUFFIX,56.com

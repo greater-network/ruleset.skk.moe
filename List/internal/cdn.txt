@@ -727,6 +727,7 @@ SUFFIX,yimg.com
 SUFFIX,ymq.cool
 SUFFIX,youtu.be
 SUFFIX,pgl.yoyo.org
+SUFFIX,cdn.ywxi.net
 SUFFIX,webfonts.zoho.com
 SUFFIX,www.10086.win
 SUFFIX,e3.365dm.com
@@ -1117,6 +1118,7 @@ SUFFIX,dl.google.com
 SUFFIX,dl.l.google.com
 SUFFIX,maven.google.com
 SUFFIX,static.corp.google.com
+SUFFIX,usercontent.google.com
 SUFFIX,safebrowsing.google.com
 SUFFIX,download.mlcc.google.com
 SUFFIX,download.tensorflow.google.com
@@ -1212,7 +1214,7 @@ SUFFIX,nhncorp.jp
 SUFFIX,i.niupic.com
 SUFFIX,nodejs.org
 SUFFIX,images.now-tv.com
-SUFFIX,DOMAIN,us.download.nvidia.com
+SUFFIX,download.nvidia.com
 SUFFIX,nypost.com
 SUFFIX,nytlog.com
 SUFFIX,mstdn-s3.o3o.studio
@@ -1252,6 +1254,10 @@ SUFFIX,js.pusher.com
 SUFFIX,pxgcdn.com
 SUFFIX,pzvcdn.com
 SUFFIX,sdk.qikify.com
+SUFFIX,steam.ru.qtlglb.com
+SUFFIX,steam.eca.qtlglb.com
+SUFFIX,steam.apac.qtlglb.com
+SUFFIX,steam.naeu.qtlglb.com
 SUFFIX,rawgit.com
 SUFFIX,rawgit.org
 SUFFIX,rbxcdn.com
@@ -1819,7 +1825,7 @@ SUFFIX,assets-next.matters.news
 SUFFIX,cdn.medallia.com
 SUFFIX,cdn.survey.medallia.com
 SUFFIX,static.mendeley.com
-SUFFIX,DOMAIN,download.mikrotik.com
+SUFFIX,download.mikrotik.com
 SUFFIX,mikuclub.xyz
 SUFFIX,api.mintlify.com
 SUFFIX,dynamic-assets.mobilius.top
@@ -2022,9 +2028,9 @@ SUFFIX,embedgram.com
 SUFFIX,encoretvb.com
 SUFFIX,cdn1.epicgames.com
 SUFFIX,cdn2.epicgames.com
+SUFFIX,download.epicgames.com
 SUFFIX,media-cdn.epicgames.com
 SUFFIX,static-assets-prod.epicgames.com
-SUFFIX,DOMAIN-SUFFIX,download.epicgames.com
 SUFFIX,epic-social-social-modules-prod.ol.epicgames.com
 SUFFIX,ext-twitch.tv
 SUFFIX,cache-05.filehippo.net
@@ -2645,7 +2651,18 @@ SUFFIX,cdn.robinpro.gallery
 SUFFIX,ipfs.soul-network.com
 SUFFIX,spotifycodes.com
 SUFFIX,staticflickr.com
+SUFFIX,steamcontent.com
 SUFFIX,media.steampowered.com
+SUFFIX,content.steampowered.com
+SUFFIX,content1.steampowered.com
+SUFFIX,content2.steampowered.com
+SUFFIX,content3.steampowered.com
+SUFFIX,content4.steampowered.com
+SUFFIX,content5.steampowered.com
+SUFFIX,content6.steampowered.com
+SUFFIX,content7.steampowered.com
+SUFFIX,content8.steampowered.com
+SUFFIX,content-origin.steampowered.com
 SUFFIX,streamhentai.org
 SUFFIX,cdn.sunofbeaches.com
 SUFFIX,susercontent.com
@@ -2773,6 +2790,8 @@ SUFFIX,washingtonpost.com
 SUFFIX,talk.washingtonpost.com
 SUFFIX,whispersystems.org
 SUFFIX,ajax.googleapis.com
+SUFFIX,ftp.androidfilehost.com
+SUFFIX,ava6.androidfilehost.com
 SUFFIX,archiveofourown.org
 SUFFIX,shopify.cleverecommerce.com
 SUFFIX,imgssl.constantcontact.com
@@ -2914,7 +2933,6 @@ SUFFIX,d3196yreox78o9.cloudfront.net
 SUFFIX,d349g9zuie06uo.cloudfront.net
 SUFFIX,d3c7rimkq79yfu.cloudfront.net
 SUFFIX,freeshippingbar.herokuapp.com
-SUFFIX,DOMAIN-SUFFIX,steamcontent.com
 SUFFIX,firebasestorage.googleapis.com
 SUFFIX,steamuserimages-a.akamaihd.net
 SUFFIX,steamusercontent-a.akamaihd.net
