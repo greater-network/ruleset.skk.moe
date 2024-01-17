@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-01-16T06:56:20.722Z
-# Size: 945
+# Last Updated: 2024-01-17T12:31:27.459Z
+# Size: 946
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -699,6 +699,7 @@ ookla.uk.eu.smoketunnel.com
 speedtest.softether.co.jp
 +.speednet.net.tr
 speedtest.springfibre.com
+speedtest-mad1.tasmanet.com.au
 speedtest-ndb1.tasmanet.com.au
 speedtest-ndm1.tasmanet.com.au
 speedtest-tdc3.tasmanet.com.au
