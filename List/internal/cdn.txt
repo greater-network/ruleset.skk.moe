@@ -384,6 +384,7 @@ SUFFIX,s3.wp.com
 SUFFIX,fonts.wp.com
 SUFFIX,widgets.wp.com
 SUFFIX,fonts-api.wp.com
+SUFFIX,img.xjh.me
 SUFFIX,ooo.0o0.ooo
 SUFFIX,ipfs.1-2.dev
 SUFFIX,4gtv.tv
@@ -740,6 +741,8 @@ SUFFIX,img3.acsta.net
 SUFFIX,ccmdl.adobe.com
 SUFFIX,wwwimages2.adobe.com
 SUFFIX,ameblo.jp
+SUFFIX,pba.apple.com
+SUFFIX,ocsp2.apple.com
 SUFFIX,itunes.apple.com
 SUFFIX,ocvideo.apple.com
 SUFFIX,linear.tv.apple.com
@@ -821,6 +824,7 @@ SUFFIX,storageapi.fleek.one
 SUFFIX,storageapi2.fleek.one
 SUFFIX,fonts.com
 SUFFIX,fonts.net
+SUFFIX,ftcdn.net
 SUFFIX,getmdl.io
 SUFFIX,media.gettr.com
 SUFFIX,ggpht.com
@@ -882,6 +886,7 @@ SUFFIX,kwcdn.com
 SUFFIX,wandi-6402.kxcdn.com
 SUFFIX,searchanise-ef84.kxcdn.com
 SUFFIX,wikiwandv2-19431.kxcdn.com
+SUFFIX,r3.o.lencr.org
 SUFFIX,media.licdn.com
 SUFFIX,static.licdn.com
 SUFFIX,static-exp1.licdn.com
@@ -1742,6 +1747,7 @@ SUFFIX,david-dm.org
 SUFFIX,dazn-api.com
 SUFFIX,deepmind.com
 SUFFIX,avatars.dicebear.com
+SUFFIX,ocsp.digicert.com
 SUFFIX,discomax.com
 SUFFIX,cdn.dnsimple.com
 SUFFIX,cdn.dribbble.com

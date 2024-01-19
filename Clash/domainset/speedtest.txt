@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-01-18T03:41:45.351Z
-# Size: 947
+# Last Updated: 2024-01-19T17:00:21.183Z
+# Size: 955
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -29,6 +29,7 @@ speedtest.23m.com
 speedtest.asvt.ru
 +.srvr.bell.ca
 speed.data.cr
+speedtest.ddps.jp
 +.ookla-speedtest.fsr.com
 +.speedtest.i3d.net
 speedtest.krhs.de
@@ -48,10 +49,12 @@ speedtest.tigo.cr
 speedtest-srv01.tut.net
 speedtest.uia.net
 speedtest.upp.com
+ookla.wmie.it
 ams-eq6-tptest1.31173.se
 fra-eq5-tptest1.31173.se
 lon-ix1-tptest1.31173.se
 speedtest.58243.as
+ookla.uk.eu.bvpn.com
 speedtest1.claro.cr
 speedtest.ct.co.cr
 speedtest3.dacor.de
@@ -143,6 +146,7 @@ speedtest1.xbase.com
 yyz-speedtest.xplore.ca
 speedtest.xsnews.nl
 speedtest-yoncudc.yoncu.com
+speedtest-th2.abiwan.net
 speedtest-sjc.acreto.net
 speed.msk.avantel.ru
 speedtest.bnsdfw.com
@@ -151,6 +155,7 @@ librarian.comstar.ru
 speedtestsvq01.comvive.es
 speedtest.coreix.net
 warp.cronon.net
+speedtest.jp230.hnd.jp.ctcsci.com
 +.speedtest.dchost.com
 speed2.dg-sys.net
 speedtest01.dns-net.de
@@ -908,8 +913,11 @@ speedtest.verdenetfibra.com.br
 speedtest.visiontelecom.com.br
 speedtest.americatelecom.net.br
 bmspeed.chinaunicomglobal.com
+laspeed.chinaunicomglobal.com
+sgspeed.chinaunicomglobal.com
 cugspeed.chinaunicomglobal.com
 fraspeed.chinaunicomglobal.com
+tyospeed.chinaunicomglobal.com
 velocidade.conectstelecom.com.br
 teste.ddlsuprimentos.com.br
 speedtest.mirror.digitalpacific.com.au
