@@ -850,6 +850,7 @@ SUFFIX,4gtvfreepcvod-cds.cdn.hinet.net
 SUFFIX,litvfreemobile-hichannel.cdn.hinet.net
 SUFFIX,packages.httpie.io
 SUFFIX,assets.humix.com
+SUFFIX,video-meta.humix.com
 SUFFIX,huobi.pro
 SUFFIX,talk.hyvor.com
 SUFFIX,iframe.ly
@@ -1096,6 +1097,8 @@ SUFFIX,dssott.com
 SUFFIX,s3.envato.com
 SUFFIX,eroimg.net
 SUFFIX,ipfs.eternum.io
+SUFFIX,ezocdn.com
+SUFFIX,ezocdn.net
 SUFFIX,assets.fastly.com
 SUFFIX,fastly.net
 SUFFIX,feedly.com
