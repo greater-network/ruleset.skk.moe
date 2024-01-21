@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-01-21T15:26:38.961Z
-# Size: 960
+# Last Updated: 2024-01-21T15:54:24.696Z
+# Size: 961
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -884,6 +884,7 @@ speedtest.naturalwireless.com
 speedtest2.pacificinternet.com
 ookla.padraosystem.net.br
 speedtest.satanhosting.com.tr
+nyc01.screenshot.download
 speed.smartselects.online
 +.speedtestcustom.com
 st-izmir-1.turksatkablo.com.tr
