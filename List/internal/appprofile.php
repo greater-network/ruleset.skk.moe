@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-01-21T12:28:33.583Z
+// # Build 2024-01-21T13:49:33.993Z
 
 declare(strict_types=1);
 
@@ -788,7 +788,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,xp.apple.com,Domestic',
         'DOMAIN,res.cdn.office.net,Domestic',
         'DOMAIN-SUFFIX,cn.windowssearch.com,Domestic',
-        'DOMAIN-SUFFIX,ctldl.windowsupdate.com,Domestic',
         'DOMAIN-SUFFIX,fs.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,myvs.download.prss.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,vscode.download.prss.microsoft.com,Domestic',
@@ -797,7 +796,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,wscont1.apps.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,download.prss.microsoft.com,Domestic',
-        'DOMAIN-SUFFIX,download.windowsupdate.com,Domestic',
         'DOMAIN-SUFFIX,download.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,download.visualstudio.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,oemsoc.download.prss.microsoft.com,Domestic',

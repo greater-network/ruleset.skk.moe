@@ -2104,6 +2104,11 @@ SUFFIX,js.memberful.com
 SUFFIX,messenger.com
 SUFFIX,ajax.microsoft.com
 SUFFIX,wcpstatic.microsoft.com
+SUFFIX,amupdatedl.microsoft.com
+SUFFIX,amupdatedl2.microsoft.com
+SUFFIX,amupdatedl3.microsoft.com
+SUFFIX,amupdatedl4.microsoft.com
+SUFFIX,amupdatedl5.microsoft.com
 SUFFIX,delivery.mp.microsoft.com
 SUFFIX,images.ecomm.microsoft.com
 SUFFIX,store-images.microsoft.com
@@ -2755,7 +2760,6 @@ SUFFIX,walmartimages.com
 SUFFIX,cms-assets.webediamovies.pro
 SUFFIX,website-files.com
 SUFFIX,cdn.windowsreport.com
-SUFFIX,download.windowsupdate.com
 SUFFIX,youtubegaming.com
 SUFFIX,zdusercontent.com
 SUFFIX,zohowebstatic.com
