@@ -1233,6 +1233,7 @@ SUFFIX,res.cdn.office.net
 SUFFIX,cdn.forms.office.net
 SUFFIX,cdn.graph.office.net
 SUFFIX,res-1.cdn.office.net
+SUFFIX,shell.cdn.office.net
 SUFFIX,public.cdn.office.net
 SUFFIX,res-geo.cdn.office.net
 SUFFIX,static.oklink.com
@@ -1791,6 +1792,7 @@ SUFFIX,cdn.ghostery.com
 SUFFIX,download.gigabyte.com
 SUFFIX,gmodules.com
 SUFFIX,gravatar.com
+SUFFIX,widget.cluster.groovehq.com
 SUFFIX,snippet.growsumo.com
 SUFFIX,media.hachyderm.io
 SUFFIX,cdn.hashnode.com
@@ -1982,6 +1984,7 @@ SUFFIX,ipfs.anonymize.com
 SUFFIX,s-cdn.anthropic.com
 SUFFIX,apkmirror.com
 SUFFIX,downloadr2.apkmirror.com
+SUFFIX,appmifile.com
 SUFFIX,archive.today
 SUFFIX,aspnetcdn.com
 SUFFIX,wac-cdn.atlassian.com
@@ -2662,6 +2665,7 @@ SUFFIX,publicsuffix.org
 SUFFIX,pythonhosted.org
 SUFFIX,redditstatic.com
 SUFFIX,cdn.robinpro.gallery
+SUFFIX,image.shutterstock.com
 SUFFIX,ipfs.soul-network.com
 SUFFIX,spotifycodes.com
 SUFFIX,staticflickr.com
@@ -2763,6 +2767,7 @@ SUFFIX,walmartimages.com
 SUFFIX,cms-assets.webediamovies.pro
 SUFFIX,website-files.com
 SUFFIX,cdn.windowsreport.com
+SUFFIX,ctldl.windowsupdate.com
 SUFFIX,youtubegaming.com
 SUFFIX,zdusercontent.com
 SUFFIX,zohowebstatic.com

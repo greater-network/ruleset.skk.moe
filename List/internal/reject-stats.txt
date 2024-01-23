@@ -3,7 +3,7 @@ web.app                                                                         
 cf-ipfs.com                                                                                         1555
 r2.dev                                                                                              1517
 page.link                                                                                           1462
-cloudfront.net                                                                                      1155
+cloudfront.net                                                                                      1154
 workers.dev                                                                                         1008
 weebly.com                                                                                          618
 pages.dev                                                                                           502
@@ -107,7 +107,6 @@ thermofisher.com                                                                
 tokoapril.com                                                                                       32
 0hi.me                                                                                              31
 azurewebsites.net                                                                                   31
-cdn77.org                                                                                           31
 shengen.ru                                                                                          31
 sina.cn                                                                                             31
 zya.me                                                                                              31
@@ -213,6 +212,7 @@ adp.com                                                                         
 alicdn.com                                                                                          16
 almosafer.com                                                                                       16
 blackboard.com                                                                                      16
+cdn77.org                                                                                           16
 cisco.com                                                                                           16
 coca-cola.com                                                                                       16
 en25.com                                                                                            16

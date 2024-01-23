@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-01-17T11:16:07.996Z
-# Size: 562
+# Last Updated: 2024-01-23T15:31:42.876Z
+# Size: 563
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -482,6 +482,7 @@ DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctv.cn
 DOMAIN-SUFFIX,coding.net
 DOMAIN-SUFFIX,coding.me
+DOMAIN-SUFFIX,cowcs.com
 DOMAIN-SUFFIX,coolapkmarket.net
 DOMAIN-SUFFIX,coolapkmarket.com
 DOMAIN-SUFFIX,coolapk.com

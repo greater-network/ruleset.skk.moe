@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-01-21T13:49:33.993Z
+// # Build 2024-01-23T15:31:43.033Z
 
 declare(strict_types=1);
 
@@ -558,6 +558,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,cctv.cn,Domestic',
         'DOMAIN-SUFFIX,coding.net,Domestic',
         'DOMAIN-SUFFIX,coding.me,Domestic',
+        'DOMAIN-SUFFIX,cowcs.com,Domestic',
         'DOMAIN-SUFFIX,coolapkmarket.net,Domestic',
         'DOMAIN-SUFFIX,coolapkmarket.com,Domestic',
         'DOMAIN-SUFFIX,coolapk.com,Domestic',
@@ -3772,7 +3773,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,124.160.0.0/13,Domestic',
         'IP-CIDR,124.172.0.0/15,Domestic',
         'IP-CIDR,124.192.0.0/15,Domestic',
-        'IP-CIDR,124.196.0.0/22,Domestic',
+        'IP-CIDR,124.196.0.0/24,Domestic',
         'IP-CIDR,124.196.5.0/24,Domestic',
         'IP-CIDR,124.196.6.0/23,Domestic',
         'IP-CIDR,124.196.8.0/22,Domestic',

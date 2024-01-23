@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-01-21T15:26:38.818Z
-# Size: 1836
+# Last Updated: 2024-01-23T15:31:43.084Z
+# Size: 1840
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -253,6 +253,7 @@ gravatar.cat.net
 +.aspnetcdn.com
 +.software-download.microsoft.com
 +.public.cdn.office.net
+shell.cdn.office.net
 cdn.forms.office.net
 cdn.graph.office.net
 +.res.office365.com
@@ -612,6 +613,7 @@ cdn.cxense.com
 static.klaviyo.com
 cdn.wishpond.net
 app.viral-loops.com
+widget.cluster.groovehq.com
 cdn-yotpo-images-production.yotpo.com
 img.announcekit.app
 cdn.announcekit.app
@@ -1130,6 +1132,7 @@ stories.freepiklabs.com
 avatar.freepik.com
 img.freepik.com
 static-gcp.freepikcompany.com
+image.shutterstock.com
 +.piximg.net
 +.pixiv.re
 +.pixiv.cat
@@ -1391,6 +1394,7 @@ static.tradingview.com
 images-assets.nasa.gov
 assets.quillbot.com
 libs.quillbot.com
++.appmifile.com
 +.ziffstatic.com
 +.muscache.com
 cdn.dnsimple.com
