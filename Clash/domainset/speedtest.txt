@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-01-24T12:32:03.016Z
-# Size: 968
+# Last Updated: 2024-01-25T09:49:29.844Z
+# Size: 970
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -156,6 +156,7 @@ librarian.comstar.ru
 speedtestsvq01.comvive.es
 speedtest.coreix.net
 warp.cronon.net
+speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.jp230.hnd.jp.ctcsci.com
 speedtest.sg220.sgp.sg.ctcsci.com
 +.speedtest.dchost.com
@@ -164,6 +165,7 @@ speedtest01.dns-net.de
 ffm-01-ovpn.vpn.eseven.net
 +.speedtest.faelix.net
 speedtest.febzen.com
+speedtest.finovy.com
 speed2.flawcra.cc
 st.fratec.net
 speedtest-xg-lq.glbb.ne.jp

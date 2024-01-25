@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-01-23T15:31:43.084Z
-# Size: 1840
+# Last Updated: 2024-01-25T09:49:19.899Z
+# Size: 1841
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -614,6 +614,7 @@ static.klaviyo.com
 cdn.wishpond.net
 app.viral-loops.com
 widget.cluster.groovehq.com
+bot.ivy.ai
 cdn-yotpo-images-production.yotpo.com
 img.announcekit.app
 cdn.announcekit.app

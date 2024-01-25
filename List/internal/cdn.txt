@@ -346,6 +346,7 @@ SUFFIX,image.ibb.co
 SUFFIX,cdn.img.ly
 SUFFIX,iq.com
 SUFFIX,cache-video.iq.com
+SUFFIX,bot.ivy.ai
 SUFFIX,gravity.jup.io
 SUFFIX,static-cache.k2s.cc
 SUFFIX,k8s.io

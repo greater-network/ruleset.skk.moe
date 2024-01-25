@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-01-23T15:31:42.876Z
-# Size: 563
+# Last Updated: 2024-01-25T09:49:19.786Z
+# Size: 564
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -448,6 +448,7 @@ DOMAIN-SUFFIX,cainiaoyizhan.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cainiao.com.cn
 DOMAIN-SUFFIX,cailianpress.com
+DOMAIN-SUFFIX,cdn-go.cn
 DOMAIN-SUFFIX,cdngslb.com
 DOMAIN-SUFFIX,cdn.ubionline.com.cn
 DOMAIN-SUFFIX,cmfunds.cn
