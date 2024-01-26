@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-01-25T09:49:29.844Z
-# Size: 970
+# Last Updated: 2024-01-26T12:27:43.404Z
+# Size: 972
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -364,6 +364,7 @@ speedtest.tinp.net.tw
 speedtest.tushino.com
 speedtest.twds.com.tw
 speedtest.twerion.net
+twincher.ru
 speedtest.ams14.usenet.farm
 falcon.its.utoronto.ca
 jp-nperf.verizon.net
@@ -453,6 +454,7 @@ speedtest1.nyc1.nitelusa.net
 speedtest.onedc.com.tr
 +.speedtest.ozarksgo.net
 speedtest.pingless.com
+speedtest.polycomm.net
 postapps.com
 st1.scaleway.com
 speedtest.skynetcom.ru
