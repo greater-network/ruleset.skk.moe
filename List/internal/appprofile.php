@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-01-28T08:25:55.850Z
+// # Build 2024-01-28T14:29:34.748Z
 
 declare(strict_types=1);
 
@@ -795,17 +795,22 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,myvs.download.prss.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,vscode.download.prss.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,vz.download.prss.microsoft.com,Domestic',
-        'DOMAIN-SUFFIX,wscont2.apps.microsoft.com,Domestic',
-        'DOMAIN-SUFFIX,wscont1.apps.microsoft.com,Domestic',
+        'DOMAIN-SUFFIX,devblogs.microsoft.com,Domestic',
+        'DOMAIN-SUFFIX,developer.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com,Domestic',
+        'DOMAIN-SUFFIX,docs.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,download.prss.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,download.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,download.visualstudio.microsoft.com,Domestic',
+        'DOMAIN-SUFFIX,learn.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,oemsoc.download.prss.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,officecdn.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,software.download.prss.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,storeedgefd.dsx.mp.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,sdx.microsoft.com,Domestic',
+        'DOMAIN-SUFFIX,wscont2.apps.microsoft.com,Domestic',
+        'DOMAIN-SUFFIX,wscont1.apps.microsoft.com,Domestic',
+        'DOMAIN-SUFFIX,www.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,cn.apple.com,Domestic',
         'DOMAIN-SUFFIX,cn.ls.apple.com,Domestic',
         'DOMAIN-SUFFIX,cn-ssl.ls.apple.com,Domestic',
