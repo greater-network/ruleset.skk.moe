@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-01-27T12:25:05.833Z
+// # Build 2024-01-28T08:25:55.850Z
 
 declare(strict_types=1);
 
@@ -912,6 +912,7 @@ $_ENV['Clash_Group_Config'] = [
         'PROCESS-NAME,CoreLocationAgent,Microsoft & Apple',
         'PROCESS-NAME,findmydevice-user-agent,Microsoft & Apple',
         'PROCESS-NAME,fmfd,Microsoft & Apple',
+        'PROCESS-NAME,apsd,Microsoft & Apple',
         'PROCESS-NAME,mapspushd,Microsoft & Apple',
         'PROCESS-NAME,com.apple.Maps,Microsoft & Apple',
         'PROCESS-NAME,com.apple.geod,Microsoft & Apple',
@@ -1227,17 +1228,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,wego.here.com,Global',
         'DOMAIN,media.steampowered.com,Global',
         'DOMAIN,ccmdl.adobe.com,Global',
-        'DOMAIN,news-edge.apple.com,Global',
-        'DOMAIN,news-client.apple.com,Global',
-        'DOMAIN,lookup-api.apple.com,Global',
-        'DOMAIN,itunes.apple.com,Global',
-        'DOMAIN,hls.itunes.apple.com,Global',
-        'DOMAIN,embed.music.apple.com,Global',
-        'DOMAIN,books.itunes.apple.com,Global',
-        'DOMAIN,beta.itunes.apple.com,Global',
         'DOMAIN,addons.mozilla.org,Global',
-        'DOMAIN,audiocontentdownload.apple.com,Global',
-        'DOMAIN,api-glb-sea.smoot.apple.com,Global',
         'DOMAIN-SUFFIX,quillbot.com,Global',
         'DOMAIN-SUFFIX,kwai.com,Global',
         'DOMAIN-SUFFIX,yadi.sk,Global',
@@ -1301,6 +1292,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dialogflow.com,Global',
         'DOMAIN-SUFFIX,deepmind.com,Global',
         'DOMAIN-SUFFIX,debug.com,Global',
+        'DOMAIN-SUFFIX,cloudflare-dns.com,Global',
         'DOMAIN-SUFFIX,cloudfront.net,Global',
         'DOMAIN-SUFFIX,codepen.io,Global',
         'DOMAIN-SUFFIX,costco.com,Global',
@@ -1318,7 +1310,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,autodraw.com,Global',
         'DOMAIN-SUFFIX,androidify.com,Global',
         'DOMAIN-SUFFIX,abc.xyz,Global',
-        'DOMAIN-SUFFIX,appsto.re,Global',
         'DOMAIN-SUFFIX,520cc.cc,Global',
         'DOMAIN,ees.elsevier.com,Global',
         'DOMAIN,onedrive.live.com,Global',
@@ -2094,7 +2085,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,52.82.190.0/24,Domestic',
         'IP-CIDR,52.82.192.0/18,Domestic',
         'IP-CIDR,52.83.0.0/16,Domestic',
-        'IP-CIDR,52.130.252.0/24,Domestic',
         'IP-CIDR,54.222.0.0/19,Domestic',
         'IP-CIDR,54.222.32.0/21,Domestic',
         'IP-CIDR,54.222.45.0/24,Domestic',

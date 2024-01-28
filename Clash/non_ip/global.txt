@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-01-02T14:53:07.955Z
-# Size: 96
+# Last Updated: 2024-01-28T08:25:55.889Z
+# Size: 86
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11,17 +11,7 @@
 DOMAIN,wego.here.com
 DOMAIN,media.steampowered.com
 DOMAIN,ccmdl.adobe.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-client.apple.com
-DOMAIN,lookup-api.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,hls.itunes.apple.com
-DOMAIN,embed.music.apple.com
-DOMAIN,books.itunes.apple.com
-DOMAIN,beta.itunes.apple.com
 DOMAIN,addons.mozilla.org
-DOMAIN,audiocontentdownload.apple.com
-DOMAIN,api-glb-sea.smoot.apple.com
 DOMAIN-SUFFIX,quillbot.com
 DOMAIN-SUFFIX,kwai.com
 DOMAIN-SUFFIX,yadi.sk
@@ -85,6 +75,7 @@ DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,debug.com
+DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,codepen.io
 DOMAIN-SUFFIX,costco.com
@@ -102,6 +93,5 @@ DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,abc.xyz
-DOMAIN-SUFFIX,appsto.re
 DOMAIN-SUFFIX,520cc.cc
 ################## EOF ##################
