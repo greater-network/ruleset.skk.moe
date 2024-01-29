@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-01-28T08:26:05.021Z
-# Size: 980
+# Last Updated: 2024-01-29T12:28:17.390Z
+# Size: 981
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -468,6 +468,7 @@ speedtest-ookla-roc1.synoptek.com
 speedtest.taifo.com.tw
 speedtest-tek.teksavvy.com
 speedtest2-tor.teksavvy.com
+speedtest.three.com.hk
 speedtest1.three.com.hk
 rbfibrasp01.v6tec.com.br
 ookla.nl.eu.waselpro.com
