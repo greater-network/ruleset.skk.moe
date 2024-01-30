@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-01-28T08:25:55.898Z
-# Size: 129
+# Last Updated: 2024-01-30T05:21:13.713Z
+# Size: 139
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,9 +9,7 @@
 # The ruleset supports AD blocking, tracking protection, privacy protection, anti-phishing, anti-mining
 #########################################
 DOMAIN,stun.smartgslb.com
-DOMAIN-SUFFIX,bealanews.com
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,actonservice.com
+DOMAIN-SUFFIX,eu5.net
 DOMAIN-SUFFIX,rookinews.com
 DOMAIN-SUFFIX,reminews.com
 DOMAIN-SUFFIX,lookinews.com
@@ -23,16 +21,23 @@ DOMAIN-SUFFIX,jemonews.com
 DOMAIN-SUFFIX,groovinews.com
 DOMAIN-SUFFIX,guesswhatnews.com
 DOMAIN-SUFFIX,gofenews.com
+DOMAIN-SUFFIX,bealanews.com
+DOMAIN-SUFFIX,b2bmktg.com
 DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,actonservice.com
+DOMAIN-SUFFIX,apps.iocnt.de
 DOMAIN-SUFFIX,proenergy-engenharia.com
 DOMAIN-SUFFIX,pages.net.br
 DOMAIN-SUFFIX,pantheonsite.io
 DOMAIN-SUFFIX,plesk.page
+DOMAIN-SUFFIX,p2l.info
 DOMAIN-SUFFIX,yourtrap.com
 DOMAIN-SUFFIX,youdontcare.com
 DOMAIN-SUFFIX,yolasite.com
 DOMAIN-SUFFIX,weeblysite.com
 DOMAIN-SUFFIX,webwave.dev
+DOMAIN-SUFFIX,webcindario.com
 DOMAIN-SUFFIX,webhop.net
 DOMAIN-SUFFIX,vpndns.net
 DOMAIN-SUFFIX,tarungdrajatsiokalama.com
@@ -41,6 +46,10 @@ DOMAIN-SUFFIX,temp.swtest.ru
 DOMAIN-SUFFIX,tegronews.com
 DOMAIN-SUFFIX,telemetry.mozilla.org
 DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
+DOMAIN-SUFFIX,trekkeeee.space
+DOMAIN-SUFFIX,trekkww.space
+DOMAIN-SUFFIX,trekkww.fun
+DOMAIN-SUFFIX,treker.fun
 DOMAIN-SUFFIX,try-snowplow.com
 DOMAIN-SUFFIX,tcp4.me
 DOMAIN-SUFFIX,shockynews.com
@@ -61,6 +70,7 @@ DOMAIN-SUFFIX,now-dns.top
 DOMAIN-SUFFIX,now-dns.org
 DOMAIN-SUFFIX,now-dns.net
 DOMAIN-SUFFIX,measure.office.com
+DOMAIN-SUFFIX,myenotice.com
 DOMAIN-SUFFIX,mypi.co
 DOMAIN-SUFFIX,myiphost.com
 DOMAIN-SUFFIX,huronews.com
