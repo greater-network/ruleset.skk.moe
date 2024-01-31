@@ -366,6 +366,7 @@ SUFFIX,files.reg.ru
 SUFFIX,static-effect.reg.ru
 SUFFIX,s.rfi.fr
 SUFFIX,cdn.s7s.ai
+SUFFIX,images.spr.so
 SUFFIX,tg.dev
 SUFFIX,ttl.sh
 SUFFIX,secure-uploads.ui.com
@@ -1989,6 +1990,7 @@ SUFFIX,edgestatic.azureedge.net
 SUFFIX,playwright.azureedge.net
 SUFFIX,typescript.azureedge.net
 SUFFIX,mobilecenter.azureedge.net
+SUFFIX,claritystatic.azureedge.net
 SUFFIX,xpaywalletcdn.azureedge.net
 SUFFIX,edgestorewebcdn.azureedge.net
 SUFFIX,edgeassetservice.azureedge.net

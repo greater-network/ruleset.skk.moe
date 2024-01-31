@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-01-29T07:54:48.837Z
+// # Build 2024-01-31T05:18:21.225Z
 
 declare(strict_types=1);
 
@@ -1983,7 +1983,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,45.116.32.0/22,Domestic',
         'IP-CIDR,45.116.52.0/22,Domestic',
         'IP-CIDR,45.116.100.0/22,Domestic',
-        'IP-CIDR,45.116.140.0/22,Domestic',
         'IP-CIDR,45.116.152.0/22,Domestic',
         'IP-CIDR,45.116.208.0/22,Domestic',
         'IP-CIDR,45.117.8.0/22,Domestic',
@@ -2811,7 +2810,8 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.236.252.0/22,Domestic',
         'IP-CIDR,103.237.8.0/22,Domestic',
         'IP-CIDR,103.237.28.0/23,Domestic',
-        'IP-CIDR,103.237.248.0/21,Domestic',
+        'IP-CIDR,103.237.176.0/20,Domestic',
+        'IP-CIDR,103.237.192.0/18,Domestic',
         'IP-CIDR,103.238.0.0/21,Domestic',
         'IP-CIDR,103.238.16.0/22,Domestic',
         'IP-CIDR,103.238.52.0/22,Domestic',
@@ -5060,7 +5060,16 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,221.208.0.0/12,Domestic',
         'IP-CIDR,221.224.0.0/12,Domestic',
         'IP-CIDR,222.16.0.0/12,Domestic',
-        'IP-CIDR,222.32.0.0/11,Domestic',
+        'IP-CIDR,222.32.0.0/13,Domestic',
+        'IP-CIDR,222.40.0.0/14,Domestic',
+        'IP-CIDR,222.44.0.0/16,Domestic',
+        'IP-CIDR,222.46.0.0/15,Domestic',
+        'IP-CIDR,222.48.0.0/16,Domestic',
+        'IP-CIDR,222.50.0.0/15,Domestic',
+        'IP-CIDR,222.52.0.0/14,Domestic',
+        'IP-CIDR,222.56.0.0/15,Domestic',
+        'IP-CIDR,222.58.0.0/16,Domestic',
+        'IP-CIDR,222.60.0.0/14,Domestic',
         'IP-CIDR,222.64.0.0/11,Domestic',
         'IP-CIDR,222.125.0.0/16,Domestic',
         'IP-CIDR,222.126.130.0/23,Domestic',
