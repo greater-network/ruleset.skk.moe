@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-01-29T12:28:17.390Z
-# Size: 981
+# Last Updated: 2024-01-31T12:27:44.884Z
+# Size: 983
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -548,6 +548,7 @@ speedtest.ams.sharktech.net
 qld-speedtest.spirit.com.au
 vic-speedtest.spirit.com.au
 dallas-st.sumofiber.com
+spd01-adl.au.superloop.com
 spd01-bne.au.superloop.com
 spd01-mel.au.superloop.com
 spd02-syd.au.superloop.com
@@ -922,6 +923,7 @@ a-speedtest.brasildigital.net.br
 miami.getstreamhosting.com
 speedtest.getstreamhosting.com
 speedtest_nl.holdstation.exchange
+speedtest_de_fra.holdstation.exchange
 velocidade.idnetttelecom.com.br
 speedtest.infowayconect.com.br
 speedtest-sydney.macquarietelecom.com
