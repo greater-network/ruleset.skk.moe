@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-01-31T12:27:44.884Z
-# Size: 983
+# Last Updated: 2024-02-01T12:28:15.494Z
+# Size: 1002
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -29,6 +29,7 @@ net.0ms.dev
 speedtest.23m.com
 speedtest.asvt.ru
 +.srvr.bell.ca
+speedtest.beyn.in
 speed.data.cr
 speedtest.ddps.jp
 +.ookla-speedtest.fsr.com
@@ -86,6 +87,7 @@ tu.ticco.ae
 speedtest10.vqbn.com
 speedtest.w-net.us
 speedtest-intl.xl.co.id
+speedtest.39d.co.uk
 speedtest1.ah163.com
 speedtest.apnic.net
 speedperf.axione.fr
@@ -213,12 +215,14 @@ muglaspeedtest.posive.net
 edirnespeedtest.posive.net
 manisaspeedtest.posive.net
 bilecikspeedtest.posive.net
+cankirispeedtest.posive.net
 kocaelispeedtest.posive.net
 kutahyaspeedtest.posive.net
 sakaryaspeedtest.posive.net
 istanbulspeedtest.posive.net
 balikesirspeedtest.posive.net
 canakkalespeedtest.posive.net
+kastamonuspeedtest.posive.net
 kirklarelispeedtest.posive.net
 speedtest-de.pq.hosting
 speedtest-ru.pq.hosting
@@ -369,6 +373,7 @@ speedtest.tushino.com
 speedtest.twds.com.tw
 speedtest.twerion.net
 twincher.ru
+speedtest.twincher.ru
 speedtest.ams14.usenet.farm
 falcon.its.utoronto.ca
 jp-nperf.verizon.net
@@ -574,6 +579,7 @@ hizaydin.durunet.com.tr
 hizbursa.durunet.com.tr
 hizduzce.durunet.com.tr
 hizizmir.durunet.com.tr
+hizsamsun.durunet.com.tr
 hizkutahya.durunet.com.tr
 hizsakarya.durunet.com.tr
 hizbalikesir.durunet.com.tr
@@ -596,6 +602,7 @@ lg-tok.fdcservers.net
 lg-tor.fdcservers.net
 lg-par2.fdcservers.net
 speedtest01.fibernetics.ca
+ookla.fullisp.com.br
 speedtest.la2.gigabitnow.com
 speed.golddata.co.cr
 speed06.gonetspeed.com
@@ -635,6 +642,7 @@ speednld.phoenixnap.com
 speedsin.phoenixnap.com
 speedtest.pilotfiber.com
 lg.mia.plasmarack.com
+sp01.rbfibra.net.br
 speedtest.redactus.co.uk
 speedtest.redewsp.com.br
 speedtest.sewan-group.de
@@ -648,6 +656,7 @@ speedtestlon.telefonica.com
 speed.tepenet.com.tr
 dal-speedtest.transtelco.net
 speedtest.tropic-host.de
+speedtest.unifica.net.br
 speedtest.upnetix.com.br
 speedtest.vanciscloud.nl
 speedtest.dc3.vmvault.com.au
@@ -742,6 +751,7 @@ denizli.verinomidns.com
 istanbul.verinomidns.com
 +.speedtest.vodafone.com.au
 speedtest3.vodafone.com.tr
+speedtest8.vodafone.com.tr
 speedtest2.voicehost.co.uk
 speedtest.webturbo.net.br
 speedtest.wifitelekom.com
@@ -757,6 +767,7 @@ sp1.campanaworks.com
 speedtest.cyberline.com.br
 speedtest.cyberlink.net.br
 speedtestuk1.cybersmart.co.za
+dsteste.dstelecom.net.br
 speedtest.embrasnet.com.br
 speedtest.empireaccess.com
 speed.fgtelecom.com.br
@@ -835,6 +846,7 @@ teste.easytecham.com.br
 velocidade.exytelecom.com.br
 spd-01.thn.fullfibre.systems
 teste.jlatelecom.com.br
+teste.mwhtelecom.com.br
 speedtest.myrepublic.com.sg
 medidor.nortelecom.com.br
 velocimetro.proveinter.com.br
@@ -863,6 +875,7 @@ speedtest2.comvergence.com.au
 speedtest.conectjadns.com.br
 sp1.fiberlinkce.com.br
 ookla.fordconnect.com.br
+speed.grinternett.com.br
 +.test.gslnetworks.com.au
 +.speedtest.gslnetworks.com.au
 speedtest.infogamesvr.net.br
@@ -876,6 +889,7 @@ ookla.ddnsgeek.com
 bne-speed.overthewire.com.au
 mel-speed.overthewire.com.au
 syd-speed.overthewire.com.au
+france.pasargadmizban.com
 ultraconnect.ravisystems.com.br
 ooklatins.redeconexaonet.com
 speedtest.redrawinternet.com
@@ -889,6 +903,7 @@ esk1speedtest.turktelekom.com.tr
 gay1speedtest.turktelekom.com.tr
 geb1speedtest.turktelekom.com.tr
 gun1speedtest.turktelekom.com.tr
+sam1speedtest.turktelekom.com.tr
 umr1speedtest.turktelekom.com.tr
 speedtest.unlimitedfiber.com
 speedtest.voip-unlimited.net
@@ -910,6 +925,7 @@ speed.smartselects.online
 st-izmir-1.turksatkablo.com.tr
 st-atakoy-1.turksatkablo.com.tr
 st-manisa-1.turksatkablo.com.tr
+st-samsun-1.turksatkablo.com.tr
 st-yalova-1.turksatkablo.com.tr
 st-denizli-1.turksatkablo.com.tr
 st-tekirdag-1.turksatkablo.com.tr
@@ -929,6 +945,7 @@ speedtest.infowayconect.com.br
 speedtest-sydney.macquarietelecom.com
 speedtest-brisbane.macquarietelecom.com
 speedtest-melbourne.macquarietelecom.com
+speedtest.mustafasevinc.com.tr
 st2.octopustelecom.co.uk
 speedtest.redevisualnet.com.br
 speedtest.seveninternet.com.br
@@ -938,6 +955,7 @@ suntechspeedtest.com
 teste.suprainternet.com.br
 teste.tstelecomltda.com.br
 speedtest.verdenetfibra.com.br
+speedtest.vipnetconexao.com.br
 speedtest.visiontelecom.com.br
 speedtest.americatelecom.net.br
 bmspeed.chinaunicomglobal.com
@@ -954,6 +972,7 @@ speedtest.extremanetwork.com.br
 teste.freedomnetwork.net.br
 st2.barquisimeto.intercomservicios.com
 speedtest.japanettelecom.com.br
+st.jnettelecom-am.com.br
 speedtest1.kablosuzonline.com.tr
 speedtest2.lightningfibre.net.uk
 speedteste.newsolutionnet.com.br
