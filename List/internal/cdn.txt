@@ -1146,6 +1146,7 @@ SUFFIX,happyon.jp
 SUFFIX,hbfile.net
 SUFFIX,hbomax.com
 SUFFIX,hbonow.com
+SUFFIX,img.hcloud.lat
 SUFFIX,hembed.com
 SUFFIX,assets.heroku.com
 SUFFIX,cdn2.hextom.com
@@ -2612,6 +2613,7 @@ SUFFIX,static.tradingview.com
 SUFFIX,s3-symbol-logo.tradingview.com
 SUFFIX,widgets.tree-nation.com
 SUFFIX,uber-assets.com
+SUFFIX,uploadhouse.com
 SUFFIX,userfiles.uptimerobot.com
 SUFFIX,asset-cdn.uscardforum.com
 SUFFIX,js.usemessages.com
@@ -2834,6 +2836,7 @@ SUFFIX,www.typescriptlang.org
 SUFFIX,washingtonpost.com
 SUFFIX,talk.washingtonpost.com
 SUFFIX,whispersystems.org
+SUFFIX,yourimageshare.com
 SUFFIX,ajax.googleapis.com
 SUFFIX,ftp.androidfilehost.com
 SUFFIX,ava6.androidfilehost.com

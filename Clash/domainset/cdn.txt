@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-02-01T12:28:03.848Z
-# Size: 1849
+# Last Updated: 2024-02-01T15:38:37.087Z
+# Size: 1852
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -458,6 +458,9 @@ i.imgflip.com
 +.imageban.ru
 +.cdn-uploads.huggingface.co
 +.missuo.ru
++.uploadhouse.com
++.yourimageshare.com
+img.hcloud.lat
 www.datocms-assets.com
 images.pexels.com
 cdn.shopify.com
