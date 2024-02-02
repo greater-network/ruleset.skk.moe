@@ -2636,6 +2636,7 @@ SUFFIX,ipfs.arching-kaos.com
 SUFFIX,ipfs.best-practice.se
 SUFFIX,bootstrapcdn.com
 SUFFIX,bundlephobia.com
+SUFFIX,assets.buttondown.email
 SUFFIX,cdn-telegram.org
 SUFFIX,cdninstagram.com
 SUFFIX,ipfs.chisdealhd.co.uk
