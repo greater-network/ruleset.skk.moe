@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-02-01T15:38:45.936Z
-# Size: 1003
+# Last Updated: 2024-02-02T12:58:16.883Z
+# Size: 1008
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -57,6 +57,7 @@ ams-eq6-tptest1.31173.se
 fra-eq5-tptest1.31173.se
 lon-ix1-tptest1.31173.se
 speedtest.58243.as
+speedtest-nyc.bit0.xyz
 ookla.uk.eu.bvpn.com
 speedtest1.claro.cr
 speedtest.ct.co.cr
@@ -490,6 +491,7 @@ nsw-brwy-speedtest.aarnet.net.au
 tas-dwpk-speedtest.aarnet.net.au
 vic-pmla-speedtest.aarnet.net.au
 tsdvuspeedtest01p.allstream.com
+speedtest01.srv.hcvlny.alticeusa.net
 speedtest03.srv.whplny.alticeusa.net
 ookla-ita.asanet.tec.br
 sp1.asthriona.com
@@ -940,6 +942,7 @@ a-speedtest.brasildigital.net.br
 miami.getstreamhosting.com
 speedtest.getstreamhosting.com
 speedtest_nl.holdstation.exchange
+speedtest_ny.holdstation.exchange
 speedtest_de_fra.holdstation.exchange
 velocidade.idnetttelecom.com.br
 speedtest.infowayconect.com.br
@@ -990,6 +993,8 @@ speed.syd.aussiebroadband.com.au
 speedtest.cerberusnetworks.co.uk
 speedtest.conectaamazonia.com.br
 speedtest.greenlightnetworks.com
+speedtest-buffalo.greenlightnetworks.com
+speedtest-binghamton.greenlightnetworks.com
 velocidade1.i9internetfibra.com.br
 +.netspeedtestmaster.com
 speed.newclicktelecom.com.br
