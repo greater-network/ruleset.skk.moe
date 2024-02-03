@@ -1927,6 +1927,7 @@ SUFFIX,libs.quillbot.com
 SUFFIX,assets.quillbot.com
 SUFFIX,quoracdn.net
 SUFFIX,quriobot.com
+SUFFIX,redircdn.com
 SUFFIX,api.roboflow.com
 SUFFIX,app.roboflow.com
 SUFFIX,cdn.roboflow.com
@@ -2619,6 +2620,7 @@ SUFFIX,static.tradingview.com
 SUFFIX,s3-symbol-logo.tradingview.com
 SUFFIX,widgets.tree-nation.com
 SUFFIX,uber-assets.com
+SUFFIX,static.underhentai.net
 SUFFIX,uploadhouse.com
 SUFFIX,userfiles.uptimerobot.com
 SUFFIX,asset-cdn.uscardforum.com

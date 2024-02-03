@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-02-03T13:15:40.096Z
-# Size: 1858
+# Last Updated: 2024-02-03T15:48:05.752Z
+# Size: 1860
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1866,4 +1866,6 @@ static.reo.dev
 assets.buttondown.email
 +.uvcdn.com
 +.xda-cdn.com
+static.underhentai.net
+redircdn.com
 ################## EOF ##################
