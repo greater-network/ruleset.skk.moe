@@ -978,6 +978,7 @@ SUFFIX,cdn.unwire.hk
 SUFFIX,js.upload.io
 SUFFIX,assets.upload.io
 SUFFIX,fonts.upset.dev
+SUFFIX,uvcdn.com
 SUFFIX,v-cdn.net
 SUFFIX,v2fly.org
 SUFFIX,v2ray.com
@@ -1063,6 +1064,7 @@ SUFFIX,assets-fe.change.org
 SUFFIX,cf.channel.io
 SUFFIX,cdn.channel.io
 SUFFIX,chrome.com
+SUFFIX,sf-flow-web-cdn.ciciai.com
 SUFFIX,hey10.cjkypo.com
 SUFFIX,media.cmx.edu.kg
 SUFFIX,codepen.io
@@ -1436,6 +1438,7 @@ SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
 SUFFIX,booklive.jp
 SUFFIX,botsrv2.com
 SUFFIX,cdn.bsky.social
+SUFFIX,bstatic.com
 SUFFIX,static.bytepan.com
 SUFFIX,cdn1122.com
 SUFFIX,cdn2020.com
@@ -1687,6 +1690,7 @@ SUFFIX,windows.net
 SUFFIX,file.core.windows.net
 SUFFIX,cdn.writeas.net
 SUFFIX,pics.x-n-x-x.pro
+SUFFIX,xda-cdn.com
 SUFFIX,xfinity.com
 SUFFIX,xingcdn.com
 SUFFIX,mirrors.xtom.com.hk
@@ -2076,6 +2080,7 @@ SUFFIX,futurecdn.net
 SUFFIX,gcld-line.com
 SUFFIX,i.geekflare.com
 SUFFIX,assets.getpocket.com
+SUFFIX,githubapp.com
 SUFFIX,cdn.glitch.global
 SUFFIX,goodreads.com
 SUFFIX,googleapis.cn
@@ -2287,6 +2292,7 @@ SUFFIX,media.convertkit.com
 SUFFIX,assets.convertkit.com
 SUFFIX,cdn.datatables.net
 SUFFIX,deviantart.com
+SUFFIX,deviantart.net
 SUFFIX,a.deviantart.net
 SUFFIX,st.deviantart.net
 SUFFIX,dialogflow.com
@@ -2306,6 +2312,7 @@ SUFFIX,ebaystatic.com
 SUFFIX,cdn2.editmysite.com
 SUFFIX,images.emojiterra.com
 SUFFIX,images.everyplate.com
+SUFFIX,feedburner.com
 SUFFIX,ffzy-play6.com
 SUFFIX,vip.ffzy-play6.com
 SUFFIX,firebaseio.com
@@ -2417,6 +2424,7 @@ SUFFIX,telegram.space
 SUFFIX,tensorflow.org
 SUFFIX,teraboxcdn.com
 SUFFIX,theinitium.com
+SUFFIX,themoviedb.org
 SUFFIX,tik-tokapi.com
 SUFFIX,widget.trustpilot.com
 SUFFIX,simplicity.trustpilot.com
@@ -2485,6 +2493,7 @@ SUFFIX,divio-media.net
 SUFFIX,dnsleaktest.com
 SUFFIX,img.domaintools.com
 SUFFIX,source.domaintools.com
+SUFFIX,cdn.dotaoutpost.com
 SUFFIX,live.fanmingming.com
 SUFFIX,static.fasthosts.co.uk
 SUFFIX,fbmessenger.com
@@ -2689,6 +2698,7 @@ SUFFIX,publicsuffix.org
 SUFFIX,pythonhosted.org
 SUFFIX,redditstatic.com
 SUFFIX,cdn.robinpro.gallery
+SUFFIX,shutterstock.com
 SUFFIX,image.shutterstock.com
 SUFFIX,ipfs.soul-network.com
 SUFFIX,spotifycodes.com

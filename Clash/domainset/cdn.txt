@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-02-02T05:24:21.562Z
-# Size: 1853
+# Last Updated: 2024-02-03T13:15:40.096Z
+# Size: 1858
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -622,6 +622,7 @@ cdn.wishpond.net
 app.viral-loops.com
 widget.cluster.groovehq.com
 bot.ivy.ai
+cdn.dotaoutpost.com
 cdn-yotpo-images-production.yotpo.com
 img.announcekit.app
 cdn.announcekit.app
@@ -886,6 +887,7 @@ info.cloudflare.com
 cf-assets.www.cloudflare.com
 +.nel.cloudflare.com
 favicons.teams.cloudflare.com
+sf-flow-web-cdn.ciciai.com
 assets.tumblr.com
 static.tumblr.com
 +.media.tumblr.com
@@ -1091,6 +1093,7 @@ i.dailymail.co.uk
 scripts.dailymail.co.uk
 gfx-data.news-engineering.aws.wapo.pub
 talk.washingtonpost.com
++.bstatic.com
 i.guim.co.uk
 interactive.guim.co.uk
 static.theguardian.com
@@ -1861,4 +1864,6 @@ cdn.ywxi.net
 +.ezocdn.com
 static.reo.dev
 assets.buttondown.email
++.uvcdn.com
++.xda-cdn.com
 ################## EOF ##################

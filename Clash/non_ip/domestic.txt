@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-01-25T09:49:19.786Z
-# Size: 564
+# Last Updated: 2024-02-03T13:15:33.315Z
+# Size: 574
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -49,6 +49,7 @@ DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencent.com.cn
 DOMAIN-SUFFIX,tencent-cloud.net
+DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,tmall.hk
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,tbcache.com
@@ -127,6 +128,7 @@ DOMAIN-SUFFIX,qhimgs0.com
 DOMAIN-SUFFIX,qhimg.com
 DOMAIN-SUFFIX,qzone.com
 DOMAIN-SUFFIX,qqmail.com
+DOMAIN-SUFFIX,qqmail.cn
 DOMAIN-SUFFIX,qq.wang
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qq.com.cn
@@ -216,9 +218,11 @@ DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,wpscdn.com
 DOMAIN-SUFFIX,wo.cn
 DOMAIN-SUFFIX,bcebos.com
+DOMAIN-SUFFIX,bcelive.com
 DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,bytecdn.cn
 DOMAIN-SUFFIX,bilicomics.com
+DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.cn
 DOMAIN-SUFFIX,biliapi.net
@@ -269,6 +273,8 @@ DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,igamecj.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,infinitynewtab.com
+DOMAIN-SUFFIX,ifengimg.com
+DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ibreader.com
 DOMAIN-SUFFIX,ithome.com
 DOMAIN-SUFFIX,itc.cn
@@ -354,6 +360,8 @@ DOMAIN-SUFFIX,ronghub.com
 DOMAIN-SUFFIX,realmemobile.com
 DOMAIN-SUFFIX,realmebbs.com
 DOMAIN-SUFFIX,realme.com
+DOMAIN-SUFFIX,oray-img.com
+DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,oneplusbbs.com
 DOMAIN-SUFFIX,oneplus.cn
@@ -501,6 +509,7 @@ DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,alipay.cn
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alipay.com.cn
+DOMAIN-SUFFIX,alikunlun.net
 DOMAIN-SUFFIX,alikunlun.com
 DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,aliyundrive.com
@@ -537,6 +546,7 @@ DOMAIN-SUFFIX,52tesla.com
 DOMAIN-SUFFIX,51ctocdn.cn
 DOMAIN-SUFFIX,51cto.com
 DOMAIN-SUFFIX,4399.com
+DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,360webcache.com
 DOMAIN-SUFFIX,360tpcdn.com

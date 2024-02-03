@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Enhanced Global Services
-# Last Updated: 2024-01-02T14:53:07.958Z
-# Size: 269
+# Last Updated: 2024-02-03T13:15:40.137Z
+# Size: 274
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,south-plus.net
 DOMAIN-SUFFIX,south-plus.org
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,slideshare.net
+DOMAIN-SUFFIX,shutterstock.com
 DOMAIN-SUFFIX,shopee.tw
 DOMAIN-SUFFIX,shadowsocks.org
 DOMAIN-SUFFIX,saucenao.com
@@ -110,6 +111,7 @@ DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xing.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xfinity.com
 DOMAIN-SUFFIX,x.com
@@ -177,6 +179,7 @@ DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,deviantart.net
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,deezer.com
 DOMAIN-SUFFIX,dailymail.co.uk
@@ -190,7 +193,6 @@ DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,gate.io
-DOMAIN-SUFFIX,gcld-line.com
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gmail.com
@@ -203,10 +205,11 @@ DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gcld-line.com
+DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flickr.com
-DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,fc2.com
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,facebook-hardware.com
@@ -217,6 +220,8 @@ DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,feedly.com
+DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,bwh1.net
 DOMAIN-SUFFIX,brave.com
