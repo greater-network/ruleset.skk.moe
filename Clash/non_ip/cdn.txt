@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-01-29T07:54:48.833Z
-# Size: 341
+# Last Updated: 2024-02-03T12:26:13.464Z
+# Size: 351
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -56,7 +56,9 @@ DOMAIN-SUFFIX,s3-deprecated.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-deprecated.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,s3-fips-us-gov-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-fips-us-gov-west-1.amazonaws.com
+DOMAIN-SUFFIX,s3-fips.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-fips.ca-central-1.amazonaws.com
+DOMAIN-SUFFIX,s3-fips.dualstack.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-fips.dualstack.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-fips.dualstack.us-gov-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-fips.dualstack.us-gov-west-1.amazonaws.com
@@ -88,7 +90,9 @@ DOMAIN-SUFFIX,s3-ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,s3-ap-northeast-3.amazonaws.com
 DOMAIN-SUFFIX,s3-ap-northeast-2.amazonaws.com
 DOMAIN-SUFFIX,s3-ap-northeast-1.amazonaws.com
+DOMAIN-SUFFIX,s3-accesspoint-fips.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint-fips.ca-central-1.amazonaws.com
+DOMAIN-SUFFIX,s3-accesspoint-fips.dualstack.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint-fips.dualstack.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint-fips.dualstack.us-gov-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint-fips.dualstack.us-gov-west-1.amazonaws.com
@@ -103,6 +107,7 @@ DOMAIN-SUFFIX,s3-accesspoint-fips.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint-fips.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint-fips.us-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.sa-east-1.amazonaws.com
+DOMAIN-SUFFIX,s3-accesspoint.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.il-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.me-south-1.amazonaws.com
@@ -122,6 +127,7 @@ DOMAIN-SUFFIX,s3-accesspoint.eu-west-3.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.eu-west-2.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.eu-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.dualstack.sa-east-1.amazonaws.com
+DOMAIN-SUFFIX,s3-accesspoint.dualstack.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.dualstack.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.dualstack.il-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-accesspoint.dualstack.me-south-1.amazonaws.com
@@ -205,6 +211,7 @@ DOMAIN-SUFFIX,s3-website.fr-par.scw.cloud
 DOMAIN-SUFFIX,s3-website.nl-ams.scw.cloud
 DOMAIN-SUFFIX,s3-website.pl-waw.scw.cloud
 DOMAIN-SUFFIX,s3-website.sa-east-1.amazonaws.com
+DOMAIN-SUFFIX,s3-website.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.il-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.me-south-1.amazonaws.com
@@ -216,6 +223,7 @@ DOMAIN-SUFFIX,s3-website.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.us-west-2.amazonaws.com
 DOMAIN-SUFFIX,s3-website.us-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.sa-east-1.amazonaws.com
+DOMAIN-SUFFIX,s3-website.dualstack.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-website.dualstack.us-west-2.amazonaws.com
@@ -255,6 +263,7 @@ DOMAIN-SUFFIX,s3.fr-par.scw.cloud
 DOMAIN-SUFFIX,s3.nl-ams.scw.cloud
 DOMAIN-SUFFIX,s3.pl-waw.scw.cloud
 DOMAIN-SUFFIX,s3.sa-east-1.amazonaws.com
+DOMAIN-SUFFIX,s3.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3.isk02.sakurastorage.jp
 DOMAIN-SUFFIX,s3.isk01.sakurastorage.jp
@@ -270,6 +279,7 @@ DOMAIN-SUFFIX,s3.eu-west-3.amazonaws.com
 DOMAIN-SUFFIX,s3.eu-west-2.amazonaws.com
 DOMAIN-SUFFIX,s3.eu-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.dualstack.sa-east-1.amazonaws.com
+DOMAIN-SUFFIX,s3.dualstack.ca-west-1.amazonaws.com
 DOMAIN-SUFFIX,s3.dualstack.ca-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3.dualstack.il-central-1.amazonaws.com
 DOMAIN-SUFFIX,s3.dualstack.me-south-1.amazonaws.com

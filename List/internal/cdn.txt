@@ -33,6 +33,7 @@ SUFFIX,s3.fr-par.scw.cloud
 SUFFIX,s3.nl-ams.scw.cloud
 SUFFIX,s3.pl-waw.scw.cloud
 SUFFIX,elasticbeanstalk.com
+SUFFIX,blob.core.windows.net
 SUFFIX,githubusercontent.com
 SUFFIX,storage.yandexcloud.net
 SUFFIX,s3.isk01.sakurastorage.jp
@@ -46,6 +47,7 @@ SUFFIX,s3-us-east-2.amazonaws.com
 SUFFIX,s3-us-west-1.amazonaws.com
 SUFFIX,s3-us-west-2.amazonaws.com
 SUFFIX,s3.ap-east-1.amazonaws.com
+SUFFIX,s3.ca-west-1.amazonaws.com
 SUFFIX,s3.eu-west-1.amazonaws.com
 SUFFIX,s3.eu-west-2.amazonaws.com
 SUFFIX,s3.eu-west-3.amazonaws.com
@@ -84,6 +86,7 @@ SUFFIX,s3-ap-northeast-2.amazonaws.com
 SUFFIX,s3-ap-northeast-3.amazonaws.com
 SUFFIX,s3-ap-southeast-1.amazonaws.com
 SUFFIX,s3-ap-southeast-2.amazonaws.com
+SUFFIX,s3-fips.ca-west-1.amazonaws.com
 SUFFIX,s3-fips.us-east-1.amazonaws.com
 SUFFIX,s3-fips.us-east-2.amazonaws.com
 SUFFIX,s3-fips.us-west-1.amazonaws.com
@@ -102,6 +105,7 @@ SUFFIX,s3-website-us-east-1.amazonaws.com
 SUFFIX,s3-website-us-west-1.amazonaws.com
 SUFFIX,s3-website-us-west-2.amazonaws.com
 SUFFIX,s3-website.ap-east-1.amazonaws.com
+SUFFIX,s3-website.ca-west-1.amazonaws.com
 SUFFIX,s3-website.eu-west-1.amazonaws.com
 SUFFIX,s3-website.eu-west-2.amazonaws.com
 SUFFIX,s3-website.eu-west-3.amazonaws.com
@@ -122,6 +126,7 @@ SUFFIX,s3-website.eu-south-1.amazonaws.com
 SUFFIX,s3-website.eu-south-2.amazonaws.com
 SUFFIX,s3-website.me-south-1.amazonaws.com
 SUFFIX,s3.dualstack.ap-east-1.amazonaws.com
+SUFFIX,s3.dualstack.ca-west-1.amazonaws.com
 SUFFIX,s3.dualstack.eu-west-1.amazonaws.com
 SUFFIX,s3.dualstack.eu-west-2.amazonaws.com
 SUFFIX,s3.dualstack.eu-west-3.amazonaws.com
@@ -147,6 +152,7 @@ SUFFIX,s3.dualstack.eu-south-1.amazonaws.com
 SUFFIX,s3.dualstack.eu-south-2.amazonaws.com
 SUFFIX,s3.dualstack.me-south-1.amazonaws.com
 SUFFIX,s3-accesspoint.ap-east-1.amazonaws.com
+SUFFIX,s3-accesspoint.ca-west-1.amazonaws.com
 SUFFIX,s3-accesspoint.eu-west-1.amazonaws.com
 SUFFIX,s3-accesspoint.eu-west-2.amazonaws.com
 SUFFIX,s3-accesspoint.eu-west-3.amazonaws.com
@@ -196,6 +202,7 @@ SUFFIX,s3-accesspoint.eu-central-1.amazonaws.com
 SUFFIX,s3-accesspoint.eu-central-2.amazonaws.com
 SUFFIX,s3-accesspoint.il-central-1.amazonaws.com
 SUFFIX,s3-accesspoint.me-central-1.amazonaws.com
+SUFFIX,s3-fips.dualstack.ca-west-1.amazonaws.com
 SUFFIX,s3-fips.dualstack.us-east-1.amazonaws.com
 SUFFIX,s3-fips.dualstack.us-east-2.amazonaws.com
 SUFFIX,s3-fips.dualstack.us-west-1.amazonaws.com
@@ -216,6 +223,7 @@ SUFFIX,s3.dualstack.ap-southeast-3.amazonaws.com
 SUFFIX,s3.dualstack.ap-southeast-4.amazonaws.com
 SUFFIX,s3-accesspoint.us-gov-east-1.amazonaws.com
 SUFFIX,s3-accesspoint.us-gov-west-1.amazonaws.com
+SUFFIX,s3-accesspoint-fips.ca-west-1.amazonaws.com
 SUFFIX,s3-accesspoint-fips.us-east-1.amazonaws.com
 SUFFIX,s3-accesspoint-fips.us-east-2.amazonaws.com
 SUFFIX,s3-accesspoint-fips.us-west-1.amazonaws.com
@@ -235,6 +243,7 @@ SUFFIX,s3-object-lambda.me-central-1.amazonaws.com
 SUFFIX,s3-fips.dualstack.ca-central-1.amazonaws.com
 SUFFIX,s3-object-lambda.us-gov-east-1.amazonaws.com
 SUFFIX,s3-object-lambda.us-gov-west-1.amazonaws.com
+SUFFIX,s3-website.dualstack.ca-west-1.amazonaws.com
 SUFFIX,s3-website.dualstack.eu-west-1.amazonaws.com
 SUFFIX,s3-website.dualstack.eu-west-3.amazonaws.com
 SUFFIX,s3-website.dualstack.sa-east-1.amazonaws.com
@@ -259,6 +268,7 @@ SUFFIX,s3-accesspoint-fips.us-gov-west-1.amazonaws.com
 SUFFIX,s3-website.dualstack.ca-central-1.amazonaws.com
 SUFFIX,s3-website.dualstack.eu-central-1.amazonaws.com
 SUFFIX,s3-accesspoint.dualstack.ap-east-1.amazonaws.com
+SUFFIX,s3-accesspoint.dualstack.ca-west-1.amazonaws.com
 SUFFIX,s3-accesspoint.dualstack.eu-west-1.amazonaws.com
 SUFFIX,s3-accesspoint.dualstack.eu-west-2.amazonaws.com
 SUFFIX,s3-accesspoint.dualstack.eu-west-3.amazonaws.com
@@ -286,6 +296,7 @@ SUFFIX,s3-accesspoint.dualstack.il-central-1.amazonaws.com
 SUFFIX,s3-accesspoint.dualstack.me-central-1.amazonaws.com
 SUFFIX,s3-accesspoint.dualstack.us-gov-east-1.amazonaws.com
 SUFFIX,s3-accesspoint.dualstack.us-gov-west-1.amazonaws.com
+SUFFIX,s3-accesspoint-fips.dualstack.ca-west-1.amazonaws.com
 SUFFIX,s3-accesspoint-fips.dualstack.us-east-1.amazonaws.com
 SUFFIX,s3-accesspoint-fips.dualstack.us-east-2.amazonaws.com
 SUFFIX,s3-accesspoint-fips.dualstack.us-west-1.amazonaws.com
@@ -1673,7 +1684,6 @@ SUFFIX,unlimited-cdn.waifu2x.net
 SUFFIX,wdfiles.com
 SUFFIX,uploads-ssl.webflow.com
 SUFFIX,windows.net
-SUFFIX,blob.core.windows.net
 SUFFIX,file.core.windows.net
 SUFFIX,cdn.writeas.net
 SUFFIX,pics.x-n-x-x.pro
@@ -2009,19 +2019,6 @@ SUFFIX,wac-cdn-2.atlassian.com
 SUFFIX,product-downloads.atlassian.com
 SUFFIX,avdocker3.com
 SUFFIX,awsstatic.com
-SUFFIX,spoppe-b.azureedge.net
-SUFFIX,ni-assets.azureedge.net
-SUFFIX,edgestatic.azureedge.net
-SUFFIX,playwright.azureedge.net
-SUFFIX,typescript.azureedge.net
-SUFFIX,mobilecenter.azureedge.net
-SUFFIX,claritystatic.azureedge.net
-SUFFIX,xpaywalletcdn.azureedge.net
-SUFFIX,edgestorewebcdn.azureedge.net
-SUFFIX,edgeassetservice.azureedge.net
-SUFFIX,vscodeexperiments.azureedge.net
-SUFFIX,edge-mobile-static.azureedge.net
-SUFFIX,edge-consumer-static.azureedge.net
 SUFFIX,secure.beer7live.com
 SUFFIX,img.bigcloud.cyou
 SUFFIX,js-cdn.blockchair.io
@@ -2831,8 +2828,6 @@ SUFFIX,proxy.safebrowsing.apple
 SUFFIX,spotifynewsroom.jp
 SUFFIX,steamcommunity.com
 SUFFIX,image.theblockbeats.info
-SUFFIX,vscode-sync.trafficmanager.net
-SUFFIX,vscode-sync-insiders.trafficmanager.net
 SUFFIX,www.typescriptlang.org
 SUFFIX,washingtonpost.com
 SUFFIX,talk.washingtonpost.com
@@ -2907,6 +2902,7 @@ SUFFIX,lumiere-a.akamaihd.net
 SUFFIX,misskeyusercontent.com
 SUFFIX,screenshots.debian.net
 SUFFIX,skills-assets.pstmn.io
+SUFFIX,spoppe-b.azureedge.net
 SUFFIX,spoprod-a.akamaihd.net
 SUFFIX,spotify-everywhere.com
 SUFFIX,storage.googleapis.com
@@ -2922,16 +2918,20 @@ SUFFIX,hboasia3-i.akamaihd.net
 SUFFIX,hboasia4-i.akamaihd.net
 SUFFIX,hboasia5-i.akamaihd.net
 SUFFIX,netlify-rum.netlify.app
+SUFFIX,ni-assets.azureedge.net
 SUFFIX,sciencedirectassets.com
 SUFFIX,steamcdn-a.akamaihd.net
 SUFFIX,vsmarketplacebadges.dev
 SUFFIX,youtubei.googleapis.com
 SUFFIX,1passwordusercontent.com
 SUFFIX,brick.freetls.fastly.net
+SUFFIX,edgestatic.azureedge.net
 SUFFIX,firestore.googleapis.com
 SUFFIX,hubspotusercontent30.com
 SUFFIX,hubspotusercontent30.net
 SUFFIX,mycommerce.akamaized.net
+SUFFIX,playwright.azureedge.net
+SUFFIX,typescript.azureedge.net
 SUFFIX,viu-static.akamaized.net
 SUFFIX,bcbolthboa-a.akamaihd.net
 SUFFIX,creativajs.altervista.org
@@ -2951,9 +2951,11 @@ SUFFIX,embedwistia-a.akamaihd.net
 SUFFIX,hackerone-user-content.com
 SUFFIX,hubspotusercontent-eu1.net
 SUFFIX,hubspotusercontent-na1.net
+SUFFIX,mobilecenter.azureedge.net
 SUFFIX,runkit-packages-static.com
 SUFFIX,useruploads.visualwebsiteoptimizer.com
 SUFFIX,akamai-content-delivery.com
+SUFFIX,claritystatic.azureedge.net
 SUFFIX,hbogoprod-vod.akamaized.net
 SUFFIX,img-s-msn-com.akamaized.net
 SUFFIX,itvpnpmobile-a.akamaihd.net
@@ -2961,6 +2963,7 @@ SUFFIX,p-bstarstatic.akamaized.net
 SUFFIX,safebrowsing.googleapis.com
 SUFFIX,staticasiafox.akamaized.net
 SUFFIX,tvdownloaddw-a.akamaihd.net
+SUFFIX,xpaywalletcdn.azureedge.net
 SUFFIX,agechecker-northern-apps.com
 SUFFIX,certificate-transparency.org
 SUFFIX,dai3fd1oh325y.cloudfront.net
@@ -2982,14 +2985,21 @@ SUFFIX,d2anahhhmp1ffz.cloudfront.net
 SUFFIX,d3196yreox78o9.cloudfront.net
 SUFFIX,d349g9zuie06uo.cloudfront.net
 SUFFIX,d3c7rimkq79yfu.cloudfront.net
+SUFFIX,edgestorewebcdn.azureedge.net
 SUFFIX,freeshippingbar.herokuapp.com
+SUFFIX,edgeassetservice.azureedge.net
 SUFFIX,firebasestorage.googleapis.com
 SUFFIX,steamuserimages-a.akamaihd.net
+SUFFIX,vscode-sync.trafficmanager.net
 SUFFIX,steamusercontent-a.akamaihd.net
+SUFFIX,vscodeexperiments.azureedge.net
+SUFFIX,edge-mobile-static.azureedge.net
+SUFFIX,edge-consumer-static.azureedge.net
 SUFFIX,upos-bstar-mirrorakam.akamaized.net
 SUFFIX,upos-bstar1-mirrorakam.akamaized.net
 SUFFIX,officecdn-microsoft-com.akamaized.net
 SUFFIX,runkit-packages-static-executables.com
+SUFFIX,vscode-sync-insiders.trafficmanager.net
 SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net
 SUFFIX,practicaldev-herokuapp-com.freetls.fastly.net
 SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net
