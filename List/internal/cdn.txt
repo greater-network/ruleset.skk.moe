@@ -530,7 +530,6 @@ SUFFIX,pic.skk.moe
 SUFFIX,ruleset.skk.moe
 SUFFIX,hv-monster-submit.skk.moe
 SUFFIX,hv-monsterdb-data.skk.moe
-SUFFIX,sku.moe
 SUFFIX,i.snap.as
 SUFFIX,static.snyk.io
 SUFFIX,images.spot.im
@@ -563,7 +562,6 @@ SUFFIX,mirrors.xtom.ee
 SUFFIX,mirrors.xtom.hk
 SUFFIX,mirrors.xtom.jp
 SUFFIX,mirrors.xtom.nl
-SUFFIX,yadi.sk
 SUFFIX,z4a.net
 SUFFIX,st1.zoom.us
 SUFFIX,st2.zoom.us
@@ -786,6 +784,7 @@ SUFFIX,bgp.tools
 SUFFIX,bibox.com
 SUFFIX,img.biguz.net
 SUFFIX,static.bit.cloud
+SUFFIX,bitly.com
 SUFFIX,cdn.branch.io
 SUFFIX,brave.com
 SUFFIX,cdn.search.brave.com
@@ -1010,7 +1009,6 @@ SUFFIX,assets.xmind.net
 SUFFIX,yahoo.com
 SUFFIX,yep.video.yahoo.com
 SUFFIX,assets.video.yahoo.net
-SUFFIX,yandex.ru
 SUFFIX,staticw2.yotpo.com
 SUFFIX,cdn-yotpo-images-production.yotpo.com
 SUFFIX,ytimg.com
@@ -1385,7 +1383,6 @@ SUFFIX,cdn.weglot.com
 SUFFIX,winudf.com
 SUFFIX,fast.wistia.com
 SUFFIX,embed-ssl.wistia.com
-SUFFIX,yandex.com
 SUFFIX,resize.yandex.net
 SUFFIX,avatars.mds.yandex.net
 SUFFIX,ysa-static.passport.yandex.net
@@ -1696,7 +1693,7 @@ SUFFIX,xfinity.com
 SUFFIX,xingcdn.com
 SUFFIX,mirrors.xtom.com.hk
 SUFFIX,xvideos.com
-SUFFIX,search.yahoo.co.jp
+SUFFIX,yahoo.co.jp
 SUFFIX,yarnpkg.com
 SUFFIX,registry.yarnpkg.com
 SUFFIX,yelpcdn.com
@@ -2357,7 +2354,6 @@ SUFFIX,storage.infomaniak.com
 SUFFIX,infura-ipfs.io
 SUFFIX,cdn.ip2location.io
 SUFFIX,istatmenus.app
-SUFFIX,ip.istatmenus.app
 SUFFIX,updates.istatmenus.app
 SUFFIX,pkg-cdn.jetbrains.team
 SUFFIX,packages.jetbrains.team
@@ -2422,7 +2418,6 @@ SUFFIX,spotilocal.com
 SUFFIX,s3.stackabuse.com
 SUFFIX,tiles.stadiamaps.com
 SUFFIX,static.domains
-SUFFIX,sukeycz.edu.kg
 SUFFIX,telegram.space
 SUFFIX,tensorflow.org
 SUFFIX,teraboxcdn.com
@@ -3014,6 +3009,7 @@ SUFFIX,edge-mobile-static.azureedge.net
 SUFFIX,edge-consumer-static.azureedge.net
 SUFFIX,upos-bstar-mirrorakam.akamaized.net
 SUFFIX,upos-bstar1-mirrorakam.akamaized.net
+SUFFIX,content-storage-upload.googleapis.com
 SUFFIX,officecdn-microsoft-com.akamaized.net
 SUFFIX,runkit-packages-static-executables.com
 SUFFIX,vscode-sync-insiders.trafficmanager.net
