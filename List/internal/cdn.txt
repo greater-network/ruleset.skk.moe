@@ -2226,6 +2226,7 @@ SUFFIX,twitchcdn.net
 SUFFIX,static.twitchcdn.net
 SUFFIX,twitchsvc.net
 SUFFIX,fonts1.unidays.world
+SUFFIX,widget.uservoice.com
 SUFFIX,video-cdn.net
 SUFFIX,waitlisted.co
 SUFFIX,s3.wasabisys.com
@@ -2758,6 +2759,9 @@ SUFFIX,academy-public.coinmarketcap.com
 SUFFIX,netflix.com.edgesuite.net
 SUFFIX,combinatronics.io
 SUFFIX,cryptocompare.com
+SUFFIX,images.design-editor.com
+SUFFIX,images7.design-editor.com
+SUFFIX,images8.design-editor.com
 SUFFIX,discourse-cdn.com
 SUFFIX,discoveryplus.com
 SUFFIX,dmm-extension.com
