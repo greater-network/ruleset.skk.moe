@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-02-03T15:48:05.752Z
-# Size: 1860
+# Last Updated: 2024-02-04T09:18:49.165Z
+# Size: 1861
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -570,8 +570,8 @@ js.memberful.com
 js.qualified.com
 cdn.calibermind.com
 cdn.livechatinc.com
-cdn.privacy-mgmt.com
 assets.canny.io
+assets2.canny.io
 cdn.neverbounce.com
 assets.poool.fr
 cdns.gigya.com
@@ -583,6 +583,7 @@ cdn.jetboost.io
 +.klarnacdn.net
 na-library.klarnaservices.com
 cdn.onesignal.com
+cdn.privacy-mgmt.com
 cdn.concert.io
 euc-widget.freshworks.com
 widget.freshworks.com

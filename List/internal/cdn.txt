@@ -599,6 +599,7 @@ SUFFIX,registry.bower.io
 SUFFIX,ipfs.busy.org
 SUFFIX,bwh1.net
 SUFFIX,assets.canny.io
+SUFFIX,assets2.canny.io
 SUFFIX,cbsi.com
 SUFFIX,production-cmp.isgprivacy.cbsi.com
 SUFFIX,media.ci-en.jp
