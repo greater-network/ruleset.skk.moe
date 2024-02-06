@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-02-04T15:39:19.484Z
-# Size: 1866
+# Last Updated: 2024-02-06T06:30:55.218Z
+# Size: 1867
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1874,4 +1874,5 @@ redircdn.com
 images7.design-editor.com
 images8.design-editor.com
 images.design-editor.com
+assets.st-note.com
 ################## EOF ##################

@@ -1635,6 +1635,7 @@ SUFFIX,spotify.com
 SUFFIX,sqspcdn.com
 SUFFIX,static.srcspot.com
 SUFFIX,cdn.sstatic.net
+SUFFIX,assets.st-note.com
 SUFFIX,cbsservice.aws.syncbak.com
 SUFFIX,cbsplaylistserver.aws.syncbak.com
 SUFFIX,wpmedia.tealium.com
