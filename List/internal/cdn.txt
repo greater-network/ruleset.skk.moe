@@ -831,6 +831,7 @@ SUFFIX,fbsbx.com
 SUFFIX,static.figma.com
 SUFFIX,s3-alpha.figma.com
 SUFFIX,s3-alpha-sig.figma.com
+SUFFIX,s3-figma-plugin-images-production-sig.figma.com
 SUFFIX,down.filen.net
 SUFFIX,storageapi.fleek.one
 SUFFIX,storageapi2.fleek.one
@@ -1518,6 +1519,7 @@ SUFFIX,ignimgs.com
 SUFFIX,imageban.ru
 SUFFIX,ik.imagekit.io
 SUFFIX,i.imgflip.com
+SUFFIX,imglink.win
 SUFFIX,imgsmail.ru
 SUFFIX,widget.intercom.io
 SUFFIX,assets.ipstack.com
@@ -1807,6 +1809,7 @@ SUFFIX,media.flaticon.com
 SUFFIX,cdn-share-sprites.flaticon.com
 SUFFIX,static-assets-web.flixcart.com
 SUFFIX,resizing.flixster.com
+SUFFIX,filestore.fortinet.com
 SUFFIX,badges.frapsoft.com
 SUFFIX,fuwamofu.com
 SUFFIX,gameloft.com

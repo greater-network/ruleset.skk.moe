@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-02-06T06:30:55.218Z
-# Size: 1867
+# Last Updated: 2024-02-07T07:00:07.820Z
+# Size: 1870
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -462,6 +462,7 @@ i.imgflip.com
 +.uploadhouse.com
 +.yourimageshare.com
 img.hcloud.lat
++.imglink.win
 www.datocms-assets.com
 images.pexels.com
 cdn.shopify.com
@@ -1039,6 +1040,7 @@ images.opencollective.com
 static.figma.com
 s3-alpha-sig.figma.com
 s3-alpha.figma.com
+s3-figma-plugin-images-production-sig.figma.com
 cdn.sprig.com
 assets.yande.re
 files.yande.re
@@ -1875,4 +1877,5 @@ images7.design-editor.com
 images8.design-editor.com
 images.design-editor.com
 assets.st-note.com
+filestore.fortinet.com
 ################## EOF ##################

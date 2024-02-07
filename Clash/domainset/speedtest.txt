@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-02-03T12:26:23.015Z
-# Size: 1023
+# Last Updated: 2024-02-07T07:00:18.085Z
+# Size: 1028
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -554,6 +554,9 @@ speedtest.us.openinfra.com
 speedgauge2.optonline.net
 speedtest-lax.perfectip.net
 speedtest.plexicomm.net
+stna.pplink.net.br
+stcareiro.pplink.net.br
+stmanaquiri.pplink.net.br
 speedtestde.pvdatanet.com
 speedtestus.pvdatanet.com
 speedtest.ramtek.net.tr
@@ -722,6 +725,7 @@ speedtest.kapteyan.com.tr
 speedtest.karunnet.com.tr
 de-fra2-lg1.level66.network
 speedtest.linkamos.com.br
+montsouris3.d2m.c2d.liveservices.fr
 speed.lodosnet.com.tr
 spedvae.lodosnet.com.tr
 speedtest.lodosnet.com.tr
@@ -965,6 +969,7 @@ speedtest-sydney.macquarietelecom.com
 speedtest-brisbane.macquarietelecom.com
 speedtest-melbourne.macquarietelecom.com
 speedtest.mustafasevinc.com.tr
+speedtest-fr.mustafasevinc.com.tr
 st2.octopustelecom.co.uk
 speedtest.redevisualnet.com.br
 speedtest.seveninternet.com.br
