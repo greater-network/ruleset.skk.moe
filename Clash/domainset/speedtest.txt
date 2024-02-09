@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-02-08T12:27:58.503Z
-# Size: 1030
+# Last Updated: 2024-02-09T12:27:15.967Z
+# Size: 1036
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -58,6 +58,7 @@ ams-eq6-tptest1.31173.se
 fra-eq5-tptest1.31173.se
 lon-ix1-tptest1.31173.se
 speedtest.58243.as
+speedtest-ams.bit0.xyz
 speedtest-nyc.bit0.xyz
 ookla.uk.eu.bvpn.com
 speedtest1.claro.cr
@@ -443,6 +444,7 @@ speed.golddata.net
 speedtest-miami.grupogtd.com
 speedtest.helpmert.com
 speedtest.hostabil.com
+speedtest.hostifox.com
 speedtest.idnet.net.br
 speedtest.syd.infininet.au
 velocimetrostm.interlig.net
@@ -735,6 +737,7 @@ sp1.logicpro.com.br
 speedtest.massivemesh.com
 speedtest.metropolisrp.de
 speed.mpvnetworks.com
+speedtest_nl.mtrader.finance
 speedtest.omegasul.com.br
 +.ooklaserver.net
 speedtest-adl.optusnet.com.au
@@ -784,6 +787,7 @@ speed.amazonett.com.br
 speedtest.apnettelecom.net
 speedtest.axclusive.com.sg
 miaspeedtest.blackburn-pr.com
+speedtest.bouwhuis.network
 speedtest.brightstar.cloud
 acrenettelecom.brsserver.com.br
 sp1.campanaworks.com
@@ -816,6 +820,7 @@ frankfurt-speedtest-1.hostingswift.com
 speedtest.inyonetworks.com
 speedtest.lightsource1.com
 speedtest.markahost.com.tr
+sp.merkurnet.com.tr
 speedtest.multicablehn.com
 speedtest.pdhosting.com.tr
 miami-speedtest.reliablesite.net
@@ -972,6 +977,7 @@ speedtest-brisbane.macquarietelecom.com
 speedtest-melbourne.macquarietelecom.com
 speedtest.mustafasevinc.com.tr
 speedtest-fr.mustafasevinc.com.tr
+speedtest-ist-mars.mustafasevinc.com.tr
 st2.octopustelecom.co.uk
 speedtest.redevisualnet.com.br
 speedtest.seveninternet.com.br

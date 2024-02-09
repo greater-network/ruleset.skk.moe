@@ -1454,6 +1454,7 @@ SUFFIX,player-frontend.cnevids.com
 SUFFIX,static.coinall.ltd
 SUFFIX,cdn.commento.io
 SUFFIX,badges.crowdin.net
+SUFFIX,daumcdn.net
 SUFFIX,ipfs.denarius.io
 SUFFIX,denopkg.com
 SUFFIX,dl.devmate.com
