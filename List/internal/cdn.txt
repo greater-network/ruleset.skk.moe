@@ -1384,6 +1384,7 @@ SUFFIX,cdn.weglot.com
 SUFFIX,winudf.com
 SUFFIX,fast.wistia.com
 SUFFIX,embed-ssl.wistia.com
+SUFFIX,avts.wmlabs.net
 SUFFIX,resize.yandex.net
 SUFFIX,avatars.mds.yandex.net
 SUFFIX,ysa-static.passport.yandex.net
@@ -2599,6 +2600,7 @@ SUFFIX,v-corp.staticblitz.com
 SUFFIX,w-corp.staticblitz.com
 SUFFIX,ghavatars.staticblitz.com
 SUFFIX,w-credentialless.staticblitz.com
+SUFFIX,staticimgly.com
 SUFFIX,staticworld.net
 SUFFIX,steamstatic.com
 SUFFIX,avatar.stefanjudis.com

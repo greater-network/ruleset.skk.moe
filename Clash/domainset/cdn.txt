@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-02-09T12:27:06.525Z
-# Size: 1871
+# Last Updated: 2024-02-10T13:59:32.864Z
+# Size: 1873
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -60,6 +60,7 @@ cdn.mathjax.org
 cdn.embed.ly
 gitpkg-fork.vercel.sh
 cdn.redoc.ly
++.staticimgly.com
 docs.rs
 godoc.org
 webpack.js.org
@@ -1879,4 +1880,5 @@ images.design-editor.com
 assets.st-note.com
 filestore.fortinet.com
 +.daumcdn.net
+avts.wmlabs.net
 ################## EOF ##################

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-02-10T04:13:37.080Z
-# Size: 1038
+# Last Updated: 2024-02-10T13:59:36.781Z
+# Size: 1041
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -376,6 +376,7 @@ speedtest.spacenet.ru
 speedtest2.starlink.ru
 speedtest.ams.t-mobile.nl
 +.speedtest.telstra.net
+speedtest.teslatel.ru
 speedtest.sjc.timkevin.us
 speedtest.tinp.net.tw
 speedtest.tushino.com
@@ -503,6 +504,7 @@ act-dksn-speedtest.aarnet.net.au
 nsw-brwy-speedtest.aarnet.net.au
 tas-dwpk-speedtest.aarnet.net.au
 vic-pmla-speedtest.aarnet.net.au
+sa-prka-st1.speedtest.aarnet.net.au
 tsdvuspeedtest01p.allstream.com
 speedtest01.srv.hcvlny.alticeusa.net
 speedtest03.srv.whplny.alticeusa.net
@@ -1016,6 +1018,7 @@ speedtest.albatroznetwork.com.br
 ookla.amazoniasat-isp.com.br
 ookla-itacoatiara.amazoniasat-isp.com.br
 velocidade.amazoniatelecom.com.br
+speed.ade.aussiebroadband.com.au
 speed.bne.aussiebroadband.com.au
 speed.mel.aussiebroadband.com.au
 speed.syd.aussiebroadband.com.au
