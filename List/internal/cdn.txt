@@ -639,7 +639,9 @@ SUFFIX,assets.habr.com
 SUFFIX,wego.here.com
 SUFFIX,hsto.org
 SUFFIX,hulu.com
+SUFFIX,icons.ly
 SUFFIX,static.ietf.org
+SUFFIX,object.innei.in
 SUFFIX,ipfs.ink
 SUFFIX,iwara.tv
 SUFFIX,i.iwara.tv
@@ -2584,6 +2586,8 @@ SUFFIX,cdn.sciencecast.org
 SUFFIX,storage.sciencecast.org
 SUFFIX,shadowsocks.org
 SUFFIX,signalusers.org
+SUFFIX,simpleicons.org
+SUFFIX,cdn.simpleicons.org
 SUFFIX,dl.sourceforge.net
 SUFFIX,downloads.sourceforge.net
 SUFFIX,spotifyjobs.com
