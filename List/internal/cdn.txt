@@ -919,6 +919,7 @@ SUFFIX,naver.com
 SUFFIX,tv.naver.com
 SUFFIX,nest.land
 SUFFIX,npmjs.com
+SUFFIX,skimdb.npmjs.com
 SUFFIX,static.npmjs.com
 SUFFIX,registry.npmjs.com
 SUFFIX,replicate.npmjs.com
@@ -957,6 +958,7 @@ SUFFIX,assets.safing.io
 SUFFIX,cdn.sanity.io
 SUFFIX,sb-cd.com
 SUFFIX,cdn.sellix.io
+SUFFIX,sentry.io
 SUFFIX,shopee.tw
 SUFFIX,cf.shopee.tw
 SUFFIX,files.slack.com
@@ -2153,6 +2155,7 @@ SUFFIX,software-download.microsoft.com
 SUFFIX,download.visualstudio.microsoft.com
 SUFFIX,public.mocortech.com
 SUFFIX,static.mocortech.com
+SUFFIX,images.moovitapp.com
 SUFFIX,mytvsuper.com
 SUFFIX,mirror.navercorp.com
 SUFFIX,nflxvideo.net

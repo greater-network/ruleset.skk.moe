@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-02-11T14:54:17.084Z
-# Size: 1877
+# Last Updated: 2024-02-12T07:00:58.280Z
+# Size: 1879
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -115,6 +115,7 @@ static.npmjs.com
 static-production.npmjs.com
 registry.npmjs.com
 +.yarnpkg.com
+skimdb.npmjs.com
 registry.npmjs.cf
 registry-cdn.wapm.io
 registry.bower.io
@@ -1885,4 +1886,5 @@ filestore.fortinet.com
 +.daumcdn.net
 avts.wmlabs.net
 object.innei.in
+images.moovitapp.com
 ################## EOF ##################
