@@ -338,6 +338,7 @@ SUFFIX,ipfs.d.tube
 SUFFIX,dis.gd
 SUFFIX,static.dw.com
 SUFFIX,pl.ea.com
+SUFFIX,cdn.ea.com
 SUFFIX,cdn.mcr.ea.com
 SUFFIX,media.contentapi.ea.com
 SUFFIX,eep.io
@@ -447,6 +448,8 @@ SUFFIX,ghcr.io
 SUFFIX,akmcdnoversea-tw.inter.ptqy.gitv.tv
 SUFFIX,chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
 SUFFIX,ftp.gnu.org
+SUFFIX,gog-cdn-fastly.gog.com
+SUFFIX,gog-cdn-fastly-cp77.gog.com
 SUFFIX,hbg.com
 SUFFIX,hbo.com
 SUFFIX,himg.nl
@@ -802,6 +805,7 @@ SUFFIX,media-s3-eu-west-1.ceros.com
 SUFFIX,media-s3-us-east-1.ceros.com
 SUFFIX,media-s3-us-west-1.ceros.com
 SUFFIX,assets-s3-us-east-1.ceros.com
+SUFFIX,file.chobit.cc
 SUFFIX,cdn.circle.so
 SUFFIX,img.clerk.com
 SUFFIX,scdn.clerk.com
@@ -1105,7 +1109,9 @@ SUFFIX,security.debian.org
 SUFFIX,ftp-master.debian.org
 SUFFIX,deezer.com
 SUFFIX,disqus.com
+SUFFIX,dl.dlsite.com
 SUFFIX,media.dlsite.com
+SUFFIX,download.dlsite.com
 SUFFIX,dns.google
 SUFFIX,fastly.docker.com
 SUFFIX,desktop.docker.com
@@ -1266,6 +1272,7 @@ SUFFIX,static.oklink.com
 SUFFIX,static.opensea.io
 SUFFIX,oracle.com
 SUFFIX,static.oracle.com
+SUFFIX,download.dm.origin.com
 SUFFIX,secure.download.dm.origin.com
 SUFFIX,ipfs.overpi.com
 SUFFIX,media.owcnow.com
@@ -1457,6 +1464,7 @@ SUFFIX,cmail20.com
 SUFFIX,player.cnevids.com
 SUFFIX,player-frontend.cnevids.com
 SUFFIX,static.coinall.ltd
+SUFFIX,edge.steam-dns.top.comcast.net
 SUFFIX,cdn.commento.io
 SUFFIX,badges.crowdin.net
 SUFFIX,daumcdn.net
@@ -1626,6 +1634,7 @@ SUFFIX,js.recurly.com
 SUFFIX,userpic.redgifs.com
 SUFFIX,thumbs44.redgifs.com
 SUFFIX,reuters.com
+SUFFIX,dyn.riotcdn.net
 SUFFIX,cdn.runcloud.io
 SUFFIX,release.runcloud.io
 SUFFIX,cdn.manage.runcloud.io
@@ -1748,11 +1757,16 @@ SUFFIX,autodraw.com
 SUFFIX,avdocker.com
 SUFFIX,assets.awwwards.com
 SUFFIX,img.badgesize.io
+SUFFIX,content.cdp.bethesda.net
+SUFFIX,download.cdp.bethesda.net
 SUFFIX,biliintl.com
 SUFFIX,bitfinex.com
 SUFFIX,static.bitfinex.com
 SUFFIX,assets.bitstamp.net
 SUFFIX,sandpack-cdn-staging.blazingly.io
+SUFFIX,blizzard.com
+SUFFIX,cdn.blizzard.com
+SUFFIX,level3.blizzard.com
 SUFFIX,blogblog.com
 SUFFIX,bytedapm.com
 SUFFIX,assets.byteplus.com
@@ -1772,6 +1786,7 @@ SUFFIX,chromium.org
 SUFFIX,cdn-assets.circleci.com
 SUFFIX,mirror.clarkson.edu
 SUFFIX,logo.clearbit.com
+SUFFIX,blizzard.gcdn.cloudn.co.kr
 SUFFIX,fonts.codeberg.org
 SUFFIX,coinbase.com
 SUFFIX,assets.coinbase.com
@@ -2000,6 +2015,8 @@ SUFFIX,wikinews.org
 SUFFIX,winticket.jp
 SUFFIX,cdn.wishpond.net
 SUFFIX,wordtune.com
+SUFFIX,xvcf1.xboxlive.com
+SUFFIX,xvcf2.xboxlive.com
 SUFFIX,images-eds-ssl.xboxlive.com
 SUFFIX,xhamster.com
 SUFFIX,xnxx-cdn.com
@@ -2070,7 +2087,11 @@ SUFFIX,encoretvb.com
 SUFFIX,cdn1.epicgames.com
 SUFFIX,cdn2.epicgames.com
 SUFFIX,download.epicgames.com
+SUFFIX,download2.epicgames.com
+SUFFIX,download3.epicgames.com
+SUFFIX,download4.epicgames.com
 SUFFIX,media-cdn.epicgames.com
+SUFFIX,fastly-download.epicgames.com
 SUFFIX,static-assets-prod.epicgames.com
 SUFFIX,epic-social-social-modules-prod.ol.epicgames.com
 SUFFIX,ext-twitch.tv
@@ -2078,6 +2099,7 @@ SUFFIX,cache-05.filehippo.net
 SUFFIX,fiverrcdn.com
 SUFFIX,flagpedia.net
 SUFFIX,flipboard.com
+SUFFIX,gog-cdn-lumen.secure2.footprint.net
 SUFFIX,forbesimg.com
 SUFFIX,cdn.fosstodon.org
 SUFFIX,snippets.freshchat.com
@@ -2786,6 +2808,7 @@ SUFFIX,rts-static-prod.freshworksapi.com
 SUFFIX,gitlab-static.net
 SUFFIX,sig.grumpybumpers.com
 SUFFIX,highwinds-cdn.com
+SUFFIX,download.hikarifield.co.jp
 SUFFIX,imagedelivery.net
 SUFFIX,static.independent.co.uk
 SUFFIX,linodeobjects.com
@@ -2947,9 +2970,11 @@ SUFFIX,netlify-rum.netlify.app
 SUFFIX,ni-assets.azureedge.net
 SUFFIX,sciencedirectassets.com
 SUFFIX,steamcdn-a.akamaihd.net
+SUFFIX,steampipe.akamaized.net
 SUFFIX,vsmarketplacebadges.dev
 SUFFIX,youtubei.googleapis.com
 SUFFIX,1passwordusercontent.com
+SUFFIX,blzddist1-a.akamaihd.net
 SUFFIX,brick.freetls.fastly.net
 SUFFIX,edgestatic.azureedge.net
 SUFFIX,firestore.googleapis.com
@@ -2972,6 +2997,7 @@ SUFFIX,steamvideo-a.akamaihd.net
 SUFFIX,ubistatic2-a.akamaihd.net
 SUFFIX,akamai-content-network.com
 SUFFIX,avodmp4s3ww-a.akamaihd.net
+SUFFIX,blzddistkr1-a.akamaihd.net
 SUFFIX,dlgarenanow-a.akamaihd.net
 SUFFIX,embedwistia-a.akamaihd.net
 SUFFIX,hackerone-user-content.com
@@ -2979,6 +3005,7 @@ SUFFIX,hubspotusercontent-eu1.net
 SUFFIX,hubspotusercontent-na1.net
 SUFFIX,mobilecenter.azureedge.net
 SUFFIX,runkit-packages-static.com
+SUFFIX,steampipe-kr.akamaized.net
 SUFFIX,useruploads.visualwebsiteoptimizer.com
 SUFFIX,akamai-content-delivery.com
 SUFFIX,claritystatic.azureedge.net
@@ -3017,9 +3044,12 @@ SUFFIX,edgeassetservice.azureedge.net
 SUFFIX,firebasestorage.googleapis.com
 SUFFIX,steamuserimages-a.akamaihd.net
 SUFFIX,vscode-sync.trafficmanager.net
+SUFFIX,steampipe-partner.akamaized.net
 SUFFIX,steamusercontent-a.akamaihd.net
 SUFFIX,vscodeexperiments.azureedge.net
 SUFFIX,edge-mobile-static.azureedge.net
+SUFFIX,epicgames-download1.akamaized.net
+SUFFIX,pf-cdn-content-prod.azureedge.net
 SUFFIX,edge-consumer-static.azureedge.net
 SUFFIX,upos-bstar-mirrorakam.akamaized.net
 SUFFIX,upos-bstar1-mirrorakam.akamaized.net

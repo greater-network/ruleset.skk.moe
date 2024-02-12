@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-02-12T07:00:58.324Z
-# Size: 379
+# Last Updated: 2024-02-12T13:16:33.694Z
+# Size: 380
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -345,6 +345,7 @@ DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,blogger.com
