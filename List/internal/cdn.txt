@@ -1976,6 +1976,10 @@ SUFFIX,download.snipaste.com
 SUFFIX,assets.stickpng.com
 SUFFIX,substack.com
 SUFFIX,cdn.substack.com
+SUFFIX,cdn1.sysgears.com
+SUFFIX,cdn2.sysgears.com
+SUFFIX,cdn3.sysgears.com
+SUFFIX,cdn4.sysgears.com
 SUFFIX,tdesktop.com
 SUFFIX,telegram.dog
 SUFFIX,telegram.org
