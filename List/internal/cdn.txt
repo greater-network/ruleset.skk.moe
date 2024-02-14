@@ -918,6 +918,8 @@ SUFFIX,i.loli.best
 SUFFIX,repo1.maven.org
 SUFFIX,missuo.ru
 SUFFIX,mlcdn.com
+SUFFIX,assets.monei.com
+SUFFIX,static.monei.net
 SUFFIX,staticassets.music.com
 SUFFIX,naver.com
 SUFFIX,tv.naver.com
@@ -939,6 +941,7 @@ SUFFIX,pixiv.cat
 SUFFIX,pixiv.net
 SUFFIX,pixiv.org
 SUFFIX,ipfs1.pixura.io
+SUFFIX,cdn.plaid.com
 SUFFIX,cdn.player.fm
 SUFFIX,imagehost.player.fm
 SUFFIX,scdn1.plesk.com
@@ -2399,6 +2402,7 @@ SUFFIX,ipfs.kinematiks.com
 SUFFIX,seccdn.libravatar.org
 SUFFIX,linemobile.com
 SUFFIX,linemyshop.com
+SUFFIX,assets.mastercard.com
 SUFFIX,cdn.matterhorn.app
 SUFFIX,assets.mayoclinic.org
 SUFFIX,design.mayoclinic.org
@@ -2712,6 +2716,7 @@ SUFFIX,cdn-media-2.freecodecamp.org
 SUFFIX,github.community
 SUFFIX,githubassets.com
 SUFFIX,githubstatus.com
+SUFFIX,cdn.hongkongcard.com
 SUFFIX,images-iherb.com
 SUFFIX,spcdn.incartupsell.com
 SUFFIX,media.infosec.exchange
