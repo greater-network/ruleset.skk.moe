@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-02-12T13:16:33.872Z
-# Size: 1109
+# Last Updated: 2024-02-16T12:27:47.822Z
+# Size: 1119
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -66,6 +66,8 @@ lon-ix1-tptest1.31173.se
 speedtest.58243.as
 speedtest-6.aebc.com
 speedtest-ams.bit0.xyz
+speedtest-lax.bit0.xyz
+speedtest-mtl.bit0.xyz
 speedtest-nyc.bit0.xyz
 ookla.uk.eu.bvpn.com
 speedtest1.claro.cr
@@ -131,6 +133,7 @@ ookla.idnet.net
 speedtest.innsys.ca
 speedtest1.innsys.ca
 velocidade.ip.eti.br
+speedtest.lax.ca.edge.ixisp.com
 speedtest.jw.net.tr
 perf.keyyo.net
 speedtest.b2.mhn.cloud
@@ -370,6 +373,7 @@ sp1.jump.net.uk
 speedtest.kuzeydc.com
 speedtest.lekloud.net
 speedtest.lumaserv.me
+speedtest.la.macarne.com
 speedtest.fra.macarne.com
 ookla.mbspeed.net
 speedtest.mhcable.com
@@ -377,6 +381,7 @@ speedtest.milkywan.fr
 speedtest.mitsupp.com
 speedtest.myaccess.ca
 speedtest-c.netgear.com
+speed.netlara.com
 speedtest.nexicom.net
 speedtest.noone.co.uk
 speedtest.octaplus.uk
@@ -485,6 +490,7 @@ speedtest-miami.grupogtd.com
 speedtest.helpmert.com
 speedtest.hostabil.com
 speedtest.hostifox.com
+speedtest.hostopya.com
 speedtest.idnet.net.br
 speedtest.syd.infininet.au
 velocimetrostm.interlig.net
@@ -545,6 +551,7 @@ act-dksn-speedtest.aarnet.net.au
 nsw-brwy-speedtest.aarnet.net.au
 tas-dwpk-speedtest.aarnet.net.au
 vic-pmla-speedtest.aarnet.net.au
+nt-drwn-st1.speedtest.aarnet.net.au
 sa-prka-st1.speedtest.aarnet.net.au
 tsdvuspeedtest01p.allstream.com
 speedtest01.srv.hcvlny.alticeusa.net
@@ -712,6 +719,7 @@ speedtest.meerfarbig.net
 sig-speedtest.moratelindo.io
 f1.netfast.com.br
 speedtest.nextpertise.nl
+speedtest-nyc.opentensor.xyz
 ookla.opticaltel.com
 +.speedtest.optitel.com.au
 speednld.phoenixnap.com
@@ -791,6 +799,7 @@ speed.lodosnet.com.tr
 spedvae.lodosnet.com.tr
 speedtest.lodosnet.com.tr
 sp1.logicpro.com.br
+sgspeedtest.mahavikri.co.id
 speedtest.massivemesh.com
 speedtest.metropolisrp.de
 speed.mpvnetworks.com
@@ -1036,6 +1045,7 @@ ookla.araujotelecom.com.br
 a-speedtest.brasildigital.net.br
 speedtest1.yvr1.cloudsingularity.net
 miami.getstreamhosting.com
+amsterdam.getstreamhosting.com
 speedtest.getstreamhosting.com
 speedtest_nl.holdstation.exchange
 speedtest_ny.holdstation.exchange
