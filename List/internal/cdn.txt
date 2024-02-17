@@ -1616,6 +1616,7 @@ SUFFIX,downloads.openwrt.org
 SUFFIX,overcast.fm
 SUFFIX,p-smith.com
 SUFFIX,pandora.com
+SUFFIX,cdn.parsely.com
 SUFFIX,patreon.com
 SUFFIX,cdn.perfops.net
 SUFFIX,img.perfops.net
@@ -2679,6 +2680,7 @@ SUFFIX,img2.xiangbinjun.com
 SUFFIX,xvideos-cdn.com
 SUFFIX,youtubekids.com
 SUFFIX,widgets.zohosalesiq.com
+SUFFIX,cdn.9to5terminal.com
 SUFFIX,aiv-delivery.net
 SUFFIX,photos5.appleinsider.com
 SUFFIX,ipfs.arching-kaos.com
