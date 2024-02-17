@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2024-02-10T04:13:33.618Z
+# Last Updated: 2024-02-17T11:39:28.990Z
 # Size: 17
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -12,6 +12,7 @@ DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,bard.google.com
@@ -23,6 +24,5 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,openai.com
+DOMAIN-KEYWORD,openai
 ################## EOF ##################

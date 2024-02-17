@@ -2686,6 +2686,7 @@ SUFFIX,ipfs.best-practice.se
 SUFFIX,bootstrapcdn.com
 SUFFIX,bundlephobia.com
 SUFFIX,assets.buttondown.email
+SUFFIX,cdnjs.buymeacoffee.com
 SUFFIX,cdn-telegram.org
 SUFFIX,cdninstagram.com
 SUFFIX,ipfs.chisdealhd.co.uk
