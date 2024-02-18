@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-02-12T13:16:27.374Z
-# Size: 575
+# Last Updated: 2024-02-18T06:02:15.880Z
+# Size: 581
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -45,9 +45,11 @@ DOMAIN-SUFFIX,toutiaovod.com
 DOMAIN-SUFFIX,toutiaostatic.com
 DOMAIN-SUFFIX,toutiaoimg.cn
 DOMAIN-SUFFIX,toutiaoimg.com
+DOMAIN-SUFFIX,tencentcs.cn
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencent.com.cn
+DOMAIN-SUFFIX,tencent-coud.cn
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tudou.com
 DOMAIN-SUFFIX,tmall.hk
@@ -135,6 +137,7 @@ DOMAIN-SUFFIX,qq.com.cn
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qdaily.com
+DOMAIN-SUFFIX,qcloudimg.com
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qcc.com
 DOMAIN-SUFFIX,qyerstatic.com
@@ -316,6 +319,7 @@ DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fliggy.com
 DOMAIN-SUFFIX,flyme.cn
 DOMAIN-SUFFIX,duokan.com
+DOMAIN-SUFFIX,dnspod.cn
 DOMAIN-SUFFIX,dnspod.com
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,dxycdn.com
@@ -362,6 +366,8 @@ DOMAIN-SUFFIX,realmemobile.com
 DOMAIN-SUFFIX,realmebbs.com
 DOMAIN-SUFFIX,realme.com
 DOMAIN-SUFFIX,oray-img.com
+DOMAIN-SUFFIX,orayimg.com
+DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,oray.com
 DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,oneplusbbs.com

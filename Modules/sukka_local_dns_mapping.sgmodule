@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-02-03T13:15:33.316Z
+#!desc=Last Updated: 2024-02-18T06:02:15.882Z
 
 [Host]
 uc.cn = server:quic://223.6.6.6:853
@@ -206,6 +206,14 @@ wegameplus.com = server:https://120.53.53.53/dns-query
 *.wegameplus.com = server:https://120.53.53.53/dns-query
 cdn-go.cn = server:https://120.53.53.53/dns-query
 *.cdn-go.cn = server:https://120.53.53.53/dns-query
+tencentcs.cn = server:https://120.53.53.53/dns-query
+*.tencentcs.cn = server:https://120.53.53.53/dns-query
+tencent-coud.cn = server:https://120.53.53.53/dns-query
+*.tencent-coud.cn = server:https://120.53.53.53/dns-query
+qcloudimg.com = server:https://120.53.53.53/dns-query
+*.qcloudimg.com = server:https://120.53.53.53/dns-query
+dnspod.cn = server:https://120.53.53.53/dns-query
+*.dnspod.cn = server:https://120.53.53.53/dns-query
 acg.tv = server:https://120.53.53.53/dns-query
 *.acg.tv = server:https://120.53.53.53/dns-query
 b23.tv = server:https://120.53.53.53/dns-query

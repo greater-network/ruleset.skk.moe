@@ -1642,6 +1642,7 @@ SUFFIX,dyn.riotcdn.net
 SUFFIX,cdn.runcloud.io
 SUFFIX,release.runcloud.io
 SUFFIX,cdn.manage.runcloud.io
+SUFFIX,ocsp.sectigo.com
 SUFFIX,cdn.segment.com
 SUFFIX,thumbs2.sendvid.com
 SUFFIX,videos2-h.sendvid.com
@@ -1732,6 +1733,7 @@ SUFFIX,1password.eu
 SUFFIX,4everland.io
 SUFFIX,abema-tv.com
 SUFFIX,static.addtoany.com
+SUFFIX,cdn.adguard.info
 SUFFIX,assets.adobedtm.com
 SUFFIX,oss-eu-west-1.aliyuncs.com
 SUFFIX,oss-me-east-1.aliyuncs.com
