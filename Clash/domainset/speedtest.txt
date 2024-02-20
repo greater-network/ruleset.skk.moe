@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-02-17T11:39:38.398Z
-# Size: 1123
+# Last Updated: 2024-02-20T06:20:52.513Z
+# Size: 1124
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -365,6 +365,7 @@ spt-mia.edgeuno.com
 speedtest2.esrv.center
 sg-speedtest.fast.net.id
 speedtest.fios.net.br
+st02.fynn-int.de
 speedtest.fynndows.de
 iperf.gakijken.nl
 speedtest.herza.cloud
