@@ -818,6 +818,7 @@ SUFFIX,cdn.db-ip.com
 SUFFIX,debug.com
 SUFFIX,static.deepl.com
 SUFFIX,deno.land
+SUFFIX,static-mh.content.disney.io
 SUFFIX,img.dlsite.jp
 SUFFIX,dmcdn.net
 SUFFIX,dmm.co.jp
@@ -1113,6 +1114,7 @@ SUFFIX,ftp.us.debian.org
 SUFFIX,security.debian.org
 SUFFIX,ftp-master.debian.org
 SUFFIX,deezer.com
+SUFFIX,dilcdn.com
 SUFFIX,disqus.com
 SUFFIX,dl.dlsite.com
 SUFFIX,media.dlsite.com
