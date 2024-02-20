@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-02-18T06:02:15.880Z
-# Size: 581
+# Last Updated: 2024-02-20T02:51:23.952Z
+# Size: 582
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -196,6 +196,7 @@ DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,saxyit.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sankuai.com
+DOMAIN-SUFFIX,upos-sz-mirrorcoso1.bilivideo.com
 DOMAIN-SUFFIX,upos-sz-mirrorbos.bilivideo.com
 DOMAIN-SUFFIX,upos-sz-mirrorali.bilivideo.com
 DOMAIN-SUFFIX,uczzd.cn

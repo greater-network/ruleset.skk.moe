@@ -782,6 +782,7 @@ SUFFIX,cdn.auth0.com
 SUFFIX,avgle.com
 SUFFIX,static-clst.avgle.com
 SUFFIX,amp.azure.net
+SUFFIX,linuxiac.b-cdn.net
 SUFFIX,panel-production-libs.b-cdn.net
 SUFFIX,hits.b3log.org
 SUFFIX,bbc.co.uk
@@ -1018,6 +1019,7 @@ SUFFIX,xhcdn.com
 SUFFIX,dl2.xmind.net
 SUFFIX,dl3.xmind.net
 SUFFIX,assets.xmind.net
+SUFFIX,downloads.xrite.com
 SUFFIX,yahoo.com
 SUFFIX,yep.video.yahoo.com
 SUFFIX,assets.video.yahoo.net
@@ -1802,6 +1804,7 @@ SUFFIX,media-cdn.comfy.social
 SUFFIX,cds.connatix.com
 SUFFIX,img.connatix.com
 SUFFIX,mirror.constant.com
+SUFFIX,coveralls.io
 SUFFIX,crossbell.io
 SUFFIX,cdn.datacamp.com
 SUFFIX,david-dm.org
@@ -2460,6 +2463,7 @@ SUFFIX,spotifycdn.com
 SUFFIX,spotifycdn.net
 SUFFIX,spotilocal.com
 SUFFIX,s3.stackabuse.com
+SUFFIX,stackblitz.com
 SUFFIX,tiles.stadiamaps.com
 SUFFIX,static.domains
 SUFFIX,telegram.space

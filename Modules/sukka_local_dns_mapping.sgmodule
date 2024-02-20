@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-02-18T06:02:15.882Z
+#!desc=Last Updated: 2024-02-20T02:51:23.954Z
 
 [Host]
 uc.cn = server:quic://223.6.6.6:853
@@ -214,6 +214,12 @@ qcloudimg.com = server:https://120.53.53.53/dns-query
 *.qcloudimg.com = server:https://120.53.53.53/dns-query
 dnspod.cn = server:https://120.53.53.53/dns-query
 *.dnspod.cn = server:https://120.53.53.53/dns-query
+upos-sz-mirrorali.bilivideo.com = server:quic://223.5.5.5:853
+*.upos-sz-mirrorali.bilivideo.com = server:quic://223.5.5.5:853
+upos-sz-mirrorbos.bilivideo.com = server:180.76.76.76
+*.upos-sz-mirrorbos.bilivideo.com = server:180.76.76.76
+upos-sz-mirrorcoso1.bilivideo.com = server:https://120.53.53.53/dns-query
+*.upos-sz-mirrorcoso1.bilivideo.com = server:https://120.53.53.53/dns-query
 acg.tv = server:https://120.53.53.53/dns-query
 *.acg.tv = server:https://120.53.53.53/dns-query
 b23.tv = server:https://120.53.53.53/dns-query
@@ -252,10 +258,6 @@ bilibilipay.cn = server:https://120.53.53.53/dns-query
 *.bilibilipay.cn = server:https://120.53.53.53/dns-query
 bilibilipay.com = server:https://120.53.53.53/dns-query
 *.bilibilipay.com = server:https://120.53.53.53/dns-query
-upos-sz-mirrorali.bilivideo.com = server:quic://223.5.5.5:853
-*.upos-sz-mirrorali.bilivideo.com = server:quic://223.5.5.5:853
-upos-sz-mirrorbos.bilivideo.com = server:180.76.76.76
-*.upos-sz-mirrorbos.bilivideo.com = server:180.76.76.76
 mi.com = server:https://120.53.53.53/dns-query
 *.mi.com = server:https://120.53.53.53/dns-query
 duokan.com = server:https://120.53.53.53/dns-query

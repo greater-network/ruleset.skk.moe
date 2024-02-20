@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-02-18T06:02:15.964Z
-# Size: 1893
+# Last Updated: 2024-02-20T02:51:24.026Z
+# Size: 1894
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1901,4 +1901,5 @@ static.monei.net
 assets.monei.com
 cdn.9to5terminal.com
 cdn.parsely.com
+linuxiac.b-cdn.net
 ################## EOF ##################
