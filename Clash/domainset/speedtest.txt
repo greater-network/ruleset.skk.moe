@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-02-20T06:20:52.513Z
-# Size: 1124
+# Last Updated: 2024-02-21T12:28:43.413Z
+# Size: 1128
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -984,6 +984,7 @@ speed.grinternett.com.br
 +.test.gslnetworks.com.au
 +.speedtest.gslnetworks.com.au
 speedtest.hytekcomputers.com
+speedtest1.indosatooredoo.com
 speedtest.infogamesvr.net.br
 speedtest.internetbolaget.nu
 speedtest.isppapagaio.com.br
@@ -1016,8 +1017,10 @@ sam1speedtest.turktelekom.com.tr
 umr1speedtest.turktelekom.com.tr
 speedtest.unlimitedfiber.com
 speedtest.voip-unlimited.net
+velocimetro.wiretelecom.com.br
 speedtest03.bluestreamfiber.net
 speedtest1.columbiawireless.ca
+velocimetro.fibernetwork.com.br
 east-speedtest.frontiernetworks.ca
 west-speedtest.frontiernetworks.ca
 speedtest.idealhosting.com.tr
@@ -1045,6 +1048,7 @@ st-eskisehir-1.turksatkablo.com.tr
 st-zonguldak-1.turksatkablo.com.tr
 st-zonguldakeregli-1.turksatkablo.com.tr
 speedtest.turnkeyinternet.net
+stest.ultraconnect.com.br
 sp1.voyageurinternet.ca
 ookla.araujotelecom.com.br
 a-speedtest.brasildigital.net.br
