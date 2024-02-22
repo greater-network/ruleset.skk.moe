@@ -545,6 +545,7 @@ SUFFIX,cdn.tuk.dev
 SUFFIX,tvb.com
 SUFFIX,tver.jp
 SUFFIX,cdn.ubi.com
+SUFFIX,cdn.usd.fan
 SUFFIX,v2ex.co
 SUFFIX,vine.co
 SUFFIX,viu.com
