@@ -2551,6 +2551,7 @@ SUFFIX,static.foxbusiness.com
 SUFFIX,stories.freepiklabs.com
 SUFFIX,ipfs.genenetwork.org
 SUFFIX,getcomposer.org
+SUFFIX,cdn.getfeedback.com
 SUFFIX,media.gettyimages.com
 SUFFIX,static.gettyimages.com
 SUFFIX,googlevideo.com
