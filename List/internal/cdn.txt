@@ -927,6 +927,7 @@ SUFFIX,staticassets.music.com
 SUFFIX,naver.com
 SUFFIX,tv.naver.com
 SUFFIX,nest.land
+SUFFIX,npmfs.com
 SUFFIX,npmjs.com
 SUFFIX,skimdb.npmjs.com
 SUFFIX,static.npmjs.com
@@ -2430,6 +2431,7 @@ SUFFIX,optimizely.com
 SUFFIX,m-cdn.phonearena.com
 SUFFIX,s-cdn.phonearena.com
 SUFFIX,cdn.pickystory.com
+SUFFIX,pixeldrain.com
 SUFFIX,cdn7.pornmaster.fun
 SUFFIX,primevideo.com
 SUFFIX,primevideo.org
@@ -2892,6 +2894,7 @@ SUFFIX,static.onlinewebfonts.com
 SUFFIX,images.opencollective.com
 SUFFIX,next-images.opencollective.com
 SUFFIX,gateway.originprotocol.com
+SUFFIX,builds.paranoidandroid.co
 SUFFIX,pornhubpremium.com
 SUFFIX,api.pwnedpasswords.com
 SUFFIX,safebrowsing.apple
