@@ -1511,6 +1511,7 @@ SUFFIX,a57.foxnews.com
 SUFFIX,static.foxnews.com
 SUFFIX,foxplus.com
 SUFFIX,img.freepik.com
+SUFFIX,image.freepik.com
 SUFFIX,avatar.freepik.com
 SUFFIX,images.g2crowd.com
 SUFFIX,gentcdn.com
@@ -2788,6 +2789,7 @@ SUFFIX,typescript.visualstudio.com
 SUFFIX,update.code.visualstudio.com
 SUFFIX,vscode-unpkg.net
 SUFFIX,vultrobjects.com
+SUFFIX,vusercontent.net
 SUFFIX,waveprotocol.org
 SUFFIX,wikiplus-app.com
 SUFFIX,wpcomstaging.com
@@ -2955,6 +2957,7 @@ SUFFIX,bahamut.akamaized.net
 SUFFIX,chromeexperiments.com
 SUFFIX,cloudflaremirrors.com
 SUFFIX,cloudflareresolve.com
+SUFFIX,cloudflarestorage.com
 SUFFIX,envatousercontent.com
 SUFFIX,facebook-hardware.com
 SUFFIX,framerusercontent.com

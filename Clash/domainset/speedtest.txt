@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-02-23T09:06:48.402Z
-# Size: 1131
+# Last Updated: 2024-02-23T14:14:37.693Z
+# Size: 1132
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -894,6 +894,7 @@ amsterdam-speedtest-1.hostingswift.com
 frankfurt-speedtest-1.hostingswift.com
 speedtest.inyonetworks.com
 speedtest.lightsource1.com
+speedtest3.linyitnet.com.tr
 speedtest.markahost.com.tr
 sp.merkurnet.com.tr
 speedtest.multicablehn.com

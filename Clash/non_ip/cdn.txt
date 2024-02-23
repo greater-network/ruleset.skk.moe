@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-02-03T12:26:13.464Z
-# Size: 351
+# Last Updated: 2024-02-23T14:14:30.710Z
+# Size: 352
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -353,6 +353,7 @@ DOMAIN-SUFFIX,cos.ap-hongkong.myqcloud.com
 DOMAIN-SUFFIX,codeberg.page
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cloudflare-ipfs.com
+DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-KEYWORD,dsn.algolia.net
 DOMAIN-KEYWORD,web-assets.zendesk
