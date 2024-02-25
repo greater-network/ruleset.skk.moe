@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-02-20T02:51:23.952Z
-# Size: 582
+# Last Updated: 2024-02-25T11:21:43.033Z
+# Size: 583
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -159,8 +159,6 @@ DOMAIN-SUFFIX,pphimalayanrt.com
 DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,pps.tv
 DOMAIN-SUFFIX,snssdk.com
-DOMAIN-SUFFIX,shifen.com
-DOMAIN-SUFFIX,shyhhema.com
 DOMAIN-SUFFIX,szbdyd.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,sspai.com
@@ -168,6 +166,9 @@ DOMAIN-SUFFIX,speedtest.cn
 DOMAIN-SUFFIX,sm.cn
 DOMAIN-SUFFIX,smzdm.com
 DOMAIN-SUFFIX,s-reader.com
+DOMAIN-SUFFIX,shifen.com
+DOMAIN-SUFFIX,shyhhema.com
+DOMAIN-SUFFIX,sharepoint.cn
 DOMAIN-SUFFIX,sevencdn.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steam.ksyna.com
