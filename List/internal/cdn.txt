@@ -2653,6 +2653,7 @@ SUFFIX,ghavatars.staticblitz.com
 SUFFIX,w-credentialless.staticblitz.com
 SUFFIX,staticimgly.com
 SUFFIX,staticworld.net
+SUFFIX,steamserver.net
 SUFFIX,steamstatic.com
 SUFFIX,avatar.stefanjudis.com
 SUFFIX,substackcdn.com

@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-02-25T11:21:43.090Z
+// # Build 2024-02-25T11:47:29.758Z
 
 declare(strict_types=1);
 
@@ -1269,6 +1269,7 @@ $_ENV['Clash_Group_Config'] = [
         'PROCESS-NAME,com.bstar.intl,Stream',
         'PROCESS-NAME,com.amazon.avod.thirdpartyclient,Stream',
         'DOMAIN-SUFFIX,steamcontent.com,Steam Download',
+        'DOMAIN-SUFFIX,steamserver.net,Steam Download',
         'DOMAIN-SUFFIX,content.steampowered.com,Steam Download',
         'DOMAIN,content1.steampowered.com,Steam Download',
         'DOMAIN,content2.steampowered.com,Steam Download',
