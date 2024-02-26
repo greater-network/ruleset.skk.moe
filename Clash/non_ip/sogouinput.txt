@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Sogou Input
-# Last Updated: 2024-02-26T04:30:12.719Z
+# Last Updated: 2024-02-26T12:28:10.111Z
 # Size: 13
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,7 @@
 #
 # This file contains rules for Sogou Input.
 #########################################
-DOMAIN,8rsjwfa8ft6.this_ruleset_is_made_by_sukkaw.3xw5365iczr.ruleset.skk.moe
+DOMAIN,isfyo3e2i1.this_ruleset_is_made_by_sukkaw.lvih5eofop.ruleset.skk.moe
 DOMAIN,oth.str.mdt.qq.com
 DOMAIN,otheve.beacon.qq.com
 DOMAIN-SUFFIX,macime.sogou.com

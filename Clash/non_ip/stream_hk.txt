@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services: Hong Kong
-# Last Updated: 2024-02-26T04:30:07.063Z
+# Last Updated: 2024-02-26T12:28:09.999Z
 # Size: 45
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -12,7 +12,7 @@
 # - HBO Asia
 # - Bilibili International
 #########################################
-DOMAIN,8rsjwfa8ft6.this_ruleset_is_made_by_sukkaw.3xw5365iczr.ruleset.skk.moe
+DOMAIN,isfyo3e2i1.this_ruleset_is_made_by_sukkaw.lvih5eofop.ruleset.skk.moe
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,s3-ap-southeast-1.amazonaws.com
