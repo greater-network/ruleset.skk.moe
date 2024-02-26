@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services' IPs: Korean
-# Last Updated: 2024-02-26T04:26:51.635Z
+# Last Updated: 2024-02-26T04:30:07.064Z
 # Size: 1
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,5 +8,5 @@
 #
 # - Naver TV
 #########################################
-DOMAIN,kmsp2x2821.this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,8rsjwfa8ft6.this_ruleset_is_made_by_sukkaw.3xw5365iczr.ruleset.skk.moe
 ################## EOF ##################

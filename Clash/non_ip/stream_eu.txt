@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services: Europe
-# Last Updated: 2024-02-26T04:26:51.634Z
+# Last Updated: 2024-02-26T04:30:07.063Z
 # Size: 8
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -9,7 +9,7 @@
 # - ITV
 # - BBC
 #########################################
-DOMAIN,kmsp2x2821.this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,8rsjwfa8ft6.this_ruleset_is_made_by_sukkaw.3xw5365iczr.ruleset.skk.moe
 DOMAIN,itvpnpmobile-a.akamaihd.net
 DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bbc.co.uk

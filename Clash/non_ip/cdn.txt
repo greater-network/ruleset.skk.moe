@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-02-26T04:26:52.443Z
+# Last Updated: 2024-02-26T04:30:07.838Z
 # Size: 353
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,7 @@
 #
 # This file contains object storage and static assets CDN domains.
 #########################################
-DOMAIN,kmsp2x2821.this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,8rsjwfa8ft6.this_ruleset_is_made_by_sukkaw.3xw5365iczr.ruleset.skk.moe
 DOMAIN,download-installer.cdn.mozilla.net
 DOMAIN,stubdownloader.services.mozilla.com
 DOMAIN-SUFFIX,usercontent.goog
