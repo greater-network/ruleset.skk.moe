@@ -1,12 +1,12 @@
 #########################################
 # Sukka's Ruleset - Direct
-# Last Updated: 2024-02-26T12:28:10.112Z
+# Last Updated: 2024-02-26T16:02:21.009Z
 # Size: 8
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #########################################
-DOMAIN,isfyo3e2i1.this_ruleset_is_made_by_sukkaw.lvih5eofop.ruleset.skk.moe
+DOMAIN,tl0zwx9yykg.this_ruleset_is_made_by_sukkaw.t9ivgi6mth.ruleset.skk.moe
 DOMAIN-SUFFIX,ec2-reachability.amazonaws.com
 DOMAIN-SUFFIX,engage.cloudflareclient.com
 DOMAIN-SUFFIX,download.555mac.com
