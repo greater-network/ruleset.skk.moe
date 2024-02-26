@@ -2243,7 +2243,9 @@ SUFFIX,static.spankbang.com
 SUFFIX,speedtest.net
 SUFFIX,stackblitz.io
 SUFFIX,content-prod-live.cert.starbucks.com
+SUFFIX,proxy.startpage.com
 SUFFIX,eu-proxy.startpage.com
+SUFFIX,eu-browse.startpage.com
 SUFFIX,statically.io
 SUFFIX,staticaly.com
 SUFFIX,statuspage.io

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-02-25T11:21:43.033Z
-# Size: 583
+# Last Updated: 2024-02-26T03:24:13.785Z
+# Size: 584
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -247,6 +247,7 @@ DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdatu.com
 DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,blzstatic.cn
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,baidustatic.com
