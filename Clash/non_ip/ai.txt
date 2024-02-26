@@ -1,23 +1,28 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2024-02-17T11:39:28.990Z
-# Size: 17
+# Last Updated: 2024-02-26T04:26:52.494Z
+# Size: 22
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains domains of OpenAI, Claude.
 #########################################
+DOMAIN,kmsp2x2821.this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,geller-pa.googleapis.com
+DOMAIN-SUFFIX,generativeai.google
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,anthropic.com

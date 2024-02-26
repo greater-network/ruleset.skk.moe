@@ -1,12 +1,13 @@
 #########################################
 # Sukka's Ruleset - Reject And Drop
-# Last Updated: 2023-12-19T15:12:27.901Z
-# Size: 1
+# Last Updated: 2024-02-26T04:26:52.490Z
+# Size: 2
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file This file contains rules for domain should be used with REJECT-DROP policy.
 #########################################
+DOMAIN,kmsp2x2821.this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,geo2.adobe.com
 ################## EOF ##################

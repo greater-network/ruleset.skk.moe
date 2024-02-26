@@ -1,13 +1,14 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-02-20T02:51:24.066Z
-# Size: 381
+# Last Updated: 2024-02-26T04:26:52.499Z
+# Size: 389
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains rules for services that are not available inside the Mainland China.
 #########################################
+DOMAIN,kmsp2x2821.this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,wego.here.com
 DOMAIN,media.steampowered.com
 DOMAIN,onedrive.live.com
@@ -266,6 +267,7 @@ DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,getdropbox.com
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,gcld-line.com
@@ -289,7 +291,13 @@ DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,dropboxusercontent.com
+DOMAIN-SUFFIX,dropboxmail.com
+DOMAIN-SUFFIX,dropboxinsiders.com
+DOMAIN-SUFFIX,dropboxforums.com
+DOMAIN-SUFFIX,dropboxforum.com
+DOMAIN-SUFFIX,dropboxcaptcha.com
 DOMAIN-SUFFIX,dropboxapi.com
+DOMAIN-SUFFIX,dropbox-dns.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dailymail.co.uk
 DOMAIN-SUFFIX,dailymotion.com

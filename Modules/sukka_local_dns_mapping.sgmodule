@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-02-20T02:51:23.954Z
+#!desc=Last Updated: 2024-02-26T04:26:51.630Z
 
 [Host]
 uc.cn = server:quic://223.6.6.6:853
@@ -130,6 +130,8 @@ sm.cn = server:quic://223.6.6.6:853
 *.sm.cn = server:quic://223.6.6.6:853
 npmmirror.com = server:quic://223.6.6.6:853
 *.npmmirror.com = server:quic://223.6.6.6:853
+alios.cn = server:quic://223.6.6.6:853
+*.alios.cn = server:quic://223.6.6.6:853
 dns.pub = server:https://120.53.53.53/dns-query
 *.dns.pub = server:https://120.53.53.53/dns-query
 doh.pub = server:https://120.53.53.53/dns-query
@@ -214,6 +216,10 @@ qcloudimg.com = server:https://120.53.53.53/dns-query
 *.qcloudimg.com = server:https://120.53.53.53/dns-query
 dnspod.cn = server:https://120.53.53.53/dns-query
 *.dnspod.cn = server:https://120.53.53.53/dns-query
+yunos.com = server:https://120.53.53.53/dns-query
+*.yunos.com = server:https://120.53.53.53/dns-query
+yitao.com = server:https://120.53.53.53/dns-query
+*.yitao.com = server:https://120.53.53.53/dns-query
 upos-sz-mirrorali.bilivideo.com = server:quic://223.5.5.5:853
 *.upos-sz-mirrorali.bilivideo.com = server:quic://223.5.5.5:853
 upos-sz-mirrorbos.bilivideo.com = server:180.76.76.76

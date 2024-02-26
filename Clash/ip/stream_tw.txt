@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Stream Services' IPs: Taiwan
-# Last Updated: 2023-12-19T15:12:27.772Z
-# Size: 0
+# Last Updated: 2024-02-26T04:26:51.634Z
+# Size: 1
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -14,4 +14,5 @@
 # - Bahamut
 # - Bilibili International
 #########################################
+DOMAIN,kmsp2x2821.this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 ################## EOF ##################

@@ -1,11 +1,12 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting IPs
-# Last Updated: 2023-12-22T09:32:47.750Z
-# Size: 0
+# Last Updated: 2024-02-26T04:26:52.491Z
+# Size: 1
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains ruleset for software updating & large file hosting.
 #########################################
+DOMAIN,kmsp2x2821.this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 ################## EOF ##################

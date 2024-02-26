@@ -1,13 +1,14 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-02-26T03:24:13.785Z
-# Size: 584
+# Last Updated: 2024-02-26T04:26:51.629Z
+# Size: 590
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains known addresses that are avaliable in the Mainland China.
 #########################################
+DOMAIN,kmsp2x2821.this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,lv.queniujq.cn
 DOMAIN,xboxlive.cn
 DOMAIN,www.layuicdn.com
@@ -78,8 +79,10 @@ DOMAIN-SUFFIX,yunpan.com
 DOMAIN-SUFFIX,yunpan.com.cn
 DOMAIN-SUFFIX,yunpan.cn
 DOMAIN-SUFFIX,yunjiasu-cdn.net
+DOMAIN-SUFFIX,yunos.com
 DOMAIN-SUFFIX,yuewen.com
 DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,yitao.com
 DOMAIN-SUFFIX,yinxiang.com
 DOMAIN-SUFFIX,yangkeduo.com
 DOMAIN-SUFFIX,yximgs.com
@@ -92,6 +95,7 @@ DOMAIN-SUFFIX,koubei.com
 DOMAIN-SUFFIX,kkmh.com
 DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,kaiyanapp.com
+DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,kuaishou.com
@@ -295,6 +299,7 @@ DOMAIN-SUFFIX,ipanda.cn
 DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,iconfont.cn
 DOMAIN-SUFFIX,icourse163.org
+DOMAIN-SUFFIX,icbc.com.cn
 DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,luojilab.com
@@ -514,6 +519,7 @@ DOMAIN-SUFFIX,vip.com
 DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,vivo.com.cn
 DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,alios.cn
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,alipay.cn

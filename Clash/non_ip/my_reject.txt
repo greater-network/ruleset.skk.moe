@@ -1,11 +1,12 @@
 #########################################
 # Sukka's Ruleset - Reject (REJECT-DROP)
-# Last Updated: 2023-12-20T04:06:37.581Z
-# Size: 66
+# Last Updated: 2024-02-26T04:26:52.497Z
+# Size: 67
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #########################################
+DOMAIN,kmsp2x2821.this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,lofter.httpdns.c.163.com
 DOMAIN,music.httpdns.c.163.com
 DOMAIN,httpsdns.baidu.com

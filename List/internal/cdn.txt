@@ -533,6 +533,7 @@ SUFFIX,pic.skk.moe
 SUFFIX,ruleset.skk.moe
 SUFFIX,hv-monster-submit.skk.moe
 SUFFIX,hv-monsterdb-data.skk.moe
+SUFFIX,kmsp2x2821.this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 SUFFIX,i.snap.as
 SUFFIX,static.snyk.io
 SUFFIX,images.spot.im
@@ -1828,6 +1829,7 @@ SUFFIX,ees.elsevier.com
 SUFFIX,engadget.com
 SUFFIX,aff.equalweb.com
 SUFFIX,cdn.equalweb.com
+SUFFIX,static.esimplus.net
 SUFFIX,etherscan.io
 SUFFIX,static.euronews.com
 SUFFIX,hbounify-prod.evergent.com
@@ -2377,6 +2379,7 @@ SUFFIX,static.freeimages.com
 SUFFIX,dam.freshworks.com
 SUFFIX,widget.freshworks.com
 SUFFIX,euc-widget.freshworks.com
+SUFFIX,getdropbox.com
 SUFFIX,getoutline.org
 SUFFIX,releases.grapheneos.org
 SUFFIX,greasyfork.org
@@ -2548,6 +2551,8 @@ SUFFIX,dnsleaktest.com
 SUFFIX,img.domaintools.com
 SUFFIX,source.domaintools.com
 SUFFIX,cdn.dotaoutpost.com
+SUFFIX,dropbox-dns.com
+SUFFIX,dropboxmail.com
 SUFFIX,live.fanmingming.com
 SUFFIX,static.fasthosts.co.uk
 SUFFIX,fbmessenger.com
@@ -2722,6 +2727,7 @@ SUFFIX,assets.digitalocean.com
 SUFFIX,ui-cdn.digitalocean.com
 SUFFIX,discoveryplus.in
 SUFFIX,cdn2.downdetector.com
+SUFFIX,dropboxforum.com
 SUFFIX,st.dynamicyield.com
 SUFFIX,cdn.dynamicyield.com
 SUFFIX,st-eu.dynamicyield.com
@@ -2826,6 +2832,7 @@ SUFFIX,discourse-cdn.com
 SUFFIX,discoveryplus.com
 SUFFIX,dmm-extension.com
 SUFFIX,dokusho-ojikan.jp
+SUFFIX,dropboxforums.com
 SUFFIX,dropboxstatic.com
 SUFFIX,envato-static.com
 SUFFIX,cdn.faveohelpdesk.com
@@ -2880,6 +2887,7 @@ SUFFIX,userimg.customeriomail.com
 SUFFIX,userimg-bee.customeriomail.com
 SUFFIX,userimg-assets.customeriomail.com
 SUFFIX,www.datocms-assets.com
+SUFFIX,dropboxcaptcha.com
 SUFFIX,cdn-live.foreignaffairs.com
 SUFFIX,static-gcp.freepikcompany.com
 SUFFIX,headway-widget.net
@@ -2921,6 +2929,7 @@ SUFFIX,imgssl.constantcontact.com
 SUFFIX,i.creativecommons.org
 SUFFIX,discoveryplus.co.uk
 SUFFIX,disneystreaming.com
+SUFFIX,dropboxinsiders.com
 SUFFIX,static-assets.freeanimehentai.net
 SUFFIX,howtogeekimages.com
 SUFFIX,js.hubspotfeedback.com

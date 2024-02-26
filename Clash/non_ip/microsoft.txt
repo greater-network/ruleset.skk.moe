@@ -1,13 +1,14 @@
 #########################################
 # Sukka's Ruleset - Microsoft Domains
-# Last Updated: 2023-12-19T15:12:27.909Z
-# Size: 78
+# Last Updated: 2024-02-26T04:26:52.495Z
+# Size: 79
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains domains of Microsoft.
 #########################################
+DOMAIN,kmsp2x2821.this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,yammerusercontent.com
 DOMAIN-SUFFIX,yammer.com

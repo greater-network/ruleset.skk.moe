@@ -1,13 +1,14 @@
 #########################################
 # Sukka's Ruleset - Telegram Domains
-# Last Updated: 2023-12-19T15:12:27.905Z
-# Size: 14
+# Last Updated: 2024-02-26T04:26:52.492Z
+# Size: 15
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains domains used by Telegram Messenger.
 #########################################
+DOMAIN,kmsp2x2821.this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,legra.ph
 DOMAIN-SUFFIX,graph.org

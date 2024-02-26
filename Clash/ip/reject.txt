@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Anti Bogus Domain
-# Last Updated: 2023-12-19T15:12:31.194Z
-# Size: 175
+# Last Updated: 2024-02-26T04:26:52.441Z
+# Size: 176
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11,6 +11,7 @@
 # Data from:
 #  - https://github.com/felixonmars/dnsmasq-china-list
 #########################################
+DOMAIN,kmsp2x2821.this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 IP-CIDR,61.191.206.4/32,no-resolve
 IP-CIDR,61.183.1.186/32,no-resolve
 IP-CIDR,61.174.50.214/32,no-resolve
