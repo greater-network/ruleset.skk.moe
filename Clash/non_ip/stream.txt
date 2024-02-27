@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services: All
-# Last Updated: 2024-02-27T08:50:40.159Z
+# Last Updated: 2024-02-27T12:27:07.136Z
 # Size: 293
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -61,7 +61,7 @@
 # - YouTube Music
 # - SHOWTIME
 #########################################
-DOMAIN,ka5gm9qpd7g.this_ruleset_is_made_by_sukkaw.e2evluk7uyi.ruleset.skk.moe
+DOMAIN,tueaxqf4zll.this_ruleset_is_made_by_sukkaw.pcl2g3x8wcf.ruleset.skk.moe
 DOMAIN,youtube.googleapis.com
 DOMAIN,youtubei.googleapis.com
 DOMAIN,itvpnpmobile-a.akamaihd.net

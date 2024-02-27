@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Apple IP
-# Last Updated: 2024-02-27T08:50:40.235Z
+# Last Updated: 2024-02-27T12:27:07.228Z
 # Size: 11
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,7 @@
 #
 # This file contains IPs owned/used by Apple, Inc.
 #########################################
-DOMAIN,ka5gm9qpd7g.this_ruleset_is_made_by_sukkaw.e2evluk7uyi.ruleset.skk.moe
+DOMAIN,tueaxqf4zll.this_ruleset_is_made_by_sukkaw.pcl2g3x8wcf.ruleset.skk.moe
 IP-CIDR,65.199.22.0/23,no-resolve
 IP-CIDR,63.92.224.0/19,no-resolve
 IP-CIDR,205.180.175.0/24,no-resolve
