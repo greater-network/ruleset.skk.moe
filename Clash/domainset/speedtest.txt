@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-02-27T12:27:08.519Z
-# Size: 1141
+# Last Updated: 2024-02-28T12:27:17.381Z
+# Size: 1143
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains common speedtest endpoints.
 #########################################
-tueaxqf4zll.this_ruleset_is_made_by_sukkaw.pcl2g3x8wcf.ruleset.skk.moe
+dujs74mcntm.this_ruleset_is_made_by_sukkaw.jfpkl0h3w5m.ruleset.skk.moe
 https
 speedtest-net.mk.de
 +.speedtest.rt.ru
@@ -60,6 +60,7 @@ isfyo3e2i1.this_ruleset_is_made_by_sukkaw.lvih5eofop.ruleset.skk.moe
 tl0zwx9yykg.this_ruleset_is_made_by_sukkaw.t9ivgi6mth.ruleset.skk.moe
 8rsjwfa8ft6.this_ruleset_is_made_by_sukkaw.3xw5365iczr.ruleset.skk.moe
 ka5gm9qpd7g.this_ruleset_is_made_by_sukkaw.e2evluk7uyi.ruleset.skk.moe
+tueaxqf4zll.this_ruleset_is_made_by_sukkaw.pcl2g3x8wcf.ruleset.skk.moe
 speedtest.tigo.cr
 speedtest-srv01.tut.net
 speedtest.uia.net
@@ -72,6 +73,7 @@ fra-eq5-tptest1.31173.se
 lon-ix1-tptest1.31173.se
 speedtest.58243.as
 speedtest-6.aebc.com
+lg-lon.aeza.net
 speedtest-ams.bit0.xyz
 speedtest-dal.bit0.xyz
 speedtest-lax.bit0.xyz

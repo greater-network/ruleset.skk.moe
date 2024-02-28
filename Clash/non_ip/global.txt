@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-02-27T12:27:07.268Z
+# Last Updated: 2024-02-28T12:27:07.129Z
 # Size: 389
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,7 @@
 #
 # This file contains rules for services that are not available inside the Mainland China.
 #########################################
-DOMAIN,tueaxqf4zll.this_ruleset_is_made_by_sukkaw.pcl2g3x8wcf.ruleset.skk.moe
+DOMAIN,dujs74mcntm.this_ruleset_is_made_by_sukkaw.jfpkl0h3w5m.ruleset.skk.moe
 DOMAIN,wego.here.com
 DOMAIN,media.steampowered.com
 DOMAIN,onedrive.live.com
