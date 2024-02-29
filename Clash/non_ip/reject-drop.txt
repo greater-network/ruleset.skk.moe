@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject And Drop
-# Last Updated: 2024-02-29T04:51:44.561Z
+# Last Updated: 2024-02-29T06:53:53.069Z
 # Size: 2
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,6 +8,6 @@
 #
 # This file This file contains rules for domain should be used with REJECT-DROP policy.
 #########################################
-DOMAIN,0bmk4yff8jxl.this_ruleset_is_made_by_sukkaw.nnd3izaj62g.ruleset.skk.moe
+DOMAIN,of9h0yi3j2.this_ruleset_is_made_by_sukkaw.n260epchgl8.ruleset.skk.moe
 DOMAIN-SUFFIX,geo2.adobe.com
 ################## EOF ##################

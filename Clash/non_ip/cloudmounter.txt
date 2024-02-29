@@ -1,10 +1,10 @@
 #########################################
 # Sukka's Ruleset - CloudMounter / RaiDrive
-# Last Updated: 2024-02-29T04:51:44.457Z
+# Last Updated: 2024-02-29T06:53:52.935Z
 # Size: 1
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #########################################
-DOMAIN,0bmk4yff8jxl.this_ruleset_is_made_by_sukkaw.nnd3izaj62g.ruleset.skk.moe
+DOMAIN,of9h0yi3j2.this_ruleset_is_made_by_sukkaw.n260epchgl8.ruleset.skk.moe
 ################## EOF ##################

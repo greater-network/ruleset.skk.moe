@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services: Taiwan
-# Last Updated: 2024-02-29T04:51:44.456Z
+# Last Updated: 2024-02-29T06:53:52.933Z
 # Size: 45
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -14,7 +14,7 @@
 # - Bahamut
 # - Bilibili International
 #########################################
-DOMAIN,0bmk4yff8jxl.this_ruleset_is_made_by_sukkaw.nnd3izaj62g.ruleset.skk.moe
+DOMAIN,of9h0yi3j2.this_ruleset_is_made_by_sukkaw.n260epchgl8.ruleset.skk.moe
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,apm-misaka.biliapi.net
