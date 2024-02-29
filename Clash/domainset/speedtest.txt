@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-02-28T12:27:17.381Z
-# Size: 1143
+# Last Updated: 2024-02-29T04:51:55.036Z
+# Size: 1146
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains common speedtest endpoints.
 #########################################
-dujs74mcntm.this_ruleset_is_made_by_sukkaw.jfpkl0h3w5m.ruleset.skk.moe
+0bmk4yff8jxl.this_ruleset_is_made_by_sukkaw.nnd3izaj62g.ruleset.skk.moe
 https
 speedtest-net.mk.de
 +.speedtest.rt.ru
@@ -59,6 +59,7 @@ speedtest.sits.su
 isfyo3e2i1.this_ruleset_is_made_by_sukkaw.lvih5eofop.ruleset.skk.moe
 tl0zwx9yykg.this_ruleset_is_made_by_sukkaw.t9ivgi6mth.ruleset.skk.moe
 8rsjwfa8ft6.this_ruleset_is_made_by_sukkaw.3xw5365iczr.ruleset.skk.moe
+dujs74mcntm.this_ruleset_is_made_by_sukkaw.jfpkl0h3w5m.ruleset.skk.moe
 ka5gm9qpd7g.this_ruleset_is_made_by_sukkaw.e2evluk7uyi.ruleset.skk.moe
 tueaxqf4zll.this_ruleset_is_made_by_sukkaw.pcl2g3x8wcf.ruleset.skk.moe
 speedtest.tigo.cr
@@ -193,6 +194,7 @@ speedtest-sjc.acreto.net
 speed.msk.avantel.ru
 speedtest.bnsdfw.com
 speedtest.brsk.co.uk
+speedtest.netgeartec.cloudns.be
 librarian.comstar.ru
 speedtestsvq01.comvive.es
 speedtest.coreix.net
@@ -993,6 +995,7 @@ speedtest.belairinternet.com
 speedtest.boxbroadband.co.uk
 speedtest2.comvergence.com.au
 speedtest.conectjadns.com.br
+st-istanbul-3.corenetwork.com.tr
 sp1.fiberlinkce.com.br
 ookla.fordconnect.com.br
 speed.grinternett.com.br

@@ -8,7 +8,7 @@
 # Data from:
 #  - https://core.telegram.org/resources/cidr.txt
 #########################################
-DOMAIN,dujs74mcntm.this_ruleset_is_made_by_sukkaw.jfpkl0h3w5m.ruleset.skk.moe
+DOMAIN,0bmk4yff8jxl.this_ruleset_is_made_by_sukkaw.nnd3izaj62g.ruleset.skk.moe
 IP-CIDR,91.108.8.0/22,no-resolve
 IP-CIDR,91.108.56.0/22,no-resolve
 IP-CIDR,91.108.4.0/22,no-resolve
