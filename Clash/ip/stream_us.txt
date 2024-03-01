@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services' IPs: North America
-# Last Updated: 2024-02-29T12:28:11.377Z
+# Last Updated: 2024-03-01T10:53:04.797Z
 # Size: 1
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -15,5 +15,5 @@
 # - Paramount+
 # - Peacock
 #########################################
-DOMAIN,uynd519jord.this_ruleset_is_made_by_sukkaw.h6pm7k19v7.ruleset.skk.moe
+DOMAIN,oubez6jg4w7.this_ruleset_is_made_by_sukkaw.o9mpvy15kza.ruleset.skk.moe
 ################## EOF ##################
