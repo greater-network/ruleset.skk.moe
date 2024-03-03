@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-03-02T12:26:14.475Z
-# Size: 1154
+# Last Updated: 2024-03-03T12:26:21.371Z
+# Size: 1161
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains common speedtest endpoints.
 #########################################
-yb336anvp9t.this_ruleset_is_made_by_sukkaw.gt5vwr529o9.ruleset.skk.moe
+kjci8uzcqsh.this_ruleset_is_made_by_sukkaw.pn584hj3ku.ruleset.skk.moe
 https
 speedtest-net.mk.de
 +.speedtest.rt.ru
@@ -66,6 +66,7 @@ dujs74mcntm.this_ruleset_is_made_by_sukkaw.jfpkl0h3w5m.ruleset.skk.moe
 ka5gm9qpd7g.this_ruleset_is_made_by_sukkaw.e2evluk7uyi.ruleset.skk.moe
 oubez6jg4w7.this_ruleset_is_made_by_sukkaw.o9mpvy15kza.ruleset.skk.moe
 tueaxqf4zll.this_ruleset_is_made_by_sukkaw.pcl2g3x8wcf.ruleset.skk.moe
+yb336anvp9t.this_ruleset_is_made_by_sukkaw.gt5vwr529o9.ruleset.skk.moe
 0bmk4yff8jxl.this_ruleset_is_made_by_sukkaw.nnd3izaj62g.ruleset.skk.moe
 speedtest.tigo.cr
 speedtest-srv01.tut.net
@@ -79,6 +80,7 @@ fra-eq5-tptest1.31173.se
 lon-ix1-tptest1.31173.se
 speedtest.58243.as
 speedtest-6.aebc.com
+lg-ffm.aeza.net
 lg-lon.aeza.net
 speedtest-ams.bit0.xyz
 speedtest-dal.bit0.xyz
@@ -546,9 +548,11 @@ speedtest.onedc.com.tr
 +.speedtest.ozarksgo.net
 speedtest.pingless.com
 ca-bc-07.plactrix.net
+speedtest.plertanix.de
 speedtest.polycomm.net
 postapps.com
 speedtest.riverhip.net
+speedtest.rrhosting.eu
 st1.scaleway.com
 speedtest.skynetcom.ru
 kami.smartone.com
@@ -850,6 +854,7 @@ speedtest-obd.redeconecta.com
 speedtest-stm.redeconecta.com
 speedtest.rekornet.com.tr
 speedtest-tx-da2.scalematrix.com
+speedtestnet.server-bench.de
 speed.lax-1.serverforge.org
 speed1.yyz-1.serverforge.org
 ookla.la.us.smoketunnel.com
@@ -874,6 +879,7 @@ speedtest.vieth-server.de
 speedtest3.vodafone.com.tr
 speedtest8.vodafone.com.tr
 speedtest2.voicehost.co.uk
+speedtest.webdiscount.net
 speedtest.webturbo.net.br
 speedtest.wifitelekom.com
 speedtest.actelecom.com.br
@@ -1003,6 +1009,7 @@ speedtest.boxbroadband.co.uk
 speedtest2.comvergence.com.au
 speedtest.conectjadns.com.br
 st-istanbul-3.corenetwork.com.tr
+st-frankfurt-1.corenetwork.com.tr
 sp1.fiberlinkce.com.br
 ookla.fordconnect.com.br
 speed.grinternett.com.br

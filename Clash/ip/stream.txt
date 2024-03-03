@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services' IPs: All
-# Last Updated: 2024-03-02T12:26:03.332Z
+# Last Updated: 2024-03-03T12:26:11.394Z
 # Size: 20
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -61,7 +61,7 @@
 # - YouTube Music
 # - SHOWTIME
 #########################################
-DOMAIN,yb336anvp9t.this_ruleset_is_made_by_sukkaw.gt5vwr529o9.ruleset.skk.moe
+DOMAIN,kjci8uzcqsh.this_ruleset_is_made_by_sukkaw.pn584hj3ku.ruleset.skk.moe
 IP-CIDR,69.53.224.0/19,no-resolve
 IP-CIDR,66.197.128.0/17,no-resolve
 IP-CIDR,64.120.128.0/17,no-resolve
