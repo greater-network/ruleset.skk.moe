@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Apple China Special Domains
-# Last Updated: 2024-03-03T12:26:11.493Z
+# Last Updated: 2024-03-04T06:11:48.750Z
 # Size: 4
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,7 @@
 #
 # This file contains domains of Apple, Inc that have PoP inside the Mainland China.
 #########################################
-DOMAIN,kjci8uzcqsh.this_ruleset_is_made_by_sukkaw.pn584hj3ku.ruleset.skk.moe
+DOMAIN,wx9ld9xjnyo.this_ruleset_is_made_by_sukkaw.h7guhm3jxgn.ruleset.skk.moe
 DOMAIN-SUFFIX,cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,cn.ls.apple.com
 DOMAIN-SUFFIX,cn.apple.com

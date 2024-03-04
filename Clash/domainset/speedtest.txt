@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-03-03T12:26:21.371Z
-# Size: 1161
+# Last Updated: 2024-03-04T06:11:59.023Z
+# Size: 1167
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains common speedtest endpoints.
 #########################################
-kjci8uzcqsh.this_ruleset_is_made_by_sukkaw.pn584hj3ku.ruleset.skk.moe
+wx9ld9xjnyo.this_ruleset_is_made_by_sukkaw.h7guhm3jxgn.ruleset.skk.moe
 https
 speedtest-net.mk.de
 +.speedtest.rt.ru
@@ -57,6 +57,7 @@ speedtest.rit.edu
 speedtest.ropa.de
 speedtest.sits.su
 isfyo3e2i1.this_ruleset_is_made_by_sukkaw.lvih5eofop.ruleset.skk.moe
+kjci8uzcqsh.this_ruleset_is_made_by_sukkaw.pn584hj3ku.ruleset.skk.moe
 of9h0yi3j2.this_ruleset_is_made_by_sukkaw.n260epchgl8.ruleset.skk.moe
 tl0zwx9yykg.this_ruleset_is_made_by_sukkaw.t9ivgi6mth.ruleset.skk.moe
 uynd519jord.this_ruleset_is_made_by_sukkaw.h6pm7k19v7.ruleset.skk.moe
@@ -345,6 +346,7 @@ speedtestlondon.telecom.mu
 sy.tjtele.com
 speedtest.toob.co.uk
 speedtest.mia.upx.net.br
+speedtest.vee.com.tw
 +.speedtest.warian.net
 speedtest-wa.waveip.org
 wiwan66.seattle.westnet.ca
@@ -491,6 +493,7 @@ mtcspeedtest.catskill.net
 speedtest.clarkson.edu
 spd33.claro.com.br
 spd49.claro.com.br
+powertec-speedtest01.cloudasn.com
 hiztesti.codit.com.tr
 hiztesti-ist.codit.com.tr
 ookla.delhitel.net
@@ -539,6 +542,7 @@ speed.navegalo.com
 speedtest.hk212.hkg.cn.nerocloud.io
 speedtest.netflash.net
 speedtest.syd.netsg.net.au
+st.me1.nexon.com.au
 st.sy3.nexon.com.au
 speedtest.dal1.nitelusa.net
 speedtest.lax1.nitelusa.net
@@ -580,6 +584,8 @@ tas-dwpk-speedtest.aarnet.net.au
 vic-pmla-speedtest.aarnet.net.au
 nt-drwn-st1.speedtest.aarnet.net.au
 sa-prka-st1.speedtest.aarnet.net.au
+tas-dwpk-st1.speedtest.aarnet.net.au
+vic-pmla-st1.speedtest.aarnet.net.au
 tsdvuspeedtest01p.allstream.com
 speedtest01.srv.hcvlny.alticeusa.net
 speedtest03.srv.whplny.alticeusa.net
