@@ -533,7 +533,7 @@ SUFFIX,pic.skk.moe
 SUFFIX,ruleset.skk.moe
 SUFFIX,hv-monster-submit.skk.moe
 SUFFIX,hv-monsterdb-data.skk.moe
-SUFFIX,8x8mlksxeea.this_ruleset_is_made_by_sukkaw.6dgppmdwk6r.ruleset.skk.moe
+SUFFIX,rr5dq3vu84b.this_ruleset_is_made_by_sukkaw.b4npogaaypq.ruleset.skk.moe
 SUFFIX,i.snap.as
 SUFFIX,static.snyk.io
 SUFFIX,images.spot.im
@@ -848,6 +848,7 @@ SUFFIX,storageapi2.fleek.one
 SUFFIX,fonts.com
 SUFFIX,fonts.net
 SUFFIX,ftcdn.net
+SUFFIX,assets.gcore.pro
 SUFFIX,getmdl.io
 SUFFIX,media.gettr.com
 SUFFIX,ggpht.com

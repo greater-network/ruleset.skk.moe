@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2024-03-05T03:53:39.741Z
+# Last Updated: 2024-03-05T04:00:19.332Z
 # Size: 12
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,7 @@
 #
 # Includes rules for LAN IP addresses and .local suffix.
 #########################################
-DOMAIN,8x8mlksxeea.this_ruleset_is_made_by_sukkaw.6dgppmdwk6r.ruleset.skk.moe
+DOMAIN,rr5dq3vu84b.this_ruleset_is_made_by_sukkaw.b4npogaaypq.ruleset.skk.moe
 IP-CIDR,224.0.0.0/4
 IP-CIDR,192.168.0.0/16
 IP-CIDR,172.16.0.0/12
