@@ -1,14 +1,14 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-03-04T12:31:59.249Z
-# Size: 1168
+# Last Updated: 2024-03-05T03:53:41.857Z
+# Size: 1169
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains common speedtest endpoints.
 #########################################
-kn5z31wiwuc.this_ruleset_is_made_by_sukkaw.b201e8zxxk9.ruleset.skk.moe
+8x8mlksxeea.this_ruleset_is_made_by_sukkaw.6dgppmdwk6r.ruleset.skk.moe
 https
 speedtest-net.mk.de
 +.speedtest.rt.ru
@@ -65,6 +65,7 @@ uynd519jord.this_ruleset_is_made_by_sukkaw.h6pm7k19v7.ruleset.skk.moe
 8rsjwfa8ft6.this_ruleset_is_made_by_sukkaw.3xw5365iczr.ruleset.skk.moe
 dujs74mcntm.this_ruleset_is_made_by_sukkaw.jfpkl0h3w5m.ruleset.skk.moe
 ka5gm9qpd7g.this_ruleset_is_made_by_sukkaw.e2evluk7uyi.ruleset.skk.moe
+kn5z31wiwuc.this_ruleset_is_made_by_sukkaw.b201e8zxxk9.ruleset.skk.moe
 oubez6jg4w7.this_ruleset_is_made_by_sukkaw.o9mpvy15kza.ruleset.skk.moe
 tueaxqf4zll.this_ruleset_is_made_by_sukkaw.pcl2g3x8wcf.ruleset.skk.moe
 wx9ld9xjnyo.this_ruleset_is_made_by_sukkaw.h7guhm3jxgn.ruleset.skk.moe

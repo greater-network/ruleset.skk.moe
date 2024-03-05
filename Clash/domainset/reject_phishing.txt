@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Deprecated
-# Last Updated: 2024-03-04T12:31:55.392Z
+# Last Updated: 2024-03-05T03:53:39.747Z
 # Size: 1
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,5 +8,5 @@
 #
 # The file has been deprecated, its content has been merged into the main `reject` domainset.
 #########################################
-kn5z31wiwuc.this_ruleset_is_made_by_sukkaw.b201e8zxxk9.ruleset.skk.moe
+8x8mlksxeea.this_ruleset_is_made_by_sukkaw.6dgppmdwk6r.ruleset.skk.moe
 ################## EOF ##################

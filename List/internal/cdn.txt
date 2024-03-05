@@ -533,7 +533,7 @@ SUFFIX,pic.skk.moe
 SUFFIX,ruleset.skk.moe
 SUFFIX,hv-monster-submit.skk.moe
 SUFFIX,hv-monsterdb-data.skk.moe
-SUFFIX,kn5z31wiwuc.this_ruleset_is_made_by_sukkaw.b201e8zxxk9.ruleset.skk.moe
+SUFFIX,8x8mlksxeea.this_ruleset_is_made_by_sukkaw.6dgppmdwk6r.ruleset.skk.moe
 SUFFIX,i.snap.as
 SUFFIX,static.snyk.io
 SUFFIX,images.spot.im
@@ -1536,6 +1536,7 @@ SUFFIX,hboasia.com
 SUFFIX,static.heavy-r.com
 SUFFIX,hostloc.com
 SUFFIX,js.hsforms.net
+SUFFIX,js-eu1.hsforms.net
 SUFFIX,static2cdn.hubspot.com
 SUFFIX,cdn2.hubspot.net
 SUFFIX,avatars.hubspot.net
@@ -1856,6 +1857,7 @@ SUFFIX,geoip-js.com
 SUFFIX,static.getbutton.io
 SUFFIX,assets.getkirby.com
 SUFFIX,cdn.getkoala.com
+SUFFIX,ghostery.com
 SUFFIX,cdn.ghostery.com
 SUFFIX,download.gigabyte.com
 SUFFIX,gmodules.com
@@ -1879,6 +1881,7 @@ SUFFIX,instant.page
 SUFFIX,search.ipfsgate.com
 SUFFIX,javplayer.me
 SUFFIX,img.javstore.net
+SUFFIX,jsdelivr.com
 SUFFIX,img.jsdelivr.com
 SUFFIX,data.jsdelivr.com
 SUFFIX,jsdelivr.net
@@ -3017,6 +3020,7 @@ SUFFIX,1passwordusercontent.com
 SUFFIX,blzddist1-a.akamaihd.net
 SUFFIX,brick.freetls.fastly.net
 SUFFIX,edgestatic.azureedge.net
+SUFFIX,cdn.european-alternatives.eu
 SUFFIX,firestore.googleapis.com
 SUFFIX,hubspotusercontent30.com
 SUFFIX,hubspotusercontent30.net
@@ -3062,6 +3066,7 @@ SUFFIX,certificate-transparency.org
 SUFFIX,dai3fd1oh325y.cloudfront.net
 SUFFIX,dfp6rglgjqszk.cloudfront.net
 SUFFIX,dmqdd6hw24ucf.cloudfront.net
+SUFFIX,i-dont-care-about-cookies.eu
 SUFFIX,ohttp-relay1.fastly-edge.com
 SUFFIX,cdn-a.sonyentertainmentnetwork.com
 SUFFIX,bcbolt446c5271-a.akamaihd.net
