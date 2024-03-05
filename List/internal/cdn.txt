@@ -533,7 +533,7 @@ SUFFIX,pic.skk.moe
 SUFFIX,ruleset.skk.moe
 SUFFIX,hv-monster-submit.skk.moe
 SUFFIX,hv-monsterdb-data.skk.moe
-SUFFIX,lf7fj4hwlod.this_ruleset_is_made_by_sukkaw.uod2zoiyjio.ruleset.skk.moe
+SUFFIX,qin98jypw1.this_ruleset_is_made_by_sukkaw.rxnoowjj4b.ruleset.skk.moe
 SUFFIX,i.snap.as
 SUFFIX,static.snyk.io
 SUFFIX,images.spot.im

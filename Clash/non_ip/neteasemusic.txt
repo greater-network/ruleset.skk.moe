@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Netease Music
-# Last Updated: 2024-03-05T04:04:46.030Z
+# Last Updated: 2024-03-05T12:28:46.809Z
 # Size: 3
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,7 @@
 #
 # This file contains rules for Netease Music.
 #########################################
-DOMAIN,lf7fj4hwlod.this_ruleset_is_made_by_sukkaw.uod2zoiyjio.ruleset.skk.moe
+DOMAIN,qin98jypw1.this_ruleset_is_made_by_sukkaw.rxnoowjj4b.ruleset.skk.moe
 DOMAIN-SUFFIX,music.163.com
 DOMAIN-SUFFIX,music.126.net
 ################## EOF ##################

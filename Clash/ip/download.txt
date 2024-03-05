@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting IPs
-# Last Updated: 2024-03-05T04:04:45.991Z
+# Last Updated: 2024-03-05T12:28:46.783Z
 # Size: 12
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,7 @@
 #
 # This file contains IPs for software updating & large file hosting.
 #########################################
-DOMAIN,lf7fj4hwlod.this_ruleset_is_made_by_sukkaw.uod2zoiyjio.ruleset.skk.moe
+DOMAIN,qin98jypw1.this_ruleset_is_made_by_sukkaw.rxnoowjj4b.ruleset.skk.moe
 IP-CIDR,94.24.36.0/23,no-resolve
 IP-CIDR,66.203.126.0/23,no-resolve
 IP-CIDR,185.206.24.0/22,no-resolve
