@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services: Japan
-# Last Updated: 2024-03-05T04:00:13.347Z
+# Last Updated: 2024-03-05T04:04:40.164Z
 # Size: 22
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -10,7 +10,7 @@
 # - AbemaTV
 # - niconico
 #########################################
-DOMAIN,rr5dq3vu84b.this_ruleset_is_made_by_sukkaw.b4npogaaypq.ruleset.skk.moe
+DOMAIN,lf7fj4hwlod.this_ruleset_is_made_by_sukkaw.uod2zoiyjio.ruleset.skk.moe
 DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,nicovideo.jp

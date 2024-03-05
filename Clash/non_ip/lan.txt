@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - LAN
-# Last Updated: 2024-03-05T04:00:19.368Z
+# Last Updated: 2024-03-05T04:04:46.032Z
 # Size: 22
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,7 @@
 #
 # Includes rules for LAN DOMAIN and .local suffix.
 #########################################
-DOMAIN,rr5dq3vu84b.this_ruleset_is_made_by_sukkaw.b4npogaaypq.ruleset.skk.moe
+DOMAIN,lf7fj4hwlod.this_ruleset_is_made_by_sukkaw.uod2zoiyjio.ruleset.skk.moe
 DOMAIN-SUFFIX,home.arpa
 DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,31.172.in-addr.arpa

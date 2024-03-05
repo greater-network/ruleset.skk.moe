@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-03-05T04:00:13.341Z
+# Last Updated: 2024-03-05T04:04:40.159Z
 # Size: 590
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,7 @@
 #
 # This file contains known addresses that are avaliable in the Mainland China.
 #########################################
-DOMAIN,rr5dq3vu84b.this_ruleset_is_made_by_sukkaw.b4npogaaypq.ruleset.skk.moe
+DOMAIN,lf7fj4hwlod.this_ruleset_is_made_by_sukkaw.uod2zoiyjio.ruleset.skk.moe
 DOMAIN,lv.queniujq.cn
 DOMAIN,xboxlive.cn
 DOMAIN,www.layuicdn.com
