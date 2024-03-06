@@ -360,6 +360,7 @@ SUFFIX,cdn.img.ly
 SUFFIX,iq.com
 SUFFIX,cache-video.iq.com
 SUFFIX,bot.ivy.ai
+SUFFIX,npm.jsr.io
 SUFFIX,gravity.jup.io
 SUFFIX,static-cache.k2s.cc
 SUFFIX,k8s.io
@@ -533,7 +534,7 @@ SUFFIX,pic.skk.moe
 SUFFIX,ruleset.skk.moe
 SUFFIX,hv-monster-submit.skk.moe
 SUFFIX,hv-monsterdb-data.skk.moe
-SUFFIX,qin98jypw1.this_ruleset_is_made_by_sukkaw.rxnoowjj4b.ruleset.skk.moe
+SUFFIX,gy8d8igkh24.this_ruleset_is_made_by_sukkaw.cgrmutv8hj.ruleset.skk.moe
 SUFFIX,i.snap.as
 SUFFIX,static.snyk.io
 SUFFIX,images.spot.im

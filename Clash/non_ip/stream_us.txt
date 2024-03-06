@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services: North America
-# Last Updated: 2024-03-05T12:28:46.705Z
+# Last Updated: 2024-03-06T06:41:56.600Z
 # Size: 37
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -15,7 +15,7 @@
 # - Paramount+
 # - Peacock
 #########################################
-DOMAIN,qin98jypw1.this_ruleset_is_made_by_sukkaw.rxnoowjj4b.ruleset.skk.moe
+DOMAIN,gy8d8igkh24.this_ruleset_is_made_by_sukkaw.cgrmutv8hj.ruleset.skk.moe
 DOMAIN,link.theplatform.com
 DOMAIN,cbsservice.aws.syncbak.com
 DOMAIN,cbsplaylistserver.aws.syncbak.com
