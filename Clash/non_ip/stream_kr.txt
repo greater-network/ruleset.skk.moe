@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services: Korean
-# Last Updated: 2024-03-06T06:41:56.601Z
+# Last Updated: 2024-03-06T12:29:01.930Z
 # Size: 3
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,7 @@
 #
 # - Naver TV
 #########################################
-DOMAIN,gy8d8igkh24.this_ruleset_is_made_by_sukkaw.cgrmutv8hj.ruleset.skk.moe
+DOMAIN,w5s3cu3lqpb.this_ruleset_is_made_by_sukkaw.iygu90ql7uo.ruleset.skk.moe
 DOMAIN-SUFFIX,smartmediarep.com
 DOMAIN-SUFFIX,tv.naver.com
 ################## EOF ##################

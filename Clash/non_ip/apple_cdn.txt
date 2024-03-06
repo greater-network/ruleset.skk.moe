@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Apple CDN
-# Last Updated: 2024-03-06T06:41:56.564Z
+# Last Updated: 2024-03-06T12:29:01.847Z
 # Size: 142
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -11,7 +11,7 @@
 # Data from:
 #  - https://github.com/felixonmars/dnsmasq-china-list
 #########################################
-DOMAIN,gy8d8igkh24.this_ruleset_is_made_by_sukkaw.cgrmutv8hj.ruleset.skk.moe
+DOMAIN,w5s3cu3lqpb.this_ruleset_is_made_by_sukkaw.iygu90ql7uo.ruleset.skk.moe
 DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,www.apple.com
 DOMAIN-SUFFIX,www.apple.com.edgekey.net
