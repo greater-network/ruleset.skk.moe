@@ -1,12 +1,12 @@
 #########################################
 # Sukka's Ruleset - Internal Special
-# Last Updated: 2024-03-06T12:29:02.071Z
+# Last Updated: 2024-03-07T05:15:06.923Z
 # Size: 77
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #########################################
-DOMAIN,w5s3cu3lqpb.this_ruleset_is_made_by_sukkaw.iygu90ql7uo.ruleset.skk.moe
+DOMAIN,rkeb8fzuph.this_ruleset_is_made_by_sukkaw.mael1dbnz8l.ruleset.skk.moe
 DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,proxy.safebrowsing.apple
 DOMAIN,prego-cache.prod.sketch.com
