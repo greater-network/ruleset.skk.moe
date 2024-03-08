@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-03-07T12:28:06.444Z
+# Last Updated: 2024-03-08T08:44:37.125Z
 # Size: 193
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,7 @@
 #
 # This file contains domains for software updating & large file hosting.
 #########################################
-z7s1r4qfhuc.this_ruleset_is_made_by_sukkaw.54jbjabey7f.ruleset.skk.moe
+yj0ke5dv0c.this_ruleset_is_made_by_sukkaw.dqnwn6ldmd.ruleset.skk.moe
 dl-cdn.alpinelinux.org
 downloads.openwrt.org
 ppa.launchpad.net

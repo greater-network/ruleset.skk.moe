@@ -1,17 +1,22 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-03-07T12:28:06.506Z
-# Size: 146
+# Last Updated: 2024-03-08T08:44:37.185Z
+# Size: 151
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # The ruleset supports AD blocking, tracking protection, privacy protection, anti-phishing, anti-mining
 #########################################
-DOMAIN,z7s1r4qfhuc.this_ruleset_is_made_by_sukkaw.54jbjabey7f.ruleset.skk.moe
+DOMAIN,yj0ke5dv0c.this_ruleset_is_made_by_sukkaw.dqnwn6ldmd.ruleset.skk.moe
 DOMAIN,stun.smartgslb.com
+DOMAIN-SUFFIX,ksrtmgoym.com
+DOMAIN-SUFFIX,karponews.com
+DOMAIN-SUFFIX,km14hkusz.com
+DOMAIN-SUFFIX,ruranews.com
 DOMAIN-SUFFIX,rookinews.com
 DOMAIN-SUFFIX,reminews.com
+DOMAIN-SUFFIX,leranews.com
 DOMAIN-SUFFIX,lookinews.com
 DOMAIN-SUFFIX,lootynews.com
 DOMAIN-SUFFIX,luronews.com
