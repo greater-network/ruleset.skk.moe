@@ -794,6 +794,7 @@ SUFFIX,bibox.com
 SUFFIX,img.biguz.net
 SUFFIX,static.bit.cloud
 SUFFIX,bitly.com
+SUFFIX,assets.bnidx.com
 SUFFIX,cdn.branch.io
 SUFFIX,brave.com
 SUFFIX,cdn.search.brave.com
@@ -1785,6 +1786,7 @@ SUFFIX,blizzard.com
 SUFFIX,cdn.blizzard.com
 SUFFIX,level3.blizzard.com
 SUFFIX,blogblog.com
+SUFFIX,assets.bravenet.com
 SUFFIX,bytedapm.com
 SUFFIX,assets.byteplus.com
 SUFFIX,c4assets.com
@@ -2541,6 +2543,7 @@ SUFFIX,bp.blogspot.com
 SUFFIX,p.bstarstatic.com
 SUFFIX,byteoversea.com
 SUFFIX,cdn.calibermind.com
+SUFFIX,static.cdn-website.com
 SUFFIX,media.cleanshot.cloud
 SUFFIX,ddcdn.comtucdncom.com
 SUFFIX,js.createsend1.com
@@ -2941,6 +2944,7 @@ SUFFIX,js.hubspotfeedback.com
 SUFFIX,invisionapp-cdn.com
 SUFFIX,makeuseofimages.com
 SUFFIX,motherlessmedia.com
+SUFFIX,irp-cdn.multiscreensite.com
 SUFFIX,openseauserdata.com
 SUFFIX,get.pixelexperience.org
 SUFFIX,download.pixelexperience.org

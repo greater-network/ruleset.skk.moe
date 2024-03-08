@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-03-08T08:50:33.524Z
-# Size: 1181
+# Last Updated: 2024-03-08T09:05:46.669Z
+# Size: 1182
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -56,6 +56,7 @@ lax01-b.ookla.rcp.net
 speedtest.rit.edu
 speedtest.ropa.de
 speedtest.sits.su
+this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 isfyo3e2i1.this_ruleset_is_made_by_sukkaw.lvih5eofop.ruleset.skk.moe
 qin98jypw1.this_ruleset_is_made_by_sukkaw.rxnoowjj4b.ruleset.skk.moe
 yj0ke5dv0c.this_ruleset_is_made_by_sukkaw.dqnwn6ldmd.ruleset.skk.moe
