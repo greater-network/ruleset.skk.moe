@@ -3042,6 +3042,7 @@ SUFFIX,hboasialive.akamaized.net
 SUFFIX,cdn.minecraft-server-list.com
 SUFFIX,mwf-service.akamaized.net
 SUFFIX,ravencoinipfs-gateway.com
+SUFFIX,snyk-widget.herokuapp.com
 SUFFIX,spotify-com.akamaized.net
 SUFFIX,steamvideo-a.akamaihd.net
 SUFFIX,ubistatic2-a.akamaihd.net
