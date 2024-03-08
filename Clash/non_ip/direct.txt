@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Direct Rules
-# Last Updated: 2024-03-08T08:44:37.182Z
+# Last Updated: 2024-03-08T08:50:38.728Z
 # Size: 162
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,7 @@
 #
 # This file contains domains and process that should not be proxied.
 #########################################
-DOMAIN,yj0ke5dv0c.this_ruleset_is_made_by_sukkaw.dqnwn6ldmd.ruleset.skk.moe
+DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,local.adguard.org
 DOMAIN,injections.adguard.org
 DOMAIN-SUFFIX,wiley.com

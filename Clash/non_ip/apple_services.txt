@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Apple Domains
-# Last Updated: 2024-03-08T08:44:37.179Z
+# Last Updated: 2024-03-08T08:50:38.725Z
 # Size: 30
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -8,7 +8,7 @@
 #
 # This file contains domains of Apple, Inc.
 #########################################
-DOMAIN,yj0ke5dv0c.this_ruleset_is_made_by_sukkaw.dqnwn6ldmd.ruleset.skk.moe
+DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,api.smoot.apple.cn
 DOMAIN-SUFFIX,push-apple.com.akadns.net
 DOMAIN-SUFFIX,organicfruitapps.com
