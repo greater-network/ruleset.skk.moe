@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-03-08T08:50:38.731Z
-# Size: 151
+# Last Updated: 2024-03-08T08:55:47.541Z
+# Size: 159
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,6 +10,7 @@
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,stun.smartgslb.com
+DOMAIN-SUFFIX,uho5m96ej.com
 DOMAIN-SUFFIX,ksrtmgoym.com
 DOMAIN-SUFFIX,karponews.com
 DOMAIN-SUFFIX,km14hkusz.com
@@ -20,6 +21,7 @@ DOMAIN-SUFFIX,leranews.com
 DOMAIN-SUFFIX,lookinews.com
 DOMAIN-SUFFIX,lootynews.com
 DOMAIN-SUFFIX,luronews.com
+DOMAIN-SUFFIX,johncornell.com
 DOMAIN-SUFFIX,jungleheart.com
 DOMAIN-SUFFIX,jumronews.com
 DOMAIN-SUFFIX,jessunews.com
@@ -28,7 +30,11 @@ DOMAIN-SUFFIX,groovinews.com
 DOMAIN-SUFFIX,guesswhatnews.com
 DOMAIN-SUFFIX,gofenews.com
 DOMAIN-SUFFIX,eu5.net
+DOMAIN-SUFFIX,espmp-nifr.net
+DOMAIN-SUFFIX,expobarrio.com
 DOMAIN-SUFFIX,exaapi.com
+DOMAIN-SUFFIX,bestoffers-wt.com
+DOMAIN-SUFFIX,bestoffers-fe.com
 DOMAIN-SUFFIX,bestandgreatests.com
 DOMAIN-SUFFIX,bealanews.com
 DOMAIN-SUFFIX,b2bmktg.com
@@ -83,6 +89,7 @@ DOMAIN-SUFFIX,measure.office.com
 DOMAIN-SUFFIX,myenotice.com
 DOMAIN-SUFFIX,mypi.co
 DOMAIN-SUFFIX,myiphost.com
+DOMAIN-SUFFIX,hamdandates.com
 DOMAIN-SUFFIX,huronews.com
 DOMAIN-SUFFIX,hicam.net
 DOMAIN-SUFFIX,findgreatnews.com
@@ -97,6 +104,7 @@ DOMAIN-SUFFIX,dnsup.net
 DOMAIN-SUFFIX,dnsking.ch
 DOMAIN-SUFFIX,ddnslive.com
 DOMAIN-SUFFIX,cetusinvestmentsbtc.com
+DOMAIN-SUFFIX,carte-gr.total.fr
 DOMAIN-SUFFIX,cprapid.com
 DOMAIN-SUFFIX,crazyegg.com
 DOMAIN-SUFFIX,crabdance.com
