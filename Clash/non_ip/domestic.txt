@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-03-08T08:50:32.711Z
-# Size: 590
+# Last Updated: 2024-03-11T07:29:56.538Z
+# Size: 591
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -93,6 +93,7 @@ DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,koubei.com
 DOMAIN-SUFFIX,kkmh.com
+DOMAIN-SUFFIX,kingsoft-office-service.com
 DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,kaiyanapp.com
 DOMAIN-SUFFIX,kuwo.cn

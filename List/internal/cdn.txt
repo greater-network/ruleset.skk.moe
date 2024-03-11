@@ -1320,6 +1320,7 @@ SUFFIX,rdtcdn.com
 SUFFIX,reddit.com
 SUFFIX,cloud.redhat.com
 SUFFIX,static.redhat.com
+SUFFIX,render.com
 SUFFIX,assets.repair.org
 SUFFIX,sp.replit.com
 SUFFIX,cdn.replit.com
@@ -2366,6 +2367,7 @@ SUFFIX,media.discordapp.net
 SUFFIX,images-ext-1.discordapp.net
 SUFFIX,images-ext-2.discordapp.net
 SUFFIX,disneyplus.com
+SUFFIX,hub-assets.displaycal.net
 SUFFIX,dropboxapi.com
 SUFFIX,duckduckgo.com
 SUFFIX,icons.duckduckgo.com
