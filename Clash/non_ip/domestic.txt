@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-03-11T07:29:56.538Z
-# Size: 591
+# Last Updated: 2024-03-12T09:50:16.121Z
+# Size: 613
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -20,8 +20,9 @@ DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,etao.com
 DOMAIN-SUFFIX,eudic.net
-DOMAIN-SUFFIX,eastmoney.com
 DOMAIN-SUFFIX,edu.cn
+DOMAIN-SUFFIX,eastmoney.com
+DOMAIN-SUFFIX,eatuo.com
 DOMAIN-SUFFIX,xycloud.com
 DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,xunlei.com
@@ -39,6 +40,7 @@ DOMAIN-SUFFIX,xiaomi.cn
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaohongshu.com
 DOMAIN-SUFFIX,xiaote.net
+DOMAIN-SUFFIX,x3322.net
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,toutiaopage.com
 DOMAIN-SUFFIX,toutiaocloud.com
@@ -82,6 +84,7 @@ DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,yunos.com
 DOMAIN-SUFFIX,yuewen.com
 DOMAIN-SUFFIX,yuanshen.com
+DOMAIN-SUFFIX,ys7.com
 DOMAIN-SUFFIX,yitao.com
 DOMAIN-SUFFIX,yinxiang.com
 DOMAIN-SUFFIX,yangkeduo.com
@@ -145,6 +148,7 @@ DOMAIN-SUFFIX,qdaily.com
 DOMAIN-SUFFIX,qcloudimg.com
 DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qcc.com
+DOMAIN-SUFFIX,qbox.me
 DOMAIN-SUFFIX,qyerstatic.com
 DOMAIN-SUFFIX,qyer.com
 DOMAIN-SUFFIX,qy.net
@@ -154,6 +158,8 @@ DOMAIN-SUFFIX,qichacha.com
 DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,peiluyou.com
+DOMAIN-SUFFIX,pubyun.net
+DOMAIN-SUFFIX,pubyun.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,psbc.com
 DOMAIN-SUFFIX,pddpic.com
@@ -216,6 +222,7 @@ DOMAIN-SUFFIX,wegameplus.com
 DOMAIN-SUFFIX,wegame.com
 DOMAIN-SUFFIX,wegame.com.cn
 DOMAIN-SUFFIX,wechat.com
+DOMAIN-SUFFIX,webok.net
 DOMAIN-SUFFIX,weiyun.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weixinbridge.com
@@ -276,6 +283,7 @@ DOMAIN-SUFFIX,geilicdn.com
 DOMAIN-SUFFIX,godic.net
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitcode.com
 DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
 DOMAIN-SUFFIX,ixgvideo.com
@@ -327,12 +335,13 @@ DOMAIN-SUFFIX,fengkongcloud.com
 DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fliggy.com
 DOMAIN-SUFFIX,flyme.cn
-DOMAIN-SUFFIX,duokan.com
 DOMAIN-SUFFIX,dnspod.cn
 DOMAIN-SUFFIX,dnspod.com
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,dxycdn.com
 DOMAIN-SUFFIX,dxy.cn
+DOMAIN-SUFFIX,duokan.com
+DOMAIN-SUFFIX,duba.net
 DOMAIN-SUFFIX,dfcfw.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,dl.pinyuncloud.com
@@ -431,6 +440,7 @@ DOMAIN-SUFFIX,mybank.cn
 DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,myoppo.com
 DOMAIN-SUFFIX,hdslb.com
+DOMAIN-SUFFIX,hc-cdn.com
 DOMAIN-SUFFIX,haosou.com
 DOMAIN-SUFFIX,haowu.link
 DOMAIN-SUFFIX,hao123.com
@@ -467,6 +477,7 @@ DOMAIN-SUFFIX,csdnimg.cn
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,csdn.com
 DOMAIN-SUFFIX,cls.cn
+DOMAIN-SUFFIX,camscanner.com
 DOMAIN-SUFFIX,camera360.com
 DOMAIN-SUFFIX,cainiaoyizhan.com
 DOMAIN-SUFFIX,cainiao.com
@@ -519,6 +530,7 @@ DOMAIN-SUFFIX,vmall.com
 DOMAIN-SUFFIX,vip.com
 DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,vivo.com.cn
+DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,alios.cn
 DOMAIN-SUFFIX,alipan.com
@@ -536,11 +548,13 @@ DOMAIN-SUFFIX,aliimg.com
 DOMAIN-SUFFIX,alidns.com
 DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,autohome.com.cn
 DOMAIN-SUFFIX,appsimg.com
+DOMAIN-SUFFIX,assets.msn.cn
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abchina.com.cn
 DOMAIN-SUFFIX,air-matters.io
@@ -552,11 +566,16 @@ DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acfun.cn
 DOMAIN-SUFFIX,acfun.tv
 DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,9966.org
 DOMAIN-SUFFIX,95588.com
 DOMAIN-SUFFIX,95588.com.cn
 DOMAIN-SUFFIX,91.com
+DOMAIN-SUFFIX,8866.org
+DOMAIN-SUFFIX,8800.org
 DOMAIN-SUFFIX,8686c.com
+DOMAIN-SUFFIX,7766.org
 DOMAIN-SUFFIX,71.am.com
+DOMAIN-SUFFIX,6600.org
 DOMAIN-SUFFIX,58.com
 DOMAIN-SUFFIX,56.com
 DOMAIN-SUFFIX,52tesla.com
@@ -574,7 +593,10 @@ DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360doc.com
 DOMAIN-SUFFIX,360in.com
 DOMAIN-SUFFIX,360buyimg.com
+DOMAIN-SUFFIX,3322.net
+DOMAIN-SUFFIX,3322.org
 DOMAIN-SUFFIX,321fenx.com
+DOMAIN-SUFFIX,2288.org
 DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,189.cn
 DOMAIN-SUFFIX,188.com

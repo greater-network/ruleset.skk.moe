@@ -657,7 +657,9 @@ SUFFIX,assets-cdn.jable.tv
 SUFFIX,joox.com
 SUFFIX,jspm.dev
 SUFFIX,cdn.judge.me
+SUFFIX,kagi.com
 SUFFIX,cdn.kagi.com
+SUFFIX,assets.kagi.com
 SUFFIX,cdn-edge.karte.io
 SUFFIX,info.knak.com
 SUFFIX,kwai.com
@@ -1041,6 +1043,7 @@ SUFFIX,aicoin.com
 SUFFIX,aimoon.com
 SUFFIX,akidoo.top
 SUFFIX,alexdav.id
+SUFFIX,amazon.com
 SUFFIX,atv-ps.amazon.com
 SUFFIX,fls-na.amazon.com
 SUFFIX,repo.maven.apache.org
@@ -1224,6 +1227,8 @@ SUFFIX,assets-cms.kraken.com
 SUFFIX,kucoin.com
 SUFFIX,static.linear.app
 SUFFIX,cms-cdn.linear.app
+SUFFIX,cdn2.macpaw.com
+SUFFIX,cdn2-imgix.macpaw.com
 SUFFIX,assets.auth.magic.link
 SUFFIX,static-assets.mapbox.com
 SUFFIX,cdn.masto.host
@@ -1519,6 +1524,7 @@ SUFFIX,img.freepik.com
 SUFFIX,image.freepik.com
 SUFFIX,avatar.freepik.com
 SUFFIX,images.g2crowd.com
+SUFFIX,static.gartner.com
 SUFFIX,gentcdn.com
 SUFFIX,app.gitbook.com
 SUFFIX,gitcdn.link
@@ -1776,6 +1782,7 @@ SUFFIX,autodraw.com
 SUFFIX,avdocker.com
 SUFFIX,assets.awwwards.com
 SUFFIX,img.badgesize.io
+SUFFIX,bandcamp.com
 SUFFIX,content.cdp.bethesda.net
 SUFFIX,download.cdp.bethesda.net
 SUFFIX,biliintl.com
@@ -1904,6 +1911,7 @@ SUFFIX,linkedin.com
 SUFFIX,services.linkfire.com
 SUFFIX,linkstorage.linkfire.com
 SUFFIX,cdn.linkmink.com
+SUFFIX,lowescdn.com
 SUFFIX,imag.malavida.com
 SUFFIX,cdn.maptiler.com
 SUFFIX,c.marsflag.com
@@ -1966,6 +1974,7 @@ SUFFIX,pkg-size.dev
 SUFFIX,placeimg.com
 SUFFIX,cdn-assets.porntube.com
 SUFFIX,cdn-thumbs.porntube.com
+SUFFIX,repo.powerdns.com
 SUFFIX,media.pullopen.xyz
 SUFFIX,client.px-cloud.net
 SUFFIX,api.qrserver.com

@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-03-04T06:11:48.634Z
+#!desc=Last Updated: 2024-03-12T09:50:16.123Z
 
 [Host]
 uc.cn = server:quic://223.6.6.6:853
@@ -34,6 +34,8 @@ alipayobjects.com = server:quic://223.6.6.6:853
 *.alipayobjects.com = server:quic://223.6.6.6:853
 alibaba-inc.com = server:quic://223.6.6.6:853
 *.alibaba-inc.com = server:quic://223.6.6.6:853
+alibabausercontent.com = server:quic://223.6.6.6:853
+*.alibabausercontent.com = server:quic://223.6.6.6:853
 alicloudccp.com = server:quic://223.6.6.6:853
 *.alicloudccp.com = server:quic://223.6.6.6:853
 alipan.com = server:quic://223.6.6.6:853
@@ -220,6 +222,8 @@ yunos.com = server:https://120.53.53.53/dns-query
 *.yunos.com = server:https://120.53.53.53/dns-query
 yitao.com = server:https://120.53.53.53/dns-query
 *.yitao.com = server:https://120.53.53.53/dns-query
+anticheatexpert.com = server:https://120.53.53.53/dns-query
+*.anticheatexpert.com = server:https://120.53.53.53/dns-query
 upos-sz-mirrorali.bilivideo.com = server:quic://223.5.5.5:853
 *.upos-sz-mirrorali.bilivideo.com = server:quic://223.5.5.5:853
 upos-sz-mirrorbos.bilivideo.com = server:180.76.76.76

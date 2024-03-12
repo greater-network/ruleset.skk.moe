@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-03-08T08:55:47.541Z
-# Size: 159
+# Last Updated: 2024-03-12T09:50:16.272Z
+# Size: 162
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,33 +10,35 @@
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,stun.smartgslb.com
-DOMAIN-SUFFIX,uho5m96ej.com
-DOMAIN-SUFFIX,ksrtmgoym.com
-DOMAIN-SUFFIX,karponews.com
-DOMAIN-SUFFIX,km14hkusz.com
+DOMAIN-SUFFIX,xsph.ru
+DOMAIN-SUFFIX,eu5.net
+DOMAIN-SUFFIX,espmp-nifr.net
+DOMAIN-SUFFIX,exaapi.com
+DOMAIN-SUFFIX,expobarrio.com
 DOMAIN-SUFFIX,ruranews.com
 DOMAIN-SUFFIX,rookinews.com
 DOMAIN-SUFFIX,reminews.com
-DOMAIN-SUFFIX,leranews.com
-DOMAIN-SUFFIX,lookinews.com
-DOMAIN-SUFFIX,lootynews.com
-DOMAIN-SUFFIX,luronews.com
-DOMAIN-SUFFIX,johncornell.com
-DOMAIN-SUFFIX,jungleheart.com
-DOMAIN-SUFFIX,jumronews.com
-DOMAIN-SUFFIX,jessunews.com
-DOMAIN-SUFFIX,jemonews.com
 DOMAIN-SUFFIX,groovinews.com
 DOMAIN-SUFFIX,guesswhatnews.com
 DOMAIN-SUFFIX,gofenews.com
-DOMAIN-SUFFIX,eu5.net
-DOMAIN-SUFFIX,espmp-nifr.net
-DOMAIN-SUFFIX,expobarrio.com
-DOMAIN-SUFFIX,exaapi.com
+DOMAIN-SUFFIX,leranews.com
+DOMAIN-SUFFIX,luronews.com
+DOMAIN-SUFFIX,lootynews.com
+DOMAIN-SUFFIX,lookinews.com
+DOMAIN-SUFFIX,ksrtmgoym.com
+DOMAIN-SUFFIX,karponews.com
+DOMAIN-SUFFIX,km14hkusz.com
+DOMAIN-SUFFIX,johncornell.com
+DOMAIN-SUFFIX,jungleheart.com
+DOMAIN-SUFFIX,jumronews.com
+DOMAIN-SUFFIX,jemonews.com
+DOMAIN-SUFFIX,jessunews.com
+DOMAIN-SUFFIX,uho5m96ej.com
+DOMAIN-SUFFIX,ubilab.me
+DOMAIN-SUFFIX,bealanews.com
 DOMAIN-SUFFIX,bestoffers-wt.com
 DOMAIN-SUFFIX,bestoffers-fe.com
 DOMAIN-SUFFIX,bestandgreatests.com
-DOMAIN-SUFFIX,bealanews.com
 DOMAIN-SUFFIX,b2bmktg.com
 DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,amplitude.com
@@ -113,6 +115,7 @@ DOMAIN-SUFFIX,64-b.it
 DOMAIN-SUFFIX,3utilities.com
 DOMAIN-SUFFIX,32-b.it
 DOMAIN-SUFFIX,2o7.net
+DOMAIN-SUFFIX,24houcryptowatcher.com
 DOMAIN-SUFFIX,16-b.it
 DOMAIN-SUFFIX,001www.com
 DOMAIN-SUFFIX,000webhostapp.com
