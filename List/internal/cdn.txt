@@ -19,6 +19,7 @@ SUFFIX,codeberg.page
 SUFFIX,wolongcdnm3u8
 SUFFIX,app.render.com
 SUFFIX,cloudfront.net
+SUFFIX,googleapis.com
 SUFFIX,firebaseapp.com
 SUFFIX,withyoutube.com
 SUFFIX,azure-mobile.net
@@ -868,6 +869,9 @@ SUFFIX,badges.gitter.im
 SUFFIX,globo.com
 SUFFIX,gmail.com
 SUFFIX,godoc.org
+SUFFIX,google.hk
+SUFFIX,google.jp
+SUFFIX,google.tw
 SUFFIX,static.gopro.com
 SUFFIX,graph.org
 SUFFIX,player.h-cdn.com
@@ -1167,6 +1171,7 @@ SUFFIX,glbimg.com
 SUFFIX,cdn.glitch.com
 SUFFIX,golang.org
 SUFFIX,proxy.golang.org
+SUFFIX,google.com
 SUFFIX,dl.google.com
 SUFFIX,dl.l.google.com
 SUFFIX,maven.google.com
@@ -1873,6 +1878,7 @@ SUFFIX,ghostery.com
 SUFFIX,cdn.ghostery.com
 SUFFIX,download.gigabyte.com
 SUFFIX,gmodules.com
+SUFFIX,google.co.jp
 SUFFIX,gravatar.com
 SUFFIX,widget.cluster.groovehq.com
 SUFFIX,snippet.growsumo.com
@@ -2007,6 +2013,7 @@ SUFFIX,static.snapchat.com
 SUFFIX,dl.snipaste.com
 SUFFIX,download.snipaste.com
 SUFFIX,assets.stickpng.com
+SUFFIX,stripcdn.com
 SUFFIX,substack.com
 SUFFIX,cdn.substack.com
 SUFFIX,cdn1.sysgears.com
@@ -2021,6 +2028,7 @@ SUFFIX,tildacdn.com
 SUFFIX,cdn.tinypass.com
 SUFFIX,tmpfiles.org
 SUFFIX,static.tokenview.io
+SUFFIX,cdn.transcend.io
 SUFFIX,static.tronscan.org
 SUFFIX,flows.trysavvy.com
 SUFFIX,bundle.trysavvy.com
@@ -2072,6 +2080,7 @@ SUFFIX,app-updates.agilebits.com
 SUFFIX,ipfs.alloyxuast.tk
 SUFFIX,compute.amazonaws.com
 SUFFIX,compute-1.amazonaws.com
+SUFFIX,s3-accelerate.amazonaws.com
 SUFFIX,cdn.assets.as2.amazonaws.com
 SUFFIX,amebaownd.com
 SUFFIX,ipfs.anonymize.com
@@ -2117,6 +2126,7 @@ SUFFIX,disconnect.me
 SUFFIX,disquscdn.com
 SUFFIX,assets.dnsfilter.com
 SUFFIX,doppiocdn.com
+SUFFIX,doppiocdn.net
 SUFFIX,doppiocdn.org
 SUFFIX,dl.elementary.io
 SUFFIX,embedgram.com
@@ -2151,6 +2161,9 @@ SUFFIX,assets.getpocket.com
 SUFFIX,githubapp.com
 SUFFIX,cdn.glitch.global
 SUFFIX,goodreads.com
+SUFFIX,google.com.hk
+SUFFIX,google.com.sg
+SUFFIX,google.com.tw
 SUFFIX,googleapis.cn
 SUFFIX,services.googleapis.cn
 SUFFIX,grammarly.com
@@ -2270,6 +2283,7 @@ SUFFIX,staticaly.com
 SUFFIX,statuspage.io
 SUFFIX,link.storjshare.io
 SUFFIX,a.storyblok.com
+SUFFIX,stripchat.com
 SUFFIX,stripecdn.com
 SUFFIX,cdn-service.jp.sumologic.com
 SUFFIX,surfshark.com

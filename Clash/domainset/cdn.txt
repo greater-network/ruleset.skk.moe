@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-03-12T09:50:16.254Z
-# Size: 1921
+# Last Updated: 2024-03-12T12:02:12.134Z
+# Size: 1924
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -639,6 +639,7 @@ cdn.dotaoutpost.com
 widget.uservoice.com
 cdnjs.buymeacoffee.com
 +.cdn.getfeedback.com
+cdn.transcend.io
 cdn-yotpo-images-production.yotpo.com
 img.announcekit.app
 cdn.announcekit.app
@@ -1414,6 +1415,8 @@ s1.kwai.net
 aws-static.kwai.net
 cdn-static.kwai.net
 g-static.ap4r.com
++.stripcdn.com
++.doppiocdn.net
 asset.mansionglobal.com
 images.wsj.net
 m.wsj.net
