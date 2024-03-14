@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-03-14T05:23:29.108Z
-# Size: 1192
+# Last Updated: 2024-03-14T12:29:14.782Z
+# Size: 1193
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1052,6 +1052,7 @@ speedtest.infogamesvr.net.br
 speedtest.internetbolaget.nu
 speedtest.isppapagaio.com.br
 speedtest.koycegiznet.com.tr
+teste.linkonfibra.com.br
 +.measurementlab.net
 speedtest.newberlinfiber.net
 speedtest.ollatelecom.com.br
