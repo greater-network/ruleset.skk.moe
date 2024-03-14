@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Internal Special
-# Last Updated: 2024-03-08T08:50:38.727Z
+# Last Updated: 2024-03-14T05:23:16.665Z
 # Size: 77
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -75,7 +75,7 @@ DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,ffzy-play6.com
 DOMAIN-SUFFIX,fsvod1.com
 DOMAIN-SUFFIX,workers.dev
-DOMAIN-SUFFIX,wolongcdnm3u8
+DOMAIN-SUFFIX,wolongcdnm3u8.com
 DOMAIN-SUFFIX,wolongzywcdn3.com
 DOMAIN-SUFFIX,whweitao.com
 DOMAIN-SUFFIX,vercel.app

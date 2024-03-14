@@ -16,7 +16,6 @@ SUFFIX,bitbucket.io
 SUFFIX,cloudapp.net
 SUFFIX,onrender.com
 SUFFIX,codeberg.page
-SUFFIX,wolongcdnm3u8
 SUFFIX,app.render.com
 SUFFIX,cloudfront.net
 SUFFIX,googleapis.com
@@ -610,6 +609,7 @@ SUFFIX,production-cmp.isgprivacy.cbsi.com
 SUFFIX,media.ci-en.jp
 SUFFIX,cthd.icu
 SUFFIX,dazn.com
+SUFFIX,dcard.tw
 SUFFIX,imgur.dcard.tw
 SUFFIX,megapx-assets.dcard.tw
 SUFFIX,ipfs.decoo.io
@@ -1429,6 +1429,7 @@ SUFFIX,cdn.zapier.com
 SUFFIX,fonts.zapier.com
 SUFFIX,vjs.zencdn.net
 SUFFIX,sigma9.zokhoi.com
+SUFFIX,static.4shared.com
 SUFFIX,98avcdn.xyz
 SUFFIX,abc-cdn.net
 SUFFIX,s.abcnews.com
@@ -1602,6 +1603,7 @@ SUFFIX,mikuclub.cn
 SUFFIX,minotar.net
 SUFFIX,mktgcdn.com
 SUFFIX,opt.moovweb.net
+SUFFIX,mozilla.com
 SUFFIX,services.mozilla.com
 SUFFIX,stubdownloader.services.mozilla.com
 SUFFIX,cdn.mozilla.net
@@ -1738,6 +1740,7 @@ SUFFIX,pics.x-n-x-x.pro
 SUFFIX,xda-cdn.com
 SUFFIX,xfinity.com
 SUFFIX,xingcdn.com
+SUFFIX,i.xozilla.xxx
 SUFFIX,mirrors.xtom.com.hk
 SUFFIX,xvideos.com
 SUFFIX,yahoo.co.jp
@@ -1837,6 +1840,7 @@ SUFFIX,deepmind.com
 SUFFIX,avatars.dicebear.com
 SUFFIX,ocsp.digicert.com
 SUFFIX,discomax.com
+SUFFIX,cdn-node.diskpart.com
 SUFFIX,cdn.dnsimple.com
 SUFFIX,cdn.dribbble.com
 SUFFIX,s3.dzeninfra.ru
@@ -1861,6 +1865,7 @@ SUFFIX,s3.filebase.com
 SUFFIX,upload.filebase.com
 SUFFIX,cdn.firebase.com
 SUFFIX,media.flaticon.com
+SUFFIX,cdn-uicons.flaticon.com
 SUFFIX,cdn-share-sprites.flaticon.com
 SUFFIX,static-assets-web.flixcart.com
 SUFFIX,resizing.flixster.com
@@ -2309,6 +2314,7 @@ SUFFIX,twitchcdn.net
 SUFFIX,static.twitchcdn.net
 SUFFIX,twitchsvc.net
 SUFFIX,fonts1.unidays.world
+SUFFIX,crl.usertrust.com
 SUFFIX,widget.uservoice.com
 SUFFIX,video-cdn.net
 SUFFIX,waitlisted.co
@@ -2427,7 +2433,9 @@ SUFFIX,code.highcharts.com
 SUFFIX,hs-scripts.com
 SUFFIX,hs-scripts.net
 SUFFIX,huggingface.co
+SUFFIX,cdn-lfs.huggingface.co
 SUFFIX,cdn-uploads.huggingface.co
+SUFFIX,cdn-lfs-us-1.huggingface.co
 SUFFIX,hulustream.com
 SUFFIX,api.iconify.design
 SUFFIX,code.iconify.design
@@ -2910,6 +2918,7 @@ SUFFIX,cms-assets.webediamovies.pro
 SUFFIX,website-files.com
 SUFFIX,cdn.windowsreport.com
 SUFFIX,ctldl.windowsupdate.com
+SUFFIX,wolongcdnm3u8.com
 SUFFIX,wolongzywcdn3.com
 SUFFIX,youtubegaming.com
 SUFFIX,zdusercontent.com
@@ -2991,6 +3000,7 @@ SUFFIX,pkg.cloudflareclient.com
 SUFFIX,cloudflarestream.com
 SUFFIX,fonts.googleapis.com
 SUFFIX,hscollectedforms.net
+SUFFIX,assets4.mist-train-girls.com
 SUFFIX,oss-binaries.phusionpassenger.com
 SUFFIX,static2.sharepointonline.com
 SUFFIX,spotifyforbrands.com

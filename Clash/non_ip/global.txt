@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-03-12T12:02:12.151Z
-# Size: 405
+# Last Updated: 2024-03-14T05:23:16.669Z
+# Size: 407
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -219,6 +219,7 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,polymer-project.org
+DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,mega.io
@@ -313,6 +314,7 @@ DOMAIN-SUFFIX,dropboxcaptcha.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropbox-dns.com
 DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,dailymail.co.uk
 DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,dns.google
