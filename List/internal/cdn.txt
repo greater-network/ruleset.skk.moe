@@ -681,6 +681,7 @@ SUFFIX,ipfs.mttk.net
 SUFFIX,o.n1mp.org
 SUFFIX,images-assets.nasa.gov
 SUFFIX,line.naver.jp
+SUFFIX,image.nmb.best
 SUFFIX,nodei.co
 SUFFIX,nowe.com
 SUFFIX,registry.npmjs.cf
@@ -1745,6 +1746,7 @@ SUFFIX,mirrors.xtom.com.hk
 SUFFIX,xvideos.com
 SUFFIX,yahoo.co.jp
 SUFFIX,yarnpkg.com
+SUFFIX,repo.yarnpkg.com
 SUFFIX,registry.yarnpkg.com
 SUFFIX,yelpcdn.com
 SUFFIX,cdne-pics.youjizz.com
@@ -2003,6 +2005,7 @@ SUFFIX,rollupjs.org
 SUFFIX,public.saasexch.com
 SUFFIX,saucenao.com
 SUFFIX,embed.savvycal.com
+SUFFIX,sendbird.com
 SUFFIX,cdn.mcauto-images-production.sendgrid.net
 SUFFIX,shattered.io
 SUFFIX,showtime.com

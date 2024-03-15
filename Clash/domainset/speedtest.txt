@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-03-14T12:29:14.782Z
-# Size: 1193
+# Last Updated: 2024-03-15T12:27:55.931Z
+# Size: 1197
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -412,6 +412,7 @@ speedtest.lumaserv.me
 ookla.lunoxia.net
 speedtest.la.macarne.com
 speedtest.fra.macarne.com
+speedtest.lon.macarne.com
 ookla.mbspeed.net
 speedtest.mhcable.com
 speedtest.milkywan.fr
@@ -601,6 +602,7 @@ tas-dwpk-speedtest.aarnet.net.au
 vic-pmla-speedtest.aarnet.net.au
 nt-drwn-st1.speedtest.aarnet.net.au
 sa-prka-st1.speedtest.aarnet.net.au
+nsw-brwy-st1.speedtest.aarnet.net.au
 qld-gdpt-st1.speedtest.aarnet.net.au
 tas-dwpk-st1.speedtest.aarnet.net.au
 vic-pmla-st1.speedtest.aarnet.net.au
@@ -613,6 +615,7 @@ speedtest.beanfield.com
 sp1.burstfire.net
 dallas1.cabospeed.com
 teste.cdanet.com.br
+speedtest.cdmsfirst.com
 +.speedtest.clouvider.net
 +.speedtest.comnet.com.tr
 sp1.contilnet.net
@@ -771,6 +774,7 @@ speedtest.meerfarbig.net
 sig-speedtest.moratelindo.io
 speedtest.netcalibre.net
 f1.netfast.com.br
+hkspeedtest.netvigator.com
 speedtest.nextpertise.nl
 speedtest-nyc.opentensor.xyz
 ookla.opticaltel.com

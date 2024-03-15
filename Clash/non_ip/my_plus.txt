@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Internal Special
-# Last Updated: 2024-03-14T05:23:16.665Z
-# Size: 77
+# Last Updated: 2024-03-15T12:27:42.527Z
+# Size: 78
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -29,6 +29,7 @@ DOMAIN,images-ext-1.discordapp.net
 DOMAIN,npm.im
 DOMAIN,resources-cache.prod.sketch.com
 DOMAIN,resources-live.sketch.cloud
+DOMAIN,repo.yarnpkg.com
 DOMAIN,registry.yarnpkg.com
 DOMAIN,registry.npmjs.com
 DOMAIN,registry.npmjs.org
