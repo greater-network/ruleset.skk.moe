@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-03-15T12:27:42.531Z
-# Size: 408
+# Last Updated: 2024-03-18T10:13:38.820Z
+# Size: 412
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -29,6 +29,7 @@ DOMAIN-SUFFIX,kik.com
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kagi.com
 DOMAIN-SUFFIX,kraken.com
+DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,he.net
@@ -168,6 +169,7 @@ DOMAIN-SUFFIX,surfshark.com
 DOMAIN-SUFFIX,substack.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,stackoverflow.com
 DOMAIN-SUFFIX,stackblitz.com
 DOMAIN-SUFFIX,south-plus.net
 DOMAIN-SUFFIX,south-plus.org
@@ -198,6 +200,7 @@ DOMAIN-SUFFIX,shopee.tw
 DOMAIN-SUFFIX,shadowsocks.org
 DOMAIN-SUFFIX,shattered.io
 DOMAIN-SUFFIX,rule34.xxx
+DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,render.com
 DOMAIN-SUFFIX,redditstatic.com
@@ -315,6 +318,7 @@ DOMAIN-SUFFIX,dropboxcaptcha.com
 DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropbox-dns.com
 DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,dailymail.co.uk
 DOMAIN-SUFFIX,dailymotion.com

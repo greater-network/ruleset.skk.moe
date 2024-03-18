@@ -525,6 +525,7 @@ SUFFIX,redd.it
 SUFFIX,static.reo.dev
 SUFFIX,rsb.net
 SUFFIX,rsms.me
+SUFFIX,run.app
 SUFFIX,scdn.co
 SUFFIX,sho.com
 SUFFIX,ip.skk.moe
@@ -877,6 +878,7 @@ SUFFIX,static.gopro.com
 SUFFIX,graph.org
 SUFFIX,player.h-cdn.com
 SUFFIX,hbogo.com
+SUFFIX,hinet.net
 SUFFIX,gamer-cds.cdn.hinet.net
 SUFFIX,gamer2-cds.cdn.hinet.net
 SUFFIX,4gtvfreepcvod-cds.cdn.hinet.net
@@ -1844,6 +1846,7 @@ SUFFIX,ocsp.digicert.com
 SUFFIX,discomax.com
 SUFFIX,cdn-node.diskpart.com
 SUFFIX,cdn.dnsimple.com
+SUFFIX,dribbble.com
 SUFFIX,cdn.dribbble.com
 SUFFIX,s3.dzeninfra.ru
 SUFFIX,static.dzeninfra.ru
@@ -2912,6 +2915,7 @@ SUFFIX,cdn.shoppinggives.com
 SUFFIX,simplecastcdn.com
 SUFFIX,smartmediarep.com
 SUFFIX,spotifycharts.com
+SUFFIX,stackoverflow.com
 SUFFIX,assets.static-upwork.com
 SUFFIX,bundle.thimatic-apps.com
 SUFFIX,transcend-cdn.com

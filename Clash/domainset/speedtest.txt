@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-03-17T08:22:08.791Z
-# Size: 1198
+# Last Updated: 2024-03-18T10:13:53.997Z
+# Size: 1199
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -536,6 +536,7 @@ speedtest.hostabil.com
 speedtest.hostifox.com
 speedtest.hostopya.com
 speedtest.idnet.net.br
+speedtest.inet-isp.com
 speedtest.syd.infininet.au
 velocimetrostm.interlig.net
 speedtest.ixirhost.com
