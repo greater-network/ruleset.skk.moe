@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-03-18T12:28:05.533Z
+// # Build 2024-03-18T14:16:27.125Z
 
 declare(strict_types=1);
 
@@ -1531,6 +1531,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,stripchat.com,Global',
         'DOMAIN-SUFFIX,steamcommunity.com,Global',
         'DOMAIN-SUFFIX,stackoverflow.com,Global',
+        'DOMAIN-SUFFIX,stackexchange.com,Global',
         'DOMAIN-SUFFIX,stackblitz.com,Global',
         'DOMAIN-SUFFIX,south-plus.net,Global',
         'DOMAIN-SUFFIX,south-plus.org,Global',
@@ -2362,7 +2363,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,59.153.4.0/23,Domestic',
         'IP-CIDR,59.153.32.0/22,Domestic',
         'IP-CIDR,59.153.92.0/22,Domestic',
-        'IP-CIDR,59.153.168.0/23,Domestic',
         'IP-CIDR,59.172.0.0/14,Domestic',
         'IP-CIDR,59.191.0.0/17,Domestic',
         'IP-CIDR,60.0.0.0/11,Domestic',
@@ -2539,7 +2539,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.8.220.0/22,Domestic',
         'IP-CIDR,103.9.8.0/24,Domestic',
         'IP-CIDR,103.9.248.0/21,Domestic',
-        'IP-CIDR,103.10.0.0/22,Domestic',
+        'IP-CIDR,103.10.2.0/23,Domestic',
         'IP-CIDR,103.10.84.0/22,Domestic',
         'IP-CIDR,103.12.184.0/22,Domestic',
         'IP-CIDR,103.12.232.0/22,Domestic',

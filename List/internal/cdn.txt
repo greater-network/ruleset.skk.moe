@@ -871,6 +871,7 @@ SUFFIX,badges.gitter.im
 SUFFIX,globo.com
 SUFFIX,gmail.com
 SUFFIX,godoc.org
+SUFFIX,store1.gofile.io
 SUFFIX,google.hk
 SUFFIX,google.jp
 SUFFIX,google.tw
@@ -2915,6 +2916,7 @@ SUFFIX,cdn.shoppinggives.com
 SUFFIX,simplecastcdn.com
 SUFFIX,smartmediarep.com
 SUFFIX,spotifycharts.com
+SUFFIX,stackexchange.com
 SUFFIX,stackoverflow.com
 SUFFIX,assets.static-upwork.com
 SUFFIX,bundle.thimatic-apps.com
