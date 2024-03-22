@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-03-12T12:02:11.998Z
-# Size: 615
+# Last Updated: 2024-03-22T06:53:33.372Z
+# Size: 618
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -278,10 +278,11 @@ DOMAIN-SUFFIX,gdtimg.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,gtimg.com.cn
 DOMAIN-SUFFIX,gtimg.cn
-DOMAIN-SUFFIX,gaode.com
 DOMAIN-SUFFIX,guoguo-app.com
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,geilicdn.com
+DOMAIN-SUFFIX,gaode.com
+DOMAIN-SUFFIX,gamersky.com
 DOMAIN-SUFFIX,godic.net
 DOMAIN-SUFFIX,gov.cn
 DOMAIN-SUFFIX,gitee.com
@@ -534,6 +535,9 @@ DOMAIN-SUFFIX,vivo.com
 DOMAIN-SUFFIX,vivo.com.cn
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,autohome.com.cn
+DOMAIN-SUFFIX,appsimg.com
 DOMAIN-SUFFIX,alios.cn
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,alipayobjects.com
@@ -553,9 +557,7 @@ DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibaba.com
-DOMAIN-SUFFIX,autonavi.com
-DOMAIN-SUFFIX,autohome.com.cn
-DOMAIN-SUFFIX,appsimg.com
+DOMAIN-SUFFIX,ali213.net
 DOMAIN-SUFFIX,assets.msn.cn
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abchina.com.cn
@@ -568,6 +570,7 @@ DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acfun.cn
 DOMAIN-SUFFIX,acfun.tv
 DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,9game.cn
 DOMAIN-SUFFIX,9966.org
 DOMAIN-SUFFIX,95588.com
 DOMAIN-SUFFIX,95588.com.cn

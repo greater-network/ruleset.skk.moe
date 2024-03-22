@@ -592,6 +592,7 @@ SUFFIX,dearrow-thumb.ajay.app
 SUFFIX,ameba.jp
 SUFFIX,sn-s3-cdn.angry.im
 SUFFIX,g-static.ap4r.com
+SUFFIX,dlcdnets.asus.com
 SUFFIX,ax1x.com
 SUFFIX,assets.bbhub.io
 SUFFIX,polyfill.bbhub.io
