@@ -2951,6 +2951,7 @@ SUFFIX,na-library.klarnaservices.com
 SUFFIX,licensebuttons.net
 SUFFIX,line-apps-beta.com
 SUFFIX,linefriends.com.tw
+SUFFIX,assets-next.mattersprotocol.io
 SUFFIX,image.email.microsoftemail.com
 SUFFIX,oaiusercontent.com
 SUFFIX,db.onlinewebfonts.com

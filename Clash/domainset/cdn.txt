@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-03-15T12:27:42.512Z
-# Size: 1933
+# Last Updated: 2024-03-22T08:30:33.328Z
+# Size: 1934
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1610,6 +1610,7 @@ cdn.circle.so
 +.proxy.startpage.com
 assets.matters.news
 assets-next.matters.news
+assets-next.mattersprotocol.io
 cdn.loom.com
 +.bdzybf7.com
 cdn.ceres9350.com
