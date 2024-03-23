@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-03-22T06:53:45.930Z
-# Size: 1203
+# Last Updated: 2024-03-23T12:29:16.059Z
+# Size: 1206
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -362,6 +362,7 @@ speedtest.vee.com.tw
 speedtest-wa.waveip.org
 wiwan66.seattle.westnet.ca
 +.wifiman.me
+srv05.wildzun.fr
 laspeed.wiline.com
 speedam.wsp.net.br
 spdtst.xenyth.net
@@ -904,6 +905,7 @@ speedtestnyc.telebermuda.com
 speedtest.telecablecr.com
 speedtest.ufinetlatam.net
 speedtest.uplinkrr.com.br
+speedtest.vareshcloud.com
 izmir.verinomidns.com
 denizli.verinomidns.com
 istanbul.verinomidns.com
@@ -1165,6 +1167,7 @@ speedtest.mirror.digitalpacific.com.au
 speedtest.mirror.mel1.digitalpacific.com.au
 speedtest.extremanetwork.com.br
 teste.freedomnetwork.net.br
+speedtest.hostingturkiye.com.tr
 st2.barquisimeto.intercomservicios.com
 speedtest.japanettelecom.com.br
 st.jnettelecom-am.com.br
