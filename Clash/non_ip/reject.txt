@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-03-12T09:50:16.272Z
-# Size: 162
+# Last Updated: 2024-03-25T06:06:00.870Z
+# Size: 167
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,leranews.com
 DOMAIN-SUFFIX,luronews.com
 DOMAIN-SUFFIX,lootynews.com
 DOMAIN-SUFFIX,lookinews.com
+DOMAIN-SUFFIX,kortfilmfestivalen.no
 DOMAIN-SUFFIX,ksrtmgoym.com
 DOMAIN-SUFFIX,karponews.com
 DOMAIN-SUFFIX,km14hkusz.com
@@ -33,8 +34,10 @@ DOMAIN-SUFFIX,jungleheart.com
 DOMAIN-SUFFIX,jumronews.com
 DOMAIN-SUFFIX,jemonews.com
 DOMAIN-SUFFIX,jessunews.com
+DOMAIN-SUFFIX,j74y03g8u.com
 DOMAIN-SUFFIX,uho5m96ej.com
 DOMAIN-SUFFIX,ubilab.me
+DOMAIN-SUFFIX,branch.rocks
 DOMAIN-SUFFIX,bealanews.com
 DOMAIN-SUFFIX,bestoffers-wt.com
 DOMAIN-SUFFIX,bestoffers-fe.com
@@ -81,6 +84,7 @@ DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,openx.net
 DOMAIN-SUFFIX,organiccrap.com
 DOMAIN-SUFFIX,ownip.net
+DOMAIN-SUFFIX,net.iberostar.com
 DOMAIN-SUFFIX,ntdll.top
 DOMAIN-SUFFIX,notifysrv.com
 DOMAIN-SUFFIX,notify6.com
@@ -112,6 +116,7 @@ DOMAIN-SUFFIX,crazyegg.com
 DOMAIN-SUFFIX,crabdance.com
 DOMAIN-SUFFIX,crafting.xyz
 DOMAIN-SUFFIX,64-b.it
+DOMAIN-SUFFIX,4puuqeh41.com
 DOMAIN-SUFFIX,3utilities.com
 DOMAIN-SUFFIX,32-b.it
 DOMAIN-SUFFIX,2o7.net
