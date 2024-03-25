@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-03-22T06:53:33.372Z
-# Size: 618
+# Last Updated: 2024-03-25T03:52:39.260Z
+# Size: 619
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -370,6 +370,7 @@ DOMAIN-SUFFIX,douyu.tv
 DOMAIN-SUFFIX,douyu.com
 DOMAIN-SUFFIX,dpfile.com
 DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,digicert.cn
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,dida365.com
 DOMAIN-SUFFIX,didistatic.com

@@ -996,6 +996,7 @@ SUFFIX,image.status.io
 SUFFIX,static.status.io
 SUFFIX,media.tenor.com
 SUFFIX,tfbnw.net
+SUFFIX,tgstat.ru
 SUFFIX,tidal.com
 SUFFIX,assets.toot.cafe
 SUFFIX,ipfs.trusti.id
