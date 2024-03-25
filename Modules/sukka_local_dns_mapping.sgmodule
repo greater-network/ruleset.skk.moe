@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-03-12T12:02:12.000Z
+#!desc=Last Updated: 2024-03-25T05:26:12.778Z
 
 [Host]
 uc.cn = server:quic://223.6.6.6:853
@@ -134,6 +134,8 @@ npmmirror.com = server:quic://223.6.6.6:853
 *.npmmirror.com = server:quic://223.6.6.6:853
 alios.cn = server:quic://223.6.6.6:853
 *.alios.cn = server:quic://223.6.6.6:853
+wandoujia.com = server:quic://223.6.6.6:853
+*.wandoujia.com = server:quic://223.6.6.6:853
 dns.pub = server:https://120.53.53.53/dns-query
 *.dns.pub = server:https://120.53.53.53/dns-query
 doh.pub = server:https://120.53.53.53/dns-query
