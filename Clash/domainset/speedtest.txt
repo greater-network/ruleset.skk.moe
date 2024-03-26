@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-03-23T12:29:16.059Z
-# Size: 1206
+# Last Updated: 2024-03-26T07:49:08.629Z
+# Size: 1207
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -236,6 +236,7 @@ speedtest-xg-lq.glbb.ne.jp
 speedtest-xg-oki.glbb.ne.jp
 ookla-speedtest-central.hgconair.hgc.com.hk
 speedtest.honest.net
+speedtest.sg.hsp.net.id
 speedtest.imcloud.tw
 speedtest1.inetcom.ru
 speedtest.itm.net.tr

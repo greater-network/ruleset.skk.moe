@@ -3032,6 +3032,7 @@ SUFFIX,framerusercontent.com
 SUFFIX,googleusercontent.com
 SUFFIX,navismithapis-cdn.com
 SUFFIX,origin-a.akamaihd.net
+SUFFIX,assets.positional-bucket.com
 SUFFIX,ssl-images-amazon.com
 SUFFIX,storjipfs-gateway.com
 SUFFIX,demo.unified-streaming.com
