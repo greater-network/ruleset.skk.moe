@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-03-26T07:49:08.629Z
-# Size: 1207
+# Last Updated: 2024-03-26T09:06:33.878Z
+# Size: 1208
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -765,6 +765,7 @@ speedtest.ip-projects.de
 ts.ipernet.net.br
 speedtest.jogjacatra.com
 speedtest.jvswifi.com.br
+speedtest.lamasatpro.com
 speedtest-hob.launtel.net.au
 speedtest-bris.launtel.net.au
 speedtest-lton.launtel.net.au
