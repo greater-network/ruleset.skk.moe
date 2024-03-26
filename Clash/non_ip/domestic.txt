@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-03-26T09:06:24.641Z
-# Size: 669
+# Last Updated: 2024-03-26T09:14:52.626Z
+# Size: 670
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -555,6 +555,7 @@ DOMAIN-SUFFIX,ctrip.com
 DOMAIN-SUFFIX,csdnimg.cn
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,csdn.com
+DOMAIN-SUFFIX,cloudglab.com
 DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,camscanner.com
 DOMAIN-SUFFIX,camera360.com
