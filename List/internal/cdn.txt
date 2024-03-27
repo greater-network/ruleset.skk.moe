@@ -1618,6 +1618,7 @@ SUFFIX,download-installer.cdn.mozilla.net
 SUFFIX,addons.mozilla.org
 SUFFIX,archive.mozilla.org
 SUFFIX,download.mozilla.org
+SUFFIX,cdn.myfonts.net
 SUFFIX,ipfs.namebase.io
 SUFFIX,nbcnews.com
 SUFFIX,iframe.nbcnews.com
