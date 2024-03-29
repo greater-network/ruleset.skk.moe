@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-03-28T12:30:18.486Z
-# Size: 1212
+# Last Updated: 2024-03-29T12:29:40.042Z
+# Size: 1215
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -125,6 +125,7 @@ yk-netspeed.nwtel.ca
 speedtest01.o-net.ca
 speedtest.race.com
 speedtest-ams.retn.net
+speedtest-lon.retn.net
 speedtest-fkt-eqx.retn.net
 speedtest.sewan.fr
 test.slic.com
@@ -371,6 +372,7 @@ dpop.yondoo.com
 speedtest02a.web.zen.net.uk
 speedtest.139play.com
 speedtest.5x5tele.com
+velocimetro-spt.akto.com.br
 speedtest.alastyr.com
 speedtest.anksoft.net
 +.speedtest.aptg.com.tw
@@ -1181,6 +1183,7 @@ speedtest2.lightningfibre.net.uk
 speedteste.newsolutionnet.com.br
 speedtest.pinguimtelecom.net.br
 speedtest.redenettelecom.com.br
+speedtest.absolutevalidation.com
 speedtest.sea.accretive-networks.net
 speedtest.albatroznetwork.com.br
 ookla.amazoniasat-isp.com.br
