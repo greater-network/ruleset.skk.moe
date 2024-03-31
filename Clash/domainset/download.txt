@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-03-22T06:53:33.417Z
-# Size: 196
+# Last Updated: 2024-03-31T15:27:16.580Z
+# Size: 197
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -158,6 +158,7 @@ builds.paranoidandroid.co
 repo.powerdns.com
 store1.gofile.io
 dlcdnets.asus.com
+download.cpuid.com
 +.steamcontent.com
 +.steamserver.net
 +.content.steampowered.com

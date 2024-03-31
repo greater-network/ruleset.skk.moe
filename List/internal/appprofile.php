@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-03-31T14:47:36.310Z
+// # Build 2024-03-31T15:27:16.586Z
 
 declare(strict_types=1);
 
@@ -1753,6 +1753,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,deezer.com,Global',
         'DOMAIN-SUFFIX,deepmind.com,Global',
         'DOMAIN-SUFFIX,debug.com,Global',
+        'DOMAIN-SUFFIX,cpuid.com,Global',
         'DOMAIN-SUFFIX,cbc.ca,Global',
         'DOMAIN-SUFFIX,costco.com,Global',
         'DOMAIN-SUFFIX,codepen.io,Global',

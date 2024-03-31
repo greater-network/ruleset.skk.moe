@@ -823,6 +823,8 @@ SUFFIX,scdn.clerk.com
 SUFFIX,cdn.cliqz.com
 SUFFIX,widget.clutch.co
 SUFFIX,static.cloud.coveo.com
+SUFFIX,cpuid.com
+SUFFIX,download.cpuid.com
 SUFFIX,crates.io
 SUFFIX,cdn.db-ip.com
 SUFFIX,debug.com
