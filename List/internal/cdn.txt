@@ -1706,6 +1706,7 @@ SUFFIX,tiktokv.com
 SUFFIX,cdnl.tnaflix.com
 SUFFIX,img2.tnaflix.com
 SUFFIX,cdn-fck.tnaflix.com
+SUFFIX,static-community.tp-link.com
 SUFFIX,ipfs.tribecap.co
 SUFFIX,download-core.sys.truenas.net
 SUFFIX,ipfs.tubby.cloud

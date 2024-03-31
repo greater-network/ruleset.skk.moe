@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-03-31T12:27:03.679Z
+// # Build 2024-03-31T14:47:36.310Z
 
 declare(strict_types=1);
 
@@ -201,6 +201,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,yunpan.cn,Domestic',
         'DOMAIN-SUFFIX,yunjiasu-cdn.net,Domestic',
         'DOMAIN-SUFFIX,yunos.com,Domestic',
+        'DOMAIN-SUFFIX,yumchina.com,Domestic',
         'DOMAIN-SUFFIX,yuewen.com,Domestic',
         'DOMAIN-SUFFIX,yuanshen.com,Domestic',
         'DOMAIN-SUFFIX,ys7.com,Domestic',
@@ -215,13 +216,14 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,yeah.net,Domestic',
         'DOMAIN-SUFFIX,koubei.com,Domestic',
         'DOMAIN-SUFFIX,kkmh.com,Domestic',
-        'DOMAIN-SUFFIX,kingsoft-office-service.com,Domestic',
+        'DOMAIN-SUFFIX,kfc.com.cn,Domestic',
         'DOMAIN-SUFFIX,keepcdn.com,Domestic',
         'DOMAIN-SUFFIX,kaiyanapp.com,Domestic',
         'DOMAIN-SUFFIX,kuwo.cn,Domestic',
         'DOMAIN-SUFFIX,kugou.com1,Domestic',
         'DOMAIN-SUFFIX,kuaishouzt.com,Domestic',
         'DOMAIN-SUFFIX,kuaishou.com,Domestic',
+        'DOMAIN-SUFFIX,kingsoft-office-service.com,Domestic',
         'DOMAIN-SUFFIX,ksmobile.com,Domestic',
         'DOMAIN-SUFFIX,ks-cdn.com,Domestic',
         'DOMAIN-SUFFIX,ksord.com,Domestic',
@@ -373,6 +375,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,bcelive.com,Domestic',
         'DOMAIN-SUFFIX,byted-static.com,Domestic',
         'DOMAIN-SUFFIX,bytecdn.cn,Domestic',
+        'DOMAIN-SUFFIX,bilicdn1.com,Domestic',
         'DOMAIN-SUFFIX,bilicomics.com,Domestic',
         'DOMAIN-SUFFIX,biligame.net,Domestic',
         'DOMAIN-SUFFIX,biligame.com,Domestic',
@@ -561,6 +564,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,msstatic.com,Domestic',
         'DOMAIN-SUFFIX,mobileservice.cn,Domestic',
         'DOMAIN-SUFFIX,mobike.com,Domestic',
+        'DOMAIN-SUFFIX,mcdonalds.com.cn,Domestic',
         'DOMAIN-SUFFIX,mgtv.com,Domestic',
         'DOMAIN-SUFFIX,mtyun.com,Domestic',
         'DOMAIN-SUFFIX,maoyun.tv,Domestic',

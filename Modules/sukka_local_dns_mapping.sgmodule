@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-03-26T09:06:24.644Z
+#!desc=Last Updated: 2024-03-31T14:47:36.222Z
 
 [Host]
 uc.cn = server:quic://223.6.6.6:853
@@ -274,6 +274,8 @@ bilibilipay.cn = server:https://120.53.53.53/dns-query
 *.bilibilipay.cn = server:https://120.53.53.53/dns-query
 bilibilipay.com = server:https://120.53.53.53/dns-query
 *.bilibilipay.com = server:https://120.53.53.53/dns-query
+bilicdn1.com = server:https://120.53.53.53/dns-query
+*.bilicdn1.com = server:https://120.53.53.53/dns-query
 mi.com = server:https://120.53.53.53/dns-query
 *.mi.com = server:https://120.53.53.53/dns-query
 duokan.com = server:https://120.53.53.53/dns-query

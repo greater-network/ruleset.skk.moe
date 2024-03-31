@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-03-26T09:14:52.626Z
-# Size: 670
+# Last Updated: 2024-03-31T14:47:36.220Z
+# Size: 674
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -126,6 +126,7 @@ DOMAIN-SUFFIX,yunpan.com.cn
 DOMAIN-SUFFIX,yunpan.cn
 DOMAIN-SUFFIX,yunjiasu-cdn.net
 DOMAIN-SUFFIX,yunos.com
+DOMAIN-SUFFIX,yumchina.com
 DOMAIN-SUFFIX,yuewen.com
 DOMAIN-SUFFIX,yuanshen.com
 DOMAIN-SUFFIX,ys7.com
@@ -140,13 +141,14 @@ DOMAIN-SUFFIX,ydstatic.com
 DOMAIN-SUFFIX,yeah.net
 DOMAIN-SUFFIX,koubei.com
 DOMAIN-SUFFIX,kkmh.com
-DOMAIN-SUFFIX,kingsoft-office-service.com
+DOMAIN-SUFFIX,kfc.com.cn
 DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,kaiyanapp.com
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,kugou.com1
 DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,kuaishou.com
+DOMAIN-SUFFIX,kingsoft-office-service.com
 DOMAIN-SUFFIX,ksmobile.com
 DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,ksord.com
@@ -298,6 +300,7 @@ DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,bcelive.com
 DOMAIN-SUFFIX,byted-static.com
 DOMAIN-SUFFIX,bytecdn.cn
+DOMAIN-SUFFIX,bilicdn1.com
 DOMAIN-SUFFIX,bilicomics.com
 DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,biligame.com
@@ -486,6 +489,7 @@ DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,msstatic.com
 DOMAIN-SUFFIX,mobileservice.cn
 DOMAIN-SUFFIX,mobike.com
+DOMAIN-SUFFIX,mcdonalds.com.cn
 DOMAIN-SUFFIX,mgtv.com
 DOMAIN-SUFFIX,mtyun.com
 DOMAIN-SUFFIX,maoyun.tv

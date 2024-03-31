@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-03-27T09:17:07.464Z
-# Size: 1936
+# Last Updated: 2024-03-31T14:47:36.322Z
+# Size: 1937
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1944,4 +1944,5 @@ assets4.mist-train-girls.com
 cdn-node.diskpart.com
 i.xozilla.xxx
 cdn.myfonts.net
+static-community.tp-link.com
 ################## EOF ##################
