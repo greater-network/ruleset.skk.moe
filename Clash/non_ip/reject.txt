@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-03-25T06:06:00.870Z
-# Size: 167
+# Last Updated: 2024-04-01T02:44:08.818Z
+# Size: 170
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -29,12 +29,14 @@ DOMAIN-SUFFIX,kortfilmfestivalen.no
 DOMAIN-SUFFIX,ksrtmgoym.com
 DOMAIN-SUFFIX,karponews.com
 DOMAIN-SUFFIX,km14hkusz.com
+DOMAIN-SUFFIX,k3718qw08.com
 DOMAIN-SUFFIX,johncornell.com
 DOMAIN-SUFFIX,jungleheart.com
 DOMAIN-SUFFIX,jumronews.com
 DOMAIN-SUFFIX,jemonews.com
 DOMAIN-SUFFIX,jessunews.com
 DOMAIN-SUFFIX,j74y03g8u.com
+DOMAIN-SUFFIX,j6t91e89q.com
 DOMAIN-SUFFIX,uho5m96ej.com
 DOMAIN-SUFFIX,ubilab.me
 DOMAIN-SUFFIX,branch.rocks
@@ -116,6 +118,7 @@ DOMAIN-SUFFIX,crazyegg.com
 DOMAIN-SUFFIX,crabdance.com
 DOMAIN-SUFFIX,crafting.xyz
 DOMAIN-SUFFIX,64-b.it
+DOMAIN-SUFFIX,5clo0xmbf.com
 DOMAIN-SUFFIX,4puuqeh41.com
 DOMAIN-SUFFIX,3utilities.com
 DOMAIN-SUFFIX,32-b.it
