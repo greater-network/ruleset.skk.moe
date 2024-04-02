@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-03-31T14:47:36.220Z
-# Size: 674
+# Last Updated: 2024-04-02T15:00:16.905Z
+# Size: 677
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,alibabausercontent.com
 DOMAIN-SUFFIX,alibaba-inc.com
 DOMAIN-SUFFIX,alibaba.com
 DOMAIN-SUFFIX,ali213.net
+DOMAIN-SUFFIX,asus.com.cn
 DOMAIN-SUFFIX,assets.msn.cn
 DOMAIN-SUFFIX,abchina.com
 DOMAIN-SUFFIX,abchina.com.cn
@@ -395,6 +396,7 @@ DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futu5.com
 DOMAIN-SUFFIX,freshhema.com
 DOMAIN-SUFFIX,frdic.com
+DOMAIN-SUFFIX,firefox.com.cn
 DOMAIN-SUFFIX,feishupkg.com
 DOMAIN-SUFFIX,feishucdn.com
 DOMAIN-SUFFIX,feishu.net
@@ -487,6 +489,7 @@ DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,mubu.com
 DOMAIN-SUFFIX,msstatic.com
+DOMAIN-SUFFIX,moegirl.org.cn
 DOMAIN-SUFFIX,mobileservice.cn
 DOMAIN-SUFFIX,mobike.com
 DOMAIN-SUFFIX,mcdonalds.com.cn

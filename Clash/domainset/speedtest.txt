@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-03-30T12:26:08.395Z
-# Size: 1219
+# Last Updated: 2024-04-02T15:00:31.247Z
+# Size: 1221
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -623,6 +623,7 @@ sp1.burstfire.net
 dallas1.cabospeed.com
 teste.cdanet.com.br
 speedtest.cdmsfirst.com
+mensura.cdn-apple.com
 +.speedtest.clouvider.net
 +.speedtest.comnet.com.tr
 sp1.contilnet.net
@@ -710,6 +711,7 @@ speedtest.viberlink.net
 velocimetro-mns.virtua.com.br
 velocimetro-rbo.virtua.com.br
 speed-test.westelcom.com
+speedtest.baiconnect.com
 speedtest.brooketel.coop
 speedtest.citytelecom.ru
 lon-hex-speedtest.cloudconnx.net

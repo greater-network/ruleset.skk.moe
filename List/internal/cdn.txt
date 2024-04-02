@@ -19,6 +19,7 @@ SUFFIX,codeberg.page
 SUFFIX,app.render.com
 SUFFIX,cloudfront.net
 SUFFIX,googleapis.com
+SUFFIX,translate.goog
 SUFFIX,firebaseapp.com
 SUFFIX,withyoutube.com
 SUFFIX,azure-mobile.net
@@ -336,6 +337,7 @@ SUFFIX,cbc.ca
 SUFFIX,registry.api.cnn.io
 SUFFIX,ipfs.d.tube
 SUFFIX,dis.gd
+SUFFIX,dw.com
 SUFFIX,static.dw.com
 SUFFIX,pl.ea.com
 SUFFIX,cdn.ea.com
@@ -410,6 +412,7 @@ SUFFIX,99av.tv
 SUFFIX,abc.xyz
 SUFFIX,aex.com
 SUFFIX,content.any.run
+SUFFIX,arc.net
 SUFFIX,releases.arc.net
 SUFFIX,ask.com
 SUFFIX,avg.com
@@ -462,6 +465,7 @@ SUFFIX,sm.ign.com
 SUFFIX,iili.io
 SUFFIX,dl.iina.io
 SUFFIX,dl-portal.iina.io
+SUFFIX,ipfs.io
 SUFFIX,gateway.ipfs.io
 SUFFIX,ipfs.yt
 SUFFIX,ipns.co
@@ -496,6 +500,7 @@ SUFFIX,bundles.npr.org
 SUFFIX,static-assets.npr.org
 SUFFIX,dl.nwjs.io
 SUFFIX,dl2.nwjs.io
+SUFFIX,nyaa.si
 SUFFIX,nyt.com
 SUFFIX,g1.nyt.com
 SUFFIX,mwcm.nyt.com
@@ -523,11 +528,14 @@ SUFFIX,r.r10s.jp
 SUFFIX,ias.r10s.jp
 SUFFIX,redd.it
 SUFFIX,static.reo.dev
+SUFFIX,rfa.org
 SUFFIX,rsb.net
 SUFFIX,rsms.me
 SUFFIX,run.app
 SUFFIX,scdn.co
+SUFFIX,sex.com
 SUFFIX,sho.com
+SUFFIX,skk.moe
 SUFFIX,ip.skk.moe
 SUFFIX,cdn.skk.moe
 SUFFIX,img.skk.moe
@@ -654,6 +662,8 @@ SUFFIX,object.innei.in
 SUFFIX,ipfs.ink
 SUFFIX,iwara.tv
 SUFFIX,i.iwara.tv
+SUFFIX,ixxx.com
+SUFFIX,jable.tv
 SUFFIX,assets.jable.tv
 SUFFIX,assetscdn.jable.tv
 SUFFIX,assets-cdn.jable.tv
@@ -881,6 +891,7 @@ SUFFIX,google.tw
 SUFFIX,static.gopro.com
 SUFFIX,graph.org
 SUFFIX,player.h-cdn.com
+SUFFIX,hanime.tv
 SUFFIX,hbogo.com
 SUFFIX,hinet.net
 SUFFIX,gamer-cds.cdn.hinet.net
@@ -890,6 +901,7 @@ SUFFIX,litvfreemobile-hichannel.cdn.hinet.net
 SUFFIX,packages.httpie.io
 SUFFIX,assets.humix.com
 SUFFIX,video-meta.humix.com
+SUFFIX,huobi.com
 SUFFIX,huobi.pro
 SUFFIX,talk.hyvor.com
 SUFFIX,iframe.ly
@@ -953,6 +965,7 @@ SUFFIX,replicate.npmjs.com
 SUFFIX,static-production.npmjs.com
 SUFFIX,registry.npmjs.org
 SUFFIX,nytco.com
+SUFFIX,page.link
 SUFFIX,cdn.pagic.org
 SUFFIX,img.pawoo.net
 SUFFIX,i.pcmag.com
@@ -996,6 +1009,7 @@ SUFFIX,socdm.com
 SUFFIX,cdn.sprig.com
 SUFFIX,image.status.io
 SUFFIX,static.status.io
+SUFFIX,tenor.com
 SUFFIX,media.tenor.com
 SUFFIX,tfbnw.net
 SUFFIX,tgstat.ru
@@ -1194,6 +1208,7 @@ SUFFIX,grindr.com
 SUFFIX,i.guim.co.uk
 SUFFIX,uploads.guim.co.uk
 SUFFIX,interactive.guim.co.uk
+SUFFIX,hanime1.me
 SUFFIX,happyon.jp
 SUFFIX,hbfile.net
 SUFFIX,hbomax.com
@@ -1253,6 +1268,7 @@ SUFFIX,glyph.medium.com
 SUFFIX,cdn-client.medium.com
 SUFFIX,cdn-images-1.medium.com
 SUFFIX,cdn-static-1.medium.com
+SUFFIX,meetup.com
 SUFFIX,mega.co.nz
 SUFFIX,static.meiguo.com
 SUFFIX,cdn.micro.blog
@@ -1262,6 +1278,7 @@ SUFFIX,cdn.missav.com
 SUFFIX,video.missav.com
 SUFFIX,static.missav.com
 SUFFIX,thumbnail.missav.com
+SUFFIX,moegirl.uk
 SUFFIX,mojang.com
 SUFFIX,launchercontent.mojang.com
 SUFFIX,redstone-launcher.mojang.com
@@ -1300,6 +1317,7 @@ SUFFIX,shell.cdn.office.net
 SUFFIX,public.cdn.office.net
 SUFFIX,res-geo.cdn.office.net
 SUFFIX,static.oklink.com
+SUFFIX,opensea.io
 SUFFIX,static.opensea.io
 SUFFIX,oracle.com
 SUFFIX,static.oracle.com
@@ -1351,6 +1369,7 @@ SUFFIX,sc-cdn.com
 SUFFIX,sc-cdn.net
 SUFFIX,images.scalero.io
 SUFFIX,ec-prod.scene7.com
+SUFFIX,schema.org
 SUFFIX,scribd.com
 SUFFIX,assets.scroll.com
 SUFFIX,static.scroll.com
@@ -1383,6 +1402,7 @@ SUFFIX,web-assets.strava.com
 SUFFIX,checkout.stripe.com
 SUFFIX,strpst.com
 SUFFIX,assets.swoogo.com
+SUFFIX,sxccdn.com
 SUFFIX,cdn-static.talent.com
 SUFFIX,tedcdn.com
 SUFFIX,telega.one
@@ -1390,6 +1410,7 @@ SUFFIX,telegra.ph
 SUFFIX,telesco.pe
 SUFFIX,packages.termux.dev
 SUFFIX,packages-cf.termux.dev
+SUFFIX,textnow.me
 SUFFIX,image.thefly.com
 SUFFIX,thisav.com
 SUFFIX,cdn.thisav.com
@@ -1617,6 +1638,7 @@ SUFFIX,stubdownloader.services.mozilla.com
 SUFFIX,cdn.mozilla.net
 SUFFIX,itsre-sumo.mozilla.net
 SUFFIX,download-installer.cdn.mozilla.net
+SUFFIX,mozilla.org
 SUFFIX,addons.mozilla.org
 SUFFIX,archive.mozilla.org
 SUFFIX,download.mozilla.org
@@ -1672,6 +1694,7 @@ SUFFIX,iso.reactos.org
 SUFFIX,js.recurly.com
 SUFFIX,userpic.redgifs.com
 SUFFIX,thumbs44.redgifs.com
+SUFFIX,redtube.com
 SUFFIX,reuters.com
 SUFFIX,dyn.riotcdn.net
 SUFFIX,cdn.runcloud.io
@@ -1711,6 +1734,7 @@ SUFFIX,cdn-fck.tnaflix.com
 SUFFIX,static-community.tp-link.com
 SUFFIX,ipfs.tribecap.co
 SUFFIX,download-core.sys.truenas.net
+SUFFIX,ttcache.com
 SUFFIX,ipfs.tubby.cloud
 SUFFIX,twitpic.com
 SUFFIX,twitter.com
@@ -1727,6 +1751,7 @@ SUFFIX,staticctf.ubisoft.com
 SUFFIX,ubistatic-a.ubisoft.com
 SUFFIX,ubistatic2-a.ubisoft.com
 SUFFIX,static-overlay.ubisoft.com
+SUFFIX,img.urlnode.com
 SUFFIX,userapi.com
 SUFFIX,proxy.ustclug.org
 SUFFIX,mirrors.utermux.dev
@@ -1952,6 +1977,7 @@ SUFFIX,cdn-raw.modrinth.com
 SUFFIX,download.mokeedev.com
 SUFFIX,muscache.com
 SUFFIX,myavlive.com
+SUFFIX,mypikpak.com
 SUFFIX,cos.ap-seoul.myqcloud.com
 SUFFIX,cos.ap-tokyo.myqcloud.com
 SUFFIX,cos.ap-mumbai.myqcloud.com
@@ -2655,6 +2681,7 @@ SUFFIX,static10.lottiefiles.com
 SUFFIX,ltwebstatic.com
 SUFFIX,ipfsgateway.makersplace.com
 SUFFIX,files.mastodon.online
+SUFFIX,mastodon.social
 SUFFIX,files.mastodon.social
 SUFFIX,static-cdn.mastodon.social
 SUFFIX,cdn.myportfolio.com
@@ -2802,6 +2829,7 @@ SUFFIX,media.infosec.exchange
 SUFFIX,proxy.joinmastodon.org
 SUFFIX,kinja-static.com
 SUFFIX,files.mastodon.ktachibana.party
+SUFFIX,launchdarkly.com
 SUFFIX,assets.lemonsqueezy.com
 SUFFIX,line-apps-rc.com
 SUFFIX,packd.liuxingbaoyu.xyz
