@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-03T15:46:20.364Z
-# Size: 473
+# Last Updated: 2024-04-03T15:56:42.567Z
+# Size: 481
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -239,7 +239,9 @@ DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pinterestmail.com
 DOMAIN-SUFFIX,pinterest.com
+DOMAIN-SUFFIX,pin.it
 DOMAIN-SUFFIX,picacomic.xyz
 DOMAIN-SUFFIX,picacomic.com
 DOMAIN-SUFFIX,picacn.xyz
@@ -342,14 +344,15 @@ DOMAIN-SUFFIX,flipkart.com
 DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,fc2.com
-DOMAIN-SUFFIX,fastly.net
-DOMAIN-SUFFIX,facebook-hardware.com
 DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,fbmessenger.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fb.watch
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,facebook-hardware.com
+DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,feedly.com
@@ -377,6 +380,10 @@ DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,dish.com
+DOMAIN-SUFFIX,discordcdn.com
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,dis.gd
 DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,deviantart.net
@@ -438,6 +445,7 @@ DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,avgle.com

@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject (REJECT-DROP)
-# Last Updated: 2024-03-08T08:50:38.727Z
+# Last Updated: 2024-04-03T15:56:42.563Z
 # Size: 67
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -9,6 +9,11 @@
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,lofter.httpdns.c.163.com
 DOMAIN,music.httpdns.c.163.com
+DOMAIN,daisydiskapp.com
+DOMAIN,dns.weixin.qq.com
+DOMAIN,dns.weixin.qq.com.cn
+DOMAIN,dns.weibo.cn
+DOMAIN,dns.jd.com
 DOMAIN,httpsdns.baidu.com
 DOMAIN,httpdnsvip.meituan.com
 DOMAIN,httpdns.volcengineapi.com
@@ -22,12 +27,6 @@ DOMAIN,httpdns.baidubce.com
 DOMAIN,httpdns.baidu.com
 DOMAIN,httpdns-sc.aliyuncs.com
 DOMAIN,httpdns-api.aliyuncs.com
-DOMAIN,dns.weixin.qq.com
-DOMAIN,dns.weixin.qq.com.cn
-DOMAIN,dns.weibo.cn
-DOMAIN,dns.jd.com
-DOMAIN,daisydiskapp.com
-DOMAIN-SUFFIX,httpdns.pro
 DOMAIN-SUFFIX,adobe.io
 DOMAIN-SUFFIX,my.parallels.com
 DOMAIN-SUFFIX,myparallels.com
@@ -42,6 +41,7 @@ DOMAIN-SUFFIX,parallels.de
 DOMAIN-SUFFIX,parallels.cn
 DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,parallels.com.cdn.cloudflare.net
+DOMAIN-SUFFIX,httpdns.pro
 DOMAIN-KEYWORD,bahoom
 IP-CIDR,59.111.239.62/32,no-resolve
 IP-CIDR,59.111.239.61/32,no-resolve

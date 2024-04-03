@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-03T15:46:20.335Z
+// # Build 2024-04-03T15:56:35.533Z
 
 declare(strict_types=1);
 
@@ -1700,7 +1700,9 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,pixiv.org,Global',
         'DOMAIN-SUFFIX,pixiv.net,Global',
         'DOMAIN-SUFFIX,pinimg.com,Global',
+        'DOMAIN-SUFFIX,pinterestmail.com,Global',
         'DOMAIN-SUFFIX,pinterest.com,Global',
+        'DOMAIN-SUFFIX,pin.it,Global',
         'DOMAIN-SUFFIX,picacomic.xyz,Global',
         'DOMAIN-SUFFIX,picacomic.com,Global',
         'DOMAIN-SUFFIX,picacn.xyz,Global',
@@ -1803,14 +1805,15 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,flipboard.com,Global',
         'DOMAIN-SUFFIX,flickr.com,Global',
         'DOMAIN-SUFFIX,fc2.com,Global',
-        'DOMAIN-SUFFIX,fastly.net,Global',
-        'DOMAIN-SUFFIX,facebook-hardware.com,Global',
         'DOMAIN-SUFFIX,fbsbx.com,Global',
         'DOMAIN-SUFFIX,fbmessenger.com,Global',
         'DOMAIN-SUFFIX,fbcdn.net,Global',
         'DOMAIN-SUFFIX,fb.watch,Global',
         'DOMAIN-SUFFIX,fb.me,Global',
         'DOMAIN-SUFFIX,fb.com,Global',
+        'DOMAIN-SUFFIX,fastly.net,Global',
+        'DOMAIN-SUFFIX,facebook-hardware.com,Global',
+        'DOMAIN-SUFFIX,facebook.com,Global',
         'DOMAIN-SUFFIX,foxnews.com,Global',
         'DOMAIN-SUFFIX,firebaseio.com,Global',
         'DOMAIN-SUFFIX,feedly.com,Global',
@@ -1838,6 +1841,10 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dns.google,Global',
         'DOMAIN-SUFFIX,disqus.com,Global',
         'DOMAIN-SUFFIX,dish.com,Global',
+        'DOMAIN-SUFFIX,discordcdn.com,Global',
+        'DOMAIN-SUFFIX,discordapp.net,Global',
+        'DOMAIN-SUFFIX,discordapp.com,Global',
+        'DOMAIN-SUFFIX,discord.com,Global',
         'DOMAIN-SUFFIX,dis.gd,Global',
         'DOMAIN-SUFFIX,dialogflow.com,Global',
         'DOMAIN-SUFFIX,deviantart.net,Global',
@@ -1899,6 +1906,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,bing.com,Global',
         'DOMAIN-SUFFIX,blizzard.com,Global',
         'DOMAIN-SUFFIX,bloomberg.com,Global',
+        'DOMAIN-SUFFIX,blogspot.com,Global',
         'DOMAIN-SUFFIX,blogblog.com,Global',
         'DOMAIN-SUFFIX,blogger.com,Global',
         'DOMAIN-SUFFIX,avgle.com,Global',

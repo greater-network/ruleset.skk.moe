@@ -14,6 +14,7 @@ SUFFIX,cf-ipfs.com
 SUFFIX,netlify.app
 SUFFIX,workers.dev
 SUFFIX,bitbucket.io
+SUFFIX,blogspot.com
 SUFFIX,cloudapp.net
 SUFFIX,onrender.com
 SUFFIX,codeberg.page
@@ -376,6 +377,7 @@ SUFFIX,cdn.now.gg
 SUFFIX,cms-cdn.now.gg
 SUFFIX,npm.im
 SUFFIX,static.nrk.no
+SUFFIX,pin.it
 SUFFIX,cdn.plu.mx
 SUFFIX,images.ptt.cc
 SUFFIX,qy0.ru
@@ -1545,6 +1547,7 @@ SUFFIX,daumcdn.net
 SUFFIX,ipfs.denarius.io
 SUFFIX,denopkg.com
 SUFFIX,dl.devmate.com
+SUFFIX,discord.com
 SUFFIX,dl.pstmn.io
 SUFFIX,dogehls.xyz
 SUFFIX,cdn.download.it
@@ -1917,6 +1920,7 @@ SUFFIX,euronews.com
 SUFFIX,static.euronews.com
 SUFFIX,hbounify-prod.evergent.com
 SUFFIX,exhentai.org
+SUFFIX,facebook.com
 SUFFIX,graph.facebook.com
 SUFFIX,connect.facebook.net
 SUFFIX,secure.fanboy.co.nz
@@ -2462,10 +2466,12 @@ SUFFIX,dialogflow.com
 SUFFIX,osint.digitalside.it
 SUFFIX,discordapp.com
 SUFFIX,cdn.discordapp.com
+SUFFIX,discordapp.net
 SUFFIX,dl.discordapp.net
 SUFFIX,media.discordapp.net
 SUFFIX,images-ext-1.discordapp.net
 SUFFIX,images-ext-2.discordapp.net
+SUFFIX,discordcdn.com
 SUFFIX,disneyplus.com
 SUFFIX,hub-assets.displaycal.net
 SUFFIX,dropboxapi.com
@@ -2976,6 +2982,7 @@ SUFFIX,openstreetmap.org
 SUFFIX,tile.openstreetmap.org
 SUFFIX,oreillystatic.com
 SUFFIX,paramountplus.com
+SUFFIX,pinterestmail.com
 SUFFIX,cdn.printfriendly.com
 SUFFIX,prowritingaid.com
 SUFFIX,cdn.prowritingaid.com

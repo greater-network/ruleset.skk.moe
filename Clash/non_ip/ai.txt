@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2024-03-08T08:50:38.725Z
-# Size: 23
+# Last Updated: 2024-04-03T15:56:42.560Z
+# Size: 24
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -30,5 +30,6 @@ DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,openai.com
 DOMAIN-KEYWORD,openai
 ################## EOF ##################
