@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-04-03T04:25:41.609Z
-# Size: 690
+# Last Updated: 2024-04-03T14:28:31.514Z
+# Size: 715
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -59,6 +59,7 @@ DOMAIN-SUFFIX,abchina.com.cn
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,aicoinstorge.com
+DOMAIN-SUFFIX,aicdn.com
 DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,acg.tv
@@ -103,6 +104,7 @@ DOMAIN-SUFFIX,tbcache.com
 DOMAIN-SUFFIX,tb.cn
 DOMAIN-SUFFIX,tvzhe.com
 DOMAIN-SUFFIX,tvmao.com
+DOMAIN-SUFFIX,tripcdn.cn
 DOMAIN-SUFFIX,tieba.com
 DOMAIN-SUFFIX,tianyancha.com
 DOMAIN-SUFFIX,taopiaopiao.com
@@ -121,6 +123,7 @@ DOMAIN-SUFFIX,zol.com.cn
 DOMAIN-SUFFIX,zdic.net
 DOMAIN-SUFFIX,zdmimg.com
 DOMAIN-SUFFIX,zhangzs.com
+DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhuanzfx.com
@@ -154,6 +157,7 @@ DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,kingsoft-office-service.com
+DOMAIN-SUFFIX,ksyun.com
 DOMAIN-SUFFIX,ksmobile.com
 DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,ksord.com
@@ -172,6 +176,7 @@ DOMAIN-SUFFIX,jdpay.com
 DOMAIN-SUFFIX,jd.hk
 DOMAIN-SUFFIX,jd.com
 DOMAIN-SUFFIX,jd.com.cn
+DOMAIN-SUFFIX,qh-cdn.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhmsg.com
@@ -332,6 +337,7 @@ DOMAIN-SUFFIX,bdydns.com
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,bdatu.com
+DOMAIN-SUFFIX,bosszhipin.com
 DOMAIN-SUFFIX,boc.cn
 DOMAIN-SUFFIX,blzstatic.cn
 DOMAIN-SUFFIX,blizzard.com
@@ -368,6 +374,7 @@ DOMAIN-SUFFIX,ixiguavideo.com
 DOMAIN-SUFFIX,ixigua.com
 DOMAIN-SUFFIX,iesdouyin.com
 DOMAIN-SUFFIX,igamecj.com
+DOMAIN-SUFFIX,ialicdn.com
 DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,ifengimg.com
 DOMAIN-SUFFIX,ifeng.com
@@ -392,6 +399,7 @@ DOMAIN-SUFFIX,icbc.com.cn
 DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,luojilab.com
+DOMAIN-SUFFIX,ludashi.com
 DOMAIN-SUFFIX,lagou.com
 DOMAIN-SUFFIX,laiqukankan.com
 DOMAIN-SUFFIX,lofter.com
@@ -404,8 +412,11 @@ DOMAIN-SUFFIX,lenovo.com.cn
 DOMAIN-SUFFIX,lenovomm.com
 DOMAIN-SUFFIX,futunn.com
 DOMAIN-SUFFIX,futu5.com
+DOMAIN-SUFFIX,funshion.com
 DOMAIN-SUFFIX,freshhema.com
 DOMAIN-SUFFIX,frdic.com
+DOMAIN-SUFFIX,fqnovelpic.com
+DOMAIN-SUFFIX,fqnovel.com
 DOMAIN-SUFFIX,firefox.com.cn
 DOMAIN-SUFFIX,feishupkg.com
 DOMAIN-SUFFIX,feishucdn.com
@@ -418,6 +429,7 @@ DOMAIN-SUFFIX,feng.com
 DOMAIN-SUFFIX,fang.com
 DOMAIN-SUFFIX,fliggy.com
 DOMAIN-SUFFIX,flyme.cn
+DOMAIN-SUFFIX,dnsv1.com
 DOMAIN-SUFFIX,dnspod.cn
 DOMAIN-SUFFIX,dnspod.com
 DOMAIN-SUFFIX,dns.pub
@@ -426,6 +438,7 @@ DOMAIN-SUFFIX,dxy.cn
 DOMAIN-SUFFIX,duokan.com
 DOMAIN-SUFFIX,duba.net
 DOMAIN-SUFFIX,dfcfw.com
+DOMAIN-SUFFIX,dewu.com
 DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
 DOMAIN-SUFFIX,dl.pinyuncloud.com
 DOMAIN-SUFFIX,dl.eccdnx.com
@@ -479,6 +492,7 @@ DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,onlinedown.com
 DOMAIN-SUFFIX,oneplusbbs.com
 DOMAIN-SUFFIX,oneplus.cn
+DOMAIN-SUFFIX,openinstall.io
 DOMAIN-SUFFIX,opstatics.com
 DOMAIN-SUFFIX,opposhop.cn
 DOMAIN-SUFFIX,oppopay.com
@@ -549,15 +563,21 @@ DOMAIN-SUFFIX,huoshanstatic.com
 DOMAIN-SUFFIX,huoshan.com
 DOMAIN-SUFFIX,huya.com
 DOMAIN-SUFFIX,huxiucdn.com
+DOMAIN-SUFFIX,hupu.com
 DOMAIN-SUFFIX,huaweistatic.com
 DOMAIN-SUFFIX,huawei.com
 DOMAIN-SUFFIX,huawei.com.cn
 DOMAIN-SUFFIX,huawei.cn
+DOMAIN-SUFFIX,hoopchina.com.cn
 DOMAIN-SUFFIX,hongxiu.com
+DOMAIN-SUFFIX,honor.com
 DOMAIN-SUFFIX,honor.cn
 DOMAIN-SUFFIX,hitv.com
+DOMAIN-SUFFIX,hihonorcloud.com
+DOMAIN-SUFFIX,hihonorcdn.com
 DOMAIN-SUFFIX,hihonor.com
 DOMAIN-SUFFIX,hicloud.com
+DOMAIN-SUFFIX,hellobike.com
 DOMAIN-SUFFIX,hemashare.cn
 DOMAIN-SUFFIX,hemaos.com
 DOMAIN-SUFFIX,hemamax.com
@@ -568,7 +588,9 @@ DOMAIN-SUFFIX,heytapcs.com
 DOMAIN-SUFFIX,heytap.com
 DOMAIN-SUFFIX,h2os.com
 DOMAIN-SUFFIX,cibntv.net
+DOMAIN-SUFFIX,c-ctrip.com
 DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,ctfile.com
 DOMAIN-SUFFIX,csdnimg.cn
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,csdn.com
@@ -657,6 +679,7 @@ DOMAIN-SUFFIX,3dmgame.com
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,39.net
 DOMAIN-SUFFIX,36kr.com
+DOMAIN-SUFFIX,360kuai.com
 DOMAIN-SUFFIX,360webcache.com
 DOMAIN-SUFFIX,360os.com
 DOMAIN-SUFFIX,360tpcdn.com
@@ -670,6 +693,8 @@ DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,3322.net
 DOMAIN-SUFFIX,3322.org
 DOMAIN-SUFFIX,321fenx.com
+DOMAIN-SUFFIX,263.net
+DOMAIN-SUFFIX,22.cn
 DOMAIN-SUFFIX,2288.org
 DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,1905.com

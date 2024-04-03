@@ -1,6 +1,7 @@
 SUFFIX,now.sh
 SUFFIX,r2.dev
 SUFFIX,web.app
+SUFFIX,dynu.net
 SUFFIX,gitapp.si
 SUFFIX,github.io
 SUFFIX,gitlab.io
@@ -374,6 +375,7 @@ SUFFIX,my5.tv
 SUFFIX,cdn.now.gg
 SUFFIX,cms-cdn.now.gg
 SUFFIX,npm.im
+SUFFIX,static.nrk.no
 SUFFIX,cdn.plu.mx
 SUFFIX,images.ptt.cc
 SUFFIX,qy0.ru
@@ -472,6 +474,8 @@ SUFFIX,ipns.co
 SUFFIX,static.itch.io
 SUFFIX,itv.com
 SUFFIX,ipfs.jbb.one
+SUFFIX,cdn.jifi.co
+SUFFIX,gfonts.jifi.co
 SUFFIX,i.jpg.dog
 SUFFIX,jspm.io
 SUFFIX,invent.kde.org
@@ -627,6 +631,7 @@ SUFFIX,ipfs.decoo.io
 SUFFIX,dish.com
 SUFFIX,dmc.nico
 SUFFIX,images.dmca.com
+SUFFIX,dynu.com
 SUFFIX,cdn.embed.ly
 SUFFIX,etsy.com
 SUFFIX,media.evolv.ai
@@ -697,6 +702,7 @@ SUFFIX,images-assets.nasa.gov
 SUFFIX,line.naver.jp
 SUFFIX,image.nmb.best
 SUFFIX,nodei.co
+SUFFIX,noip.com
 SUFFIX,nowe.com
 SUFFIX,registry.npmjs.cf
 SUFFIX,okex.com
@@ -810,6 +816,8 @@ SUFFIX,bbc.co.uk
 SUFFIX,bgp.tools
 SUFFIX,bibox.com
 SUFFIX,img.biguz.net
+SUFFIX,bikaa.xyz
+SUFFIX,bikac.xyz
 SUFFIX,static.bit.cloud
 SUFFIX,bitly.com
 SUFFIX,assets.bnidx.com
@@ -1125,6 +1133,7 @@ SUFFIX,shots.codepen.io
 SUFFIX,assets.codepen.io
 SUFFIX,static.codepen.io
 SUFFIX,cpwebassets.codepen.io
+SUFFIX,coinex.com
 SUFFIX,cdn.concert.io
 SUFFIX,costco.com
 SUFFIX,static.cracked.io
@@ -1185,6 +1194,8 @@ SUFFIX,imageio.forbes.com
 SUFFIX,foxdcg.com
 SUFFIX,fsvod1.com
 SUFFIX,objects.g0v.social
+SUFFIX,genius.com
+SUFFIX,assets.genius.com
 SUFFIX,thumbs.gfycat.com
 SUFFIX,giscus.app
 SUFFIX,files.gitbook.io
@@ -1196,6 +1207,7 @@ SUFFIX,raw.github.com
 SUFFIX,gitlab.com
 SUFFIX,glbimg.com
 SUFFIX,cdn.glitch.com
+SUFFIX,s3.go2778.com
 SUFFIX,golang.org
 SUFFIX,proxy.golang.org
 SUFFIX,google.com
@@ -1276,6 +1288,7 @@ SUFFIX,cdn-static-1.medium.com
 SUFFIX,meetup.com
 SUFFIX,mega.co.nz
 SUFFIX,static.meiguo.com
+SUFFIX,mfcimg.com
 SUFFIX,cdn.micro.blog
 SUFFIX,avatars.micro.blog
 SUFFIX,missav.com
@@ -1339,6 +1352,7 @@ SUFFIX,pcdn-my.pcloud.com
 SUFFIX,pcdn-www.pcloud.com
 SUFFIX,images.pexels.com
 SUFFIX,phncdn.com
+SUFFIX,picacn.xyz
 SUFFIX,pinimg.com
 SUFFIX,pixhost.to
 SUFFIX,piximg.net
@@ -1494,6 +1508,7 @@ SUFFIX,bdzybf7.com
 SUFFIX,behance.net
 SUFFIX,a5.behance.net
 SUFFIX,mir-s3-cdn-cf.behance.net
+SUFFIX,bikaios.xyz
 SUFFIX,apm-misaka.biliapi.net
 SUFFIX,bilibili.tv
 SUFFIX,binance.com
@@ -1685,6 +1700,8 @@ SUFFIX,cdn.perfops.net
 SUFFIX,img.perfops.net
 SUFFIX,permaweb.io
 SUFFIX,phprcdn.com
+SUFFIX,picacgp.com
+SUFFIX,picacgy.com
 SUFFIX,cdn.pixabay.com
 SUFFIX,www.pngmart.com
 SUFFIX,polyfill.io
@@ -1896,6 +1913,7 @@ SUFFIX,aff.equalweb.com
 SUFFIX,cdn.equalweb.com
 SUFFIX,static.esimplus.net
 SUFFIX,etherscan.io
+SUFFIX,euronews.com
 SUFFIX,static.euronews.com
 SUFFIX,hbounify-prod.evergent.com
 SUFFIX,exhentai.org
@@ -2106,6 +2124,7 @@ SUFFIX,static.whatsapp.net
 SUFFIX,scontent.whatsapp.net
 SUFFIX,whweitao.com
 SUFFIX,widevine.com
+SUFFIX,wikawika.xyz
 SUFFIX,wikidata.org
 SUFFIX,wikinews.org
 SUFFIX,winticket.jp
@@ -2297,6 +2316,11 @@ SUFFIX,peacocktv.com
 SUFFIX,user-uploads.perchance.org
 SUFFIX,perplexity.ai
 SUFFIX,phishing.army
+SUFFIX,picacomic.com
+SUFFIX,s3.picacomic.com
+SUFFIX,img.picacomic.com
+SUFFIX,storage-b.picacomic.com
+SUFFIX,picacomic.xyz
 SUFFIX,softwareupdate.pilotmoon.com
 SUFFIX,pinterest.com
 SUFFIX,assets.pinterest.com
@@ -2372,6 +2396,7 @@ SUFFIX,wikimedia.org
 SUFFIX,upload.wikimedia.org
 SUFFIX,wikipedia.org
 SUFFIX,wikiquote.org
+SUFFIX,wireguard.com
 SUFFIX,dl.wireshark.org
 SUFFIX,wixstatic.com
 SUFFIX,wordpress.com
@@ -2504,11 +2529,13 @@ SUFFIX,ipfs.kinematiks.com
 SUFFIX,seccdn.libravatar.org
 SUFFIX,linemobile.com
 SUFFIX,linemyshop.com
+SUFFIX,manhuabika.com
 SUFFIX,assets.mastercard.com
 SUFFIX,cdn.matterhorn.app
 SUFFIX,assets.mayoclinic.org
 SUFFIX,design.mayoclinic.org
 SUFFIX,assets.mozilla.social
+SUFFIX,myfreecams.com
 SUFFIX,mypinata.cloud
 SUFFIX,myshopapps.com
 SUFFIX,nelreports.net

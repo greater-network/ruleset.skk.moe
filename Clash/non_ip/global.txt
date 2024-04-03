@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-03T04:25:41.699Z
-# Size: 454
+# Last Updated: 2024-04-03T14:28:31.626Z
+# Size: 472
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,nytco.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nypost.com
 DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,noip.com
 DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,nbcnews.com
 DOMAIN-SUFFIX,naver.com
@@ -67,6 +68,7 @@ DOMAIN-SUFFIX,npm.im
 DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zaobao.com.sg
+DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,etsy.com
@@ -124,6 +126,7 @@ DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,wordtune.com
 DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wireguard.com
 DOMAIN-SUFFIX,wiktionary.org
 DOMAIN-SUFFIX,wikivoyage.org
 DOMAIN-SUFFIX,wikiversity.org
@@ -134,6 +137,7 @@ DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikibooks.org
+DOMAIN-SUFFIX,wikawika.xyz
 DOMAIN-SUFFIX,windows.net
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,whoer.cc
@@ -235,6 +239,11 @@ DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinterest.com
+DOMAIN-SUFFIX,picacomic.xyz
+DOMAIN-SUFFIX,picacomic.com
+DOMAIN-SUFFIX,picacn.xyz
+DOMAIN-SUFFIX,picacgy.com
+DOMAIN-SUFFIX,picacgp.com
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,periscope.tv
@@ -244,6 +253,7 @@ DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,myfreecams.com
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mojang.com
@@ -260,6 +270,7 @@ DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,majsoul.union-game.com
 DOMAIN-SUFFIX,mastodon.social
+DOMAIN-SUFFIX,manhuabika.com
 DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,madewithcode.com
@@ -318,6 +329,7 @@ DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,gettyimages.com
 DOMAIN-SUFFIX,getdropbox.com
 DOMAIN-SUFFIX,getoutline.org
@@ -343,6 +355,8 @@ DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,f8.com
 DOMAIN-SUFFIX,dw.com
+DOMAIN-SUFFIX,dynu.net
+DOMAIN-SUFFIX,dynu.com
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,dropboxusercontent.com
 DOMAIN-SUFFIX,dropboxmail.com
@@ -373,6 +387,7 @@ DOMAIN-SUFFIX,cpuid.com
 DOMAIN-SUFFIX,cbc.ca
 DOMAIN-SUFFIX,costco.com
 DOMAIN-SUFFIX,codepen.io
+DOMAIN-SUFFIX,coinex.com
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,coinbase.com
@@ -412,6 +427,9 @@ DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,bitbucket.io
 DOMAIN-SUFFIX,bibox.com
+DOMAIN-SUFFIX,bikaios.xyz
+DOMAIN-SUFFIX,bikac.xyz
+DOMAIN-SUFFIX,bikaa.xyz
 DOMAIN-SUFFIX,binance.us
 DOMAIN-SUFFIX,binance.me
 DOMAIN-SUFFIX,binance.com

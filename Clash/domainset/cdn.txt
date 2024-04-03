@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-04-02T15:00:17.017Z
-# Size: 1940
+# Last Updated: 2024-04-03T14:28:31.643Z
+# Size: 1949
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1441,6 +1441,10 @@ images-assets.nasa.gov
 assets.quillbot.com
 libs.quillbot.com
 +.appmifile.com
+s3.picacomic.com
+storage-b.picacomic.com
+img.picacomic.com
+s3.go2778.com
 +.ziffstatic.com
 +.muscache.com
 cdn.dnsimple.com
@@ -1948,4 +1952,9 @@ cdn.myfonts.net
 static-community.tp-link.com
 +.sxccdn.com
 +.ttcache.com
+gfonts.jifi.co
+cdn.jifi.co
+assets.genius.com
++.mfcimg.com
+static.nrk.no
 ################## EOF ##################
