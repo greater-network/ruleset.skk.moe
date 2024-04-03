@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-03T14:28:31.610Z
+// # Build 2024-04-03T15:46:20.335Z
 
 declare(strict_types=1);
 
@@ -1684,6 +1684,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,rule34.xxx,Global',
         'DOMAIN-SUFFIX,run.app,Global',
         'DOMAIN-SUFFIX,reuters.com,Global',
+        'DOMAIN-SUFFIX,returnyoutubedislikeapi.com,Global',
         'DOMAIN-SUFFIX,render.com,Global',
         'DOMAIN-SUFFIX,redtube.com,Global',
         'DOMAIN-SUFFIX,redditstatic.com,Global',
