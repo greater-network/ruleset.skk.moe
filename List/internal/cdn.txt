@@ -618,11 +618,13 @@ SUFFIX,cbsi.com
 SUFFIX,production-cmp.isgprivacy.cbsi.com
 SUFFIX,media.ci-en.jp
 SUFFIX,cthd.icu
+SUFFIX,daum.net
 SUFFIX,dazn.com
 SUFFIX,dcard.tw
 SUFFIX,imgur.dcard.tw
 SUFFIX,megapx-assets.dcard.tw
 SUFFIX,ipfs.decoo.io
+SUFFIX,dish.com
 SUFFIX,dmc.nico
 SUFFIX,images.dmca.com
 SUFFIX,cdn.embed.ly
@@ -1090,6 +1092,7 @@ SUFFIX,content001.bet365.com
 SUFFIX,binance.cc
 SUFFIX,binance.me
 SUFFIX,binance.us
+SUFFIX,bitmex.com
 SUFFIX,livedoor.blogimg.jp
 SUFFIX,resize.blogsys.jp
 SUFFIX,boxcdn.net
@@ -1107,6 +1110,7 @@ SUFFIX,signal.cdnbye.com
 SUFFIX,tracker.cdnbye.com
 SUFFIX,opensignal.cdnbye.com
 SUFFIX,signalcloud.cdnbye.com
+SUFFIX,change.org
 SUFFIX,assets.change.org
 SUFFIX,static.change.org
 SUFFIX,assets-fe.change.org
@@ -1151,6 +1155,7 @@ SUFFIX,ftp-master.debian.org
 SUFFIX,deezer.com
 SUFFIX,dilcdn.com
 SUFFIX,disqus.com
+SUFFIX,dlsite.com
 SUFFIX,dl.dlsite.com
 SUFFIX,media.dlsite.com
 SUFFIX,download.dlsite.com
@@ -1569,6 +1574,7 @@ SUFFIX,godaddy.com
 SUFFIX,rsi.grafana.com
 SUFFIX,gstatic.com
 SUFFIX,fonts.gstatic.com
+SUFFIX,gumroad.com
 SUFFIX,assets.gumroad.com
 SUFFIX,public-files.gumroad.com
 SUFFIX,i.hamreus.com
@@ -1904,6 +1910,7 @@ SUFFIX,cdn.firebase.com
 SUFFIX,media.flaticon.com
 SUFFIX,cdn-uicons.flaticon.com
 SUFFIX,cdn-share-sprites.flaticon.com
+SUFFIX,flipkart.com
 SUFFIX,static-assets-web.flixcart.com
 SUFFIX,resizing.flixster.com
 SUFFIX,filestore.fortinet.com
@@ -2642,6 +2649,7 @@ SUFFIX,stories.freepiklabs.com
 SUFFIX,ipfs.genenetwork.org
 SUFFIX,getcomposer.org
 SUFFIX,cdn.getfeedback.com
+SUFFIX,gettyimages.com
 SUFFIX,media.gettyimages.com
 SUFFIX,static.gettyimages.com
 SUFFIX,googlevideo.com
@@ -2650,6 +2658,7 @@ SUFFIX,hsappstatic.net
 SUFFIX,f.hubspotfree.net
 SUFFIX,initiummall.com
 SUFFIX,intercomcdn.com
+SUFFIX,istockphoto.com
 SUFFIX,media.istockphoto.com
 SUFFIX,itasoftware.com
 SUFFIX,kkbox-prime.com

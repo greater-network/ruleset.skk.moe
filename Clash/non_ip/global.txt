@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-02T15:00:17.003Z
-# Size: 445
+# Last Updated: 2024-04-03T04:25:41.699Z
+# Size: 454
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -265,6 +265,7 @@ DOMAIN-SUFFIX,material.io
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,ixxx.com
 DOMAIN-SUFFIX,iwara.tv
+DOMAIN-SUFFIX,istockphoto.com
 DOMAIN-SUFFIX,istatmenus.app
 DOMAIN-SUFFIX,issuu.com
 DOMAIN-SUFFIX,ipfs.io
@@ -274,6 +275,7 @@ DOMAIN-SUFFIX,initiummall.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,itasoftware.com
+DOMAIN-SUFFIX,gumroad.com
 DOMAIN-SUFFIX,grindr.com
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,grammarly.com
@@ -316,12 +318,14 @@ DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gettyimages.com
 DOMAIN-SUFFIX,getdropbox.com
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,gcld-line.com
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,g.co
+DOMAIN-SUFFIX,flipkart.com
 DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,fc2.com
@@ -350,11 +354,14 @@ DOMAIN-SUFFIX,dropboxapi.com
 DOMAIN-SUFFIX,dropbox-dns.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dribbble.com
+DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,dcard.tw
+DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,dailymail.co.uk
 DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,dish.com
 DOMAIN-SUFFIX,dis.gd
 DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,deviantart.net
@@ -381,6 +388,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,cloudfunctions.net
 DOMAIN-SUFFIX,character.ai
+DOMAIN-SUFFIX,change.org
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,chromestatus.com
 DOMAIN-SUFFIX,chromeexperiments.com
@@ -398,6 +406,7 @@ DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,bandcamp.com
+DOMAIN-SUFFIX,bitmex.com
 DOMAIN-SUFFIX,bitly.com
 DOMAIN-SUFFIX,bit.ly
 DOMAIN-SUFFIX,bitfinex.com

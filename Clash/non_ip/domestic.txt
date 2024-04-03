@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-04-02T15:00:16.905Z
-# Size: 677
+# Last Updated: 2024-04-03T04:25:41.609Z
+# Size: 690
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -89,6 +89,7 @@ DOMAIN-SUFFIX,toutiaovod.com
 DOMAIN-SUFFIX,toutiaostatic.com
 DOMAIN-SUFFIX,toutiaoimg.cn
 DOMAIN-SUFFIX,toutiaoimg.com
+DOMAIN-SUFFIX,tcdnlive.com
 DOMAIN-SUFFIX,tencentcs.cn
 DOMAIN-SUFFIX,tencentmusic.com
 DOMAIN-SUFFIX,tencent.com
@@ -108,11 +109,14 @@ DOMAIN-SUFFIX,taopiaopiao.com
 DOMAIN-SUFFIX,taobaocdn.com
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,takungpao.com
+DOMAIN-SUFFIX,tanx.com
 DOMAIN-SUFFIX,tantanapp.com
 DOMAIN-SUFFIX,tnkjmec.com
 DOMAIN-SUFFIX,t.cn
 DOMAIN-SUFFIX,t3go.cn
+DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zuimeitianqi.com
+DOMAIN-SUFFIX,zui.com
 DOMAIN-SUFFIX,zol.com.cn
 DOMAIN-SUFFIX,zdic.net
 DOMAIN-SUFFIX,zdmimg.com
@@ -146,7 +150,7 @@ DOMAIN-SUFFIX,kfc.com.cn
 DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,kaiyanapp.com
 DOMAIN-SUFFIX,kuwo.cn
-DOMAIN-SUFFIX,kugou.com1
+DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,kuaishouzt.com
 DOMAIN-SUFFIX,kuaishou.com
 DOMAIN-SUFFIX,kingsoft-office-service.com
@@ -193,6 +197,7 @@ DOMAIN-SUFFIX,qqmail.cn
 DOMAIN-SUFFIX,qq.wang
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qq.com.cn
+DOMAIN-SUFFIX,qlivecdn.com
 DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qdaily.com
@@ -204,6 +209,7 @@ DOMAIN-SUFFIX,qyerstatic.com
 DOMAIN-SUFFIX,qyer.com
 DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,qihucdn.com
+DOMAIN-SUFFIX,qiniu.com
 DOMAIN-SUFFIX,qidian.com
 DOMAIN-SUFFIX,qichacha.com
 DOMAIN-SUFFIX,qiyipic.com
@@ -263,6 +269,7 @@ DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,sina.com.cn
 DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,saxyit.com
+DOMAIN-SUFFIX,samsungcloudcn.com
 DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,sankuai.com
 DOMAIN-SUFFIX,upos-sz-mirrorcoso1.bilivideo.com
@@ -283,6 +290,7 @@ DOMAIN-SUFFIX,wegame.com
 DOMAIN-SUFFIX,wegame.com.cn
 DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,west.cn
+DOMAIN-SUFFIX,weathercn.com
 DOMAIN-SUFFIX,weather.com.cn
 DOMAIN-SUFFIX,webok.net
 DOMAIN-SUFFIX,weiyun.com
@@ -334,6 +342,7 @@ DOMAIN-SUFFIX,baidubcr.com
 DOMAIN-SUFFIX,baidubce.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidu.cn
+DOMAIN-SUFFIX,baike.com
 DOMAIN-SUFFIX,baishancdnx.cn
 DOMAIN-SUFFIX,battlenet.com.cn
 DOMAIN-SUFFIX,battle.net
@@ -362,14 +371,15 @@ DOMAIN-SUFFIX,igamecj.com
 DOMAIN-SUFFIX,infinitynewtab.com
 DOMAIN-SUFFIX,ifengimg.com
 DOMAIN-SUFFIX,ifeng.com
-DOMAIN-SUFFIX,idqqimg.com
-DOMAIN-SUFFIX,id6.com
 DOMAIN-SUFFIX,ibuscloud.com
 DOMAIN-SUFFIX,ibreader.com
 DOMAIN-SUFFIX,ithome.com
 DOMAIN-SUFFIX,itc.cn
 DOMAIN-SUFFIX,iqiyipic.com
 DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,idqqimg.com
+DOMAIN-SUFFIX,id6.com
+DOMAIN-SUFFIX,id6.me
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,ipanda.net
 DOMAIN-SUFFIX,ipanda.com
@@ -572,6 +582,7 @@ DOMAIN-SUFFIX,cainiao.com.cn
 DOMAIN-SUFFIX,cailianpress.com
 DOMAIN-SUFFIX,cdn-go.cn
 DOMAIN-SUFFIX,cdngslb.com
+DOMAIN-SUFFIX,cdnjtzy.com
 DOMAIN-SUFFIX,cdn.ubionline.com.cn
 DOMAIN-SUFFIX,cmfunds.cn
 DOMAIN-SUFFIX,cmfchina.com
@@ -647,6 +658,7 @@ DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,39.net
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,360webcache.com
+DOMAIN-SUFFIX,360os.com
 DOMAIN-SUFFIX,360tpcdn.com
 DOMAIN-SUFFIX,360safe.com
 DOMAIN-SUFFIX,360.net
@@ -667,6 +679,7 @@ DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,16888.com
 DOMAIN-SUFFIX,166.net
 DOMAIN-SUFFIX,166.com
+DOMAIN-SUFFIX,163jiasu.com
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,139.com
