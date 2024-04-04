@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-04-03T04:25:45.110Z
-# Size: 1222
+# Last Updated: 2024-04-04T12:29:07.655Z
+# Size: 1223
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -617,6 +617,7 @@ vic-pmla-st1.speedtest.aarnet.net.au
 tsdvuspeedtest01p.allstream.com
 speedtest01.srv.hcvlny.alticeusa.net
 speedtest03.srv.whplny.alticeusa.net
+trtspeedtest.altimatel.com
 ookla-ita.asanet.tec.br
 sp1.asthriona.com
 speedtest.beanfield.com
