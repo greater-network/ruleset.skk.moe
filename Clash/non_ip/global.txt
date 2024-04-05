@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-03T15:56:42.567Z
-# Size: 481
+# Last Updated: 2024-04-05T07:46:42.388Z
+# Size: 497
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -163,6 +163,7 @@ DOMAIN-SUFFIX,twimg.co
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,thisav.com
+DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,theguardian.com
 DOMAIN-SUFFIX,themoviedb.org
@@ -190,6 +191,7 @@ DOMAIN-SUFFIX,stackblitz.com
 DOMAIN-SUFFIX,south-plus.net
 DOMAIN-SUFFIX,south-plus.org
 DOMAIN-SUFFIX,soundcloud.com
+DOMAIN-SUFFIX,solidot.org
 DOMAIN-SUFFIX,slideshare.net
 DOMAIN-SUFFIX,sleazyfork.org
 DOMAIN-SUFFIX,skk.moe
@@ -209,7 +211,11 @@ DOMAIN-SUFFIX,snap.com
 DOMAIN-SUFFIX,snap-dev.net
 DOMAIN-SUFFIX,scribd.com
 DOMAIN-SUFFIX,schema.org
+DOMAIN-SUFFIX,scpwiki.com
+DOMAIN-SUFFIX,scpdb.org
+DOMAIN-SUFFIX,scp-wiki.net
 DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,spankbang.party
 DOMAIN-SUFFIX,spankbang.com
 DOMAIN-SUFFIX,speedtestcustom.com
 DOMAIN-SUFFIX,speedtest.net
@@ -225,6 +231,7 @@ DOMAIN-SUFFIX,run.app
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,returnyoutubedislikeapi.com
 DOMAIN-SUFFIX,render.com
+DOMAIN-SUFFIX,redtubepremium.com
 DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,redditstatic.com
 DOMAIN-SUFFIX,redditmedia.com
@@ -238,6 +245,9 @@ DOMAIN-SUFFIX,proton.me
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pixiv.net
+DOMAIN-SUFFIX,pikpak.me
+DOMAIN-SUFFIX,ping.sx
+DOMAIN-SUFFIX,ping.pe
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinterestmail.com
 DOMAIN-SUFFIX,pinterest.com
@@ -375,6 +385,7 @@ DOMAIN-SUFFIX,dribbble.com
 DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,dcard.tw
 DOMAIN-SUFFIX,daum.net
+DOMAIN-SUFFIX,dashlane.com
 DOMAIN-SUFFIX,dailymail.co.uk
 DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,dns.google
@@ -405,6 +416,8 @@ DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cryptocompare.com
 DOMAIN-SUFFIX,crypto.com
 DOMAIN-SUFFIX,creativelab5.com
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflare.com
@@ -424,6 +437,7 @@ DOMAIN-SUFFIX,brave.com
 DOMAIN-SUFFIX,booklive.jp
 DOMAIN-SUFFIX,bgp.tools
 DOMAIN-SUFFIX,bet365.com
+DOMAIN-SUFFIX,bestbuy.com
 DOMAIN-SUFFIX,behance.net
 DOMAIN-SUFFIX,bbc.co.uk
 DOMAIN-SUFFIX,bbc.com
@@ -467,6 +481,7 @@ DOMAIN-SUFFIX,aptoide.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apk-dl.com
+DOMAIN-SUFFIX,apibay.org
 DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,android.com
@@ -477,6 +492,7 @@ DOMAIN-SUFFIX,abc.net.au
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,520cc.cc
+DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,1password.eu
 DOMAIN-SUFFIX,1password.ca
 DOMAIN-SUFFIX,1password.com

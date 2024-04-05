@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-04-03T14:28:31.514Z
-# Size: 715
+# Last Updated: 2024-04-05T07:46:42.304Z
+# Size: 719
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -238,6 +238,7 @@ DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,pps.tv
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,szbdyd.com
+DOMAIN-SUFFIX,suning.cn
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,speedtest.cn
@@ -247,6 +248,7 @@ DOMAIN-SUFFIX,s-reader.com
 DOMAIN-SUFFIX,shifen.com
 DOMAIN-SUFFIX,shyhhema.com
 DOMAIN-SUFFIX,sharepoint.cn
+DOMAIN-SUFFIX,segmentfault.com
 DOMAIN-SUFFIX,sevencdn.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,steam.ksyna.com
@@ -264,6 +266,7 @@ DOMAIN-SUFFIX,sohucs.com
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,sohu.com.cn
 DOMAIN-SUFFIX,sohu-inc.com
+DOMAIN-SUFFIX,sifou.com
 DOMAIN-SUFFIX,sinajs.cn
 DOMAIN-SUFFIX,sinajs.com
 DOMAIN-SUFFIX,sinaimg.com
@@ -341,6 +344,7 @@ DOMAIN-SUFFIX,bosszhipin.com
 DOMAIN-SUFFIX,boc.cn
 DOMAIN-SUFFIX,blzstatic.cn
 DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,baidustatic.com
 DOMAIN-SUFFIX,baiducontent.com

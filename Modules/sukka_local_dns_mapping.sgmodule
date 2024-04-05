@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-04-03T14:28:31.515Z
+#!desc=Last Updated: 2024-04-05T07:46:42.307Z
 
 [Host]
 uc.cn = server:quic://223.6.6.6:853
@@ -484,6 +484,8 @@ yunpan.com.cn = server:https://101.198.198.198/dns-query
 *.yunpan.com.cn = server:https://101.198.198.198/dns-query
 qh-cdn.com = server:https://101.198.198.198/dns-query
 *.qh-cdn.com = server:https://101.198.198.198/dns-query
+baomitu.com = server:https://101.198.198.198/dns-query
+*.baomitu.com = server:https://101.198.198.198/dns-query
 _hotspot_.m2m = server:system
 *._hotspot_.m2m = server:system
 hotspot.cslwifi.com = server:system

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-04-04T12:29:07.655Z
-# Size: 1223
+# Last Updated: 2024-04-05T07:46:52.242Z
+# Size: 1224
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1230,5 +1230,6 @@ speedtest.centralnetprovedor.net.br
 test.infoconnecttelecom.com.br
 servidor.nuevanetbandalarga.com.br
 speedtestalmtelecom.com.br
+serviciospablomella3.com.do
 speedtest.topnettelecomservicos.com.br
 ################## EOF ##################

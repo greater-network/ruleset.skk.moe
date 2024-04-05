@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-04-03T14:28:31.643Z
-# Size: 1949
+# Last Updated: 2024-04-05T07:46:42.367Z
+# Size: 1953
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -335,7 +335,6 @@ content.jwplatform.com
 +.ninjastream.to
 +.pztv.ca
 +.pzvcdn.com
-+.video.missav.com
 fast.wistia.com
 embedwistia-a.akamaihd.net
 embed-ssl.wistia.com
@@ -644,6 +643,7 @@ cdnjs.buymeacoffee.com
 +.cdn.getfeedback.com
 assets.positional-bucket.com
 cdn.neverbounce.com
+edge1.certona.net
 cdn.transcend.io
 cdn-yotpo-images-production.yotpo.com
 img.announcekit.app
@@ -993,6 +993,9 @@ static-assets.clubhouseapi.com
 static.missav.com
 cdn.missav.com
 thumbnail.missav.com
++.video.missav.com
+cdn.thisav.com
+eightcha.com
 +.xvideos-cdn.com
 +.xnxx-cdn.com
 static-clst.avgle.com
@@ -1445,6 +1448,8 @@ s3.picacomic.com
 storage-b.picacomic.com
 img.picacomic.com
 s3.go2778.com
+torrindex.net
++.slidesharecdn.com
 +.ziffstatic.com
 +.muscache.com
 cdn.dnsimple.com
@@ -1508,8 +1513,6 @@ ws-assets.zoominfo.com
 res2.weblium.site
 code.benco.io
 assets.capterra.com
-static.thisav.com
-cdn.thisav.com
 i.iwara.tv
 +.strpst.com
 yummlystatic.com
@@ -1957,4 +1960,5 @@ cdn.jifi.co
 assets.genius.com
 +.mfcimg.com
 static.nrk.no
+cdn.media.amplience.net
 ################## EOF ##################

@@ -526,6 +526,8 @@ SUFFIX,t2.picb.cc
 SUFFIX,t3.picb.cc
 SUFFIX,t4.picb.cc
 SUFFIX,pimg.tw
+SUFFIX,ping.pe
+SUFFIX,ping.sx
 SUFFIX,cdn.plyr.io
 SUFFIX,pnpm.io
 SUFFIX,pscp.tv
@@ -982,6 +984,7 @@ SUFFIX,cdn.pagic.org
 SUFFIX,img.pawoo.net
 SUFFIX,i.pcmag.com
 SUFFIX,pengtu.cc
+SUFFIX,pikpak.me
 SUFFIX,pixfs.net
 SUFFIX,pixiv.cat
 SUFFIX,pixiv.net
@@ -1010,6 +1013,7 @@ SUFFIX,static.replay.io
 SUFFIX,assets.safing.io
 SUFFIX,cdn.sanity.io
 SUFFIX,sb-cd.com
+SUFFIX,scpdb.org
 SUFFIX,cdn.sellix.io
 SUFFIX,sentry.io
 SUFFIX,shopee.tw
@@ -1085,6 +1089,7 @@ SUFFIX,amazon.com
 SUFFIX,atv-ps.amazon.com
 SUFFIX,fls-na.amazon.com
 SUFFIX,repo.maven.apache.org
+SUFFIX,apibay.org
 SUFFIX,apk-dl.com
 SUFFIX,archive.fo
 SUFFIX,archive.is
@@ -1435,7 +1440,6 @@ SUFFIX,textnow.me
 SUFFIX,image.thefly.com
 SUFFIX,thisav.com
 SUFFIX,cdn.thisav.com
-SUFFIX,static.thisav.com
 SUFFIX,tiktok.com
 SUFFIX,img.timero.xyz
 SUFFIX,tineye.com
@@ -1479,6 +1483,7 @@ SUFFIX,cdn.zapier.com
 SUFFIX,fonts.zapier.com
 SUFFIX,vjs.zencdn.net
 SUFFIX,sigma9.zokhoi.com
+SUFFIX,4shared.com
 SUFFIX,static.4shared.com
 SUFFIX,98avcdn.xyz
 SUFFIX,abc-cdn.net
@@ -1510,6 +1515,7 @@ SUFFIX,bdzybf7.com
 SUFFIX,behance.net
 SUFFIX,a5.behance.net
 SUFFIX,mir-s3-cdn-cf.behance.net
+SUFFIX,bestbuy.com
 SUFFIX,bikaios.xyz
 SUFFIX,apm-misaka.biliapi.net
 SUFFIX,bilibili.tv
@@ -1531,6 +1537,7 @@ SUFFIX,cdn1122.com
 SUFFIX,cdn2020.com
 SUFFIX,cdnpure.com
 SUFFIX,cdntrex.com
+SUFFIX,edge1.certona.net
 SUFFIX,w.chatlio.com
 SUFFIX,cdn.chess24.com
 SUFFIX,assets.chess24.com
@@ -1726,6 +1733,7 @@ SUFFIX,dyn.riotcdn.net
 SUFFIX,cdn.runcloud.io
 SUFFIX,release.runcloud.io
 SUFFIX,cdn.manage.runcloud.io
+SUFFIX,scpwiki.com
 SUFFIX,ocsp.sectigo.com
 SUFFIX,cdn.segment.com
 SUFFIX,thumbs2.sendvid.com
@@ -1737,6 +1745,7 @@ SUFFIX,ipfs.sloppyta.co
 SUFFIX,smilecdn.co
 SUFFIX,sdk.snapkit.com
 SUFFIX,static.snaptube.in
+SUFFIX,solidot.org
 SUFFIX,spotify.com
 SUFFIX,sqspcdn.com
 SUFFIX,static.srcspot.com
@@ -1895,6 +1904,7 @@ SUFFIX,img.connatix.com
 SUFFIX,mirror.constant.com
 SUFFIX,coveralls.io
 SUFFIX,crossbell.io
+SUFFIX,dashlane.com
 SUFFIX,cdn.datacamp.com
 SUFFIX,david-dm.org
 SUFFIX,dazn-api.com
@@ -1910,6 +1920,7 @@ SUFFIX,s3.dzeninfra.ru
 SUFFIX,static.dzeninfra.ru
 SUFFIX,avatars.dzeninfra.ru
 SUFFIX,e-hentai.org
+SUFFIX,eightcha.com
 SUFFIX,ees.elsevier.com
 SUFFIX,engadget.com
 SUFFIX,aff.equalweb.com
@@ -2070,6 +2081,7 @@ SUFFIX,rollupjs.org
 SUFFIX,public.saasexch.com
 SUFFIX,saucenao.com
 SUFFIX,embed.savvycal.com
+SUFFIX,scp-wiki.net
 SUFFIX,sendbird.com
 SUFFIX,cdn.mcauto-images-production.sendgrid.net
 SUFFIX,shattered.io
@@ -2157,6 +2169,7 @@ SUFFIX,compute-1.amazonaws.com
 SUFFIX,s3-accelerate.amazonaws.com
 SUFFIX,cdn.assets.as2.amazonaws.com
 SUFFIX,amebaownd.com
+SUFFIX,cdn.media.amplience.net
 SUFFIX,ipfs.anonymize.com
 SUFFIX,s-cdn.anthropic.com
 SUFFIX,apkmirror.com
@@ -2187,6 +2200,7 @@ SUFFIX,cdn.ceres9350.com
 SUFFIX,js.chargebee.com
 SUFFIX,cdn.cloudcraft.co
 SUFFIX,cloudflare.tv
+SUFFIX,clubhouse.com
 SUFFIX,cdn.cocoapods.org
 SUFFIX,coingecko.com
 SUFFIX,assets.coingecko.com
@@ -2377,6 +2391,7 @@ SUFFIX,tnastatic.com
 SUFFIX,download.todesktop.com
 SUFFIX,tokyvideo.com
 SUFFIX,hawk.tomsguide.com
+SUFFIX,torrindex.net
 SUFFIX,tospotify.com
 SUFFIX,ui.trailhead.com
 SUFFIX,cdn.transifex.com
@@ -2767,6 +2782,7 @@ SUFFIX,simpleicons.org
 SUFFIX,cdn.simpleicons.org
 SUFFIX,dl.sourceforge.net
 SUFFIX,downloads.sourceforge.net
+SUFFIX,spankbang.party
 SUFFIX,spotifyjobs.com
 SUFFIX,assets.squarespace.com
 SUFFIX,s3media.squarespace.com
@@ -2840,6 +2856,7 @@ SUFFIX,chromestatus.com
 SUFFIX,cdn.clever-cloud.com
 SUFFIX,assets.clever-cloud.com
 SUFFIX,components.clever-cloud.com
+SUFFIX,clubhouseapi.com
 SUFFIX,static-assets.clubhouseapi.com
 SUFFIX,cdn.cnx-software.com
 SUFFIX,coral.coralproject.net
@@ -2912,6 +2929,7 @@ SUFFIX,streamhentai.org
 SUFFIX,cdn.sunofbeaches.com
 SUFFIX,susercontent.com
 SUFFIX,blacklist.tampermonkey.net
+SUFFIX,thepiratebay.org
 SUFFIX,trackerslist.com
 SUFFIX,cdn1.unrealengine.com
 SUFFIX,cdn2.unrealengine.com
@@ -2991,6 +3009,7 @@ SUFFIX,images.purevpn-tools.com
 SUFFIX,cdn.recovermycart.com
 SUFFIX,cdn.shoppinggives.com
 SUFFIX,simplecastcdn.com
+SUFFIX,slidesharecdn.com
 SUFFIX,smartmediarep.com
 SUFFIX,spotifycharts.com
 SUFFIX,stackexchange.com
@@ -3039,6 +3058,7 @@ SUFFIX,gateway.originprotocol.com
 SUFFIX,builds.paranoidandroid.co
 SUFFIX,pornhubpremium.com
 SUFFIX,api.pwnedpasswords.com
+SUFFIX,redtubepremium.com
 SUFFIX,safebrowsing.apple
 SUFFIX,proxy.safebrowsing.apple
 SUFFIX,spotifynewsroom.jp
