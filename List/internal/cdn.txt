@@ -1899,6 +1899,7 @@ SUFFIX,assets.coinbase.com
 SUFFIX,static-assets.coinbase.com
 SUFFIX,downloads.coindesk.com
 SUFFIX,media-cdn.comfy.social
+SUFFIX,crt.comodoca.com
 SUFFIX,cds.connatix.com
 SUFFIX,img.connatix.com
 SUFFIX,mirror.constant.com
@@ -2463,6 +2464,7 @@ SUFFIX,res.cloudinary.com
 SUFFIX,fiverr-res.cloudinary.com
 SUFFIX,cloudinary-res.cloudinary.com
 SUFFIX,ipfs0.sjc.cloudsigma.com
+SUFFIX,codesandbox.io
 SUFFIX,uploads.codesandbox.io
 SUFFIX,screenshots.codesandbox.io
 SUFFIX,prod-packager-packages.codesandbox.io

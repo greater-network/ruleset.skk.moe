@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-04-05T07:46:42.367Z
-# Size: 1953
+# Last Updated: 2024-04-05T11:06:13.018Z
+# Size: 1954
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -834,6 +834,7 @@ ocsp.digicert.com
 ocsp2.apple.com
 ocsp.sectigo.com
 crl.usertrust.com
+crt.comodoca.com
 f000.backblazeb2.com
 f001.backblazeb2.com
 f002.backblazeb2.com

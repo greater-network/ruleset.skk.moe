@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-05T07:46:42.356Z
+// # Build 2024-04-05T11:06:13.007Z
 
 declare(strict_types=1);
 
@@ -555,6 +555,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dbank.com,Domestic',
         'DOMAIN-SUFFIX,ruiwen.com,Domestic',
         'DOMAIN-SUFFIX,ruguoapp.com,Domestic',
+        'DOMAIN-SUFFIX,ruanmei.com,Domestic',
         'DOMAIN-SUFFIX,rsproxy.cn,Domestic',
         'DOMAIN-SUFFIX,robloxdev.cn,Domestic',
         'DOMAIN-SUFFIX,roblox.cn,Domestic',
@@ -1870,6 +1871,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,cpuid.com,Global',
         'DOMAIN-SUFFIX,cbc.ca,Global',
         'DOMAIN-SUFFIX,costco.com,Global',
+        'DOMAIN-SUFFIX,codesandbox.io,Global',
         'DOMAIN-SUFFIX,codepen.io,Global',
         'DOMAIN-SUFFIX,coinex.com,Global',
         'DOMAIN-SUFFIX,coinmarketcap.com,Global',
