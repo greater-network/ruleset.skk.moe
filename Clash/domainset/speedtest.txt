@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-04-05T07:46:52.242Z
-# Size: 1224
+# Last Updated: 2024-04-06T12:27:06.126Z
+# Size: 1225
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1030,6 +1030,7 @@ speedtest-nyc.dish-wireless.com
 speedtest-sea.dish-wireless.com
 speedtest-sjc.dish-wireless.com
 teste.easytecham.com.br
+srvteste.edntelecom.net.br
 velocidade.exytelecom.com.br
 spd-01.thn.fullfibre.systems
 speedtest.hearstconnect.com
