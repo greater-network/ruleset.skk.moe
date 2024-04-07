@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-06T12:26:55.833Z
+// # Build 2024-04-07T09:29:27.488Z
 
 declare(strict_types=1);
 
@@ -1848,6 +1848,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dropbox-dns.com,Global',
         'DOMAIN-SUFFIX,dropbox.com,Global',
         'DOMAIN-SUFFIX,dribbble.com,Global',
+        'DOMAIN-SUFFIX,doujins.com,Global',
         'DOMAIN-SUFFIX,dlsite.com,Global',
         'DOMAIN-SUFFIX,dcard.tw,Global',
         'DOMAIN-SUFFIX,daum.net,Global',
@@ -3434,7 +3435,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,111.235.163.0/24,Domestic',
         'IP-CIDR,111.235.164.0/24,Domestic',
         'IP-CIDR,111.235.170.0/23,Domestic',
-        'IP-CIDR,111.235.172.0/23,Domestic',
+        'IP-CIDR,111.235.173.0/24,Domestic',
         'IP-CIDR,111.235.174.0/24,Domestic',
         'IP-CIDR,111.235.178.0/24,Domestic',
         'IP-CIDR,111.235.180.0/23,Domestic',
@@ -3451,6 +3452,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,112.116.0.0/15,Domestic',
         'IP-CIDR,112.122.0.0/15,Domestic',
         'IP-CIDR,112.124.0.0/14,Domestic',
+        'IP-CIDR,112.128.0.0/24,Domestic',
         'IP-CIDR,112.132.0.0/16,Domestic',
         'IP-CIDR,112.192.0.0/14,Domestic',
         'IP-CIDR,112.224.0.0/11,Domestic',

@@ -663,6 +663,7 @@ SUFFIX,gvt3.com
 SUFFIX,edgedl.me.gvt3.com
 SUFFIX,edgedl.me.gvt4.com
 SUFFIX,edgedl.me.gvt5.com
+SUFFIX,h-cdn.co
 SUFFIX,assets.habr.com
 SUFFIX,wego.here.com
 SUFFIX,hsto.org
@@ -718,6 +719,7 @@ SUFFIX,cdn.pika.dev
 SUFFIX,pixiv.nl
 SUFFIX,pixiv.re
 SUFFIX,pki.goog
+SUFFIX,static.plus.net
 SUFFIX,assets.poool.fr
 SUFFIX,prcdn.co
 SUFFIX,pscdn.co
@@ -1557,6 +1559,8 @@ SUFFIX,dl.devmate.com
 SUFFIX,discord.com
 SUFFIX,dl.pstmn.io
 SUFFIX,dogehls.xyz
+SUFFIX,doujins.com
+SUFFIX,static.doujins.com
 SUFFIX,cdn.download.it
 SUFFIX,dropbox.com
 SUFFIX,dweb.eu.org
@@ -1577,6 +1581,8 @@ SUFFIX,down.filen-4.net
 SUFFIX,down.filen-5.net
 SUFFIX,firefox.com
 SUFFIX,detectportal.firefox.com
+SUFFIX,a.fireside.fm
+SUFFIX,assets.fireside.fm
 SUFFIX,flagcdn.com
 SUFFIX,assets.flodesk.com
 SUFFIX,usercontent.flodesk.com
@@ -2520,6 +2526,7 @@ SUFFIX,gwtproject.org
 SUFFIX,cdn.hackernoon.com
 SUFFIX,hayabusa.media
 SUFFIX,disco.headliner.link
+SUFFIX,assets.hearstapps.com
 SUFFIX,cdn.hellofresh.com
 SUFFIX,img.hellofresh.com
 SUFFIX,cdn.hentaibomb.com
@@ -2672,7 +2679,7 @@ SUFFIX,bp.blogspot.com
 SUFFIX,p.bstarstatic.com
 SUFFIX,byteoversea.com
 SUFFIX,cdn.calibermind.com
-SUFFIX,static.cdn-website.com
+SUFFIX,cdn-website.com
 SUFFIX,media.cleanshot.cloud
 SUFFIX,ddcdn.comtucdncom.com
 SUFFIX,js.createsend1.com

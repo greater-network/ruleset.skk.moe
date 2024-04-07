@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-04-06T12:27:06.126Z
-# Size: 1225
+# Last Updated: 2024-04-07T09:29:43.361Z
+# Size: 1228
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -116,6 +116,7 @@ speedtest1c.hkix.net
 st1.htva.net
 speedtest.inoc.net
 speedtest.itel.com
+akrd-speedtest.loni.org
 40gspeedtest.mnsi.net
 clg-105-sptest.ncri.com
 speedtest.nwic.com
@@ -265,6 +266,7 @@ speedtest.myarena.ru
 speedtest.netrack.ru
 mirror.nforce.com
 sp-de.nuxt.cloud
+speedtest3.dal.nxlink.com
 handa.pcknob.com
 speedtest-lhr-01.pdx.net.uk
 boluspeedtest.posive.net
@@ -804,6 +806,7 @@ speedtest.skywaywest.net
 speedtest.solutechzk.com
 speed1.spitfireuk.net
 speedtest.sunucum.net.tr
+speedtest.sunucun.com.tr
 speedtest.swishfibre.com
 speedtest-dallas.swyftfiber.com
 speedtestlon.telefonica.com
