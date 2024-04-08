@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-04-07T12:26:41.193Z
-# Size: 1229
+# Last Updated: 2024-04-08T12:29:22.097Z
+# Size: 1230
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -248,6 +248,7 @@ ookla.tw.as.iwasel.com
 +.speedtest.jsinfo.net
 speedtest.keyubu.com
 speedtest2.keyubu.com
+speedtest.konaman.ru
 speedtest-thn.krystal.uk
 +.speedtest.labixe.net
 speedtest.lla-cr.com
