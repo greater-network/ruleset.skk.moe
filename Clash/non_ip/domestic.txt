@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-04-09T04:47:41.182Z
-# Size: 721
+# Last Updated: 2024-04-09T10:29:07.708Z
+# Size: 723
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -413,6 +413,8 @@ DOMAIN-SUFFIX,livechina.com
 DOMAIN-SUFFIX,livechina.cn
 DOMAIN-SUFFIX,leleketang.com
 DOMAIN-SUFFIX,leiniao.com
+DOMAIN-SUFFIX,leetcode-cn.com
+DOMAIN-SUFFIX,leetcode.cn
 DOMAIN-SUFFIX,lenovo.com.cn
 DOMAIN-SUFFIX,lenovomm.com
 DOMAIN-SUFFIX,futunn.com
