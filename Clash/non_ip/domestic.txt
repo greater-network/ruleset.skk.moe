@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-04-05T11:06:12.895Z
-# Size: 720
+# Last Updated: 2024-04-09T04:47:41.182Z
+# Size: 721
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11,6 +11,7 @@
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,lv.queniujq.cn
 DOMAIN,xboxlive.cn
+DOMAIN,www.intel.cn
 DOMAIN,www.layuicdn.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,cdn.bootcss.com

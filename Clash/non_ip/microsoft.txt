@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Microsoft Domains
-# Last Updated: 2024-03-08T08:50:38.726Z
-# Size: 79
+# Last Updated: 2024-04-09T04:47:41.287Z
+# Size: 81
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -63,6 +63,7 @@ DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msauthimages.net
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msappproxy.net
+DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,lync.com
 DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,live.com
@@ -84,6 +85,7 @@ DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,acompli.net
 DOMAIN-SUFFIX,acompli.com
 DOMAIN-SUFFIX,aadrm.com
+DOMAIN-SUFFIX,1drv.com
 DOMAIN-KEYWORD,hotmail
 DOMAIN-KEYWORD,microsoft
 DOMAIN-KEYWORD,1drv

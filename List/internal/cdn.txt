@@ -486,6 +486,7 @@ SUFFIX,kik.com
 SUFFIX,kktv.me
 SUFFIX,file24-d.kuku.lu
 SUFFIX,ipfs.lain.la
+SUFFIX,pomf2.lain.la
 SUFFIX,line.me
 SUFFIX,litv.tv
 SUFFIX,lnkd.in
@@ -620,6 +621,7 @@ SUFFIX,asset.booth.pm
 SUFFIX,registry.bower.io
 SUFFIX,ipfs.busy.org
 SUFFIX,bwh1.net
+SUFFIX,c-dn.net
 SUFFIX,assets.canny.io
 SUFFIX,assets2.canny.io
 SUFFIX,cbsi.com
@@ -687,6 +689,9 @@ SUFFIX,cdn.kagi.com
 SUFFIX,assets.kagi.com
 SUFFIX,cdn-edge.karte.io
 SUFFIX,info.knak.com
+SUFFIX,kobo.com
+SUFFIX,cdn.kobo.com
+SUFFIX,static.kobo.com
 SUFFIX,kwai.com
 SUFFIX,s1.kwai.net
 SUFFIX,aws-static.kwai.net
@@ -705,6 +710,7 @@ SUFFIX,ipfs.mttk.net
 SUFFIX,o.n1mp.org
 SUFFIX,images-assets.nasa.gov
 SUFFIX,line.naver.jp
+SUFFIX,nel.goog
 SUFFIX,image.nmb.best
 SUFFIX,nodei.co
 SUFFIX,noip.com
@@ -883,6 +889,7 @@ SUFFIX,storageapi.fleek.one
 SUFFIX,storageapi2.fleek.one
 SUFFIX,fonts.com
 SUFFIX,fonts.net
+SUFFIX,forms.gle
 SUFFIX,ftcdn.net
 SUFFIX,assets.gcore.pro
 SUFFIX,getmdl.io
@@ -929,6 +936,7 @@ SUFFIX,imgur.com
 SUFFIX,i.imgur.com
 SUFFIX,stack.imgur.com
 SUFFIX,ipfs.infura.io
+SUFFIX,intel.com
 SUFFIX,cdn.ipinfo.io
 SUFFIX,website-cdn.ipinfo.io
 SUFFIX,intl.iqiyi.com
@@ -1029,6 +1037,7 @@ SUFFIX,image.status.io
 SUFFIX,static.status.io
 SUFFIX,tenor.com
 SUFFIX,media.tenor.com
+SUFFIX,media1.tenor.com
 SUFFIX,tfbnw.net
 SUFFIX,tgstat.ru
 SUFFIX,tidal.com
@@ -1083,6 +1092,7 @@ SUFFIX,9cache.com
 SUFFIX,abc.net.au
 SUFFIX,res.abc.net.au
 SUFFIX,adtidy.org
+SUFFIX,afraid.org
 SUFFIX,aicoin.com
 SUFFIX,aimoon.com
 SUFFIX,akidoo.top
@@ -1266,6 +1276,7 @@ SUFFIX,cf.javfree.me
 SUFFIX,javtxt.com
 SUFFIX,repo.jing.rocks
 SUFFIX,jitpack.io
+SUFFIX,cdn-msp.jmcomic.me
 SUFFIX,code.jquery.com
 SUFFIX,fiddle.jshell.net
 SUFFIX,jwpcdn.com
@@ -1279,6 +1290,8 @@ SUFFIX,kraken.com
 SUFFIX,assets.kraken.com
 SUFFIX,assets-cms.kraken.com
 SUFFIX,kucoin.com
+SUFFIX,ledger.com
+SUFFIX,ledger-wp-website-s3-prd.ledger.com
 SUFFIX,static.linear.app
 SUFFIX,cms-cdn.linear.app
 SUFFIX,cdn2.macpaw.com
@@ -1297,6 +1310,7 @@ SUFFIX,cdn-static-1.medium.com
 SUFFIX,meetup.com
 SUFFIX,mega.co.nz
 SUFFIX,static.meiguo.com
+SUFFIX,mercdn.net
 SUFFIX,mfcimg.com
 SUFFIX,cdn.micro.blog
 SUFFIX,avatars.micro.blog
@@ -1369,6 +1383,9 @@ SUFFIX,poecdn.net
 SUFFIX,postimg.cc
 SUFFIX,cdn.prismic.io
 SUFFIX,images.prismic.io
+SUFFIX,probit.com
+SUFFIX,static.probit.com
+SUFFIX,static-landing.probit.com
 SUFFIX,js.pusher.com
 SUFFIX,pxgcdn.com
 SUFFIX,pzvcdn.com
@@ -1485,6 +1502,8 @@ SUFFIX,cdn.zapier.com
 SUFFIX,fonts.zapier.com
 SUFFIX,vjs.zencdn.net
 SUFFIX,sigma9.zokhoi.com
+SUFFIX,18comic.vip
+SUFFIX,cdn-msp.18comic.vip
 SUFFIX,4shared.com
 SUFFIX,static.4shared.com
 SUFFIX,98avcdn.xyz
@@ -1570,6 +1589,8 @@ SUFFIX,ebayimg.com
 SUFFIX,videos.elephas.app
 SUFFIX,els-cdn.com
 SUFFIX,espncdn.com
+SUFFIX,cdn2.ettoday.net
+SUFFIX,static.ettoday.net
 SUFFIX,exp-tas.com
 SUFFIX,default.exp-tas.com
 SUFFIX,f-droid.org
@@ -1726,6 +1747,7 @@ SUFFIX,pornimg.xyz
 SUFFIX,pravatar.cc
 SUFFIX,enterprise.proxmox.com
 SUFFIX,pstatic.net
+SUFFIX,cdn.quadpay.com
 SUFFIX,static.rakuten.com
 SUFFIX,ravenjs.com
 SUFFIX,reactjs.org
@@ -1967,6 +1989,8 @@ SUFFIX,ghostery.com
 SUFFIX,cdn.ghostery.com
 SUFFIX,download.gigabyte.com
 SUFFIX,gmodules.com
+SUFFIX,gofundme.com
+SUFFIX,cdn.gofundme.com
 SUFFIX,google.co.jp
 SUFFIX,gravatar.com
 SUFFIX,widget.cluster.groovehq.com
@@ -2018,6 +2042,7 @@ SUFFIX,static.mendeley.com
 SUFFIX,download.mikrotik.com
 SUFFIX,mikuclub.xyz
 SUFFIX,api.mintlify.com
+SUFFIX,thumbnailer.mixcloud.com
 SUFFIX,dynamic-assets.mobilius.top
 SUFFIX,cdn.modrinth.com
 SUFFIX,cdn-raw.modrinth.com
@@ -2090,6 +2115,7 @@ SUFFIX,saucenao.com
 SUFFIX,embed.savvycal.com
 SUFFIX,scp-wiki.net
 SUFFIX,sendbird.com
+SUFFIX,sendgrid.net
 SUFFIX,cdn.mcauto-images-production.sendgrid.net
 SUFFIX,shattered.io
 SUFFIX,showtime.com
@@ -2413,6 +2439,7 @@ SUFFIX,fonts1.unidays.world
 SUFFIX,crl.usertrust.com
 SUFFIX,widget.uservoice.com
 SUFFIX,video-cdn.net
+SUFFIX,w3schools.com
 SUFFIX,waitlisted.co
 SUFFIX,s3.wasabisys.com
 SUFFIX,s3.eu-central-2.wasabisys.com
@@ -2891,6 +2918,7 @@ SUFFIX,github.community
 SUFFIX,githubassets.com
 SUFFIX,githubstatus.com
 SUFFIX,cdn.hongkongcard.com
+SUFFIX,cdn1.identitymind.com
 SUFFIX,images-iherb.com
 SUFFIX,spcdn.incartupsell.com
 SUFFIX,media.infosec.exchange
@@ -3124,6 +3152,7 @@ SUFFIX,steamusercontent.com
 SUFFIX,surge-activation.com
 SUFFIX,youtube-nocookie.com
 SUFFIX,youtubeeducation.com
+SUFFIX,1passwordservices.com
 SUFFIX,amazonprimevideos.com
 SUFFIX,bahamut.akamaized.net
 SUFFIX,chromeexperiments.com

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-07T09:29:27.508Z
-# Size: 499
+# Last Updated: 2024-04-09T04:47:41.293Z
+# Size: 510
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,jkforum.net
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,kwai.com
 DOMAIN-SUFFIX,kucoin.com
+DOMAIN-SUFFIX,kobo.com
 DOMAIN-SUFFIX,kik.com
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kagi.com
@@ -74,6 +75,7 @@ DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,engadget.com
+DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,live.com
@@ -151,6 +153,7 @@ DOMAIN-SUFFIX,washingtonpost.com
 DOMAIN-SUFFIX,wa.me
 DOMAIN-SUFFIX,waymo.com
 DOMAIN-SUFFIX,waveprotocol.org
+DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,tmagazine.com
@@ -199,6 +202,7 @@ DOMAIN-SUFFIX,sketch.com
 DOMAIN-SUFFIX,sketch.cloud
 DOMAIN-SUFFIX,sex.com
 DOMAIN-SUFFIX,sentry.io
+DOMAIN-SUFFIX,sendgrid.net
 DOMAIN-SUFFIX,sendbird.com
 DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,saucenao.com
@@ -242,6 +246,7 @@ DOMAIN-SUFFIX,recaptcha.net
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,prowritingaid.com
 DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,probit.com
 DOMAIN-SUFFIX,pximg.net
 DOMAIN-SUFFIX,pixiv.org
 DOMAIN-SUFFIX,pixiv.net
@@ -296,6 +301,7 @@ DOMAIN-SUFFIX,ipfs.io
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,initiummall.com
+DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,ifixit.com
 DOMAIN-SUFFIX,itasoftware.com
@@ -324,6 +330,7 @@ DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gofundme.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,googleapis.com
@@ -363,8 +370,9 @@ DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,facebook-hardware.com
 DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,foxnews.com
+DOMAIN-SUFFIX,forms.gle
 DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,feedburner.com
 DOMAIN-SUFFIX,f8.com
@@ -467,6 +475,7 @@ DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,ask.com
+DOMAIN-SUFFIX,afraid.org
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,arc.net
@@ -495,9 +504,11 @@ DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,9gag.com
 DOMAIN-SUFFIX,520cc.cc
 DOMAIN-SUFFIX,4shared.com
+DOMAIN-SUFFIX,1passwordservices.com
 DOMAIN-SUFFIX,1password.eu
 DOMAIN-SUFFIX,1password.ca
 DOMAIN-SUFFIX,1password.com
+DOMAIN-SUFFIX,18comic.vip
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,pinterest
 DOMAIN-KEYWORD,jav
