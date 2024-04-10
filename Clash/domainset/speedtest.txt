@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-04-08T12:29:22.097Z
-# Size: 1230
+# Last Updated: 2024-04-10T12:29:08.290Z
+# Size: 1232
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -291,6 +291,7 @@ kastamonuspeedtest.posive.net
 kirklarelispeedtest.posive.net
 speedtest-de.pq.hosting
 speedtest-ru.pq.hosting
+ny-speedtest.qonzer.net
 speedtest.quadro.net
 speedtest2.rhitcr.com
 stajax.rogers.com
@@ -806,6 +807,7 @@ speedtest.singnet.com.sg
 speedtest.skywaywest.net
 speedtest.solutechzk.com
 speed1.spitfireuk.net
+speedtest.sugiartana.net
 speedtest.sunucum.net.tr
 speedtest.sunucun.com.tr
 speedtest.swishfibre.com
