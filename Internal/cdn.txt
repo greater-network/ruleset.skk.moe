@@ -1,5 +1,6 @@
 SUFFIX,now.sh
 SUFFIX,r2.dev
+SUFFIX,csb.app
 SUFFIX,web.app
 SUFFIX,dynu.net
 SUFFIX,gitapp.si
@@ -435,7 +436,6 @@ SUFFIX,mirrors.cat.net
 SUFFIX,gravatar.cat.net
 SUFFIX,cnn.com
 SUFFIX,media.cnn.com
-SUFFIX,csb.app
 SUFFIX,pkg.csb.dev
 SUFFIX,cdn.css.net
 SUFFIX,curl.se

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-04-09T10:29:07.708Z
-# Size: 723
+# Last Updated: 2024-04-12T12:38:52.820Z
+# Size: 724
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -686,6 +686,7 @@ DOMAIN-SUFFIX,4399.com
 DOMAIN-SUFFIX,3dmgame.com
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,39.net
+DOMAIN-SUFFIX,36krcdn.com
 DOMAIN-SUFFIX,36kr.com
 DOMAIN-SUFFIX,360kuai.com
 DOMAIN-SUFFIX,360webcache.com

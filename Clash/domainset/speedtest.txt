@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-04-10T12:29:08.290Z
-# Size: 1232
+# Last Updated: 2024-04-12T12:39:05.732Z
+# Size: 1235
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -216,7 +216,6 @@ speedtest-sjc.acreto.net
 speed.msk.avantel.ru
 speedtest.bnsdfw.com
 speedtest.brsk.co.uk
-speedtest.netgeartec.cloudns.be
 librarian.comstar.ru
 speedtestsvq01.comvive.es
 speedtest.coreix.net
@@ -292,6 +291,8 @@ kirklarelispeedtest.posive.net
 speedtest-de.pq.hosting
 speedtest-ru.pq.hosting
 ny-speedtest.qonzer.net
+chi-speedtest.qonzer.net
+fra-speedtest.qonzer.net
 speedtest.quadro.net
 speedtest2.rhitcr.com
 stajax.rogers.com
@@ -648,6 +649,7 @@ hiztesti.isimkayit.com
 speedtest.jbarbieri.net
 kadoshspeed.kadoshnet.com
 speedtest16.lintas.net.id
+speed.vm.brs.marcusn.co.uk
 sptest2.mgts-spdop.ru
 speedtest.mornington.ca
 speedtest-sg.napinfo.co.id
@@ -1195,6 +1197,7 @@ speedtest.japanettelecom.com.br
 st.jnettelecom-am.com.br
 speedtest1.kablosuzonline.com.tr
 speedtest2.lightningfibre.net.uk
+speedtest.netgeartec.cloudns.be
 speedteste.newsolutionnet.com.br
 speedtest.pinguimtelecom.net.br
 speedtest.redenettelecom.com.br
