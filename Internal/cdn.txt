@@ -2445,6 +2445,7 @@ SUFFIX,twitchcdn.net
 SUFFIX,static.twitchcdn.net
 SUFFIX,twitchsvc.net
 SUFFIX,fonts1.unidays.world
+SUFFIX,cdn.up-timely.com
 SUFFIX,crl.usertrust.com
 SUFFIX,widget.uservoice.com
 SUFFIX,video-cdn.net
@@ -3087,6 +3088,7 @@ SUFFIX,cdn-live.foreignaffairs.com
 SUFFIX,static-gcp.freepikcompany.com
 SUFFIX,headway-widget.net
 SUFFIX,intercomassets.com
+SUFFIX,code.ionicframework.com
 SUFFIX,ipfs-gateway.cloud
 SUFFIX,kc-usercontent.com
 SUFFIX,static.killedbygoogle.com
