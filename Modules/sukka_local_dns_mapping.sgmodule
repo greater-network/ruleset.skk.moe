@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-04-05T07:46:42.307Z
+#!desc=Last Updated: 2024-04-13T13:46:18.600Z
 
 [Host]
 uc.cn = server:quic://223.6.6.6:853
@@ -332,6 +332,8 @@ pstatp.com = server:180.184.2.2
 *.pstatp.com = server:180.184.2.2
 snssdk.com = server:180.184.2.2
 *.snssdk.com = server:180.184.2.2
+bytegoofy.com = server:180.184.2.2
+*.bytegoofy.com = server:180.184.2.2
 toutiao.com = server:180.184.2.2
 *.toutiao.com = server:180.184.2.2
 feishu.cn = server:180.184.2.2

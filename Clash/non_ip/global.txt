@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-09T10:29:07.836Z
-# Size: 511
+# Last Updated: 2024-04-13T13:46:19.974Z
+# Size: 514
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11,7 +11,6 @@
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,wego.here.com
 DOMAIN,media.steampowered.com
-DOMAIN,onedrive.live.com
 DOMAIN,ccmdl.adobe.com
 DOMAIN,ees.elsevier.com
 DOMAIN,addons.mozilla.org
@@ -57,6 +56,7 @@ DOMAIN-SUFFIX,nytco.com
 DOMAIN-SUFFIX,nyt.com
 DOMAIN-SUFFIX,nypost.com
 DOMAIN-SUFFIX,nyaa.si
+DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,noip.com
 DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,nbcnews.com
@@ -71,6 +71,7 @@ DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,etherscan.io
@@ -79,7 +80,6 @@ DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,leetcode.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,lnkd.in
-DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,linemyshop.com
@@ -352,6 +352,7 @@ DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,genius.com
 DOMAIN-SUFFIX,gettyimages.com
+DOMAIN-SUFFIX,getchu.com
 DOMAIN-SUFFIX,getdropbox.com
 DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,getmdl.io
@@ -430,6 +431,7 @@ DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare-dns.com
@@ -470,6 +472,7 @@ DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,bloomberg.com
+DOMAIN-SUFFIX,blogimg.jp
 DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,blogger.com

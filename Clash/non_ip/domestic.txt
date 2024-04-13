@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-04-12T12:38:52.820Z
-# Size: 724
+# Last Updated: 2024-04-13T13:46:18.598Z
+# Size: 726
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -120,6 +120,7 @@ DOMAIN-SUFFIX,t3go.cn
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zuimeitianqi.com
 DOMAIN-SUFFIX,zui.com
+DOMAIN-SUFFIX,zol-img.com.cn
 DOMAIN-SUFFIX,zol.com.cn
 DOMAIN-SUFFIX,zdic.net
 DOMAIN-SUFFIX,zdmimg.com
@@ -317,6 +318,7 @@ DOMAIN-SUFFIX,wo.cn
 DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,bcelive.com
 DOMAIN-SUFFIX,byted-static.com
+DOMAIN-SUFFIX,bytegoofy.com
 DOMAIN-SUFFIX,bytecdn.cn
 DOMAIN-SUFFIX,bilicdn1.com
 DOMAIN-SUFFIX,bilicomics.com
