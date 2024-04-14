@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-13T13:46:19.404Z
+// # Build 2024-04-14T06:39:54.620Z
 
 declare(strict_types=1);
 
@@ -1586,6 +1586,9 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,oculus.com,Global',
         'DOMAIN-SUFFIX,oracle.com,Global',
         'DOMAIN-SUFFIX,office365.com,Global',
+        'DOMAIN-SUFFIX,yandex.ru,Global',
+        'DOMAIN-SUFFIX,yandex.net,Global',
+        'DOMAIN-SUFFIX,yandex.com,Global',
         'DOMAIN-SUFFIX,yahoo.co.jp,Global',
         'DOMAIN-SUFFIX,yahoo.com,Global',
         'DOMAIN-SUFFIX,ytimg.com,Global',
@@ -1663,6 +1666,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tensorflow.org,Global',
         'DOMAIN-SUFFIX,t66y.com,Global',
         'DOMAIN-SUFFIX,surfshark.com,Global',
+        'DOMAIN-SUFFIX,supjav.com,Global',
         'DOMAIN-SUFFIX,substack.com,Global',
         'DOMAIN-SUFFIX,stripchat.com,Global',
         'DOMAIN-SUFFIX,steamcommunity.com,Global',
@@ -1750,6 +1754,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,page.link,Global',
         'DOMAIN-SUFFIX,mypikpak.com,Global',
         'DOMAIN-SUFFIX,myfreecams.com,Global',
+        'DOMAIN-SUFFIX,muku.tv,Global',
         'DOMAIN-SUFFIX,mozilla.org,Global',
         'DOMAIN-SUFFIX,mozilla.com,Global',
         'DOMAIN-SUFFIX,mojang.com,Global',
@@ -4367,6 +4372,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,153.101.0.0/16,Domestic',
         'IP-CIDR,153.118.0.0/15,Domestic',
         'IP-CIDR,154.8.128.0/17,Domestic',
+        'IP-CIDR,154.82.100.0/23,Domestic',
         'IP-CIDR,155.126.176.0/23,Domestic',
         'IP-CIDR,156.107.160.0/24,Domestic',
         'IP-CIDR,156.107.170.0/24,Domestic',

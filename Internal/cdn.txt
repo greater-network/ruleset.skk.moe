@@ -496,6 +496,7 @@ SUFFIX,mega.io
 SUFFIX,mega.nz
 SUFFIX,oss.moe.cat
 SUFFIX,assets.msn.com
+SUFFIX,muku.tv
 SUFFIX,cfcdn.mux.com
 SUFFIX,ca.nfs.pub
 SUFFIX,nimg.jp
@@ -706,6 +707,7 @@ SUFFIX,mexc.com
 SUFFIX,mastodon-static.miao.dev
 SUFFIX,media.mstdn.io
 SUFFIX,ipfs.mttk.net
+SUFFIX,mycdn.me
 SUFFIX,o.n1mp.org
 SUFFIX,images-assets.nasa.gov
 SUFFIX,line.naver.jp
@@ -1086,6 +1088,7 @@ SUFFIX,downloads.xrite.com
 SUFFIX,yahoo.com
 SUFFIX,yep.video.yahoo.com
 SUFFIX,assets.video.yahoo.net
+SUFFIX,yandex.ru
 SUFFIX,staticw2.yotpo.com
 SUFFIX,cdn-yotpo-images-production.yotpo.com
 SUFFIX,ytimg.com
@@ -1449,6 +1452,8 @@ SUFFIX,cdn3.stamped.io
 SUFFIX,web-assets.strava.com
 SUFFIX,checkout.stripe.com
 SUFFIX,strpst.com
+SUFFIX,supjav.com
+SUFFIX,img.supjav.com
 SUFFIX,assets.swoogo.com
 SUFFIX,sxccdn.com
 SUFFIX,cdn-static.talent.com
@@ -1496,7 +1501,10 @@ SUFFIX,winudf.com
 SUFFIX,fast.wistia.com
 SUFFIX,embed-ssl.wistia.com
 SUFFIX,avts.wmlabs.net
+SUFFIX,yandex.com
+SUFFIX,yandex.net
 SUFFIX,resize.yandex.net
+SUFFIX,favicon.yandex.net
 SUFFIX,avatars.mds.yandex.net
 SUFFIX,ysa-static.passport.yandex.net
 SUFFIX,yle888.vip

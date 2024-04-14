@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-13T13:46:19.974Z
-# Size: 514
+# Last Updated: 2024-04-14T06:39:54.642Z
+# Size: 519
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -109,6 +109,9 @@ DOMAIN-SUFFIX,oculuscdn.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,yandex.ru
+DOMAIN-SUFFIX,yandex.net
+DOMAIN-SUFFIX,yandex.com
 DOMAIN-SUFFIX,yahoo.co.jp
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,ytimg.com
@@ -186,6 +189,7 @@ DOMAIN-SUFFIX,tenor.com
 DOMAIN-SUFFIX,tensorflow.org
 DOMAIN-SUFFIX,t66y.com
 DOMAIN-SUFFIX,surfshark.com
+DOMAIN-SUFFIX,supjav.com
 DOMAIN-SUFFIX,substack.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,steamcommunity.com
@@ -273,6 +277,7 @@ DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,myfreecams.com
+DOMAIN-SUFFIX,muku.tv
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mojang.com
