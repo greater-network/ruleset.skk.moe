@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Stream Services: All
-# Last Updated: 2024-04-16T05:03:44.372Z
-# Size: 293
+# Last Updated: 2024-04-16T14:46:05.349Z
+# Size: 294
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -190,6 +190,7 @@ DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,tiktokw.com
 DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokv.us
 DOMAIN-SUFFIX,tiktok.us
 DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tidalhifi.com

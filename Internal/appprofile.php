@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-16T12:29:28.248Z
+// # Build 2024-04-16T14:46:05.412Z
 
 declare(strict_types=1);
 
@@ -1283,6 +1283,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tik-tokapi.com,Stream',
         'DOMAIN-SUFFIX,tiktokw.com,Stream',
         'DOMAIN-SUFFIX,tiktokv.com,Stream',
+        'DOMAIN-SUFFIX,tiktokv.us,Stream',
         'DOMAIN-SUFFIX,tiktok.us,Stream',
         'DOMAIN-SUFFIX,tiktok.com,Stream',
         'DOMAIN-SUFFIX,tidalhifi.com,Stream',

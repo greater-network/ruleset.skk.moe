@@ -1470,6 +1470,7 @@ SUFFIX,image.thefly.com
 SUFFIX,thisav.com
 SUFFIX,cdn.thisav.com
 SUFFIX,tiktok.com
+SUFFIX,tiktokv.us
 SUFFIX,img.timero.xyz
 SUFFIX,tineye.com
 SUFFIX,tiqcdn.com

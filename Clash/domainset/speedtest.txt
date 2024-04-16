@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-04-16T05:03:45.585Z
-# Size: 1238
+# Last Updated: 2024-04-16T14:46:14.890Z
+# Size: 1243
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -369,6 +369,7 @@ speedtest.mia.upx.net.br
 speedtest.vee.com.tw
 +.speedtest.warian.net
 speedtest-wa.waveip.org
+wiwan46.calgary.westnet.ca
 wiwan66.seattle.westnet.ca
 +.wifiman.me
 srv05.wildzun.fr
@@ -504,6 +505,7 @@ speed1.wirsnet.com
 speedtest.wolfpaw.net
 speedtest01.wowrack.com
 speedtest.lax01.xfernet.net
+speedtest.yangon.club
 velocidade.4wnet.com.br
 velocidade-mns.4wnet.net.br
 speedtest.aeza.network
@@ -625,6 +627,7 @@ tsdvuspeedtest01p.allstream.com
 speedtest01.srv.hcvlny.alticeusa.net
 speedtest03.srv.whplny.alticeusa.net
 trtspeedtest.altimatel.com
+vanspeedtest.altimatel.com
 ookla-ita.asanet.tec.br
 sp1.asthriona.com
 speedtest.beanfield.com
@@ -648,6 +651,7 @@ speedtest1.gigafy.com.au
 speedtest.thn.uk.hso-group.net
 speedtest.i4networks.nl
 speedtest.inforr.com.br
+speedtest.inovewifi.com
 hiztesti.isimkayit.com
 speedtest.jbarbieri.net
 kadoshspeed.kadoshnet.com
@@ -811,6 +815,7 @@ speedtest.sewan-group.de
 speedtest.singnet.com.sg
 speedtest.skywaywest.net
 speedtest.solutechzk.com
+speedtest01.syd1.spintel.net.au
 speed1.spitfireuk.net
 speedtest.sugiartana.net
 speedtest.sunucum.net.tr
