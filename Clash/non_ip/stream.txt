@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services: All
-# Last Updated: 2024-04-13T13:46:18.602Z
+# Last Updated: 2024-04-16T05:03:44.372Z
 # Size: 293
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -188,6 +188,7 @@ DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktokw.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktok.us
 DOMAIN-SUFFIX,tiktok.com
@@ -202,7 +203,6 @@ DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,encoretvb.com
 DOMAIN-SUFFIX,isnssdk.com
 DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,ibyteimg.com
 DOMAIN-SUFFIX,ibytedtos.com
 DOMAIN-SUFFIX,itvstatic.com
 DOMAIN-SUFFIX,itv.com

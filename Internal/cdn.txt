@@ -1809,6 +1809,7 @@ SUFFIX,thetvdb.com
 SUFFIX,artworks.thetvdb.com
 SUFFIX,threads.net
 SUFFIX,tiktokv.com
+SUFFIX,tiktokw.com
 SUFFIX,cdnl.tnaflix.com
 SUFFIX,img2.tnaflix.com
 SUFFIX,cdn-fck.tnaflix.com

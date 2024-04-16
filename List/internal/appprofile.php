@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-16T02:59:23.835Z
+// # Build 2024-04-16T05:03:45.221Z
 
 declare(strict_types=1);
 
@@ -1281,6 +1281,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,twitch.tv,Stream',
         'DOMAIN-SUFFIX,ttvnw.net,Stream',
         'DOMAIN-SUFFIX,tik-tokapi.com,Stream',
+        'DOMAIN-SUFFIX,tiktokw.com,Stream',
         'DOMAIN-SUFFIX,tiktokv.com,Stream',
         'DOMAIN-SUFFIX,tiktok.us,Stream',
         'DOMAIN-SUFFIX,tiktok.com,Stream',
@@ -1295,7 +1296,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,encoretvb.com,Stream',
         'DOMAIN-SUFFIX,isnssdk.com,Stream',
         'DOMAIN-SUFFIX,ipstatp.com,Stream',
-        'DOMAIN-SUFFIX,ibyteimg.com,Stream',
         'DOMAIN-SUFFIX,ibytedtos.com,Stream',
         'DOMAIN-SUFFIX,itvstatic.com,Stream',
         'DOMAIN-SUFFIX,itv.com,Stream',
