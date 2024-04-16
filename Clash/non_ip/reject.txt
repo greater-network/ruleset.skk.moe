@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-04-01T02:44:08.818Z
+# Last Updated: 2024-04-16T02:59:23.855Z
 # Size: 170
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -82,8 +82,8 @@ DOMAIN-SUFFIX,strangled.net
 DOMAIN-SUFFIX,square.site
 DOMAIN-SUFFIX,servebbs.net
 DOMAIN-SUFFIX,soundcast.me
-DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,openx.net
+DOMAIN-SUFFIX,omtrdc.net
 DOMAIN-SUFFIX,organiccrap.com
 DOMAIN-SUFFIX,ownip.net
 DOMAIN-SUFFIX,net.iberostar.com

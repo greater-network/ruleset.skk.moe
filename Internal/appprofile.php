@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-15T12:28:30.534Z
+// # Build 2024-04-16T02:59:23.835Z
 
 declare(strict_types=1);
 
@@ -228,6 +228,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,kkmh.com,Domestic',
         'DOMAIN-SUFFIX,kfc.com.cn,Domestic',
         'DOMAIN-SUFFIX,keepcdn.com,Domestic',
+        'DOMAIN-SUFFIX,kdslife.net,Domestic',
         'DOMAIN-SUFFIX,kaiyanapp.com,Domestic',
         'DOMAIN-SUFFIX,kuwo.cn,Domestic',
         'DOMAIN-SUFFIX,kugou.com,Domestic',
@@ -299,6 +300,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,php.cn,Domestic',
         'DOMAIN-SUFFIX,peiluyou.com,Domestic',
         'DOMAIN-SUFFIX,pconline.com.cn,Domestic',
+        'DOMAIN-SUFFIX,pchpic.net,Domestic',
+        'DOMAIN-SUFFIX,pchome.net,Domestic',
         'DOMAIN-SUFFIX,pcauto.com.cn,Domestic',
         'DOMAIN-SUFFIX,pubyun.net,Domestic',
         'DOMAIN-SUFFIX,pubyun.com,Domestic',
@@ -747,6 +750,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,95588.com.cn,Domestic',
         'DOMAIN-SUFFIX,95516.com,Domestic',
         'DOMAIN-SUFFIX,91.com,Domestic',
+        'DOMAIN-SUFFIX,88y.cn,Domestic',
+        'DOMAIN-SUFFIX,88.com,Domestic',
         'DOMAIN-SUFFIX,8866.org,Domestic',
         'DOMAIN-SUFFIX,8800.org,Domestic',
         'DOMAIN-SUFFIX,8686c.com,Domestic',
@@ -799,6 +804,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,126.link,Domestic',
         'DOMAIN-SUFFIX,126.net,Domestic',
         'DOMAIN-SUFFIX,126.com,Domestic',
+        'DOMAIN-SUFFIX,123pan.com,Domestic',
         'DOMAIN-SUFFIX,12306.com,Domestic',
         'DOMAIN-SUFFIX,12306.cn,Domestic',
         'DOMAIN-SUFFIX,115img.com,Domestic',
@@ -1066,6 +1072,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,live.net,Microsoft & Apple',
         'DOMAIN-SUFFIX,lync.com,Microsoft & Apple',
         'DOMAIN-SUFFIX,microsoft.com,Microsoft & Apple',
+        'DOMAIN-SUFFIX,microsoftonline.com,Microsoft & Apple',
         'DOMAIN-SUFFIX,msappproxy.net,Microsoft & Apple',
         'DOMAIN-SUFFIX,msauth.net,Microsoft & Apple',
         'DOMAIN-SUFFIX,msauthimages.net,Microsoft & Apple',
@@ -1499,6 +1506,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,jsdelivr.net,Global',
         'DOMAIN-SUFFIX,jsdelivr.com,Global',
         'DOMAIN-SUFFIX,jkforum.net,Global',
+        'DOMAIN-SUFFIX,java.com,Global',
         'DOMAIN-SUFFIX,jable.tv,Global',
         'DOMAIN-SUFFIX,kwai.com,Global',
         'DOMAIN-SUFFIX,kucoin.com,Global',
@@ -1539,6 +1547,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,nbcnews.com,Global',
         'DOMAIN-SUFFIX,naver.com,Global',
         'DOMAIN-SUFFIX,nicehash.com,Global',
+        'DOMAIN-SUFFIX,nhentai.xxx,Global',
         'DOMAIN-SUFFIX,nhentai.net,Global',
         'DOMAIN-SUFFIX,nhncorp.jp,Global',
         'DOMAIN-SUFFIX,npmjs.com,Global',
@@ -1771,6 +1780,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,m.me,Global',
         'DOMAIN-SUFFIX,majsoul.union-game.com,Global',
         'DOMAIN-SUFFIX,mastodon.social,Global',
+        'DOMAIN-SUFFIX,mapbox.com,Global',
         'DOMAIN-SUFFIX,manhuabika.com,Global',
         'DOMAIN-SUFFIX,matrix.org,Global',
         'DOMAIN-SUFFIX,material.io,Global',
@@ -2639,7 +2649,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,61.242.0.0/15,Domestic',
         'IP-CIDR,62.234.0.0/16,Domestic',
         'IP-CIDR,63.140.0.0/24,Domestic',
-        'IP-CIDR,64.96.4.0/24,Domestic',
+        'IP-CIDR,64.96.4.0/23,Domestic',
         'IP-CIDR,64.188.38.0/23,Domestic',
         'IP-CIDR,64.188.40.0/22,Domestic',
         'IP-CIDR,64.188.44.0/23,Domestic',

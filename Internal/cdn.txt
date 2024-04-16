@@ -683,6 +683,7 @@ SUFFIX,jable.tv
 SUFFIX,assets.jable.tv
 SUFFIX,assetscdn.jable.tv
 SUFFIX,assets-cdn.jable.tv
+SUFFIX,java.com
 SUFFIX,joox.com
 SUFFIX,jspm.dev
 SUFFIX,cdn.judge.me
@@ -1303,6 +1304,7 @@ SUFFIX,cms-cdn.linear.app
 SUFFIX,cdn2.macpaw.com
 SUFFIX,cdn2-imgix.macpaw.com
 SUFFIX,assets.auth.magic.link
+SUFFIX,mapbox.com
 SUFFIX,static-assets.mapbox.com
 SUFFIX,cdn.masto.host
 SUFFIX,matrix.org
@@ -1736,6 +1738,7 @@ SUFFIX,t3.nhentai.net
 SUFFIX,t5.nhentai.net
 SUFFIX,t7.nhentai.net
 SUFFIX,static.nhentai.net
+SUFFIX,nhentai.xxx
 SUFFIX,nordcdn.com
 SUFFIX,dl.nssurge.com
 SUFFIX,nytimes.com

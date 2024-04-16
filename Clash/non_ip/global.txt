@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-14T06:39:54.642Z
-# Size: 519
+# Last Updated: 2024-04-16T02:59:23.852Z
+# Size: 522
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,jsdelivr.net
 DOMAIN-SUFFIX,jsdelivr.com
 DOMAIN-SUFFIX,jkforum.net
+DOMAIN-SUFFIX,java.com
 DOMAIN-SUFFIX,jable.tv
 DOMAIN-SUFFIX,kwai.com
 DOMAIN-SUFFIX,kucoin.com
@@ -62,6 +63,7 @@ DOMAIN-SUFFIX,newsblur.com
 DOMAIN-SUFFIX,nbcnews.com
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,nicehash.com
+DOMAIN-SUFFIX,nhentai.xxx
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,npmjs.com
@@ -294,6 +296,7 @@ DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,majsoul.union-game.com
 DOMAIN-SUFFIX,mastodon.social
+DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,manhuabika.com
 DOMAIN-SUFFIX,matrix.org
 DOMAIN-SUFFIX,material.io

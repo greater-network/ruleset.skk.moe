@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-04-13T13:46:18.598Z
-# Size: 726
+# Last Updated: 2024-04-16T02:59:23.777Z
+# Size: 732
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -153,6 +153,7 @@ DOMAIN-SUFFIX,koubei.com
 DOMAIN-SUFFIX,kkmh.com
 DOMAIN-SUFFIX,kfc.com.cn
 DOMAIN-SUFFIX,keepcdn.com
+DOMAIN-SUFFIX,kdslife.net
 DOMAIN-SUFFIX,kaiyanapp.com
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,kugou.com
@@ -224,6 +225,8 @@ DOMAIN-SUFFIX,qiyi.com
 DOMAIN-SUFFIX,php.cn
 DOMAIN-SUFFIX,peiluyou.com
 DOMAIN-SUFFIX,pconline.com.cn
+DOMAIN-SUFFIX,pchpic.net
+DOMAIN-SUFFIX,pchome.net
 DOMAIN-SUFFIX,pcauto.com.cn
 DOMAIN-SUFFIX,pubyun.net
 DOMAIN-SUFFIX,pubyun.com
@@ -672,6 +675,8 @@ DOMAIN-SUFFIX,95588.com
 DOMAIN-SUFFIX,95588.com.cn
 DOMAIN-SUFFIX,95516.com
 DOMAIN-SUFFIX,91.com
+DOMAIN-SUFFIX,88y.cn
+DOMAIN-SUFFIX,88.com
 DOMAIN-SUFFIX,8866.org
 DOMAIN-SUFFIX,8800.org
 DOMAIN-SUFFIX,8686c.com
@@ -724,6 +729,7 @@ DOMAIN-SUFFIX,127.com
 DOMAIN-SUFFIX,126.link
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,126.com
+DOMAIN-SUFFIX,123pan.com
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,12306.cn
 DOMAIN-SUFFIX,115img.com
