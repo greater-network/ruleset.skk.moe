@@ -7,6 +7,7 @@ SUFFIX,gitapp.si
 SUFFIX,github.io
 SUFFIX,gitlab.io
 SUFFIX,pages.dev
+SUFFIX,akamai.net
 SUFFIX,gitpage.si
 SUFFIX,vercel.app
 SUFFIX,vercel.dev
@@ -14,6 +15,7 @@ SUFFIX,appspot.com
 SUFFIX,cf-ipfs.com
 SUFFIX,netlify.app
 SUFFIX,workers.dev
+SUFFIX,akamaihd.net
 SUFFIX,bitbucket.io
 SUFFIX,blogspot.com
 SUFFIX,cloudapp.net
@@ -377,6 +379,7 @@ SUFFIX,my5.tv
 SUFFIX,cdn.now.gg
 SUFFIX,cms-cdn.now.gg
 SUFFIX,npm.im
+SUFFIX,npm.io
 SUFFIX,static.nrk.no
 SUFFIX,pin.it
 SUFFIX,cdn.plu.mx
@@ -1327,6 +1330,7 @@ SUFFIX,cdn.missav.com
 SUFFIX,video.missav.com
 SUFFIX,static.missav.com
 SUFFIX,thumbnail.missav.com
+SUFFIX,misskey.io
 SUFFIX,moegirl.uk
 SUFFIX,mojang.com
 SUFFIX,launchercontent.mojang.com
@@ -3192,6 +3196,7 @@ SUFFIX,envatousercontent.com
 SUFFIX,facebook-hardware.com
 SUFFIX,framerusercontent.com
 SUFFIX,googleusercontent.com
+SUFFIX,misskeyusercontent.jp
 SUFFIX,navismithapis-cdn.com
 SUFFIX,origin-a.akamaihd.net
 SUFFIX,assets.positional-bucket.com

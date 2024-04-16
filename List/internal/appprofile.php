@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-16T14:46:05.412Z
+// # Build 2024-04-16T15:26:21.596Z
 
 declare(strict_types=1);
 
@@ -1552,6 +1552,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,nhentai.net,Global',
         'DOMAIN-SUFFIX,nhncorp.jp,Global',
         'DOMAIN-SUFFIX,npmjs.com,Global',
+        'DOMAIN-SUFFIX,npm.io,Global',
         'DOMAIN-SUFFIX,npm.im,Global',
         'DOMAIN-SUFFIX,npr.org,Global',
         'DOMAIN-SUFFIX,zendesk.com,Global',
@@ -1769,6 +1770,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,mozilla.com,Global',
         'DOMAIN-SUFFIX,mojang.com,Global',
         'DOMAIN-SUFFIX,moegirl.uk,Global',
+        'DOMAIN-SUFFIX,misskey.io,Global',
         'DOMAIN-SUFFIX,missav.com,Global',
         'DOMAIN-SUFFIX,mega.io,Global',
         'DOMAIN-SUFFIX,mega.co.nz,Global',
@@ -1972,6 +1974,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,avgle.com,Global',
         'DOMAIN-SUFFIX,avg.com,Global',
         'DOMAIN-SUFFIX,ask.com,Global',
+        'DOMAIN-SUFFIX,akamaihd.net,Global',
+        'DOMAIN-SUFFIX,akamai.net,Global',
         'DOMAIN-SUFFIX,afraid.org,Global',
         'DOMAIN-SUFFIX,aex.com,Global',
         'DOMAIN-SUFFIX,accountkit.com,Global',

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-16T02:59:23.852Z
-# Size: 522
+# Last Updated: 2024-04-16T15:26:27.600Z
+# Size: 526
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -67,6 +67,7 @@ DOMAIN-SUFFIX,nhentai.xxx
 DOMAIN-SUFFIX,nhentai.net
 DOMAIN-SUFFIX,nhncorp.jp
 DOMAIN-SUFFIX,npmjs.com
+DOMAIN-SUFFIX,npm.io
 DOMAIN-SUFFIX,npm.im
 DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,zendesk.com
@@ -284,6 +285,7 @@ DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mojang.com
 DOMAIN-SUFFIX,moegirl.uk
+DOMAIN-SUFFIX,misskey.io
 DOMAIN-SUFFIX,missav.com
 DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.co.nz
@@ -487,6 +489,8 @@ DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,avgle.com
 DOMAIN-SUFFIX,avg.com
 DOMAIN-SUFFIX,ask.com
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,afraid.org
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,accountkit.com

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-04-16T05:03:45.310Z
-# Size: 1994
+# Last Updated: 2024-04-16T15:26:27.610Z
+# Size: 1995
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -834,6 +834,7 @@ assets.mozilla.social
 assets.chaos.social
 +.pixelcdn.net
 +.misskeyusercontent.com
++.misskeyusercontent.jp
 o.n1mp.org
 assets.plurk.com
 avatars.plurk.com
