@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-16T15:26:27.600Z
-# Size: 526
+# Last Updated: 2024-04-17T03:44:35.326Z
+# Size: 531
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -144,6 +144,7 @@ DOMAIN-SUFFIX,wikiquote.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikinews.org
 DOMAIN-SUFFIX,wikimedia.org
+DOMAIN-SUFFIX,wikidot.com
 DOMAIN-SUFFIX,wikidata.org
 DOMAIN-SUFFIX,wikibooks.org
 DOMAIN-SUFFIX,wikawika.xyz
@@ -181,6 +182,8 @@ DOMAIN-SUFFIX,theinitium.com
 DOMAIN-SUFFIX,threads.net
 DOMAIN-SUFFIX,tfbnw.net
 DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,travis-ci.org
+DOMAIN-SUFFIX,travis-ci.com
 DOMAIN-SUFFIX,translate.goog
 DOMAIN-SUFFIX,tineye.com
 DOMAIN-SUFFIX,time.com
@@ -277,6 +280,7 @@ DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,polymer-project.org
 DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,pastebin.com
+DOMAIN-SUFFIX,packagephobia.com
 DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,myfreecams.com
@@ -441,6 +445,7 @@ DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,clubhouseapi.com
 DOMAIN-SUFFIX,clubhouse.com
 DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflarestatus.com
 DOMAIN-SUFFIX,cloudflareresolve.com
 DOMAIN-SUFFIX,cloudflare.com

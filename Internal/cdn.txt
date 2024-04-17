@@ -1775,6 +1775,7 @@ SUFFIX,static.rakuten.com
 SUFFIX,ravenjs.com
 SUFFIX,reactjs.org
 SUFFIX,iso.reactos.org
+SUFFIX,cdn-rdstaticassets.readdle.com
 SUFFIX,js.recurly.com
 SUFFIX,userpic.redgifs.com
 SUFFIX,thumbs44.redgifs.com
@@ -1855,6 +1856,7 @@ SUFFIX,vsassets.io
 SUFFIX,unlimited-cdn.waifu2x.net
 SUFFIX,wdfiles.com
 SUFFIX,uploads-ssl.webflow.com
+SUFFIX,wikidot.com
 SUFFIX,windows.net
 SUFFIX,file.core.windows.net
 SUFFIX,cdn.writeas.net
@@ -2455,7 +2457,9 @@ SUFFIX,tospotify.com
 SUFFIX,ui.trailhead.com
 SUFFIX,cdn.transifex.com
 SUFFIX,cdn-txweb.transifex.com
+SUFFIX,travis-ci.com
 SUFFIX,cdn.travis-ci.com
+SUFFIX,travis-ci.org
 SUFFIX,cdn.travis-ci.org
 SUFFIX,ttwstatic.com
 SUFFIX,twitchcdn.net
@@ -3065,6 +3069,7 @@ SUFFIX,notion-static.com
 SUFFIX,openstreetmap.org
 SUFFIX,tile.openstreetmap.org
 SUFFIX,oreillystatic.com
+SUFFIX,packagephobia.com
 SUFFIX,paramountplus.com
 SUFFIX,pinterestmail.com
 SUFFIX,cdn.printfriendly.com
@@ -3172,6 +3177,7 @@ SUFFIX,amazonvideodirect.cc
 SUFFIX,js.braintreegateway.com
 SUFFIX,assets.braintreegateway.com
 SUFFIX,chart.googleapis.com
+SUFFIX,cloudflareaccess.com
 SUFFIX,pkg.cloudflareclient.com
 SUFFIX,cloudflarestatus.com
 SUFFIX,cloudflarestream.com
