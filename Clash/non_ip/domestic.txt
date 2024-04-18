@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-04-16T02:59:23.777Z
-# Size: 732
+# Last Updated: 2024-04-18T03:31:28.296Z
+# Size: 734
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -501,6 +501,8 @@ DOMAIN-SUFFIX,oray-img.com
 DOMAIN-SUFFIX,orayimg.com
 DOMAIN-SUFFIX,oray.net
 DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,officewebapps.cn
+DOMAIN-SUFFIX,outlook.cn
 DOMAIN-SUFFIX,ourdvs.com
 DOMAIN-SUFFIX,onlinedown.com
 DOMAIN-SUFFIX,oneplusbbs.com

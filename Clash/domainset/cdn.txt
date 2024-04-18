@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-04-17T03:44:35.303Z
-# Size: 1996
+# Last Updated: 2024-04-18T03:31:28.394Z
+# Size: 1997
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2004,4 +2004,5 @@ img.supjav.com
 +.mycdn.me
 favicon.yandex.net
 cdn-rdstaticassets.readdle.com
+content.wepik.com
 ################## EOF ##################

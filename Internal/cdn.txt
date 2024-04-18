@@ -1077,6 +1077,7 @@ SUFFIX,badge.waffle.io
 SUFFIX,waymo.com
 SUFFIX,scripts.webeo.com
 SUFFIX,media.webtoo.ls
+SUFFIX,content.wepik.com
 SUFFIX,images.weserv.nl
 SUFFIX,whoer.net
 SUFFIX,images.wikia.com

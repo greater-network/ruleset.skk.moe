@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-17T12:29:41.054Z
+// # Build 2024-04-18T03:31:28.356Z
 
 declare(strict_types=1);
 
@@ -576,6 +576,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,orayimg.com,Domestic',
         'DOMAIN-SUFFIX,oray.net,Domestic',
         'DOMAIN-SUFFIX,oray.com,Domestic',
+        'DOMAIN-SUFFIX,officewebapps.cn,Domestic',
+        'DOMAIN-SUFFIX,outlook.cn,Domestic',
         'DOMAIN-SUFFIX,ourdvs.com,Domestic',
         'DOMAIN-SUFFIX,onlinedown.com,Domestic',
         'DOMAIN-SUFFIX,oneplusbbs.com,Domestic',
@@ -2281,6 +2283,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,43.224.56.0/22,Domestic',
         'IP-CIDR,43.224.80.0/22,Domestic',
         'IP-CIDR,43.224.208.0/22,Domestic',
+        'IP-CIDR,43.225.84.0/23,Domestic',
         'IP-CIDR,43.225.180.0/22,Domestic',
         'IP-CIDR,43.225.208.0/22,Domestic',
         'IP-CIDR,43.225.216.0/22,Domestic',
