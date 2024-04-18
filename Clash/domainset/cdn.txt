@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-04-18T03:31:28.394Z
-# Size: 1997
+# Last Updated: 2024-04-18T10:29:39.912Z
+# Size: 1998
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -139,8 +139,7 @@ gopkg.in
 +.desktop.docker.com
 packages.jetbrains.team
 pkg-cdn.jetbrains.team
-+.ubuntu.com
-+.debian.org
++.assets.ubuntu.com
 screenshots.debian.net
 +.mvnrepository.com
 repo1.maven.org
@@ -2005,4 +2004,6 @@ img.supjav.com
 favicon.yandex.net
 cdn-rdstaticassets.readdle.com
 content.wepik.com
+assets.stash.com
+cdn.stash.com
 ################## EOF ##################

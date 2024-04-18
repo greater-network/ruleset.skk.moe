@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-03-31T15:27:16.580Z
-# Size: 197
+# Last Updated: 2024-04-18T10:29:39.891Z
+# Size: 213
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13,8 +13,10 @@ dl-cdn.alpinelinux.org
 downloads.openwrt.org
 ppa.launchpad.net
 +.deb.debian.org
++.archive.debian.org
 +.ftp.debian.org
 +.ftp-master.debian.org
++.debian.map.fastlydns.net
 ftp.cn.debian.org
 ftp.hk.debian.org
 ftp.tw.debian.org
@@ -44,14 +46,27 @@ mirrors.edge.kernel.org
 +.mirror.constant.com
 ftp.gnu.org
 mirror-cdn.xtom.com
+mirror.xtom.com
 mirrors.xtom.com
+mirror.xtom.us
+mirrors.xtom.us
+mirror.xtom.hk
 mirrors.xtom.hk
+mirror.xtom.com.hk
 mirrors.xtom.com.hk
+mirror.xtom.de
 mirrors.xtom.de
+mirror.xtom.nl
 mirrors.xtom.nl
+mirror.xtom.ee
 mirrors.xtom.ee
+mirror.xtom.jp
 mirrors.xtom.jp
+mirror.xtom.au
 mirrors.xtom.au
+mirror.xtom.sg
+mirrors.xtom.sg
+mirror.cat.net
 mirrors.cat.net
 +.1fichier.com
 +.1fichier.info
@@ -105,6 +120,7 @@ download.parallels.com
 desktop.parallels.com
 api-updates.orbstack.dev
 cdn-updates.orbstack.dev
+cdn-images.orbstack.dev
 update.code.visualstudio.com
 download.visualstudio.microsoft.com
 az764295.vo.msecnd.net

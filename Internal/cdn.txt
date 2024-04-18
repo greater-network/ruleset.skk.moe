@@ -435,6 +435,7 @@ SUFFIX,assets.bwbx.io
 SUFFIX,ajax.cat.net
 SUFFIX,cdnjs.cat.net
 SUFFIX,fonts.cat.net
+SUFFIX,mirror.cat.net
 SUFFIX,mirrors.cat.net
 SUFFIX,gravatar.cat.net
 SUFFIX,cnn.com
@@ -585,12 +586,22 @@ SUFFIX,images.wsj.net
 SUFFIX,optimizely.wsj.net
 SUFFIX,ovo.wxw.moe
 SUFFIX,ipfs.xoqq.ch
+SUFFIX,mirror.xtom.au
 SUFFIX,mirrors.xtom.au
+SUFFIX,mirror.xtom.de
 SUFFIX,mirrors.xtom.de
+SUFFIX,mirror.xtom.ee
 SUFFIX,mirrors.xtom.ee
+SUFFIX,mirror.xtom.hk
 SUFFIX,mirrors.xtom.hk
+SUFFIX,mirror.xtom.jp
 SUFFIX,mirrors.xtom.jp
+SUFFIX,mirror.xtom.nl
 SUFFIX,mirrors.xtom.nl
+SUFFIX,mirror.xtom.sg
+SUFFIX,mirrors.xtom.sg
+SUFFIX,mirror.xtom.us
+SUFFIX,mirrors.xtom.us
 SUFFIX,z4a.net
 SUFFIX,st1.zoom.us
 SUFFIX,st2.zoom.us
@@ -787,6 +798,7 @@ SUFFIX,profile-images.xing.com
 SUFFIX,imgs.xkcd.com
 SUFFIX,xlog.app
 SUFFIX,xnxx.com
+SUFFIX,mirror.xtom.com
 SUFFIX,mirrors.xtom.com
 SUFFIX,mirror-cdn.xtom.com
 SUFFIX,files.yande.re
@@ -865,6 +877,7 @@ SUFFIX,download.cpuid.com
 SUFFIX,crates.io
 SUFFIX,cdn.db-ip.com
 SUFFIX,debug.com
+SUFFIX,deepl.com
 SUFFIX,static.deepl.com
 SUFFIX,deno.land
 SUFFIX,static-mh.content.disney.io
@@ -1039,6 +1052,8 @@ SUFFIX,cdn.smooch.io
 SUFFIX,media.smooch.io
 SUFFIX,socdm.com
 SUFFIX,cdn.sprig.com
+SUFFIX,cdn.stash.com
+SUFFIX,assets.stash.com
 SUFFIX,image.status.io
 SUFFIX,static.status.io
 SUFFIX,tenor.com
@@ -1188,6 +1203,7 @@ SUFFIX,ftp.ru.debian.org
 SUFFIX,ftp.tw.debian.org
 SUFFIX,ftp.uk.debian.org
 SUFFIX,ftp.us.debian.org
+SUFFIX,archive.debian.org
 SUFFIX,security.debian.org
 SUFFIX,ftp-master.debian.org
 SUFFIX,deezer.com
@@ -1487,6 +1503,7 @@ SUFFIX,static.tumblr.com
 SUFFIX,cdn.turner.com
 SUFFIX,twitter.jp
 SUFFIX,ubuntu.com
+SUFFIX,assets.ubuntu.com
 SUFFIX,archive.ubuntu.com
 SUFFIX,security.ubuntu.com
 SUFFIX,j.udn.com.tw
@@ -1866,6 +1883,7 @@ SUFFIX,xda-cdn.com
 SUFFIX,xfinity.com
 SUFFIX,xingcdn.com
 SUFFIX,i.xozilla.xxx
+SUFFIX,mirror.xtom.com.hk
 SUFFIX,mirrors.xtom.com.hk
 SUFFIX,xvideos.com
 SUFFIX,yahoo.co.jp
@@ -2111,6 +2129,7 @@ SUFFIX,static.onlyfans.com
 SUFFIX,thumbs.onlyfans.com
 SUFFIX,operacdn.com
 SUFFIX,i.optimole.com
+SUFFIX,cdn-images.orbstack.dev
 SUFFIX,api-updates.orbstack.dev
 SUFFIX,cdn-updates.orbstack.dev
 SUFFIX,cdn.osxdaily.com
@@ -2292,6 +2311,7 @@ SUFFIX,fastly-download.epicgames.com
 SUFFIX,static-assets-prod.epicgames.com
 SUFFIX,epic-social-social-modules-prod.ol.epicgames.com
 SUFFIX,ext-twitch.tv
+SUFFIX,debian.map.fastlydns.net
 SUFFIX,cache-05.filehippo.net
 SUFFIX,fiverrcdn.com
 SUFFIX,flagpedia.net

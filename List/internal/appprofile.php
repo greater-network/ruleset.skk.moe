@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-18T03:31:28.356Z
+// # Build 2024-04-18T10:29:39.896Z
 
 declare(strict_types=1);
 
@@ -1503,6 +1503,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,addons.mozilla.org,Global',
         'DOMAIN,pki.goog,Global',
         'DOMAIN-SUFFIX,uptodown.com,Global',
+        'DOMAIN-SUFFIX,ubuntu.com,Global',
         'DOMAIN-SUFFIX,quillbot.com,Global',
         'DOMAIN-SUFFIX,quoracdn.net,Global',
         'DOMAIN-SUFFIX,quora.com,Global',
@@ -1912,7 +1913,9 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,deviantart.net,Global',
         'DOMAIN-SUFFIX,deviantart.com,Global',
         'DOMAIN-SUFFIX,deezer.com,Global',
+        'DOMAIN-SUFFIX,deepl.com,Global',
         'DOMAIN-SUFFIX,deepmind.com,Global',
+        'DOMAIN-SUFFIX,debian.org,Global',
         'DOMAIN-SUFFIX,debug.com,Global',
         'DOMAIN-SUFFIX,cpuid.com,Global',
         'DOMAIN-SUFFIX,cbc.ca,Global',
