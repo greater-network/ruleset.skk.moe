@@ -417,6 +417,7 @@ SUFFIX,4gtv.tv
 SUFFIX,5itv.tv
 SUFFIX,9191.ga
 SUFFIX,99av.tv
+SUFFIX,aaa.com
 SUFFIX,abc.xyz
 SUFFIX,aex.com
 SUFFIX,content.any.run
@@ -926,6 +927,7 @@ SUFFIX,globo.com
 SUFFIX,gmail.com
 SUFFIX,godoc.org
 SUFFIX,store1.gofile.io
+SUFFIX,googl.com
 SUFFIX,google.hk
 SUFFIX,google.jp
 SUFFIX,google.tw
@@ -1677,6 +1679,7 @@ SUFFIX,hardbin.com
 SUFFIX,hayabusa.io
 SUFFIX,hboasia.com
 SUFFIX,static.heavy-r.com
+SUFFIX,hetzner.com
 SUFFIX,hostloc.com
 SUFFIX,js.hsforms.net
 SUFFIX,js-eu1.hsforms.net
@@ -2268,6 +2271,7 @@ SUFFIX,img.bigcloud.cyou
 SUFFIX,js-cdn.blockchair.io
 SUFFIX,loutre.blockchair.io
 SUFFIX,bloomberg.com
+SUFFIX,bloomberg.net
 SUFFIX,bnbstatic.com
 SUFFIX,media.breitbart.com
 SUFFIX,badge.buildkite.com
@@ -2353,6 +2357,9 @@ SUFFIX,hdzyk-cdn.com
 SUFFIX,cdn.headwayapp.co
 SUFFIX,assets0.headwayapp.co
 SUFFIX,static.helpjuice.com
+SUFFIX,hentaifox.com
+SUFFIX,i.hentaifox.com
+SUFFIX,i2.hentaifox.com
 SUFFIX,v.hillwaver.com
 SUFFIX,hjholdings.jp
 SUFFIX,homedepot.com

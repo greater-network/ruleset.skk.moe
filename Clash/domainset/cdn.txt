@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-04-18T10:29:39.912Z
-# Size: 1998
+# Last Updated: 2024-04-19T10:18:33.145Z
+# Size: 2000
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2006,4 +2006,6 @@ cdn-rdstaticassets.readdle.com
 content.wepik.com
 assets.stash.com
 cdn.stash.com
+i.hentaifox.com
+i2.hentaifox.com
 ################## EOF ##################

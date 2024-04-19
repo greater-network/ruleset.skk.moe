@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-18T10:29:39.929Z
-# Size: 534
+# Last Updated: 2024-04-19T10:18:33.134Z
+# Size: 539
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -35,6 +35,8 @@ DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,hostloc.com
 DOMAIN-SUFFIX,homedepot.com
 DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,hetzner.com
+DOMAIN-SUFFIX,hentaifox.com
 DOMAIN-SUFFIX,he.net
 DOMAIN-SUFFIX,hanime.tv
 DOMAIN-SUFFIX,hanime1.me
@@ -358,6 +360,7 @@ DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,google.com.sg
 DOMAIN-SUFFIX,google.com.tw
 DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,googl.com
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,godaddy.com
@@ -489,6 +492,7 @@ DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.cc
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,blizzard.com
+DOMAIN-SUFFIX,bloomberg.net
 DOMAIN-SUFFIX,bloomberg.com
 DOMAIN-SUFFIX,blogimg.jp
 DOMAIN-SUFFIX,blogspot.com
@@ -500,6 +504,7 @@ DOMAIN-SUFFIX,ask.com
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akamai.net
 DOMAIN-SUFFIX,afraid.org
+DOMAIN-SUFFIX,aaa.com
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,accountkit.com
 DOMAIN-SUFFIX,arc.net

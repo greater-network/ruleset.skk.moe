@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-04-18T03:31:28.296Z
-# Size: 734
+# Last Updated: 2024-04-19T10:18:26.707Z
+# Size: 735
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -591,6 +591,7 @@ DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,hihonorcloud.com
 DOMAIN-SUFFIX,hihonorcdn.com
 DOMAIN-SUFFIX,hihonor.com
+DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,hicloud.com
 DOMAIN-SUFFIX,hellobike.com
 DOMAIN-SUFFIX,hemashare.cn

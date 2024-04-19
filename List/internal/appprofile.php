@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-19T08:20:00.665Z
+// # Build 2024-04-19T10:18:26.817Z
 
 declare(strict_types=1);
 
@@ -666,6 +666,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,hihonorcloud.com,Domestic',
         'DOMAIN-SUFFIX,hihonorcdn.com,Domestic',
         'DOMAIN-SUFFIX,hihonor.com,Domestic',
+        'DOMAIN-SUFFIX,hichina.com,Domestic',
         'DOMAIN-SUFFIX,hicloud.com,Domestic',
         'DOMAIN-SUFFIX,hellobike.com,Domestic',
         'DOMAIN-SUFFIX,hemashare.cn,Domestic',
@@ -1522,6 +1523,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,hostloc.com,Global',
         'DOMAIN-SUFFIX,homedepot.com,Global',
         'DOMAIN-SUFFIX,hinet.net,Global',
+        'DOMAIN-SUFFIX,hetzner.com,Global',
+        'DOMAIN-SUFFIX,hentaifox.com,Global',
         'DOMAIN-SUFFIX,he.net,Global',
         'DOMAIN-SUFFIX,hanime.tv,Global',
         'DOMAIN-SUFFIX,hanime1.me,Global',
@@ -1845,6 +1848,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,google.com.sg,Global',
         'DOMAIN-SUFFIX,google.com.tw,Global',
         'DOMAIN-SUFFIX,google.com.hk,Global',
+        'DOMAIN-SUFFIX,googl.com,Global',
         'DOMAIN-SUFFIX,goo.gl,Global',
         'DOMAIN-SUFFIX,golang.org,Global',
         'DOMAIN-SUFFIX,godaddy.com,Global',
@@ -1976,6 +1980,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,binance.cc,Global',
         'DOMAIN-SUFFIX,bing.com,Global',
         'DOMAIN-SUFFIX,blizzard.com,Global',
+        'DOMAIN-SUFFIX,bloomberg.net,Global',
         'DOMAIN-SUFFIX,bloomberg.com,Global',
         'DOMAIN-SUFFIX,blogimg.jp,Global',
         'DOMAIN-SUFFIX,blogspot.com,Global',
@@ -1987,6 +1992,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,akamaihd.net,Global',
         'DOMAIN-SUFFIX,akamai.net,Global',
         'DOMAIN-SUFFIX,afraid.org,Global',
+        'DOMAIN-SUFFIX,aaa.com,Global',
         'DOMAIN-SUFFIX,aex.com,Global',
         'DOMAIN-SUFFIX,accountkit.com,Global',
         'DOMAIN-SUFFIX,arc.net,Global',
@@ -4524,8 +4530,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,180.160.0.0/12,Domestic',
         'IP-CIDR,180.178.252.0/22,Domestic',
         'IP-CIDR,180.184.0.0/21,Domestic',
-        'IP-CIDR,180.184.8.0/22,Domestic',
-        'IP-CIDR,180.184.12.0/23,Domestic',
+        'IP-CIDR,180.184.8.0/23,Domestic',
         'IP-CIDR,180.184.14.0/24,Domestic',
         'IP-CIDR,180.184.16.0/24,Domestic',
         'IP-CIDR,180.184.24.0/21,Domestic',
