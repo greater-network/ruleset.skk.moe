@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-04-19T10:18:33.145Z
-# Size: 2000
+# Last Updated: 2024-04-20T12:40:23.572Z
+# Size: 2019
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -191,11 +191,18 @@ raw.github.com
 +.ghcr.io
 +.githubassets.com
 +.pkg.github.com
++.githubusercontent.com
++.github.io
 +.vscode-unpkg.net
 +.vsassets.io
 +.vsmarketplacebadges.dev
 +.gitlab-static.net
++.gitlab.io
 +.bytebucket.org
++.bitbucket.io
++.vercel.app
++.now.sh
++.vercel.dev
 +.twimg.com
 cdn.cms-twdigitalassets.com
 fonts.twitter.com
@@ -221,6 +228,7 @@ fonts.googleapis.com
 fonts.gstatic.com
 ajax.googleapis.com
 +.googleusercontent.com
++.usercontent.goog
 +.storage.googleapis.com
 +.firestore.googleapis.com
 +.firebasestorage.googleapis.com
@@ -254,6 +262,7 @@ a5.behance.net
 mir-s3-cdn-cf.behance.net
 +.ssl-images-amazon.com
 +.media-amazon.com
++.cloudfront.net
 +.awsstatic.com
 cdn.assets.as2.amazonaws.com
 ooo.0o0.ooo
@@ -321,6 +330,7 @@ uploads.codesandbox.io
 screenshots.codesandbox.io
 prod-packager-packages.codesandbox.io
 pkg.csb.dev
++.csb.app
 sandpack-cdn-staging.blazingly.io
 +.sentry-cdn.com
 +.videodelivery.net
@@ -355,6 +365,7 @@ player.vimeo.com
 +.cdn.mozilla.net
 archive.mozilla.org
 detectportal.firefox.com
+stubdownloader.services.mozilla.com
 +.hubspotusercontent30.com
 +.hubspotusercontent30.net
 +.cdn2.hubspot.net
@@ -373,10 +384,12 @@ avatars.hubspot.net
 +.yastatic.net
 avatars.mds.yandex.net
 resize.yandex.net
++.storage.yandexcloud.net
 ysa-static.passport.yandex.net
 avatars.dzeninfra.ru
 s3.dzeninfra.ru
 static.dzeninfra.ru
+favicon.yandex.net
 +.cms.replit.com
 +.cdn.replit.com
 sp.replit.com
@@ -607,7 +620,6 @@ euc-widget.freshworks.com
 widget.freshworks.com
 dam.freshworks.com
 cdn-public.sociabble.com
-netlify-rum.netlify.app
 embed.savvycal.com
 js.pusher.com
 app.backinstock.org
@@ -720,6 +732,9 @@ userimg-bee.customeriomail.com
 +.ipfs.eternum.io
 ipfs.d.tube
 +.mypinata.cloud
++.cloudflare-ipfs.com
++.cf-ipfs.com
++.dweb.link
 +.ipns.co
 +.ipfs.mrh.io
 +.gateway.originprotocol.com
@@ -926,6 +941,10 @@ info.cloudflare.com
 cf-assets.www.cloudflare.com
 +.nel.cloudflare.com
 favicons.teams.cloudflare.com
++.pages.dev
++.workers.dev
++.r2.dev
++.cloudflarestorage.com
 sf-flow-web-cdn.ciciai.com
 assets.tumblr.com
 static.tumblr.com
@@ -936,6 +955,7 @@ assets.vercel.com
 image.ship.vercel.com
 go.vercel.com
 api-frameworks.vercel.sh
++.netlify.app
 +.assets.heroku.com
 +.slack-edge.com
 files.slack.com
@@ -2001,7 +2021,6 @@ cdn.datdota.com
 cdn.up-timely.com
 img.supjav.com
 +.mycdn.me
-favicon.yandex.net
 cdn-rdstaticassets.readdle.com
 content.wepik.com
 assets.stash.com

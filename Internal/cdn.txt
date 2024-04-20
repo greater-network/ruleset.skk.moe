@@ -1738,7 +1738,6 @@ SUFFIX,services.mozilla.com
 SUFFIX,stubdownloader.services.mozilla.com
 SUFFIX,cdn.mozilla.net
 SUFFIX,itsre-sumo.mozilla.net
-SUFFIX,download-installer.cdn.mozilla.net
 SUFFIX,mozilla.org
 SUFFIX,addons.mozilla.org
 SUFFIX,archive.mozilla.org
@@ -3264,7 +3263,6 @@ SUFFIX,hboasia2-i.akamaihd.net
 SUFFIX,hboasia3-i.akamaihd.net
 SUFFIX,hboasia4-i.akamaihd.net
 SUFFIX,hboasia5-i.akamaihd.net
-SUFFIX,netlify-rum.netlify.app
 SUFFIX,ni-assets.azureedge.net
 SUFFIX,sciencedirectassets.com
 SUFFIX,steamcdn-a.akamaihd.net

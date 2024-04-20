@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-03-12T12:02:12.116Z
-# Size: 354
+# Last Updated: 2024-04-20T12:40:18.393Z
+# Size: 333
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,14 +9,27 @@
 # This file contains object storage and static assets CDN domains.
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-DOMAIN,download-installer.cdn.mozilla.net
-DOMAIN,stubdownloader.services.mozilla.com
-DOMAIN-SUFFIX,usercontent.goog
 DOMAIN-SUFFIX,ks3-sgp.ksyuncs.com
 DOMAIN-SUFFIX,ks3-rus.ksyuncs.com
 DOMAIN-SUFFIX,ks3-cn-hk-1.ksyuncs.com
 DOMAIN-SUFFIX,kinsta.page
 DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-SUFFIX,web.app
+DOMAIN-SUFFIX,gitapp.si
+DOMAIN-SUFFIX,gitpage.si
+DOMAIN-SUFFIX,cos.eu-frankfurt.myqcloud.com
+DOMAIN-SUFFIX,cos.sa-saopaulo.myqcloud.com
+DOMAIN-SUFFIX,cos.na-toronto.myqcloud.com
+DOMAIN-SUFFIX,cos.na-ashburn.myqcloud.com
+DOMAIN-SUFFIX,cos.na-siliconvalley.myqcloud.com
+DOMAIN-SUFFIX,cos.ap-tokyo.myqcloud.com
+DOMAIN-SUFFIX,cos.ap-bangkok.myqcloud.com
+DOMAIN-SUFFIX,cos.ap-jakarta.myqcloud.com
+DOMAIN-SUFFIX,cos.ap-mumbai.myqcloud.com
+DOMAIN-SUFFIX,cos.ap-seoul.myqcloud.com
+DOMAIN-SUFFIX,cos.ap-singapore.myqcloud.com
+DOMAIN-SUFFIX,cos.ap-hongkong.myqcloud.com
+DOMAIN-SUFFIX,codeberg.page
 DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
 DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
@@ -36,18 +49,9 @@ DOMAIN-SUFFIX,oss-cn-hongkong.aliyuncs.com
 DOMAIN-SUFFIX,onrender.com
 DOMAIN-SUFFIX,azurestaticapps.net
 DOMAIN-SUFFIX,app.render.com
-DOMAIN-SUFFIX,netlify.app
-DOMAIN-SUFFIX,now.sh
-DOMAIN-SUFFIX,r2.dev
-DOMAIN-SUFFIX,web.app
-DOMAIN-SUFFIX,workers.dev
-DOMAIN-SUFFIX,pages.dev
-DOMAIN-SUFFIX,bitbucket.io
-DOMAIN-SUFFIX,linodeobjects.com
 DOMAIN-SUFFIX,surge.sh
-DOMAIN-SUFFIX,sourceforge.io
 DOMAIN-SUFFIX,static.domains
-DOMAIN-SUFFIX,storage.yandexcloud.net
+DOMAIN-SUFFIX,sourceforge.io
 DOMAIN-SUFFIX,s3-me-south-1.amazonaws.com
 DOMAIN-SUFFIX,s3-sa-east-1.amazonaws.com
 DOMAIN-SUFFIX,s3-ca-central-1.amazonaws.com
@@ -329,34 +333,9 @@ DOMAIN-SUFFIX,s3.ap-southeast-3.amazonaws.com
 DOMAIN-SUFFIX,s3.ap-southeast-2.amazonaws.com
 DOMAIN-SUFFIX,s3.ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,s3.amazonaws.com
-DOMAIN-SUFFIX,vercel.dev
-DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,linodeobjects.com
 DOMAIN-SUFFIX,vultrobjects.com
-DOMAIN-SUFFIX,dweb.link
 DOMAIN-SUFFIX,digitaloceanspaces.com
-DOMAIN-SUFFIX,gitapp.si
-DOMAIN-SUFFIX,gitpage.si
-DOMAIN-SUFFIX,gitlab.io
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,csb.app
-DOMAIN-SUFFIX,cos.eu-frankfurt.myqcloud.com
-DOMAIN-SUFFIX,cos.sa-saopaulo.myqcloud.com
-DOMAIN-SUFFIX,cos.na-toronto.myqcloud.com
-DOMAIN-SUFFIX,cos.na-ashburn.myqcloud.com
-DOMAIN-SUFFIX,cos.na-siliconvalley.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-tokyo.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-bangkok.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-jakarta.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-mumbai.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-seoul.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-singapore.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-hongkong.myqcloud.com
-DOMAIN-SUFFIX,codeberg.page
-DOMAIN-SUFFIX,cf-ipfs.com
-DOMAIN-SUFFIX,cloudflare-ipfs.com
-DOMAIN-SUFFIX,cloudflarestorage.com
-DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-KEYWORD,dsn.algolia.net
 DOMAIN-KEYWORD,web-assets.zendesk
 DOMAIN-KEYWORD,vod-adaptive.akamaized.net
