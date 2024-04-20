@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-04-20T13:26:33.124Z
-# Size: 2299
+# Last Updated: 2024-04-20T13:42:27.375Z
+# Size: 2346
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -60,7 +60,6 @@ lib.arvancloud.com
 cdn.tailwindcss.com
 cdn.mathjax.org
 cdn.embed.ly
-gitpkg-fork.vercel.sh
 cdn.redoc.ly
 +.staticimgly.com
 code.ionicframework.com
@@ -200,9 +199,27 @@ raw.github.com
 +.gitlab.io
 +.bytebucket.org
 +.bitbucket.io
++.codeberg.page
++.gitpage.si
++.gitapp.si
++.sourceforge.io
+assets.vercel.com
+image.ship.vercel.com
+go.vercel.com
+api-frameworks.vercel.sh
+gitpkg-fork.vercel.sh
 +.vercel.app
 +.now.sh
 +.vercel.dev
++.vusercontent.net
++.netlify.app
++.web.app
++.firebaseapp.com
++.app.render.com
++.onrender.com
++.surge.sh
++.kinsta.page
++.static.domains
 +.twimg.com
 cdn.cms-twdigitalassets.com
 fonts.twitter.com
@@ -319,6 +336,7 @@ compass-ssl.xbox.com
 +.blob.core.windows.net
 +.file.core.windows.net
 amp.azure.net
++.azurestaticapps.net
 launchercontent.mojang.com
 +.catbox.moe
 share.riseup.net
@@ -805,6 +823,43 @@ badbits.dwebops.pub
 +.alexdav.id
 +.gw3.io
 +.hardbin.com
++.digitaloceanspaces.com
++.vultrobjects.com
++.linodeobjects.com
++.oss-cn-hongkong.aliyuncs.com
++.oss-ap-northeast-1.aliyuncs.com
++.oss-ap-northeast-2.aliyuncs.com
++.oss-ap-south-1.aliyuncs.com
++.oss-ap-southeast-1.aliyuncs.com
++.oss-ap-southeast-2.aliyuncs.com
++.oss-ap-southeast-3.aliyuncs.com
++.oss-ap-southeast-5.aliyuncs.com
++.oss-ap-southeast-6.aliyuncs.com
++.oss-ap-southeast-7.aliyuncs.com
++.oss-eu-central-1.aliyuncs.com
++.oss-eu-west-1.aliyuncs.com
++.oss-me-east-1.aliyuncs.com
++.oss-us-east-1.aliyuncs.com
++.oss-us-west-1.aliyuncs.com
++.oss-accelerate-overseas.aliyuncs.com
++.cos.ap-hongkong.myqcloud.com
++.cos.ap-singapore.myqcloud.com
++.cos.ap-mumbai.myqcloud.com
++.cos.ap-jakarta.myqcloud.com
++.cos.ap-seoul.myqcloud.com
++.cos.ap-bangkok.myqcloud.com
++.cos.ap-tokyo.myqcloud.com
++.cos.na-siliconvalley.myqcloud.com
++.cos.na-ashburn.myqcloud.com
++.cos.na-toronto.myqcloud.com
++.cos.sa-saopaulo.myqcloud.com
++.cos.eu-frankfurt.myqcloud.com
++.ks3-cn-hk-1.ksyuncs.com
++.ks3-rus.ksyuncs.com
++.ks3-sgp.ksyuncs.com
++.s3.amazonaws.com
++.s3.us-west-2.amazonaws.com
++.s3-accelerate.amazonaws.com
 proxy.joinmastodon.org
 media.cmx.edu.kg
 s3.acg.mn
@@ -951,11 +1006,6 @@ static.tumblr.com
 +.media.tumblr.com
 +.sndcdn.com
 w.soundcloud.com
-assets.vercel.com
-image.ship.vercel.com
-go.vercel.com
-api-frameworks.vercel.sh
-+.netlify.app
 +.assets.heroku.com
 +.slack-edge.com
 files.slack.com
@@ -1024,7 +1074,6 @@ static.mysph.sph.com.sg
 static-assets.clubhouseapi.com
 +.stripecdn.com
 +.similarcdn.com
-+.vusercontent.net
 static.missav.com
 cdn.missav.com
 thumbnail.missav.com
@@ -2033,7 +2082,6 @@ i2.hentaifox.com
 +.s3.ap-southeast-4.amazonaws.com
 +.s3-accesspoint.dualstack.ap-southeast-4.amazonaws.com
 +.s3.dualstack.ap-southeast-4.amazonaws.com
-+.s3.amazonaws.com
 +.s3-eu-west-3.amazonaws.com
 +.s3-website.eu-west-3.amazonaws.com
 +.s3-object-lambda.eu-west-3.amazonaws.com
@@ -2081,7 +2129,6 @@ i2.hentaifox.com
 +.s3-fips.us-west-2.amazonaws.com
 +.s3-accesspoint-fips.us-west-2.amazonaws.com
 +.s3-accesspoint.us-west-2.amazonaws.com
-+.s3.us-west-2.amazonaws.com
 +.s3-website.dualstack.us-west-2.amazonaws.com
 +.s3-fips.dualstack.us-west-2.amazonaws.com
 +.s3-accesspoint-fips.dualstack.us-west-2.amazonaws.com

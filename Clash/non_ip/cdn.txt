@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-04-20T13:20:03.540Z
-# Size: 55
+# Last Updated: 2024-04-20T13:42:27.848Z
+# Size: 6
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,55 +9,6 @@
 # This file contains object storage and static assets CDN domains.
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
-DOMAIN-SUFFIX,ks3-sgp.ksyuncs.com
-DOMAIN-SUFFIX,ks3-rus.ksyuncs.com
-DOMAIN-SUFFIX,ks3-cn-hk-1.ksyuncs.com
-DOMAIN-SUFFIX,kinsta.page
-DOMAIN-SUFFIX,firebaseapp.com
-DOMAIN-SUFFIX,web.app
-DOMAIN-SUFFIX,gitapp.si
-DOMAIN-SUFFIX,gitpage.si
-DOMAIN-SUFFIX,cos.eu-frankfurt.myqcloud.com
-DOMAIN-SUFFIX,cos.sa-saopaulo.myqcloud.com
-DOMAIN-SUFFIX,cos.na-toronto.myqcloud.com
-DOMAIN-SUFFIX,cos.na-ashburn.myqcloud.com
-DOMAIN-SUFFIX,cos.na-siliconvalley.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-tokyo.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-bangkok.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-jakarta.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-mumbai.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-seoul.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-singapore.myqcloud.com
-DOMAIN-SUFFIX,cos.ap-hongkong.myqcloud.com
-DOMAIN-SUFFIX,codeberg.page
-DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-eu-west-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-eu-central-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-accelerate-overseas.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-southeast-7.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-southeast-6.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-southeast-5.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-southeast-3.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-southeast-2.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-southeast-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-south-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-northeast-2.aliyuncs.com
-DOMAIN-SUFFIX,oss-ap-northeast-1.aliyuncs.com
-DOMAIN-SUFFIX,oss-cn-hongkong.aliyuncs.com
-DOMAIN-SUFFIX,onrender.com
-DOMAIN-SUFFIX,azurestaticapps.net
-DOMAIN-SUFFIX,app.render.com
-DOMAIN-SUFFIX,surge.sh
-DOMAIN-SUFFIX,static.domains
-DOMAIN-SUFFIX,sourceforge.io
-DOMAIN-SUFFIX,s3-accelerate.amazonaws.com
-DOMAIN-SUFFIX,s3.us-west-2.amazonaws.com
-DOMAIN-SUFFIX,s3.amazonaws.com
-DOMAIN-SUFFIX,linodeobjects.com
-DOMAIN-SUFFIX,vultrobjects.com
-DOMAIN-SUFFIX,digitaloceanspaces.com
 DOMAIN-KEYWORD,dsn.algolia.net
 DOMAIN-KEYWORD,web-assets.zendesk
 DOMAIN-KEYWORD,vod-adaptive.akamaized.net

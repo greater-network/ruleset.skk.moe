@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-04-20T12:40:23.563Z
-# Size: 81
+# Last Updated: 2024-04-20T13:42:27.857Z
+# Size: 58
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12,32 +12,9 @@ DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,stun.smartgslb.com
 DOMAIN-SUFFIX,notifysrv.com
 DOMAIN-SUFFIX,notify6.com
-DOMAIN-SUFFIX,measure.office.com
-DOMAIN-SUFFIX,footprintdns.com
-DOMAIN-SUFFIX,openx.net
-DOMAIN-SUFFIX,omtrdc.net
-DOMAIN-SUFFIX,incoming-telemetry.thunderbird.net
-DOMAIN-SUFFIX,telemetry.mozilla.org
-DOMAIN-SUFFIX,telemetry-coverage.mozilla.org
-DOMAIN-SUFFIX,try-snowplow.com
 DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,apps.iocnt.de
-DOMAIN-SUFFIX,pantheonsite.io
-DOMAIN-SUFFIX,plesk.page
-DOMAIN-SUFFIX,p2l.info
-DOMAIN-SUFFIX,cprapid.com
 DOMAIN-SUFFIX,crazyegg.com
-DOMAIN-SUFFIX,crabdance.com
-DOMAIN-SUFFIX,sitebeat.crazydomains.com
-DOMAIN-SUFFIX,strangled.net
-DOMAIN-SUFFIX,square.site
-DOMAIN-SUFFIX,yolasite.com
-DOMAIN-SUFFIX,weeblysite.com
-DOMAIN-SUFFIX,webwave.dev
-DOMAIN-SUFFIX,webcindario.com
-DOMAIN-SUFFIX,duckdns.org
-DOMAIN-SUFFIX,2o7.net
-DOMAIN-SUFFIX,000webhostapp.com
+DOMAIN-SUFFIX,openx.net
 DOMAIN-KEYWORD,wxsnsdy
 DOMAIN-KEYWORD,-tracker.biliapi.net
 DOMAIN-KEYWORD,-spiky.clevertap-prod.com
