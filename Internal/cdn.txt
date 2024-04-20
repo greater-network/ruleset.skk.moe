@@ -669,7 +669,6 @@ SUFFIX,storageapi.fleek.co
 SUFFIX,storageapi2.fleek.co
 SUFFIX,fork.dev
 SUFFIX,fsdn.com
-SUFFIX,a.fsdn.com
 SUFFIX,download.gimp.org
 SUFFIX,statics.goorm.io
 SUFFIX,gopkg.in
@@ -984,7 +983,6 @@ SUFFIX,wandi-6402.kxcdn.com
 SUFFIX,searchanise-ef84.kxcdn.com
 SUFFIX,wikiwandv2-19431.kxcdn.com
 SUFFIX,lencr.org
-SUFFIX,r3.o.lencr.org
 SUFFIX,media.licdn.com
 SUFFIX,static.licdn.com
 SUFFIX,static-exp1.licdn.com
@@ -1344,7 +1342,6 @@ SUFFIX,mega.co.nz
 SUFFIX,static.meiguo.com
 SUFFIX,mercdn.net
 SUFFIX,mfcimg.com
-SUFFIX,assets.mfcimg.com
 SUFFIX,cdn.micro.blog
 SUFFIX,avatars.micro.blog
 SUFFIX,missav.com
@@ -1480,9 +1477,6 @@ SUFFIX,cdn3.stamped.io
 SUFFIX,web-assets.strava.com
 SUFFIX,checkout.stripe.com
 SUFFIX,strpst.com
-SUFFIX,img.strpst.com
-SUFFIX,assets.strpst.com
-SUFFIX,static-cdn.strpst.com
 SUFFIX,supjav.com
 SUFFIX,img.supjav.com
 SUFFIX,assets.swoogo.com
@@ -1575,7 +1569,6 @@ SUFFIX,aptoide.com
 SUFFIX,cdn6.aptoide.com
 SUFFIX,cdn-mobile.aptoide.com
 SUFFIX,archive.org
-SUFFIX,web-static.archive.org
 SUFFIX,static.assetlab.io
 SUFFIX,bamgrid.com
 SUFFIX,bdzybf7.com
@@ -1987,7 +1980,6 @@ SUFFIX,img.connatix.com
 SUFFIX,mirror.constant.com
 SUFFIX,coveralls.io
 SUFFIX,crossbell.io
-SUFFIX,ipfs.crossbell.io
 SUFFIX,dashlane.com
 SUFFIX,cdn.datacamp.com
 SUFFIX,david-dm.org
@@ -2178,7 +2170,6 @@ SUFFIX,shattered.io
 SUFFIX,showtime.com
 SUFFIX,cdn.signalfx.com
 SUFFIX,sitescdn.net
-SUFFIX,assets.sitescdn.net
 SUFFIX,sketch.cloud
 SUFFIX,resources-live.sketch.cloud
 SUFFIX,static1.smartbear.co
@@ -2743,7 +2734,6 @@ SUFFIX,wikivoyage.org
 SUFFIX,wiktionary.org
 SUFFIX,zi-scripts.com
 SUFFIX,ziffstatic.com
-SUFFIX,cdn.ziffstatic.com
 SUFFIX,zippyshare.com
 SUFFIX,zohostatic.com
 SUFFIX,showcase.abovemarket.com
@@ -2775,7 +2765,6 @@ SUFFIX,p.bstarstatic.com
 SUFFIX,byteoversea.com
 SUFFIX,cdn.calibermind.com
 SUFFIX,cdn-website.com
-SUFFIX,static.cdn-website.com
 SUFFIX,media.cleanshot.cloud
 SUFFIX,ddcdn.comtucdncom.com
 SUFFIX,js.createsend1.com
@@ -3196,7 +3185,6 @@ SUFFIX,js.hubspotfeedback.com
 SUFFIX,invisionapp-cdn.com
 SUFFIX,static-r.kamihimeproject.net
 SUFFIX,makeuseofimages.com
-SUFFIX,static1.makeuseofimages.com
 SUFFIX,motherlessmedia.com
 SUFFIX,irp-cdn.multiscreensite.com
 SUFFIX,openseauserdata.com
@@ -3222,7 +3210,6 @@ SUFFIX,cloudflarestatus.com
 SUFFIX,cloudflarestream.com
 SUFFIX,fonts.googleapis.com
 SUFFIX,hscollectedforms.net
-SUFFIX,js.hscollectedforms.net
 SUFFIX,assets4.mist-train-girls.com
 SUFFIX,oss-binaries.phusionpassenger.com
 SUFFIX,static2.sharepointonline.com
