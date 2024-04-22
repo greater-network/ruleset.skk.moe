@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-04-19T10:18:26.707Z
-# Size: 735
+# Last Updated: 2024-04-22T18:54:49.866Z
+# Size: 736
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -558,8 +558,9 @@ DOMAIN-SUFFIX,meituan.com
 DOMAIN-SUFFIX,meizu.com
 DOMAIN-SUFFIX,meizu.cn
 DOMAIN-SUFFIX,myqcloud.com
-DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,mybank.cn
+DOMAIN-SUFFIX,myapp.com
+DOMAIN-SUFFIX,myalicdn.com
 DOMAIN-SUFFIX,myzaker.com
 DOMAIN-SUFFIX,myoppo.com
 DOMAIN-SUFFIX,m1905.com
