@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-20T15:57:24.140Z
+// # Build 2024-04-22T05:18:07.109Z
 
 declare(strict_types=1);
 
@@ -1648,6 +1648,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,webrtc.org,Global',
         'DOMAIN-SUFFIX,webpkgcache.com,Global',
         'DOMAIN-SUFFIX,webmproject.org,Global',
+        'DOMAIN-SUFFIX,web.dev,Global',
         'DOMAIN-SUFFIX,washingtonpost.com,Global',
         'DOMAIN-SUFFIX,wa.me,Global',
         'DOMAIN-SUFFIX,waymo.com,Global',
@@ -3062,7 +3063,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.100.64.0/22,Domestic',
         'IP-CIDR,103.101.124.0/23,Domestic',
         'IP-CIDR,103.101.180.0/22,Domestic',
-        'IP-CIDR,103.102.192.0/22,Domestic',
         'IP-CIDR,103.102.200.0/22,Domestic',
         'IP-CIDR,103.102.214.0/24,Domestic',
         'IP-CIDR,103.103.12.0/24,Domestic',
@@ -3126,6 +3126,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.144.158.0/23,Domestic',
         'IP-CIDR,103.145.42.0/23,Domestic',
         'IP-CIDR,103.146.8.0/23,Domestic',
+        'IP-CIDR,103.146.126.0/23,Domestic',
         'IP-CIDR,103.147.124.0/24,Domestic',
         'IP-CIDR,103.149.242.0/24,Domestic',
         'IP-CIDR,103.149.244.0/22,Domestic',
@@ -3146,6 +3147,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,103.156.174.0/23,Domestic',
         'IP-CIDR,103.156.186.0/23,Domestic',
         'IP-CIDR,103.158.0.0/23,Domestic',
+        'IP-CIDR,103.159.122.0/23,Domestic',
         'IP-CIDR,103.159.124.0/23,Domestic',
         'IP-CIDR,103.161.220.0/23,Domestic',
         'IP-CIDR,103.161.254.0/23,Domestic',
