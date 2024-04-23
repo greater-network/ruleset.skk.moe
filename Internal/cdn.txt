@@ -414,6 +414,7 @@ SUFFIX,img.xjh.me
 SUFFIX,ooo.0o0.ooo
 SUFFIX,ipfs.1-2.dev
 SUFFIX,4gtv.tv
+SUFFIX,4gtvimg2.4gtv.tv
 SUFFIX,5itv.tv
 SUFFIX,9191.ga
 SUFFIX,99av.tv
@@ -682,7 +683,11 @@ SUFFIX,edgedl.me.gvt2.com
 SUFFIX,gvt3.com
 SUFFIX,edgedl.me.gvt3.com
 SUFFIX,edgedl.me.gvt4.com
+SUFFIX,gvt5.com
 SUFFIX,edgedl.me.gvt5.com
+SUFFIX,gvt6.com
+SUFFIX,gvt7.com
+SUFFIX,gvt9.com
 SUFFIX,h-cdn.co
 SUFFIX,assets.habr.com
 SUFFIX,wego.here.com
