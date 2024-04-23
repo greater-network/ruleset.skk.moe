@@ -1,7 +1,7 @@
-r2.dev                                                                                              3051
+r2.dev                                                                                              3046
 cloudfront.net                                                                                      1219
 datadoghq.com                                                                                       229
-hubside.fr                                                                                          202
+hubside.fr                                                                                          205
 azure.com                                                                                           181
 solidinterimmanagement.nl                                                                           160
 happycustomer.io                                                                                    143
@@ -35,7 +35,7 @@ azurewebsites.net                                                               
 taobao.com                                                                                          57
 appspot.com                                                                                         56
 bravenet.com                                                                                        55
-hoster-test.ru                                                                                      55
+hoster-test.ru                                                                                      54
 windows.net                                                                                         53
 workers.dev                                                                                         52
 eccocar.com                                                                                         52
@@ -122,7 +122,6 @@ creatorlink.net                                                                 
 mcafee.com                                                                                          25
 4e8bjpldk.com                                                                                       25
 tpced.com                                                                                           25
-dew4.my.id                                                                                          25
 asmucol.com                                                                                         25
 lakeviewcondostaug.com                                                                              25
 prosystemorgo.com                                                                                   25
@@ -131,11 +130,11 @@ epoise.com                                                                      
 autovistagroup.com                                                                                  24
 vercel.app                                                                                          24
 kl.com.ua                                                                                           24
+dew4.my.id                                                                                          24
 bakerstreetfinance.tv                                                                               24
 hostingkampanya.com                                                                                 24
 luxxeeu.com                                                                                         24
 cloudlets.zone                                                                                      24
-ewp.live                                                                                            24
 globalsources.com                                                                                   23
 serv00.net                                                                                          23
 princess.com                                                                                        23
@@ -172,6 +171,7 @@ adpinfo.com                                                                     
 globaltradruv.com                                                                                   20
 dnsfordomains.ru                                                                                    20
 gelopro.com                                                                                         20
+ewp.live                                                                                            20
 34gwl8v1a.com                                                                                       19
 ogrt80r65.com                                                                                       19
 79j68qav2.com                                                                                       19
@@ -267,8 +267,6 @@ avadacom.com                                                                    
 isnssdk.com                                                                                         14
 com.se                                                                                              14
 wixsite.com                                                                                         14
-blogspot.sn                                                                                         14
-blogspot.mk                                                                                         14
 id-76565.me                                                                                         14
 line.pm                                                                                             14
 id9030.me                                                                                           14
@@ -338,6 +336,7 @@ meuacerto.com.br                                                                
 property-portal.uk                                                                                  12
 glitch.me                                                                                           12
 samsungcloudsolution.com                                                                            12
+360safe.com                                                                                         12
 welerpro.com                                                                                        12
 opentraderxwe.com                                                                                   12
 krakowiak.org.pl                                                                                    12
@@ -348,7 +347,6 @@ vmkfz.at                                                                        
 orders8354.com                                                                                      12
 basicbeautys.com                                                                                    12
 traveloust.com                                                                                      12
-360safe.com                                                                                         12
 sapo.pt                                                                                             11
 yandex.net                                                                                          11
 byteoversea.com                                                                                     11
@@ -438,6 +436,7 @@ fastly.net                                                                      
 akamaized.net                                                                                       10
 aotter.net                                                                                          10
 ampproject.org                                                                                      10
+zmzfile.com                                                                                         10
 sitey.me                                                                                            10
 my1.ru                                                                                              10
 moonfruit.com                                                                                       10
@@ -446,7 +445,6 @@ douglassstevens.com                                                             
 sendgrid.net                                                                                        10
 free.nf                                                                                             10
 ajsik.my.id                                                                                         10
-dgwt.my.id                                                                                          10
 alekssokalski.nieruchomosci.pl                                                                      10
 liswea.opole.pl                                                                                     10
 mazsina.warszawa.pl                                                                                 10
@@ -459,4 +457,3 @@ damstonges.com                                                                  
 trapiconto.com                                                                                      10
 marathoncoursephotos.com                                                                            10
 oferta-payment.org                                                                                  10
-zmzfile.com                                                                                         10
