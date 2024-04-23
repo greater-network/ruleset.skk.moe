@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2024-04-03T15:56:42.560Z
-# Size: 24
+# Last Updated: 2024-04-23T05:16:56.286Z
+# Size: 25
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12,6 +12,7 @@ DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,ai.google.dev
+DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,deepmind.google
 DOMAIN-SUFFIX,deepmind.com

@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-04-20T13:42:27.857Z
+# Last Updated: 2024-04-23T05:16:56.293Z
 # Size: 58
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -10,6 +10,7 @@
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,stun.smartgslb.com
+DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
 DOMAIN-SUFFIX,notifysrv.com
 DOMAIN-SUFFIX,notify6.com
 DOMAIN-SUFFIX,amplitude.com
@@ -47,7 +48,6 @@ DOMAIN-KEYWORD,adsby
 DOMAIN-KEYWORD,anybest.
 DOMAIN-KEYWORD,smetrics.marketing.
 DOMAIN-KEYWORD,sunnimiq
-DOMAIN-KEYWORD,nbsdk-baichuan
 DOMAIN-KEYWORD,nimiqpool
 DOMAIN-KEYWORD,marketing.net
 DOMAIN-KEYWORD,mighbest
