@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-04-20T13:26:33.128Z
-# Size: 211
+# Last Updated: 2024-04-23T07:57:00.708Z
+# Size: 212
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -83,6 +83,7 @@ down.filen-5.net
 down.filen.io
 file24-d.kuku.lu
 +.fuwamofu.com
+cache.pack.google.com
 dl.google.com
 dl.l.google.com
 update.googleapis.com

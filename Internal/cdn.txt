@@ -1268,6 +1268,7 @@ SUFFIX,google.com
 SUFFIX,dl.google.com
 SUFFIX,dl.l.google.com
 SUFFIX,maven.google.com
+SUFFIX,cache.pack.google.com
 SUFFIX,static.corp.google.com
 SUFFIX,usercontent.google.com
 SUFFIX,safebrowsing.google.com
