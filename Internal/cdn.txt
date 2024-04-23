@@ -2754,6 +2754,7 @@ SUFFIX,amazonvideo.com
 SUFFIX,amebaowndme.com
 SUFFIX,cdn.announcekit.app
 SUFFIX,img.announcekit.app
+SUFFIX,img.applealmond.com
 SUFFIX,cdn.arcade.software
 SUFFIX,cdn.arstechnica.net
 SUFFIX,f000.backblazeb2.com
