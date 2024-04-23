@@ -336,6 +336,7 @@ meuacerto.com.br                                                                
 property-portal.uk                                                                                  12
 glitch.me                                                                                           12
 samsungcloudsolution.com                                                                            12
+360safe.com                                                                                         12
 welerpro.com                                                                                        12
 opentraderxwe.com                                                                                   12
 krakowiak.org.pl                                                                                    12
@@ -346,7 +347,6 @@ vmkfz.at                                                                        
 orders8354.com                                                                                      12
 basicbeautys.com                                                                                    12
 traveloust.com                                                                                      12
-360safe.com                                                                                         12
 sapo.pt                                                                                             11
 yandex.net                                                                                          11
 byteoversea.com                                                                                     11
@@ -436,6 +436,7 @@ fastly.net                                                                      
 akamaized.net                                                                                       10
 aotter.net                                                                                          10
 ampproject.org                                                                                      10
+zmzfile.com                                                                                         10
 sitey.me                                                                                            10
 my1.ru                                                                                              10
 moonfruit.com                                                                                       10
@@ -456,4 +457,3 @@ damstonges.com                                                                  
 trapiconto.com                                                                                      10
 marathoncoursephotos.com                                                                            10
 oferta-payment.org                                                                                  10
-zmzfile.com                                                                                         10
