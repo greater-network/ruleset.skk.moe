@@ -1777,6 +1777,7 @@ SUFFIX,nytimes.com
 SUFFIX,oktacdn.com
 SUFFIX,static.olelive.com
 SUFFIX,assets.onestore.ms
+SUFFIX,assets.ontrack.com
 SUFFIX,downloads.openwrt.org
 SUFFIX,overcast.fm
 SUFFIX,p-smith.com
@@ -2503,6 +2504,7 @@ SUFFIX,twitchsvc.net
 SUFFIX,fonts1.unidays.world
 SUFFIX,cdn.up-timely.com
 SUFFIX,crl.usertrust.com
+SUFFIX,crt.usertrust.com
 SUFFIX,widget.uservoice.com
 SUFFIX,video-cdn.net
 SUFFIX,w3schools.com
