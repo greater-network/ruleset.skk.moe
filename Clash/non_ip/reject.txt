@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-04-23T05:16:56.293Z
-# Size: 58
+# Last Updated: 2024-04-23T06:08:37.921Z
+# Size: 57
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -13,6 +13,7 @@ DOMAIN,stun.smartgslb.com
 DOMAIN,this_rule_set_is_made_by_sukkaw.skk.moe
 DOMAIN-SUFFIX,notifysrv.com
 DOMAIN-SUFFIX,notify6.com
+DOMAIN-SUFFIX,advertising.com
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,crazyegg.com
 DOMAIN-SUFFIX,openx.net
@@ -31,10 +32,8 @@ DOMAIN-KEYWORD,dnserror
 DOMAIN-KEYWORD,doubleclick.
 DOMAIN-KEYWORD,dubester.
 DOMAIN-KEYWORD,appsflyer
-DOMAIN-KEYWORD,ad.ixigua.com
 DOMAIN-KEYWORD,adwords
 DOMAIN-KEYWORD,adjust.
-DOMAIN-KEYWORD,advertising.com
 DOMAIN-KEYWORD,advertmarket
 DOMAIN-KEYWORD,admob
 DOMAIN-KEYWORD,admaster
