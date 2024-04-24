@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-04-22T18:16:47.060Z
-# Size: 1250
+# Last Updated: 2024-04-24T12:35:14.841Z
+# Size: 1251
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -650,6 +650,7 @@ speedtest1.mia.fl.us.convergia.net
 speedtest.qld.edgeix.net.au
 +.speedtest.exetel.com.au
 speedtest.feniks.net.tr
+st-1.fibrenest.net
 speedtest.fixnet.com.tr
 speedtest.gamingvds.com
 speedtest-la.getonward.com
