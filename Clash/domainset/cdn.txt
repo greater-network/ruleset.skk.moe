@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-04-23T13:09:59.053Z
-# Size: 2351
+# Last Updated: 2024-04-24T07:53:48.772Z
+# Size: 2353
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -2081,6 +2081,8 @@ cdn.ttgtmedia.com
 4gtvimg2.4gtv.tv
 assets.ontrack.com
 img.applealmond.com
+img.hentaihaven.xxx
++.cdn-one.com
 +.s3-website.ap-southeast-4.amazonaws.com
 +.s3-object-lambda.ap-southeast-4.amazonaws.com
 +.s3-accesspoint.ap-southeast-4.amazonaws.com

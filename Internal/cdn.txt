@@ -524,6 +524,7 @@ SUFFIX,typeface.nyt.com
 SUFFIX,ooo.o0o.ooo
 SUFFIX,okx.com
 SUFFIX,static.okx.com
+SUFFIX,one.com
 SUFFIX,media.orz.uno
 SUFFIX,assets.orz.uno
 SUFFIX,tile.osm.org
@@ -1600,6 +1601,7 @@ SUFFIX,botsrv2.com
 SUFFIX,cdn.bsky.social
 SUFFIX,bstatic.com
 SUFFIX,static.bytepan.com
+SUFFIX,cdn-one.com
 SUFFIX,cdn1122.com
 SUFFIX,cdn2020.com
 SUFFIX,cdnpure.com
@@ -2808,6 +2810,7 @@ SUFFIX,media.gettyimages.com
 SUFFIX,static.gettyimages.com
 SUFFIX,googlevideo.com
 SUFFIX,media.graphassets.com
+SUFFIX,img.hentaihaven.xxx
 SUFFIX,hsappstatic.net
 SUFFIX,f.hubspotfree.net
 SUFFIX,initiummall.com
@@ -2968,6 +2971,7 @@ SUFFIX,cdn.cnx-software.com
 SUFFIX,coral.coralproject.net
 SUFFIX,creativelab5.com
 SUFFIX,repos.danosproject.org
+SUFFIX,digitalocean.com
 SUFFIX,anchor.digitalocean.com
 SUFFIX,assets.digitalocean.com
 SUFFIX,ui-cdn.digitalocean.com
@@ -3383,6 +3387,7 @@ REGEX,avoddashs
 REGEX,bbcfmt
 REGEX,blogspot
 REGEX,discord
+REGEX,dropbox
 REGEX,dsn\.algolia\.net
 REGEX,dualstack\.apiproxy-
 REGEX,dualstack\.ichnaea-web-

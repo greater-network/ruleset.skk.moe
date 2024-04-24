@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-24T06:00:46.864Z
+// # Build 2024-04-24T07:53:48.785Z
 
 declare(strict_types=1);
 
@@ -1599,6 +1599,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,linkedin.com,Global',
         'DOMAIN-SUFFIX,openstreetmap.org,Global',
         'DOMAIN-SUFFIX,opensea.io,Global',
+        'DOMAIN-SUFFIX,one.com,Global',
         'DOMAIN-SUFFIX,ok.ru,Global',
         'DOMAIN-SUFFIX,okex.com,Global',
         'DOMAIN-SUFFIX,okx.com,Global',
@@ -1914,6 +1915,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dailymail.co.uk,Global',
         'DOMAIN-SUFFIX,dailymotion.com,Global',
         'DOMAIN-SUFFIX,dns.google,Global',
+        'DOMAIN-SUFFIX,digitalocean.com,Global',
         'DOMAIN-SUFFIX,disqus.com,Global',
         'DOMAIN-SUFFIX,dish.com,Global',
         'DOMAIN-SUFFIX,discordcdn.com,Global',
@@ -2038,6 +2040,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-KEYWORD,pinterest,Global',
         'DOMAIN-KEYWORD,jav,Global',
         'DOMAIN-KEYWORD,sci-hub,Global',
+        'DOMAIN-KEYWORD,dropbox,Global',
         'DOMAIN-KEYWORD,discord,Global',
         'DOMAIN-KEYWORD,whatsapp,Global',
         'DOMAIN-KEYWORD,facebook,Global',
