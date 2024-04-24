@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-04-22T18:54:49.868Z
+#!desc=Last Updated: 2024-04-24T06:00:46.804Z
 
 [Host]
 uc.cn = server:quic://223.6.6.6:853
@@ -70,8 +70,6 @@ autonavi.com = server:quic://223.6.6.6:853
 *.autonavi.com = server:quic://223.6.6.6:853
 dingtalk.com = server:quic://223.6.6.6:853
 *.dingtalk.com = server:quic://223.6.6.6:853
-dingtalk.com = server:quic://223.6.6.6:853
-*.dingtalk.com = server:quic://223.6.6.6:853
 mxhichina.com = server:quic://223.6.6.6:853
 *.mxhichina.com = server:quic://223.6.6.6:853
 soku.com = server:quic://223.6.6.6:853
@@ -112,8 +110,6 @@ fliggy.com = server:quic://223.6.6.6:853
 *.fliggy.com = server:quic://223.6.6.6:853
 koubei.com = server:quic://223.6.6.6:853
 *.koubei.com = server:quic://223.6.6.6:853
-guoguo-app.com = server:quic://223.6.6.6:853
-*.guoguo-app.com = server:quic://223.6.6.6:853
 mybank.cn = server:quic://223.6.6.6:853
 *.mybank.cn = server:quic://223.6.6.6:853
 mmstat.com = server:quic://223.6.6.6:853
@@ -302,8 +298,6 @@ mifile.cn = server:https://120.53.53.53/dns-query
 *.mifile.cn = server:https://120.53.53.53/dns-query
 miui.com = server:https://120.53.53.53/dns-query
 *.miui.com = server:https://120.53.53.53/dns-query
-miwifi.com = server:https://120.53.53.53/dns-query
-*.miwifi.com = server:https://120.53.53.53/dns-query
 xiaomi.com = server:https://120.53.53.53/dns-query
 *.xiaomi.com = server:https://120.53.53.53/dns-query
 xiaomi.cn = server:https://120.53.53.53/dns-query
