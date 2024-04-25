@@ -798,6 +798,7 @@ SUFFIX,gfx-data.news-engineering.aws.wapo.pub
 SUFFIX,wetv.vip
 SUFFIX,whoer.cc
 SUFFIX,assets.xbox.com
+SUFFIX,download.xbox.com
 SUFFIX,assets-www.xbox.com
 SUFFIX,compass-ssl.xbox.com
 SUFFIX,statics-xbc-eas.xbox.com
@@ -2383,6 +2384,7 @@ SUFFIX,instagram.com
 SUFFIX,cdn.ipregistry.co
 SUFFIX,itvstatic.com
 SUFFIX,download.jetbrains.com
+SUFFIX,download-cdn.jetbrains.com
 SUFFIX,cdn.jetphotos.com
 SUFFIX,kali.download
 SUFFIX,kinja-img.com

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-04-25T17:09:47.843Z
-# Size: 738
+# Last Updated: 2024-04-25T17:14:35.736Z
+# Size: 739
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -171,6 +171,7 @@ DOMAIN-SUFFIX,jb51.net
 DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,jianshu.io
 DOMAIN-SUFFIX,jianshu.com
+DOMAIN-SUFFIX,jetbrains.com.cn
 DOMAIN-SUFFIX,jstarkan.com
 DOMAIN-SUFFIX,jdcdn.com
 DOMAIN-SUFFIX,jdcache.com

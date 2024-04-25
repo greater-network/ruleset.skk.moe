@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-25T17:09:47.926Z
+// # Build 2024-04-25T17:14:36.667Z
 
 declare(strict_types=1);
 
@@ -246,6 +246,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,jiguang.cn,Domestic',
         'DOMAIN-SUFFIX,jianshu.io,Domestic',
         'DOMAIN-SUFFIX,jianshu.com,Domestic',
+        'DOMAIN-SUFFIX,jetbrains.com.cn,Domestic',
         'DOMAIN-SUFFIX,jstarkan.com,Domestic',
         'DOMAIN-SUFFIX,jdcdn.com,Domestic',
         'DOMAIN-SUFFIX,jdcache.com,Domestic',
@@ -1492,6 +1493,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,pf-cdn-content-prod.azureedge.net,Steam Download',
         'DOMAIN,xvcf1.xboxlive.com,Steam Download',
         'DOMAIN,xvcf2.xboxlive.com,Steam Download',
+        'DOMAIN,download.xbox.com,Steam Download',
         'DOMAIN-SUFFIX,cdn.ubi.com,Steam Download',
         'DOMAIN,download.dm.origin.com,Steam Download',
         'DOMAIN,origin-a.akamaihd.net,Steam Download',
