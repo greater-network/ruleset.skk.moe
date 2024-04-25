@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-04-24T12:35:14.841Z
-# Size: 1251
+# Last Updated: 2024-04-25T17:09:51.669Z
+# Size: 1253
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -804,6 +804,7 @@ speedtest.syd01.launtel.net.au
 speedtest.localhosts.ltd
 speedtest.meerfarbig.net
 sig-speedtest.moratelindo.io
+veloteste.mrjomar.com.br
 speedtest.netcalibre.net
 f1.netfast.com.br
 hkspeedtest.netvigator.com
@@ -973,6 +974,7 @@ velocimetro.esolution.srv.br
 speed.fgtelecom.com.br
 velocidad.fiberlink.com.pa
 speedtest.fiberlink.net.ua
+ookla.fibranort.tec.br
 speedtest1.flashwifi.com.br
 speedtest.global-layer.com
 speedtest.singapore.globalxtreme.net

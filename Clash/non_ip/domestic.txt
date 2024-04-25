@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-04-24T06:00:46.800Z
+# Last Updated: 2024-04-25T17:09:47.843Z
 # Size: 738
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -293,6 +293,7 @@ DOMAIN-SUFFIX,url.cn
 DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,ubionline.com.cn
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,udache.com
 DOMAIN-SUFFIX,wmsjsteam.com
@@ -612,6 +613,9 @@ DOMAIN-SUFFIX,ctfile.com
 DOMAIN-SUFFIX,csdnimg.cn
 DOMAIN-SUFFIX,csdn.net
 DOMAIN-SUFFIX,csdn.com
+DOMAIN-SUFFIX,cdn-go.cn
+DOMAIN-SUFFIX,cdngslb.com
+DOMAIN-SUFFIX,cdnjtzy.com
 DOMAIN-SUFFIX,cloudglab.com
 DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,camscanner.com
@@ -620,10 +624,6 @@ DOMAIN-SUFFIX,cainiaoyizhan.com
 DOMAIN-SUFFIX,cainiao.com
 DOMAIN-SUFFIX,cainiao.com.cn
 DOMAIN-SUFFIX,cailianpress.com
-DOMAIN-SUFFIX,cdn-go.cn
-DOMAIN-SUFFIX,cdngslb.com
-DOMAIN-SUFFIX,cdnjtzy.com
-DOMAIN-SUFFIX,cdn.ubionline.com.cn
 DOMAIN-SUFFIX,cmfunds.cn
 DOMAIN-SUFFIX,cmfchina.com
 DOMAIN-SUFFIX,cmburl.cn

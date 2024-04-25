@@ -2866,6 +2866,7 @@ SUFFIX,photobucket.com
 SUFFIX,gmedia.playstation.com
 SUFFIX,static.playstation.com
 SUFFIX,web-toolbar.playstation.com
+SUFFIX,dl.playstation.net
 SUFFIX,static-resource.np.community.playstation.net
 SUFFIX,porndudecdn.com
 SUFFIX,rebound.postmarkapp.com

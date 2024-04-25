@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-25T12:24:50.414Z
+// # Build 2024-04-25T17:09:47.926Z
 
 declare(strict_types=1);
 
@@ -368,6 +368,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,uczzd.cn,Domestic',
         'DOMAIN-SUFFIX,ucweb.com,Domestic',
         'DOMAIN-SUFFIX,uc.cn,Domestic',
+        'DOMAIN-SUFFIX,ubionline.com.cn,Domestic',
         'DOMAIN-SUFFIX,unionpay.com,Domestic',
         'DOMAIN-SUFFIX,udache.com,Domestic',
         'DOMAIN-SUFFIX,wmsjsteam.com,Domestic',
@@ -687,6 +688,9 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,csdnimg.cn,Domestic',
         'DOMAIN-SUFFIX,csdn.net,Domestic',
         'DOMAIN-SUFFIX,csdn.com,Domestic',
+        'DOMAIN-SUFFIX,cdn-go.cn,Domestic',
+        'DOMAIN-SUFFIX,cdngslb.com,Domestic',
+        'DOMAIN-SUFFIX,cdnjtzy.com,Domestic',
         'DOMAIN-SUFFIX,cloudglab.com,Domestic',
         'DOMAIN-SUFFIX,cls.cn,Domestic',
         'DOMAIN-SUFFIX,camscanner.com,Domestic',
@@ -695,10 +699,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,cainiao.com,Domestic',
         'DOMAIN-SUFFIX,cainiao.com.cn,Domestic',
         'DOMAIN-SUFFIX,cailianpress.com,Domestic',
-        'DOMAIN-SUFFIX,cdn-go.cn,Domestic',
-        'DOMAIN-SUFFIX,cdngslb.com,Domestic',
-        'DOMAIN-SUFFIX,cdnjtzy.com,Domestic',
-        'DOMAIN-SUFFIX,cdn.ubionline.com.cn,Domestic',
         'DOMAIN-SUFFIX,cmfunds.cn,Domestic',
         'DOMAIN-SUFFIX,cmfchina.com,Domestic',
         'DOMAIN-SUFFIX,cmburl.cn,Domestic',
@@ -1480,6 +1480,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,download4.epicgames.com,Steam Download',
         'DOMAIN,epicgames-download1.akamaized.net,Steam Download',
         'DOMAIN,fastly-download.epicgames.com,Steam Download',
+        'DOMAIN-SUFFIX,dl.playstation.net,Steam Download',
         'DOMAIN,blzddist1-a.akamaihd.net,Steam Download',
         'DOMAIN,blzddistkr1-a.akamaihd.net,Steam Download',
         'DOMAIN,blizzard.gcdn.cloudn.co.kr,Steam Download',
@@ -5400,8 +5401,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,218.246.21.0/24,Domestic',
         'IP-CIDR,218.246.22.0/24,Domestic',
         'IP-CIDR,218.246.32.0/22,Domestic',
-        'IP-CIDR,218.246.64.0/19,Domestic',
-        'IP-CIDR,218.246.108.0/24,Domestic',
+        'IP-CIDR,218.246.64.0/18,Domestic',
         'IP-CIDR,218.246.160.0/19,Domestic',
         'IP-CIDR,218.247.0.0/18,Domestic',
         'IP-CIDR,218.247.128.0/17,Domestic',

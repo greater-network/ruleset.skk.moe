@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-04-23T07:57:00.708Z
-# Size: 212
+# Last Updated: 2024-04-25T17:09:47.917Z
+# Size: 213
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -200,6 +200,7 @@ download3.epicgames.com
 download4.epicgames.com
 epicgames-download1.akamaized.net
 fastly-download.epicgames.com
++.dl.playstation.net
 blzddist1-a.akamaihd.net
 blzddistkr1-a.akamaihd.net
 blizzard.gcdn.cloudn.co.kr
