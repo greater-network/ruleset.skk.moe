@@ -726,6 +726,7 @@ SUFFIX,line.biz
 SUFFIX,loli.net
 SUFFIX,cdn.loom.com
 SUFFIX,s3.masto.ai
+SUFFIX,media.masto.nu
 SUFFIX,mexc.com
 SUFFIX,mastodon-static.miao.dev
 SUFFIX,media.mstdn.io
