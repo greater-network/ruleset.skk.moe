@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-04-25T17:14:36.655Z
-# Size: 215
+# Last Updated: 2024-04-29T07:22:14.097Z
+# Size: 218
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -11,6 +11,9 @@
 this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 dl-cdn.alpinelinux.org
 downloads.openwrt.org
+playwright.azureedge.net
+cdimage.kali.org
++.kali.download
 ppa.launchpad.net
 +.deb.debian.org
 +.archive.debian.org

@@ -712,6 +712,7 @@ SUFFIX,cdn.judge.me
 SUFFIX,kagi.com
 SUFFIX,cdn.kagi.com
 SUFFIX,assets.kagi.com
+SUFFIX,cdimage.kali.org
 SUFFIX,cdn-edge.karte.io
 SUFFIX,info.knak.com
 SUFFIX,kobo.com
@@ -1233,6 +1234,7 @@ SUFFIX,mirrors.dotsrc.org
 SUFFIX,plugins.dprint.dev
 SUFFIX,ipfs.drink.cafe
 SUFFIX,dssott.com
+SUFFIX,assets.dwncdn.net
 SUFFIX,s3.envato.com
 SUFFIX,eroimg.net
 SUFFIX,ipfs.eternum.io
@@ -3023,6 +3025,7 @@ SUFFIX,publicsuffix.org
 SUFFIX,pythonhosted.org
 SUFFIX,redditstatic.com
 SUFFIX,cdn.robinpro.gallery
+SUFFIX,scribdassets.com
 SUFFIX,shutterstock.com
 SUFFIX,image.shutterstock.com
 SUFFIX,ipfs.soul-network.com

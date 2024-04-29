@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-04-27T15:00:56.147Z
+# Last Updated: 2024-04-29T07:22:14.092Z
 # Size: 2354
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -105,8 +105,6 @@ packages.argotunnel.com
 pkg.cloudflareclient.com
 binaries.prisma.sh
 +.schemastore.org
-playwright.azureedge.net
-+.kali.download
 +.exp-tas.com
 +.vscode-cdn.net
 vscode-sync.trafficmanager.net
@@ -2084,6 +2082,8 @@ assets.ontrack.com
 img.applealmond.com
 img.hentaihaven.xxx
 +.cdn-one.com
+assets.dwncdn.net
++.scribdassets.com
 +.s3-website.ap-southeast-4.amazonaws.com
 +.s3-object-lambda.ap-southeast-4.amazonaws.com
 +.s3-accesspoint.ap-southeast-4.amazonaws.com

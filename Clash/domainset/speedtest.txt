@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-04-28T12:30:03.152Z
-# Size: 1259
+# Last Updated: 2024-04-29T07:22:18.704Z
+# Size: 1260
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -454,6 +454,7 @@ sydspeedtest.rackdog.com
 speedtest.reicosa.com
 dal-speedtest.net.sangoma.net
 sea-speedtest.net.sangoma.net
+tor-speedtest.net.sangoma.net
 spt1.seed.net.tw
 fetml1.seed.net.tw
 fetnt1.seed.net.tw
