@@ -394,6 +394,7 @@ SUFFIX,images.spr.so
 SUFFIX,tg.dev
 SUFFIX,ttl.sh
 SUFFIX,secure-uploads.ui.com
+SUFFIX,account-cdn.svc.ui.com
 SUFFIX,i.vgy.me
 SUFFIX,viu.tv
 SUFFIX,s.w-x.co
@@ -1803,7 +1804,6 @@ SUFFIX,iso.reactos.org
 SUFFIX,cdn-rdstaticassets.readdle.com
 SUFFIX,js.recurly.com
 SUFFIX,userpic.redgifs.com
-SUFFIX,thumbs44.redgifs.com
 SUFFIX,redtube.com
 SUFFIX,reuters.com
 SUFFIX,dyn.riotcdn.net
