@@ -785,6 +785,7 @@ SUFFIX,time.com
 SUFFIX,assets.time.com
 SUFFIX,image.tmdb.org
 SUFFIX,twimg.co
+SUFFIX,dl.ubnt.com
 SUFFIX,unpkg.co
 SUFFIX,media.user.com
 SUFFIX,widget.user.com
@@ -1205,16 +1206,6 @@ SUFFIX,dazndn.com
 SUFFIX,debian.org
 SUFFIX,deb.debian.org
 SUFFIX,ftp.debian.org
-SUFFIX,ftp.au.debian.org
-SUFFIX,ftp.cn.debian.org
-SUFFIX,ftp.de.debian.org
-SUFFIX,ftp.hk.debian.org
-SUFFIX,ftp.jp.debian.org
-SUFFIX,ftp.kr.debian.org
-SUFFIX,ftp.ru.debian.org
-SUFFIX,ftp.tw.debian.org
-SUFFIX,ftp.uk.debian.org
-SUFFIX,ftp.us.debian.org
 SUFFIX,archive.debian.org
 SUFFIX,security.debian.org
 SUFFIX,ftp-master.debian.org
@@ -1890,6 +1881,7 @@ SUFFIX,vsassets.io
 SUFFIX,unlimited-cdn.waifu2x.net
 SUFFIX,wdfiles.com
 SUFFIX,uploads-ssl.webflow.com
+SUFFIX,desktop.wifiman.com
 SUFFIX,wikidot.com
 SUFFIX,windows.net
 SUFFIX,file.core.windows.net
@@ -2729,6 +2721,7 @@ SUFFIX,teraboxcdn.com
 SUFFIX,theinitium.com
 SUFFIX,themoviedb.org
 SUFFIX,tik-tokapi.com
+SUFFIX,tokyonline.com
 SUFFIX,widget.trustpilot.com
 SUFFIX,simplicity.trustpilot.com
 SUFFIX,user-images.trustpilot.com

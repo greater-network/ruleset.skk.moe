@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-29T07:28:25.182Z
+// # Build 2024-04-29T07:53:57.914Z
 
 declare(strict_types=1);
 
@@ -369,6 +369,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,uczzd.cn,Domestic',
         'DOMAIN-SUFFIX,ucweb.com,Domestic',
         'DOMAIN-SUFFIX,uc.cn,Domestic',
+        'DOMAIN-SUFFIX,ui.com.cn,Domestic',
         'DOMAIN-SUFFIX,ubionline.com.cn,Domestic',
         'DOMAIN-SUFFIX,unionpay.com,Domestic',
         'DOMAIN-SUFFIX,udache.com,Domestic',
@@ -1666,6 +1667,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,w3schools.com,Global',
         'DOMAIN-SUFFIX,turbobit.net,Global',
         'DOMAIN-SUFFIX,tumblr.com,Global',
+        'DOMAIN-SUFFIX,tokyonline.com,Global',
         'DOMAIN-SUFFIX,tmagazine.com,Global',
         'DOMAIN-SUFFIX,tgstat.ru,Global',
         'DOMAIN-SUFFIX,twitch.tv,Global',

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-04-25T17:14:35.736Z
-# Size: 739
+# Last Updated: 2024-04-29T07:53:57.095Z
+# Size: 740
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -294,6 +294,7 @@ DOMAIN-SUFFIX,url.cn
 DOMAIN-SUFFIX,uczzd.cn
 DOMAIN-SUFFIX,ucweb.com
 DOMAIN-SUFFIX,uc.cn
+DOMAIN-SUFFIX,ui.com.cn
 DOMAIN-SUFFIX,ubionline.com.cn
 DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,udache.com

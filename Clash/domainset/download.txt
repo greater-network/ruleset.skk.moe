@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-04-29T07:28:25.172Z
-# Size: 221
+# Last Updated: 2024-04-29T07:53:57.906Z
+# Size: 213
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -20,16 +20,6 @@ ppa.launchpad.net
 +.ftp.debian.org
 +.ftp-master.debian.org
 +.debian.map.fastlydns.net
-ftp.cn.debian.org
-ftp.hk.debian.org
-ftp.tw.debian.org
-ftp.jp.debian.org
-ftp.us.debian.org
-ftp.uk.debian.org
-ftp.de.debian.org
-ftp.ru.debian.org
-ftp.au.debian.org
-ftp.kr.debian.org
 security.debian.org
 +.archive.ubuntu.com
 security.ubuntu.com
@@ -178,6 +168,8 @@ repo.powerdns.com
 store1.gofile.io
 dlcdnets.asus.com
 download.cpuid.com
+desktop.wifiman.com
+dl.ubnt.com
 +.steamcontent.com
 +.steamserver.net
 +.content.steampowered.com
