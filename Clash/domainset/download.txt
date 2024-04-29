@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-04-29T07:22:14.097Z
-# Size: 218
+# Last Updated: 2024-04-29T07:28:25.172Z
+# Size: 221
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -216,6 +216,7 @@ gog-cdn-lumen.secure2.footprint.net
 pf-cdn-content-prod.azureedge.net
 xvcf1.xboxlive.com
 xvcf2.xboxlive.com
+packagespc.xboxlive.com
 download.xbox.com
 +.cdn.ubi.com
 download.dm.origin.com
@@ -225,5 +226,7 @@ dlgarenanow-a.akamaihd.net
 +.dyn.riotcdn.net
 +.content.cdp.bethesda.net
 +.download.cdp.bethesda.net
+client.hikarifield.co.jp
 download.hikarifield.co.jp
+gamedownloads-rockstargames-com.akamaized.net
 ################## EOF ##################

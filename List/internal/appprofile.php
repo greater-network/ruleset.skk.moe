@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-04-29T07:22:14.100Z
+// # Build 2024-04-29T07:28:25.182Z
 
 declare(strict_types=1);
 
@@ -1493,6 +1493,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN,pf-cdn-content-prod.azureedge.net,Steam Download',
         'DOMAIN,xvcf1.xboxlive.com,Steam Download',
         'DOMAIN,xvcf2.xboxlive.com,Steam Download',
+        'DOMAIN,packagespc.xboxlive.com,Steam Download',
         'DOMAIN,download.xbox.com,Steam Download',
         'DOMAIN-SUFFIX,cdn.ubi.com,Steam Download',
         'DOMAIN,download.dm.origin.com,Steam Download',
@@ -1502,7 +1503,9 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dyn.riotcdn.net,Steam Download',
         'DOMAIN-SUFFIX,content.cdp.bethesda.net,Steam Download',
         'DOMAIN-SUFFIX,download.cdp.bethesda.net,Steam Download',
+        'DOMAIN,client.hikarifield.co.jp,Steam Download',
         'DOMAIN,download.hikarifield.co.jp,Steam Download',
+        'DOMAIN,gamedownloads-rockstargames-com.akamaized.net,Steam Download',
         'DOMAIN,wego.here.com,Global',
         'DOMAIN,media.steampowered.com,Global',
         'DOMAIN,ccmdl.adobe.com,Global',

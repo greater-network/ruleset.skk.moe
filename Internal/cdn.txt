@@ -2245,6 +2245,7 @@ SUFFIX,cdn.wishpond.net
 SUFFIX,wordtune.com
 SUFFIX,xvcf1.xboxlive.com
 SUFFIX,xvcf2.xboxlive.com
+SUFFIX,packagespc.xboxlive.com
 SUFFIX,images-eds-ssl.xboxlive.com
 SUFFIX,xhamster.com
 SUFFIX,xnxx-cdn.com
@@ -3105,6 +3106,7 @@ SUFFIX,rts-static-prod.freshworksapi.com
 SUFFIX,gitlab-static.net
 SUFFIX,sig.grumpybumpers.com
 SUFFIX,highwinds-cdn.com
+SUFFIX,client.hikarifield.co.jp
 SUFFIX,download.hikarifield.co.jp
 SUFFIX,imagedelivery.net
 SUFFIX,static.independent.co.uk
@@ -3380,6 +3382,7 @@ SUFFIX,officecdn-microsoft-com.akamaized.net
 SUFFIX,runkit-packages-static-executables.com
 SUFFIX,vscode-sync-insiders.trafficmanager.net
 SUFFIX,img-prod-cms-rt-microsoft-com.akamaized.net
+SUFFIX,gamedownloads-rockstargames-com.akamaized.net
 SUFFIX,practicaldev-herokuapp-com.freetls.fastly.net
 SUFFIX,statics-marketingsites-eas-ms-com.akamaized.net
 SUFFIX,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
