@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Anti Bogus Domain
-# Last Updated: 2024-04-28T06:20:56.044Z
+# Last Updated: 2024-04-30T12:29:37.722Z
 # Size: 191
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -13,6 +13,7 @@
 #  - https://github.com/curbengh/botnet-filter
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+IP-CIDR,93.88.74.63/32,no-resolve
 IP-CIDR,84.247.157.112/32,no-resolve
 IP-CIDR,77.105.162.176/32,no-resolve
 IP-CIDR,62.204.41.234/32,no-resolve
@@ -153,7 +154,6 @@ IP-CIDR,180.153.103.224/32,no-resolve
 IP-CIDR,175.6.223.15/32,no-resolve
 IP-CIDR,172.233.221.61/32,no-resolve
 IP-CIDR,172.233.155.253/32,no-resolve
-IP-CIDR,172.232.208.90/32,no-resolve
 IP-CIDR,158.220.95.214/32,no-resolve
 IP-CIDR,125.76.239.245/32,no-resolve
 IP-CIDR,125.76.239.244/32,no-resolve

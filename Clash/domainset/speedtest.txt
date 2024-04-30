@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-04-29T07:22:18.704Z
-# Size: 1260
+# Last Updated: 2024-04-30T12:29:46.962Z
+# Size: 1262
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -235,6 +235,7 @@ ffm-01-ovpn.vpn.eseven.net
 speedtest.febzen.com
 speedtest.finovy.com
 speed2.flawcra.cc
+speedtest.foxomy.com
 st.fratec.net
 speedtest-xg-lq.glbb.ne.jp
 speedtest-xg-oki.glbb.ne.jp
@@ -297,6 +298,7 @@ ny-speedtest.qonzer.net
 pr-speedtest.qonzer.net
 chi-speedtest.qonzer.net
 fra-speedtest.qonzer.net
+ln3-speedtest.qonzer.net
 speedtest.quadro.net
 speedtest2.rhitcr.com
 speedtest.riv.com.mx
