@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-04-29T15:14:13.181Z
-# Size: 2354
+# Last Updated: 2024-04-30T16:46:47.173Z
+# Size: 2355
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1496,6 +1496,7 @@ images.now-tv.com
 i.mt.lv
 secure-uploads.ui.com
 account-cdn.svc.ui.com
+net-fe-static-assets.network-controller.svc.ui.com
 +.sftcdn.net
 img.apponic.com
 cdn.apponic.com
