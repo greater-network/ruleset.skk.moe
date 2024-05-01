@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-04-30T12:29:46.962Z
-# Size: 1262
+# Last Updated: 2024-05-01T16:52:33.517Z
+# Size: 1265
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -296,6 +296,7 @@ speedtest-ru.pq.hosting
 la-speedtest.qonzer.net
 ny-speedtest.qonzer.net
 pr-speedtest.qonzer.net
+ru-speedtest.qonzer.net
 chi-speedtest.qonzer.net
 fra-speedtest.qonzer.net
 ln3-speedtest.qonzer.net
@@ -373,6 +374,7 @@ sy.tjtele.com
 speedtest.toob.co.uk
 speedtest.mia.upx.net.br
 speedtest.vee.com.tw
+drtvpdspeedtestb.voiped.com
 +.speedtest.warian.net
 speedtest-wa.waveip.org
 wiwan46.calgary.westnet.ca
@@ -512,6 +514,7 @@ speedtest.wifi.net.tr
 sp1.wightman.ca
 383-2speedtest.wightman.ca
 speed1.wirsnet.com
+de-speedtest.woks.com.tr
 speedtest.wolfpaw.net
 speedtest01.wowrack.com
 speedtest.lax01.xfernet.net
