@@ -1053,6 +1053,9 @@ SUFFIX,s2.qwant.com
 SUFFIX,react.dev
 SUFFIX,cdn.readme.io
 SUFFIX,files.readme.io
+SUFFIX,re.reimu.net
+SUFFIX,cdn.reimu.net
+SUFFIX,img.reimu.net
 SUFFIX,static.replay.io
 SUFFIX,assets.safing.io
 SUFFIX,cdn.sanity.io
@@ -1533,6 +1536,7 @@ SUFFIX,winudf.com
 SUFFIX,fast.wistia.com
 SUFFIX,embed-ssl.wistia.com
 SUFFIX,avts.wmlabs.net
+SUFFIX,img.xhacgn.com
 SUFFIX,yandex.com
 SUFFIX,yandex.net
 SUFFIX,resize.yandex.net
