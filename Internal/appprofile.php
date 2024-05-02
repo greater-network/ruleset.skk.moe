@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-05-02T10:43:47.789Z
+// # Build 2024-05-02T11:16:01.849Z
 
 declare(strict_types=1);
 
@@ -335,6 +335,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,steamchina.com,Domestic',
         'DOMAIN-SUFFIX,steam.ksyna.com,Domestic',
         'DOMAIN-SUFFIX,steam.clngaa.com,Domestic',
+        'DOMAIN-SUFFIX,staticfile.net,Domestic',
         'DOMAIN-SUFFIX,staticfile.org,Domestic',
         'DOMAIN-SUFFIX,staticdn.net,Domestic',
         'DOMAIN-SUFFIX,so.com,Domestic',
@@ -573,6 +574,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,robloxdev.cn,Domestic',
         'DOMAIN-SUFFIX,roblox.cn,Domestic',
         'DOMAIN-SUFFIX,ronghub.com,Domestic',
+        'DOMAIN-SUFFIX,right.com.cn,Domestic',
         'DOMAIN-SUFFIX,realmemobile.com,Domestic',
         'DOMAIN-SUFFIX,realmebbs.com,Domestic',
         'DOMAIN-SUFFIX,realme.com,Domestic',
@@ -2307,7 +2309,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,43.224.56.0/22,Domestic',
         'IP-CIDR,43.224.80.0/22,Domestic',
         'IP-CIDR,43.224.208.0/22,Domestic',
-        'IP-CIDR,43.225.84.0/23,Domestic',
         'IP-CIDR,43.225.180.0/22,Domestic',
         'IP-CIDR,43.225.208.0/22,Domestic',
         'IP-CIDR,43.225.216.0/22,Domestic',
