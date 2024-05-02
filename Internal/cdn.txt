@@ -2593,6 +2593,7 @@ SUFFIX,images-ext-2.discordapp.net
 SUFFIX,discordcdn.com
 SUFFIX,disneyplus.com
 SUFFIX,hub-assets.displaycal.net
+SUFFIX,doppiocdn.live
 SUFFIX,dropboxapi.com
 SUFFIX,duckduckgo.com
 SUFFIX,icons.duckduckgo.com
