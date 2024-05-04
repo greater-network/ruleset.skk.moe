@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-05-04T16:29:21.252Z
+// # Build 2024-05-04T16:40:18.798Z
 
 declare(strict_types=1);
 
@@ -1049,6 +1049,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,wscont1.apps.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,www.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,cn.apple.com,Domestic',
+        'DOMAIN-SUFFIX,apple.com.cn,Domestic',
+        'DOMAIN,api.smoot.apple.cn,Domestic',
         'DOMAIN-SUFFIX,cn.ls.apple.com,Domestic',
         'DOMAIN-SUFFIX,cn-ssl.ls.apple.com,Domestic',
         'DOMAIN-SUFFIX,music.163.com,Domestic',
@@ -1137,7 +1139,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,wunderlist.com,Microsoft & Apple',
         'DOMAIN-SUFFIX,yammer.com,Microsoft & Apple',
         'DOMAIN-SUFFIX,yammerusercontent.com,Microsoft & Apple',
-        'DOMAIN,api.smoot.apple.cn,Microsoft & Apple',
         'DOMAIN-SUFFIX,push-apple.com.akadns.net,Microsoft & Apple',
         'DOMAIN-SUFFIX,organicfruitapps.com,Microsoft & Apple',
         'DOMAIN-SUFFIX,me.com,Microsoft & Apple',
@@ -1151,7 +1152,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,apple.news,Microsoft & Apple',
         'DOMAIN-SUFFIX,apple.co,Microsoft & Apple',
         'DOMAIN-SUFFIX,apple.com,Microsoft & Apple',
-        'DOMAIN-SUFFIX,apple.com.cn,Microsoft & Apple',
         'DOMAIN-SUFFIX,apple-mapkit.com,Microsoft & Apple',
         'DOMAIN-SUFFIX,apple-cloudkit.com,Microsoft & Apple',
         'DOMAIN-SUFFIX,apple-dns.net,Microsoft & Apple',
