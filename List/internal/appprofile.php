@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-05-04T12:27:30.141Z
+// # Build 2024-05-04T16:29:21.252Z
 
 declare(strict_types=1);
 
@@ -1951,6 +1951,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,coinmarketcap.com,Global',
         'DOMAIN-SUFFIX,coingecko.com,Global',
         'DOMAIN-SUFFIX,coinbase.com,Global',
+        'DOMAIN-SUFFIX,cdpn.io,Global',
         'DOMAIN-SUFFIX,cdninstagram.com,Global',
         'DOMAIN-SUFFIX,cdnst.net,Global',
         'DOMAIN-SUFFIX,cnn.com,Global',

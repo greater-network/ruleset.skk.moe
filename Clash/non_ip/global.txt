@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-04-29T07:54:03.232Z
-# Size: 548
+# Last Updated: 2024-05-04T16:29:21.284Z
+# Size: 549
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -450,6 +450,7 @@ DOMAIN-SUFFIX,coinex.com
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,cdpn.io
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdnst.net
 DOMAIN-SUFFIX,cnn.com
