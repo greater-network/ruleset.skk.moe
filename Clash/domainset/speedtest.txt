@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-05-02T17:05:56.107Z
-# Size: 1266
+# Last Updated: 2024-05-04T12:27:38.511Z
+# Size: 1267
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1056,6 +1056,7 @@ sp1.basinbroadband.ca
 sp3.basinbroadband.ca
 nl.blackhost.network
 speed.ccspublichost.com
+speedtest.cenosnetworks.net
 ubeeookla.chickenkiller.com
 speedtest.connectbv8.com.br
 speedtest.creolineserver.de

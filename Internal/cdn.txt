@@ -393,6 +393,7 @@ SUFFIX,cdn.s7s.ai
 SUFFIX,images.spr.so
 SUFFIX,tg.dev
 SUFFIX,ttl.sh
+SUFFIX,static.ui.com
 SUFFIX,secure-uploads.ui.com
 SUFFIX,account-cdn.svc.ui.com
 SUFFIX,net-fe-static-assets.network-controller.svc.ui.com
@@ -2190,6 +2191,7 @@ SUFFIX,snapchat.com
 SUFFIX,static.snapchat.com
 SUFFIX,dl.snipaste.com
 SUFFIX,download.snipaste.com
+SUFFIX,useruploads.socratic.org
 SUFFIX,assets.stickpng.com
 SUFFIX,stripcdn.com
 SUFFIX,substack.com
