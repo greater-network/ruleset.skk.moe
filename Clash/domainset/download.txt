@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-05-04T16:29:21.247Z
-# Size: 214
+# Last Updated: 2024-05-06T13:45:30.010Z
+# Size: 215
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -171,6 +171,7 @@ dlcdnets.asus.com
 download.cpuid.com
 desktop.wifiman.com
 dl.ubnt.com
+artifacts.electronjs.org
 +.steamcontent.com
 +.steamserver.net
 +.content.steampowered.com

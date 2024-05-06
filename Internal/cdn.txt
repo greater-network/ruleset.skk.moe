@@ -1647,6 +1647,7 @@ SUFFIX,imgrs.apkcombo.com
 SUFFIX,cdn.ashbyprd.com
 SUFFIX,prod.public.atl-paas.net
 SUFFIX,confluence-v1.prod.atl-paas.net
+SUFFIX,jira-frontend-bifrost.prod-east.frontend.public.atl-paas.net
 SUFFIX,autodraw.com
 SUFFIX,avdocker.com
 SUFFIX,assets.awwwards.com
@@ -1848,6 +1849,7 @@ SUFFIX,cdn3.onlyfans.com
 SUFFIX,static.onlyfans.com
 SUFFIX,thumbs.onlyfans.com
 SUFFIX,onrender.com
+SUFFIX,open-vsx.org
 SUFFIX,operacdn.com
 SUFFIX,i.optimole.com
 SUFFIX,cdn-images.orbstack.dev
@@ -2317,6 +2319,7 @@ SUFFIX,icons.duckduckgo.com
 SUFFIX,external-content.duckduckgo.com
 SUFFIX,ebaystatic.com
 SUFFIX,cdn2.editmysite.com
+SUFFIX,artifacts.electronjs.org
 SUFFIX,images.emojiterra.com
 SUFFIX,images.everyplate.com
 SUFFIX,feedburner.com
