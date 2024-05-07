@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-05-02T17:05:52.616Z
-# Size: 743
+# Last Updated: 2024-05-07T17:16:27.484Z
+# Size: 741
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,6 +9,7 @@
 # This file contains known addresses that are avaliable in the Mainland China.
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,ocsp.digicert.cn
 DOMAIN,lv.queniujq.cn
 DOMAIN,xboxlive.cn
 DOMAIN,www.intel.cn
@@ -16,7 +17,6 @@ DOMAIN,www.layuicdn.com
 DOMAIN,cn.download.nvidia.com
 DOMAIN,cdn.bootcss.com
 DOMAIN,cdn.bootcdn.net
-DOMAIN,gs-loc-cn.apple.com
 DOMAIN-SUFFIX,elemecdn.com
 DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,etao.com
@@ -65,6 +65,22 @@ DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acfun.cn
+DOMAIN-SUFFIX,gdtimg.com
+DOMAIN-SUFFIX,gtimg.com
+DOMAIN-SUFFIX,gtimg.com.cn
+DOMAIN-SUFFIX,gtimg.cn
+DOMAIN-SUFFIX,guoguo-app.com
+DOMAIN-SUFFIX,geetest.com
+DOMAIN-SUFFIX,geilicdn.com
+DOMAIN-SUFFIX,gaode.com
+DOMAIN-SUFFIX,gaokao.cn
+DOMAIN-SUFFIX,gamersky.com
+DOMAIN-SUFFIX,gotokeep.com
+DOMAIN-SUFFIX,godic.net
+DOMAIN-SUFFIX,gov.cn
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitcode.com
+DOMAIN-SUFFIX,gifshow.com
 DOMAIN-SUFFIX,xycloud.com
 DOMAIN-SUFFIX,xycdn.com
 DOMAIN-SUFFIX,xunyou.mobi
@@ -324,6 +340,34 @@ DOMAIN-SUFFIX,wpscdn.cn
 DOMAIN-SUFFIX,wpscdn.com
 DOMAIN-SUFFIX,wps.cn
 DOMAIN-SUFFIX,wo.cn
+DOMAIN-SUFFIX,ixgvideo.com
+DOMAIN-SUFFIX,ixiguavideo.com
+DOMAIN-SUFFIX,ixigua.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN-SUFFIX,igamecj.com
+DOMAIN-SUFFIX,ialicdn.com
+DOMAIN-SUFFIX,infinitynewtab.com
+DOMAIN-SUFFIX,ifengimg.com
+DOMAIN-SUFFIX,ifeng.com
+DOMAIN-SUFFIX,ibuscloud.com
+DOMAIN-SUFFIX,ibreader.com
+DOMAIN-SUFFIX,ithome.com
+DOMAIN-SUFFIX,itc.cn
+DOMAIN-SUFFIX,iconfont.cn
+DOMAIN-SUFFIX,icourse163.org
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,iciba.com
+DOMAIN-SUFFIX,iqiyipic.com
+DOMAIN-SUFFIX,iqiyi.com
+DOMAIN-SUFFIX,idqqimg.com
+DOMAIN-SUFFIX,id6.com
+DOMAIN-SUFFIX,id6.me
+DOMAIN-SUFFIX,ipip.net
+DOMAIN-SUFFIX,ipanda.net
+DOMAIN-SUFFIX,ipanda.com
+DOMAIN-SUFFIX,ipanda.com.cn
+DOMAIN-SUFFIX,ipanda.cn
+DOMAIN-SUFFIX,ip138.com
 DOMAIN-SUFFIX,bcebos.com
 DOMAIN-SUFFIX,bcelive.com
 DOMAIN-SUFFIX,byted-static.com
@@ -369,52 +413,6 @@ DOMAIN-SUFFIX,baishancdnx.cn
 DOMAIN-SUFFIX,battlenet.com.cn
 DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,b23.tv
-DOMAIN-SUFFIX,gdtimg.com
-DOMAIN-SUFFIX,gtimg.com
-DOMAIN-SUFFIX,gtimg.com.cn
-DOMAIN-SUFFIX,gtimg.cn
-DOMAIN-SUFFIX,guoguo-app.com
-DOMAIN-SUFFIX,geetest.com
-DOMAIN-SUFFIX,geilicdn.com
-DOMAIN-SUFFIX,gaode.com
-DOMAIN-SUFFIX,gaokao.cn
-DOMAIN-SUFFIX,gamersky.com
-DOMAIN-SUFFIX,gotokeep.com
-DOMAIN-SUFFIX,godic.net
-DOMAIN-SUFFIX,gov.cn
-DOMAIN-SUFFIX,gitee.com
-DOMAIN-SUFFIX,gitcode.com
-DOMAIN-SUFFIX,gifshow.com
-DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com
-DOMAIN-SUFFIX,ixgvideo.com
-DOMAIN-SUFFIX,ixiguavideo.com
-DOMAIN-SUFFIX,ixigua.com
-DOMAIN-SUFFIX,iesdouyin.com
-DOMAIN-SUFFIX,igamecj.com
-DOMAIN-SUFFIX,ialicdn.com
-DOMAIN-SUFFIX,infinitynewtab.com
-DOMAIN-SUFFIX,ifengimg.com
-DOMAIN-SUFFIX,ifeng.com
-DOMAIN-SUFFIX,ibuscloud.com
-DOMAIN-SUFFIX,ibreader.com
-DOMAIN-SUFFIX,ithome.com
-DOMAIN-SUFFIX,itc.cn
-DOMAIN-SUFFIX,iqiyipic.com
-DOMAIN-SUFFIX,iqiyi.com
-DOMAIN-SUFFIX,idqqimg.com
-DOMAIN-SUFFIX,id6.com
-DOMAIN-SUFFIX,id6.me
-DOMAIN-SUFFIX,ipip.net
-DOMAIN-SUFFIX,ipanda.net
-DOMAIN-SUFFIX,ipanda.com
-DOMAIN-SUFFIX,ipanda.com.cn
-DOMAIN-SUFFIX,ipanda.cn
-DOMAIN-SUFFIX,ip138.com
-DOMAIN-SUFFIX,iconfont.cn
-DOMAIN-SUFFIX,icourse163.org
-DOMAIN-SUFFIX,icbc.com.cn
-DOMAIN-SUFFIX,iciba.com
-DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN-SUFFIX,luojilab.com
 DOMAIN-SUFFIX,ludashi.com
 DOMAIN-SUFFIX,lagou.com

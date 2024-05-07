@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-05-06T13:45:30.006Z
-# Size: 2369
+# Last Updated: 2024-05-07T17:16:27.629Z
+# Size: 2370
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -263,6 +263,7 @@ safebrowsing.googleapis.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
 events-live.apple.com
+events-delivery.apple.com
 pba.apple.com
 wwwimages2.adobe.com
 +.adobeccstatic.com

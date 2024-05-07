@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-05-06T12:31:13.447Z
-# Size: 1272
+# Last Updated: 2024-05-07T17:16:36.517Z
+# Size: 1273
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -382,6 +382,7 @@ wiwan66.seattle.westnet.ca
 +.wifiman.me
 srv05.wildzun.fr
 laspeed.wiline.com
+laxla0001speedtestserver01.wiline.com
 speedam.wsp.net.br
 spdtst.xenyth.net
 dpop.yondoo.com

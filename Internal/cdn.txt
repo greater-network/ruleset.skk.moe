@@ -534,6 +534,7 @@ SUFFIX,events-live.apple.com
 SUFFIX,hls-amt.itunes.apple.com
 SUFFIX,np-edge.itunes.apple.com
 SUFFIX,uts-api.itunes.apple.com
+SUFFIX,events-delivery.apple.com
 SUFFIX,play-edge.itunes.apple.com
 SUFFIX,s3.arkjp.net
 SUFFIX,static.arxiv.org
