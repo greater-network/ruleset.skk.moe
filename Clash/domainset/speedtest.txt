@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-05-07T17:16:36.517Z
-# Size: 1273
+# Last Updated: 2024-05-09T12:30:08.918Z
+# Size: 1275
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -129,6 +129,7 @@ speedtest-ams.retn.net
 speedtest-lon.retn.net
 speedtest-msk.retn.net
 speedtest-fkt-eqx.retn.net
+speed2.seite.me
 speedtest.sewan.fr
 test.slic.com
 speedtest-london.start.ca
@@ -1077,6 +1078,7 @@ teste.easytecham.com.br
 srvteste.edntelecom.net.br
 velocidade.exytelecom.com.br
 spd-01.thn.fullfibre.systems
+speedtest.fra01.fusionflare.cloud
 speedtest.hearstconnect.com
 teste.jlatelecom.com.br
 teste.mwhtelecom.com.br
