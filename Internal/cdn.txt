@@ -2588,6 +2588,7 @@ SUFFIX,cdn-app.pathfactory.com
 SUFFIX,permaweb.eu.org
 SUFFIX,edge.personalizer.io
 SUFFIX,photobucket.com
+SUFFIX,placekitten.com
 SUFFIX,gmedia.playstation.com
 SUFFIX,static.playstation.com
 SUFFIX,web-toolbar.playstation.com
