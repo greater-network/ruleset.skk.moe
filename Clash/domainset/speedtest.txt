@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-05-10T16:08:06.703Z
+# Last Updated: 2024-05-10T16:36:43.768Z
 # Size: 1270
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -1023,7 +1023,7 @@ speedtest3.rvconnect.com.br
 speedtest.serverpronto.com
 5g.shunicomtest.com
 servidor.speedplay.com.br
-speedtest.com.sg
++.speedtest.com.sg
 +.speedtest.idv.tw
 speedtest3.suchthosting.net
 speedtest.syscom.manaus.br
@@ -1122,7 +1122,7 @@ teste.linkonfibra.com.br
 +.measurementlab.net
 speedtest.newberlinfiber.net
 speedtest.ollatelecom.com.br
-ookla.ddnsgeek.com
++.ookla.ddnsgeek.com
 bne-speed.overthewire.com.au
 mel-speed.overthewire.com.au
 syd-speed.overthewire.com.au
