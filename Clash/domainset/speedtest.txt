@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-05-11T12:28:33.468Z
-# Size: 912
+# Last Updated: 2024-05-11T16:20:58.545Z
+# Size: 916
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -70,6 +70,7 @@ speedtest.auratelecom.com.br
 speed.ade.aussiebroadband.com.au
 speed.bne.aussiebroadband.com.au
 speed.mel.aussiebroadband.com.au
+speed.per.aussiebroadband.com.au
 speed.syd.aussiebroadband.com.au
 speed.msk.avantel.ru
 speedtest.axclusive.com.sg
@@ -247,6 +248,7 @@ teste.freedomnetwork.net.br
 +.speedtest.frontier.com
 east-speedtest.frontiernetworks.ca
 speedtest-nxtb2.fsg-hosting.com
+speedtest-nxtp1.fsg-hosting.com
 speedtest-nxts1.fsg-hosting.com
 speedtest-eqxae1.fsg-hosting.com
 +.ookla-speedtest.fsr.com
@@ -548,6 +550,7 @@ speedtest-bri.optusnet.com.au
 speedtest-ebw.optusnet.com.au
 speedtest-syd.optusnet.com.au
 speedtest-darwin-nt.optusnet.com.au
+speedtest-marion-sa.optusnet.com.au
 speedtest-townsville-qld.optusnet.com.au
 speedtest-limestonecoast-sa.optusnet.com.au
 +.speedtest.orange.fr
@@ -723,24 +726,24 @@ servidor.speedplay.com.br
 +.speedtest.idv.tw
 +.speedtest.net
 +.speedtestcustom.com
+speedtesteamconnect.com.br
 +.speedtestkorea.com
 +.speedtestunonet.com.br
-+.speedtest.starhub.com
-speed-server3.summit-broadband.com
-suntechspeedtest.com
-speedtesteamconnect.com.br
 speedtest01.syd1.spintel.net.au
 qld-speedtest.spirit.com.au
 vic-speedtest.spirit.com.au
 speed1.spitfireuk.net
 speedtest.springfibre.com
 speedtest.sptel.com
++.speedtest.starhub.com
 speedtest-server-lax.starry.com
 speedtest-server-nyc.starry.com
 speedtest-london.start.ca
 ookla-speedtest.starverse.network
 speedtest.sugiartana.net
+speed-server3.summit-broadband.com
 dallas-st.sumofiber.com
+suntechspeedtest.com
 speedtest.sunucum.net.tr
 speedtest.sunucun.com.tr
 spd01-adl.au.superloop.com
@@ -798,6 +801,7 @@ speedtest.teslatel.ru
 speedtest-syd.thecore.net.au
 speedtest.three.com.hk
 sosimhk.datapath.three.com.hk
+speedtest.thryve.com.au
 tu.ticco.ae
 speedtest.tigo.cr
 spetstmns01.timbrasil.com.br
