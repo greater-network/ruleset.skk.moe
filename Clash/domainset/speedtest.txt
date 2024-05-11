@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-05-11T07:47:16.182Z
+# Last Updated: 2024-05-11T12:28:33.468Z
 # Size: 912
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -723,18 +723,18 @@ servidor.speedplay.com.br
 +.speedtest.idv.tw
 +.speedtest.net
 +.speedtestcustom.com
++.speedtestkorea.com
++.speedtestunonet.com.br
++.speedtest.starhub.com
 speed-server3.summit-broadband.com
 suntechspeedtest.com
 speedtesteamconnect.com.br
-+.speedtestkorea.com
-+.speedtestunonet.com.br
 speedtest01.syd1.spintel.net.au
 qld-speedtest.spirit.com.au
 vic-speedtest.spirit.com.au
 speed1.spitfireuk.net
 speedtest.springfibre.com
 speedtest.sptel.com
-+.speedtest.starhub.com
 speedtest-server-lax.starry.com
 speedtest-server-nyc.starry.com
 speedtest-london.start.ca
