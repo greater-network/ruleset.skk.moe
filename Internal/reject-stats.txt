@@ -1,4 +1,4 @@
-r2.dev                                                                                              3491
+r2.dev                                                                                              3480
 cloudfront.net                                                                                      1235
 jdie.pl                                                                                             892
 mydays.de                                                                                           690
@@ -13,7 +13,7 @@ happycustomer.io                                                                
 movidesk.com                                                                                        133
 autotrdes.top                                                                                       130
 twojedom.pl                                                                                         124
-weebly.com                                                                                          120
+weebly.com                                                                                          121
 wurp.pl                                                                                             120
 windows.com                                                                                         119
 baidu.com                                                                                           117
@@ -38,7 +38,7 @@ gaznf.xyz                                                                       
 trekkeeee.fun                                                                                       80
 cosmicnewspulse.com                                                                                 78
 ebutudan.com                                                                                        78
-amazonaws.com                                                                                       76
+amazonaws.com                                                                                       75
 openapp.link                                                                                        75
 ktt55.my.id                                                                                         71
 ralt.site                                                                                           71
@@ -51,12 +51,12 @@ awicksin.com                                                                    
 choiseprog.xyz                                                                                      67
 diskxz.pl                                                                                           66
 canfxprog.site                                                                                      65
-codeanyapp.com                                                                                      65
 focalink.com                                                                                        65
 kisspark.info                                                                                       65
 order0912401.info                                                                                   65
 adtech.fr                                                                                           64
 adtech.us                                                                                           64
+codeanyapp.com                                                                                      64
 scenico.pl                                                                                          64
 ximprrove.top                                                                                       64
 you2.pl                                                                                             64
@@ -65,11 +65,11 @@ canpeoplefx.site                                                                
 cal24.pl                                                                                            60
 miwr.pl                                                                                             60
 prxof.live                                                                                          60
+sviluppo.host                                                                                       59
+hoster-test.ru                                                                                      58
 order9351.info                                                                                      58
-sviluppo.host                                                                                       58
-hoster-test.ru                                                                                      57
-sjri.pl                                                                                             57
 taobao.com                                                                                          57
+sjri.pl                                                                                             56
 bravenet.com                                                                                        55
 adktrack32.xyz                                                                                      54
 canmaxiprog.site                                                                                    53
@@ -92,7 +92,6 @@ trdechat.top                                                                    
 olled.xyz                                                                                           48
 dkonto.pl                                                                                           47
 redmed1.xyz                                                                                         47
-wpenginepowered.com                                                                                 47
 anwalt.de                                                                                           46
 byseniscon.top                                                                                      46
 eutradepeopl.top                                                                                    46
@@ -100,6 +99,7 @@ knto.cloud                                                                      
 ordernew484822.info                                                                                 46
 pandasuite.io                                                                                       46
 sina.com.cn                                                                                         46
+wpenginepowered.com                                                                                 46
 fjao.pl                                                                                             45
 hstn.me                                                                                             45
 kolotas.top                                                                                         45
@@ -132,10 +132,10 @@ btspolsky.top                                                                   
 dnsrobotuptime.ru                                                                                   39
 manasan.top                                                                                         39
 order9512951.info                                                                                   39
+pages.dev                                                                                           39
 polex.live                                                                                          39
 trytoku.com                                                                                         39
 aimedia.lk                                                                                          38
-blogspot.com                                                                                        38
 depilid.site                                                                                        38
 oberd.com                                                                                           38
 sportbetsignupcode.com                                                                              38
@@ -148,6 +148,7 @@ in-group.xyz                                                                    
 inventnamb.click                                                                                    37
 newlvlpro.top                                                                                       37
 appspot.com                                                                                         36
+blogspot.com                                                                                        36
 can-info.site                                                                                       36
 dfirma.pl                                                                                           36
 dioprl.pl                                                                                           36
@@ -171,7 +172,6 @@ espmp-aufr.net                                                                  
 inforedan.space                                                                                     33
 kowt.site                                                                                           33
 microsoft.com                                                                                       33
-pages.dev                                                                                           33
 traidinfomes.space                                                                                  33
 vot.pl                                                                                              33
 app-gro.online                                                                                      32
@@ -221,7 +221,6 @@ activeprog1.space                                                               
 akamaihd.net                                                                                        28
 aleragroup.com                                                                                      28
 dreamwp.com                                                                                         28
-group-telegram.my.id                                                                                28
 infbal.site                                                                                         28
 newprogram.top                                                                                      28
 online-like1.site                                                                                   28
@@ -240,6 +239,7 @@ aremedia.com.au                                                                 
 b-cdn.net                                                                                           26
 fishingreelinvestment.com                                                                           26
 glam.com                                                                                            26
+group-telegram.my.id                                                                                26
 ltvsistem.site                                                                                      26
 online.pro                                                                                          26
 plfcaty.xyz                                                                                         26
@@ -355,7 +355,6 @@ nimprove.top                                                                    
 p6qf8cqa0.com                                                                                       21
 pltradelife.top                                                                                     21
 redandprog.site                                                                                     21
-skrl.pl                                                                                             21
 topprogit.xyz                                                                                       21
 treespll.site                                                                                       21
 windows.net                                                                                         21
@@ -376,11 +375,11 @@ order1191966.info                                                               
 order919.info                                                                                       20
 ordernew12312517.info                                                                               20
 sfr.fr                                                                                              20
+skrl.pl                                                                                             20
 snml.pl                                                                                             20
 sohu.com                                                                                            20
 tesamaztrust.live                                                                                   20
 treespl.site                                                                                        20
-vercel.app                                                                                          20
 westmom.site                                                                                        20
 3t0g.icu                                                                                            19
 anticrsss1-ep.xyz                                                                                   19
@@ -411,6 +410,7 @@ lisanse.com                                                                     
 marcoprzy.net.pl                                                                                    18
 market-search.online                                                                                18
 mlb.com                                                                                             18
+netlify.app                                                                                         18
 newsiteok.site                                                                                      18
 ni.com                                                                                              18
 np6.com                                                                                             18
@@ -494,6 +494,7 @@ syri.pl                                                                         
 topya.com                                                                                           16
 trdeone.top                                                                                         16
 waonlineprogram.top                                                                                 16
+wixsite.com                                                                                         16
 wm-marketing.it                                                                                     16
 x24hr.com                                                                                           16
 xtnew.click                                                                                         16
@@ -541,7 +542,6 @@ t-mobile.com                                                                    
 tradelifeworld.top                                                                                  15
 tradepeoplexf.top                                                                                   15
 tx1tx.click                                                                                         15
-vrl2023.com                                                                                         15
 waonline.site                                                                                       15
 wcomhost.com                                                                                        15
 wetss.xyz                                                                                           15
@@ -589,8 +589,8 @@ martastas.pl                                                                    
 mastertrd.xyz                                                                                       14
 mastt.xyz                                                                                           14
 miliomp.xyz                                                                                         14
+miracle-chain.com                                                                                   14
 my-chatprogram.xyz                                                                                  14
-netlify.app                                                                                         14
 newaistar.top                                                                                       14
 njrrs.com                                                                                           14
 onet.pl                                                                                             14
@@ -609,6 +609,7 @@ tajawal.com                                                                     
 ttssonine.top                                                                                       14
 utgv.pl                                                                                             14
 vivo.com.cn                                                                                         14
+vrl2023.com                                                                                         14
 womenforum.top                                                                                      14
 x9.eu                                                                                               14
 yandex.ru                                                                                           14
@@ -628,8 +629,6 @@ eqin.one                                                                        
 free9k.site                                                                                         13
 fxworldkol.info                                                                                     13
 gcion.com                                                                                           13
-github.io                                                                                           13
-glitch.me                                                                                           13
 goguardian.com                                                                                      13
 groc.press                                                                                          13
 ifnprog.xyz                                                                                         13
@@ -646,7 +645,6 @@ maswwo.xyz                                                                      
 maxi-bl0g.site                                                                                      13
 metregplt.top                                                                                       13
 mi.com                                                                                              13
-miracle-chain.com                                                                                   13
 monday.com                                                                                          13
 myvipkontos.work                                                                                    13
 natwest.com                                                                                         13
@@ -698,6 +696,7 @@ ferreta.xyz                                                                     
 fgfmail.org                                                                                         12
 fluidads.com                                                                                        12
 fxxmaxtrade.top                                                                                     12
+github.io                                                                                           12
 goo.ne.jp                                                                                           12
 id-safety.xyz                                                                                       12
 iwonacisek.pl                                                                                       12
@@ -750,12 +749,12 @@ torgsystem.space                                                                
 tp2-axz.xyz                                                                                         12
 traveloust.com                                                                                      12
 trisp.pl                                                                                            12
+vercel.app                                                                                          12
 verintsystemsinc.com                                                                                12
 vmkfz.at                                                                                            12
 vonage.com                                                                                          12
 welerpro.com                                                                                        12
 westernunion.com                                                                                    12
-wixsite.com                                                                                         12
 worldfxlife.top                                                                                     12
 worldtrades.top                                                                                     12
 x4q4g2zy7.com                                                                                       12
@@ -788,6 +787,7 @@ e-food.gr                                                                       
 foody.com.cy                                                                                        11
 ft.com                                                                                              11
 glasswerxx.com                                                                                      11
+glitch.me                                                                                           11
 goxsite.top                                                                                         11
 greensorrow.com                                                                                     11
 gzpr.xyz                                                                                            11
@@ -1005,7 +1005,6 @@ vab5.cfd                                                                        
 valhaalla.xyz                                                                                       10
 vice.com                                                                                            10
 wellskc.xyz                                                                                         10
-workers.dev                                                                                         10
 woronka.com.pl                                                                                      10
 youdao.com                                                                                          10
 zebra.com                                                                                           10
