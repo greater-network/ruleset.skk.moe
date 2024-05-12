@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-05-11T16:20:58.545Z
-# Size: 916
+# Last Updated: 2024-05-12T17:25:48.706Z
+# Size: 927
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -45,6 +45,7 @@ ookla.amazoniasat-isp.com.br
 ookla-itacoatiara.amazoniasat-isp.com.br
 velocidade.amazoniatelecom.com.br
 teste.amcnetwork.com.br
+speedtest.americatelecom.net.br
 speedtest.amnet.net.br
 +.speedtest.angolacables.co.ao
 speedtest.anksoft.net
@@ -136,6 +137,7 @@ librarian.comstar.ru
 speedtest2.comvergence.com.au
 speedtestsvq01.comvive.es
 speedtest.conecta-soluciones.com
+speedtest.conectaamazonia.com.br
 velocidade.conectstelecom.com.br
 speedtest.connectbv8.com.br
 +.speedtest.contabo.net
@@ -308,6 +310,7 @@ kh1.chtm.hinet.net
 tc1.chtm.hinet.net
 tn1.chtm.hinet.net
 tp1.chtm.hinet.net
+ty1.chtm.hinet.net
 ntp1.chtm.hinet.net
 hiztesti.hiperbox.com.tr
 speedtest.dal.hivelocity.net
@@ -568,6 +571,7 @@ speednld.phoenixnap.com
 speedsin.phoenixnap.com
 speedtest.pilotfiber.com
 speedtest.pingless.com
+speedtest.pinguimtelecom.net.br
 lg.mia.plasmarack.com
 ookla.playmaisreverso.net.br
 +.speedtest.pni.tw
@@ -630,6 +634,7 @@ speedtest-msk.retn.net
 speedtest-fkt-eqx.retn.net
 speedtest.rit.edu
 speedtest.riv.com.mx
+speed.rnp-net.com.br
 speedtest1.net.rochester.edu
 stguelph.rogers.com
 stlondon.rogers.com
@@ -641,6 +646,7 @@ ststthomas.rogers.com
 stbrantford.rogers.com
 stetobicoke.rogers.com
 stkitchener.rogers.com
+ststratford.rogers.com
 stwoodstock.rogers.com
 stmississauga.rogers.com
 stscarborough.rogers.com
@@ -665,6 +671,7 @@ ststcatharineswireless.rogers.com
 stwellandpelhamwireless.rogers.com
 speedtest.ropa.de
 speedtest.roraimanet.com.br
+teste.routinger.com.br
 speedtest.routinger.com.br
 speedtest.nyc.rr.com
 syrny-speedtest-02.nyroc.rr.com
@@ -684,6 +691,7 @@ mia01.screenshot.download
 nyc01.screenshot.download
 speed.sdmnet.com.br
 speedtest.seaside.ns.ca
+spt1.seed.net.tw
 fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetyl1.seed.net.tw
@@ -836,6 +844,7 @@ sb-speedtest-1.twmbroadband.net
 speedtest.ufinetlatam.net
 speedtest.uia.net
 speed-test.ukservers.com
+stest.ultraconnect.com.br
 speedtest.unitelecom.net.br
 speedtest.unlimitedfiber.com
 speedtest.uplinkrr.com.br
@@ -865,6 +874,7 @@ velocimetro-mns.virtua.com.br
 speedtest.visiontelecom.com.br
 velocidade.vlctelecom.com.br
 speedtest.dc3.vmvault.com.au
+btestmcp.vocetelecom.vc
 speedtest-ade.vocus.net
 speedtest-bne.vocus.net
 speedtest-mel.vocus.net
@@ -908,6 +918,7 @@ velocimetro.wiretelecom.com.br
 speed1.wirsnet.com
 de-speedtest.woks.com.tr
 speedtest01.wowrack.com
+teste.wsfibra.com.br
 speedam.wsp.net.br
 speedtest.miam.fl.wtsky.net
 speedtest.xcdtelecom.com
