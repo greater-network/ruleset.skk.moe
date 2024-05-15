@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-05-14T12:32:20.349Z
-# Size: 929
+# Last Updated: 2024-05-15T12:32:51.228Z
+# Size: 933
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -159,6 +159,7 @@ speedtest.cyberlink.net.br
 speedtestuk1.cybersmart.co.za
 speedtest3.dacor.de
 speed.data.cr
+speedtest.datafex.com.tr
 pauseq4vost1.datamossa.cloud
 +.speedtest.dchost.com
 speedtest.dcs1.biz
@@ -350,6 +351,7 @@ toronto-speedtest-1.hostingswift.com
 amsterdam-speedtest-1.hostingswift.com
 frankfurt-speedtest-1.hostingswift.com
 speedtest.hostingturkiye.com.tr
+spd-tr-bursa.hostlayici.net
 speedtest.hostopya.com
 speedtest-la.hostsailor.com
 speedtest.thn.uk.hso-group.net
@@ -514,6 +516,7 @@ speedtest.netflash.net
 speedtest-c.netgear.com
 netgearsj.com
 speedcheck.netknox.de
+speed.netlara.com
 speedtest.syd.netsg.net.au
 stizmir.netspeed.net.tr
 +.netspeedtestmaster.com
@@ -571,6 +574,7 @@ speedtestsg.perwiramedia.co.id
 s1.pfst.ru
 speednld.phoenixnap.com
 speedsin.phoenixnap.com
+speedtest.phoenixsunucum.com
 speedtest.pilotfiber.com
 speedtest.pingless.com
 speedtest.pinguimtelecom.net.br
