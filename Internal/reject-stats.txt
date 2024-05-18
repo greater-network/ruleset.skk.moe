@@ -1,6 +1,5 @@
 r2.dev                                                                                              3530
 cloudfront.net                                                                                      1240
-jdie.pl                                                                                             892
 mydays.de                                                                                           488
 jdhs.pl                                                                                             344
 nmdj.pl                                                                                             256
@@ -447,7 +446,6 @@ dirks.pl                                                                        
 focus.de                                                                                            17
 loluiza.pl                                                                                          17
 mastertrd.xyz                                                                                       17
-opinionjet.com                                                                                      17
 order941.info                                                                                       17
 ordernew25731110.info                                                                               17
 ourtablets.com                                                                                      17
