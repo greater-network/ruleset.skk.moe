@@ -1,8 +1,5 @@
 r2.dev                                                                                              3530
 cloudfront.net                                                                                      1240
-mydays.de                                                                                           488
-hubside.fr                                                                                          184
-solidinterimmanagement.nl                                                                           160
 happycustomer.io                                                                                    128
 weebly.com                                                                                          124
 windows.com                                                                                         119
@@ -10,7 +7,6 @@ baidu.com                                                                       
 qq.com                                                                                              117
 movidesk.com                                                                                        111
 yinzcam.com                                                                                         106
-adkclicker.fr                                                                                       101
 llnw.net                                                                                            101
 adobe.com                                                                                           96
 playmetrics.com                                                                                     95
@@ -21,15 +17,11 @@ ebutudan.com                                                                    
 trekkeeee.fun                                                                                       78
 openapp.link                                                                                        75
 pages.dev                                                                                           75
-adktrack34.xyz                                                                                      73
 netspend.com                                                                                        71
 ktt55.my.id                                                                                         70
 msn.com                                                                                             70
 awicksin.com                                                                                        67
 focalink.com                                                                                        65
-adtech.fr                                                                                           64
-adtech.us                                                                                           64
-adktrack32.xyz                                                                                      62
 codeanyapp.com                                                                                      57
 taobao.com                                                                                          57
 newsbeala.com                                                                                       56
@@ -58,7 +50,6 @@ bankmillenium-pl.com                                                            
 espmp-cufr.net                                                                                      40
 supplypoland.com                                                                                    40
 cdn77.org                                                                                           39
-dnsrobotuptime.ru                                                                                   39
 oberd.com                                                                                           39
 aimedia.lk                                                                                          38
 samsung.com                                                                                         38
@@ -67,7 +58,6 @@ blogspot.com                                                                    
 covidvcfund.com                                                                                     37
 appspot.com                                                                                         36
 innovatedating.com                                                                                  36
-icanmining.ru                                                                                       35
 m-shop.me                                                                                           35
 aliyuncs.com                                                                                        34
 intuit.com                                                                                          34
@@ -133,7 +123,6 @@ akadns.net                                                                      
 townsquaremedia.info                                                                                22
 unity3d.com                                                                                         22
 wixstudio.io                                                                                        22
-adktrack30.xyz                                                                                      21
 adp.ca                                                                                              21
 aq2e.com                                                                                            21
 cnn.com                                                                                             21
@@ -146,7 +135,6 @@ fcyz.my.id                                                                      
 happ.social                                                                                         21
 herokuapp.com                                                                                       21
 hicloud.com                                                                                         21
-isavastore.com                                                                                      21
 nba.com                                                                                             21
 walmart.com                                                                                         21
 7bkzlyfvl.com                                                                                       20
@@ -161,6 +149,7 @@ sfr.fr                                                                          
 sohu.com                                                                                            20
 windows.net                                                                                         20
 y2sysv81v.com                                                                                       20
+adktrack34.xyz                                                                                      19
 att.com                                                                                             19
 gamemods.com.tr                                                                                     19
 group-telegram.my.id                                                                                19
@@ -187,7 +176,6 @@ sunyclouds.com                                                                  
 zgoa097eh.com                                                                                       18
 163.com                                                                                             17
 4e8bjpldk.com                                                                                       17
-adktrack35.xyz                                                                                      17
 alicdn.com                                                                                          17
 biomedzglobal.com                                                                                   17
 blackboard.com                                                                                      17
@@ -395,7 +383,6 @@ sun-yeh.com                                                                     
 theiconic.com.au                                                                                    11
 yandex.net                                                                                          11
 activix.com                                                                                         10
-adktrack37.xyz                                                                                      10
 akamaized.net                                                                                       10
 alekssokalski.nieruchomosci.pl                                                                      10
 ampproject.org                                                                                      10
@@ -424,7 +411,6 @@ hoyoverse.com                                                                   
 id-4395.me                                                                                          10
 ifeng.com                                                                                           10
 insights.md                                                                                         10
-installprofi.nl                                                                                     10
 labcorp.com                                                                                         10
 lenovo.com                                                                                          10
 lexpress.fr                                                                                         10
