@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-05-12T17:25:41.731Z
-# Size: 742
+# Last Updated: 2024-05-18T19:19:36.898Z
+# Size: 744
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -183,6 +183,7 @@ DOMAIN-SUFFIX,ksmobile.com
 DOMAIN-SUFFIX,ks-cdn.com
 DOMAIN-SUFFIX,ksord.com
 DOMAIN-SUFFIX,ksosoft.com
+DOMAIN-SUFFIX,jomoxc.com
 DOMAIN-SUFFIX,jomodns.com
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jb51.net
@@ -453,6 +454,7 @@ DOMAIN-SUFFIX,dnspod.com
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,dxycdn.com
 DOMAIN-SUFFIX,dxy.cn
+DOMAIN-SUFFIX,duapp.com
 DOMAIN-SUFFIX,duokan.com
 DOMAIN-SUFFIX,duba.net
 DOMAIN-SUFFIX,dfcfw.com

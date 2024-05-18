@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-05-18T12:29:15.439Z
+// # Build 2024-05-18T19:19:37.295Z
 
 declare(strict_types=1);
 
@@ -258,6 +258,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ks-cdn.com,Domestic',
         'DOMAIN-SUFFIX,ksord.com,Domestic',
         'DOMAIN-SUFFIX,ksosoft.com,Domestic',
+        'DOMAIN-SUFFIX,jomoxc.com,Domestic',
         'DOMAIN-SUFFIX,jomodns.com,Domestic',
         'DOMAIN-SUFFIX,jpush.cn,Domestic',
         'DOMAIN-SUFFIX,jb51.net,Domestic',
@@ -528,6 +529,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dns.pub,Domestic',
         'DOMAIN-SUFFIX,dxycdn.com,Domestic',
         'DOMAIN-SUFFIX,dxy.cn,Domestic',
+        'DOMAIN-SUFFIX,duapp.com,Domestic',
         'DOMAIN-SUFFIX,duokan.com,Domestic',
         'DOMAIN-SUFFIX,duba.net,Domestic',
         'DOMAIN-SUFFIX,dfcfw.com,Domestic',
@@ -1901,7 +1903,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,fastly.net,Global',
         'DOMAIN-SUFFIX,facebook-hardware.com,Global',
         'DOMAIN-SUFFIX,facebook.com,Global',
-        'DOMAIN-SUFFIX,firefox.com,Global',
         'DOMAIN-SUFFIX,firebaseio.com,Global',
         'DOMAIN-SUFFIX,foxnews.com,Global',
         'DOMAIN-SUFFIX,forms.gle,Global',

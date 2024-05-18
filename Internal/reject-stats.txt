@@ -1,4 +1,4 @@
-r2.dev                                                                                              3552
+r2.dev                                                                                              3530
 cloudfront.net                                                                                      1240
 jdie.pl                                                                                             892
 mydays.de                                                                                           488
@@ -6,7 +6,7 @@ jdhs.pl                                                                         
 nmdj.pl                                                                                             256
 dopla.com.pl                                                                                        204
 chefs-kitchen.co.uk                                                                                 197
-hubside.fr                                                                                          186
+hubside.fr                                                                                          184
 solidinterimmanagement.nl                                                                           160
 unicainstrumentacao.com.br                                                                          146
 autotrdes.top                                                                                       134
@@ -67,13 +67,13 @@ canpeoplefx.site                                                                
 cal24.pl                                                                                            60
 miwr.pl                                                                                             60
 prxof.live                                                                                          60
-codeanyapp.com                                                                                      58
 order9351.info                                                                                      58
+codeanyapp.com                                                                                      57
 taobao.com                                                                                          57
 newsbeala.com                                                                                       56
 sjri.pl                                                                                             56
 bravenet.com                                                                                        55
-sviluppo.host                                                                                       55
+sviluppo.host                                                                                       54
 canmaxiprog.site                                                                                    53
 trdechat.top                                                                                        53
 arturivan.pl                                                                                        52
@@ -173,7 +173,6 @@ espmp-aufr.net                                                                  
 inforedan.space                                                                                     33
 kowt.site                                                                                           33
 microsoft.com                                                                                       33
-replit.app                                                                                          33
 traidinfomes.space                                                                                  33
 trytoku.com                                                                                         33
 vot.pl                                                                                              33
@@ -206,6 +205,7 @@ onlineprograms.xyz                                                              
 progipro.site                                                                                       30
 program-pro2.xyz                                                                                    30
 progrbest.top                                                                                       30
+replit.app                                                                                          30
 tradx.top                                                                                           30
 xe1v.lat                                                                                            30
 djmcy.pl                                                                                            29
@@ -392,7 +392,6 @@ att.com                                                                         
 cztessl.live                                                                                        19
 gamemods.com.tr                                                                                     19
 group-telegram.my.id                                                                                19
-homeunix.org                                                                                        19
 milldrop.xyz                                                                                        19
 mlb.com                                                                                             19
 netlify.app                                                                                         19
@@ -414,6 +413,7 @@ duums.xyz                                                                       
 fupa.net                                                                                            18
 github.io                                                                                           18
 golfballnutz.com                                                                                    18
+homeunix.org                                                                                        18
 id-4398.me                                                                                          18
 investtraderxreh.com                                                                                18
 lexisnexis.com                                                                                      18
@@ -503,7 +503,6 @@ sacors.top                                                                      
 sextracker.be                                                                                       16
 startone.top                                                                                        16
 supplypoland.company                                                                                16
-syri.pl                                                                                             16
 topya.com                                                                                           16
 trdeone.top                                                                                         16
 waonlineprogram.top                                                                                 16
@@ -530,7 +529,6 @@ liopah.top                                                                      
 masterch.top                                                                                        15
 maxi9blog.xyz                                                                                       15
 maxipl-system.xyz                                                                                   15
-miracle-chain.com                                                                                   15
 mlnone.top                                                                                          15
 mmtsa.top                                                                                           15
 moethennessy.com                                                                                    15
@@ -551,6 +549,7 @@ rambler.ru                                                                      
 rdl.pl                                                                                              15
 rewol-ucja-gazowa.com                                                                               15
 runeww1.site                                                                                        15
+syri.pl                                                                                             15
 t-mobile.com                                                                                        15
 tpced.com                                                                                           15
 tradelifeworld.top                                                                                  15
@@ -599,6 +598,7 @@ lidoks.xyz                                                                      
 martastas.pl                                                                                        14
 mastt.xyz                                                                                           14
 miliomp.xyz                                                                                         14
+miracle-chain.com                                                                                   14
 my-chatprogram.xyz                                                                                  14
 njrrs.com                                                                                           14
 onet.pl                                                                                             14

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-05-17T08:11:56.191Z
-# Size: 551
+# Last Updated: 2024-05-18T19:19:37.074Z
+# Size: 550
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -398,7 +398,6 @@ DOMAIN-SUFFIX,fb.com
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,facebook-hardware.com
 DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,firefox.com
 DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,forms.gle
