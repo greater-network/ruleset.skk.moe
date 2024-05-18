@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-05-18T20:25:10.050Z
+# Last Updated: 2024-05-18T20:29:11.856Z
 # Size: 59
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -19,13 +19,12 @@ DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,crazyegg.com
 DOMAIN-SUFFIX,openx.net
 DOMAIN-KEYWORD,wxsnsdy
-DOMAIN-KEYWORD,_vmind.qqvideo.tc.qq.com
 DOMAIN-KEYWORD,-tracker.biliapi.net
 DOMAIN-KEYWORD,-spiky.clevertap-prod.com
 DOMAIN-KEYWORD,-s2s.sensic.net
 DOMAIN-KEYWORD,-launches.appsflyersdk.com
 DOMAIN-KEYWORD,-logging.nextmedia.com
-DOMAIN-KEYWORD,-p.adktrack
+DOMAIN-KEYWORD,_vmind.qqvideo.tc.qq.com
 DOMAIN-KEYWORD,umeng
 DOMAIN-KEYWORD,telemetry.officeapps.live.com
 DOMAIN-KEYWORD,track.tiara
@@ -36,6 +35,7 @@ DOMAIN-KEYWORD,doubleclick.
 DOMAIN-KEYWORD,dubester.
 DOMAIN-KEYWORD,appsflyer
 DOMAIN-KEYWORD,adwords
+DOMAIN-KEYWORD,adktrack
 DOMAIN-KEYWORD,adjust.
 DOMAIN-KEYWORD,advertmarket
 DOMAIN-KEYWORD,admob
