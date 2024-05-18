@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-05-18T19:19:36.898Z
+# Last Updated: 2024-05-18T19:20:17.932Z
 # Size: 744
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
