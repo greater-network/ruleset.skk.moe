@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-05-17T06:24:21.597Z
-# Size: 2374
+# Last Updated: 2024-05-20T10:16:09.862Z
+# Size: 2377
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -170,6 +170,7 @@ secure.fanboy.co.nz
 +.ymq.cool
 +.addons.business
 cdn.robinpro.gallery
++.picsum.photos
 +.ipfs.lain.la
 pomf2.lain.la
 i.loli.best
@@ -901,6 +902,7 @@ spoppe-b.azureedge.net
 typescript.azureedge.net
 cdn.datatables.net
 +.jsdelivr.net
+uploads.sitepoint.com
 static.oomol.com
 +.fivetiu.com
 +.sixyik.com
@@ -1899,6 +1901,7 @@ res.cloudinary.com
 fiverr-res.cloudinary.com
 cloudinary-res.cloudinary.com
 newassets.hcaptcha.com
++.w-credentialless-staticblitz.com
 +.w-credentialless.staticblitz.com
 nr.staticblitz.com
 ghavatars.staticblitz.com
