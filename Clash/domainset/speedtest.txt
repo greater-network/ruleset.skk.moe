@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-05-20T12:33:23.954Z
-# Size: 1012
+# Last Updated: 2024-05-23T15:33:50.990Z
+# Size: 1020
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -264,6 +264,10 @@ st-1.fibrenest.net
 speedtest.finovy.com
 speedtest.fios.net.br
 speedtest.fixnet.com.tr
+bursaspeedtest.fixnet.com.tr
+izmirspeedtest.fixnet.com.tr
+istanbulspeedtest.fixnet.com.tr
+balikesirspeedtest.fixnet.com.tr
 speedtest1.flashwifi.com.br
 speed2.flawcra.cc
 speedtest.foxomy.com
@@ -321,6 +325,7 @@ speedtest-miami.grupogtd.com
 +.speedtest.gslnetworks.com
 +.test.gslnetworks.com.au
 +.speedtest.gslnetworks.com.au
+mars-speedtest.guzel.net.tr
 ofis3.guzelhosting.com
 speedtest.hay.net
 sp1.hcetelecom.com
@@ -498,6 +503,7 @@ speedtest.markahost.com.tr
 speedtest.maryno.net
 speedtest.massivemesh.com
 ookla.mbspeed.net
+ookla2.mbspeed.net
 +.measurement-lab.org
 +.measurementlab.net
 speedtest.meerfarbig.net
@@ -640,6 +646,7 @@ sakaryaspeedtest.posive.net
 istanbulspeedtest.posive.net
 balikesirspeedtest.posive.net
 canakkalespeedtest.posive.net
+kastamonuspeedtest.posive.net
 kirklarelispeedtest.posive.net
 postapps.com
 stcareiro.pplink.net.br
@@ -941,6 +948,7 @@ speedtest-ru.vdsina.ru
 speedtest.vee.com.tw
 speedtest.velosonet.com.br
 speedtest-lon.veloxserv.net
+irc.verimek.com
 izmir.verinomidns.com
 istanbul.verinomidns.com
 jp-nperf.verizon.net

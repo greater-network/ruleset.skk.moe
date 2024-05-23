@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-05-19T11:39:31.261Z
-# Size: 552
+# Last Updated: 2024-05-23T15:33:43.391Z
+# Size: 553
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -293,6 +293,7 @@ DOMAIN-SUFFIX,page.link
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,myfreecams.com
 DOMAIN-SUFFIX,muku.tv
+DOMAIN-SUFFIX,moon.fm
 DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mojang.com
