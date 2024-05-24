@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-05-24T12:19:53.191Z
-# Size: 1021
+# Last Updated: 2024-05-24T12:31:29.672Z
+# Size: 1022
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -780,6 +780,7 @@ speedtest01.ber.server.camp
 speed.lax-1.serverforge.org
 speedtest.serverpronto.com
 speedtest.mirror.serversaustralia.com.au
+serviciospablomella3.com.do
 speedtest.seveninternet.com.br
 speedtest.sewan-group.de
 speedtest.sewan.fr
