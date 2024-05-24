@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-05-23T15:33:43.391Z
-# Size: 553
+# Last Updated: 2024-05-24T12:19:47.953Z
+# Size: 565
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -74,6 +74,8 @@ DOMAIN-SUFFIX,npm.io
 DOMAIN-SUFFIX,npm.im
 DOMAIN-SUFFIX,npr.org
 DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,zlibrary-global.se
+DOMAIN-SUFFIX,z-library.se
 DOMAIN-SUFFIX,zaobao.com.sg
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,exhentai.org
@@ -86,6 +88,11 @@ DOMAIN-SUFFIX,ledger.com
 DOMAIN-SUFFIX,leetcode.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,lnkd.in
+DOMAIN-SUFFIX,libgen.fun
+DOMAIN-SUFFIX,libgen.lol
+DOMAIN-SUFFIX,libgen.st
+DOMAIN-SUFFIX,libgen.is
+DOMAIN-SUFFIX,libgen.rs
 DOMAIN-SUFFIX,linetv.tw
 DOMAIN-SUFFIX,lineshoppingseller.com
 DOMAIN-SUFFIX,linemyshop.com
@@ -225,6 +232,8 @@ DOMAIN-SUFFIX,sendgrid.net
 DOMAIN-SUFFIX,sendbird.com
 DOMAIN-SUFFIX,setapp.com
 DOMAIN-SUFFIX,saucenao.com
+DOMAIN-SUFFIX,singlelogin.re
+DOMAIN-SUFFIX,singlelogin.se
 DOMAIN-SUFFIX,signalusers.org
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,signal.art
@@ -536,6 +545,9 @@ DOMAIN-SUFFIX,apkmirror.com
 DOMAIN-SUFFIX,apk-dl.com
 DOMAIN-SUFFIX,apibay.org
 DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,annas-archive.org
+DOMAIN-SUFFIX,annas-archive.gs
+DOMAIN-SUFFIX,annas-archive.se
 DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,amazon.co.jp
