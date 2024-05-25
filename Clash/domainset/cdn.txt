@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-05-20T10:16:09.862Z
-# Size: 2377
+# Last Updated: 2024-05-25T12:29:50.115Z
+# Size: 2378
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1843,6 +1843,7 @@ cdn-sellix.com
 app-updates.agilebits.com
 cache.agilebits.com
 static.agilebits.com
+c.1password.com
 i.1password.com
 +.1passwordusercontent.com
 cdn.ghostery.com

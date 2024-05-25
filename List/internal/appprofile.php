@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-05-24T12:19:47.968Z
+// # Build 2024-05-25T12:29:50.318Z
 
 declare(strict_types=1);
 
@@ -937,6 +937,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ml.cdn-apple.com,Domestic',
         'DOMAIN-SUFFIX,music.apple.com,Domestic',
         'DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net,Domestic',
+        'DOMAIN-SUFFIX,ocsp2-lb.apple.com.akadns.net,Domestic',
         'DOMAIN-SUFFIX,ocsp.apple.com,Domestic',
         'DOMAIN-SUFFIX,ocsp2.apple.com,Domestic',
         'DOMAIN-SUFFIX,oscdn.apple.com,Domestic',
@@ -4725,6 +4726,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,202.41.248.0/21,Domestic',
         'IP-CIDR,202.46.224.0/22,Domestic',
         'IP-CIDR,202.47.104.0/21,Domestic',
+        'IP-CIDR,202.57.192.0/24,Domestic',
         'IP-CIDR,202.59.214.0/24,Domestic',
         'IP-CIDR,202.60.112.0/20,Domestic',
         'IP-CIDR,202.60.132.0/22,Domestic',
