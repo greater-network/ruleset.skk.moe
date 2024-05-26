@@ -1,4 +1,4 @@
-r2.dev                                                                                              3512
+r2.dev                                                                                              3499
 cloudfront.net                                                                                      1245
 weebly.com                                                                                          125
 windows.com                                                                                         119
@@ -24,11 +24,11 @@ focalink.com                                                                    
 taobao.com                                                                                          57
 bravenet.com                                                                                        55
 eccocar.com                                                                                         52
-codeanyapp.com                                                                                      51
 plus.com                                                                                            51
 townsquarenewsletters.com                                                                           51
 youku.com                                                                                           51
 dramaririnaldi.com                                                                                  50
+codeanyapp.com                                                                                      49
 lumindigitalhosting.com                                                                             49
 anwalt.de                                                                                           46
 pandasuite.io                                                                                       46
@@ -124,13 +124,13 @@ happ.social                                                                     
 herokuapp.com                                                                                       21
 hicloud.com                                                                                         21
 nba.com                                                                                             21
-replit.app                                                                                          21
 adpinfo.com                                                                                         20
 aon.com                                                                                             20
 dnsfordomains.ru                                                                                    20
 equifax.com                                                                                         20
 fcyz.my.id                                                                                          20
 globaltradruv.com                                                                                   20
+replit.app                                                                                          20
 sfr.fr                                                                                              20
 sohu.com                                                                                            20
 windows.net                                                                                         20
