@@ -9,8 +9,8 @@ llnw.net                                                                        
 adobe.com                                                                                           95
 movidesk.com                                                                                        94
 yinzcam.com                                                                                         94
+xiaomi.com                                                                                          90
 playmetrics.com                                                                                     84
-xiaomi.com                                                                                          83
 ebutudan.com                                                                                        78
 amazonaws.com                                                                                       77
 openapp.link                                                                                        75
@@ -329,6 +329,7 @@ cresa.com                                                                       
 dior.com                                                                                            11
 drygas.warszawa.pl                                                                                  11
 e-food.gr                                                                                           11
+fleek.cool                                                                                          11
 foody.com.cy                                                                                        11
 forbes.com                                                                                          11
 glasswerxx.com                                                                                      11
