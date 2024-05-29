@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-05-25T20:39:15.195Z
-# Size: 746
+# Last Updated: 2024-05-29T03:51:03.559Z
+# Size: 747
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -494,6 +494,7 @@ DOMAIN-SUFFIX,didiglobal.com
 DOMAIN-SUFFIX,didialift.com
 DOMAIN-SUFFIX,didichuxing.com
 DOMAIN-SUFFIX,dbankcloud.com
+DOMAIN-SUFFIX,dbankcdn.cn
 DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,dbank.com
 DOMAIN-SUFFIX,ruiwen.com
