@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-05-30T09:49:45.132Z
-# Size: 171702
+# Last Updated: 2024-05-30T10:47:52.651Z
+# Size: 171703
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -49,6 +49,7 @@
 #  - https://phishing.army/download/phishing_army_blocklist.txt
 #########################################
 this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+
 +.atom-log.3.cn
 +.kzsisc.3.dk
 +.mit3app.3.dk
