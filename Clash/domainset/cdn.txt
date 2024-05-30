@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-05-26T18:24:47.617Z
-# Size: 2381
+# Last Updated: 2024-05-30T09:49:23.033Z
+# Size: 2382
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -417,6 +417,7 @@ media4.giphy.com
 +.gitlab.io
 badges.gitter.im
 cdn.glitch.me
+static.gnome.org
 godoc.org
 static.gopro.com
 player.h-cdn.com

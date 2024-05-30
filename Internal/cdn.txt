@@ -639,6 +639,7 @@ SUFFIX,badges.gitter.im
 SUFFIX,cdn.glitch.me
 SUFFIX,globo.com
 SUFFIX,gmail.com
+SUFFIX,static.gnome.org
 SUFFIX,godoc.org
 SUFFIX,store1.gofile.io
 SUFFIX,googl.com
