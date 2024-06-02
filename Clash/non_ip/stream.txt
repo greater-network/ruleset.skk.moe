@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Stream Services: All
-# Last Updated: 2024-06-02T13:05:50.327Z
-# Size: 293
+# Last Updated: 2024-06-02T13:44:39.809Z
+# Size: 291
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21,6 +21,7 @@
 # - Discovery+
 # - DMM
 # - encoreTVB
+# - encoreTVB JP
 # - Fox Now
 # - Fox+
 # - HBO Go / HBO Now / HBO Max
@@ -182,6 +183,7 @@ DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,joox.com
 DOMAIN-SUFFIX,overcast.fm
 DOMAIN-SUFFIX,ocnttv.com
+DOMAIN-SUFFIX,uplynk.com
 DOMAIN-SUFFIX,twitchsvc.net
 DOMAIN-SUFFIX,twitchcdn.net
 DOMAIN-SUFFIX,twitch.tv
@@ -195,10 +197,10 @@ DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tidalhifi.com
 DOMAIN-SUFFIX,tidal.com
 DOMAIN-SUFFIX,tospotify.com
+DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,tv.naver.com
 DOMAIN-SUFFIX,tvb.com
-DOMAIN-SUFFIX,theplatform.com
-DOMAIN-SUFFIX,uplynk.com
+DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,encoretvb.com
 DOMAIN-SUFFIX,isnssdk.com
@@ -284,12 +286,10 @@ DOMAIN-SUFFIX,dazndn.com
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN-SUFFIX,dokusho-ojikan.jp
-DOMAIN-SUFFIX,hjholdings.jp
 DOMAIN-SUFFIX,hulustream.com
 DOMAIN-SUFFIX,huluim.com
 DOMAIN-SUFFIX,hulu.us
 DOMAIN-SUFFIX,hulu.tv
-DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,himalaya.com
 DOMAIN-SUFFIX,hboasia.com
@@ -300,7 +300,6 @@ DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbo.com
-DOMAIN-SUFFIX,happyon.jp
 DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hayabusa.dev

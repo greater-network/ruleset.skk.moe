@@ -161,7 +161,6 @@ SUFFIX,hbg.com
 SUFFIX,hbo.com
 SUFFIX,himg.nl
 SUFFIX,objects.hit.moe
-SUFFIX,hulu.jp
 SUFFIX,hulu.tv
 SUFFIX,hulu.us
 SUFFIX,sm.ign.com
@@ -266,6 +265,7 @@ SUFFIX,temp.sh
 SUFFIX,s3.toot.io
 SUFFIX,cdn.tuk.dev
 SUFFIX,tvb.com
+SUFFIX,tver.jp
 SUFFIX,cdn.ubi.com
 SUFFIX,cdn.usd.fan
 SUFFIX,v2ex.co
@@ -1002,7 +1002,6 @@ SUFFIX,i.guim.co.uk
 SUFFIX,uploads.guim.co.uk
 SUFFIX,interactive.guim.co.uk
 SUFFIX,hanime1.me
-SUFFIX,happyon.jp
 SUFFIX,hbfile.net
 SUFFIX,hbomax.com
 SUFFIX,hbonow.com
@@ -2455,7 +2454,6 @@ SUFFIX,i2.hentaifox.com
 SUFFIX,snyk-widget.herokuapp.com
 SUFFIX,freeshippingbar.herokuapp.com
 SUFFIX,v.hillwaver.com
-SUFFIX,hjholdings.jp
 SUFFIX,homedepot.com
 SUFFIX,cdn.hyperbeam.com
 SUFFIX,ibytedtos.com
