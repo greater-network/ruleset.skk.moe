@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Stream Services: North America
-# Last Updated: 2024-03-08T08:50:32.716Z
-# Size: 37
+# Last Updated: 2024-06-02T13:05:50.330Z
+# Size: 36
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -45,7 +45,6 @@ DOMAIN-SUFFIX,hulu.tv
 DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,hulu.com
 DOMAIN-SUFFIX,happyon.jp
-DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,uplynk.com
 DOMAIN-SUFFIX,foxplus.com

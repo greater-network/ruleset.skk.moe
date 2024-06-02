@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-06-02T06:03:05.478Z
-# Size: 1051
+# Last Updated: 2024-06-02T13:05:50.837Z
+# Size: 1052
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -370,6 +370,7 @@ speed.netlara.com
 speedtest.nexicom.net
 speedtest.noone.co.uk
 speedtest.octaplus.uk
+speedtest-bursa.olfe.net.tr
 speedtestlon.orbital.net
 ldnspeedtest.rackdog.com
 sydspeedtest.rackdog.com

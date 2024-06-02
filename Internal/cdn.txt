@@ -266,7 +266,6 @@ SUFFIX,temp.sh
 SUFFIX,s3.toot.io
 SUFFIX,cdn.tuk.dev
 SUFFIX,tvb.com
-SUFFIX,tver.jp
 SUFFIX,cdn.ubi.com
 SUFFIX,cdn.usd.fan
 SUFFIX,v2ex.co

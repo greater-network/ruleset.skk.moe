@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-06-02T11:55:03.658Z
+// # Build 2024-06-02T13:05:50.550Z
 
 declare(strict_types=1);
 
@@ -1292,7 +1292,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,joox.com,Stream',
         'DOMAIN-SUFFIX,overcast.fm,Stream',
         'DOMAIN-SUFFIX,ocnttv.com,Stream',
-        'DOMAIN-SUFFIX,uplynk.com,Stream',
         'DOMAIN-SUFFIX,twitchsvc.net,Stream',
         'DOMAIN-SUFFIX,twitchcdn.net,Stream',
         'DOMAIN-SUFFIX,twitch.tv,Stream',
@@ -1306,10 +1305,10 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tidalhifi.com,Stream',
         'DOMAIN-SUFFIX,tidal.com,Stream',
         'DOMAIN-SUFFIX,tospotify.com,Stream',
-        'DOMAIN-SUFFIX,theplatform.com,Stream',
         'DOMAIN-SUFFIX,tv.naver.com,Stream',
         'DOMAIN-SUFFIX,tvb.com,Stream',
-        'DOMAIN-SUFFIX,tver.jp,Stream',
+        'DOMAIN-SUFFIX,theplatform.com,Stream',
+        'DOMAIN-SUFFIX,uplynk.com,Stream',
         'DOMAIN-SUFFIX,ext-twitch.tv,Stream',
         'DOMAIN-SUFFIX,encoretvb.com,Stream',
         'DOMAIN-SUFFIX,isnssdk.com,Stream',
