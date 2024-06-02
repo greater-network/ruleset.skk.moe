@@ -1917,6 +1917,8 @@ SUFFIX,periscope.tv
 SUFFIX,gateway.pinata.cloud
 SUFFIX,pixelcdn.net
 SUFFIX,pkg-size.dev
+SUFFIX,placehold.co
+SUFFIX,placehold.jp
 SUFFIX,placeimg.com
 SUFFIX,cdn-assets.porntube.com
 SUFFIX,cdn-thumbs.porntube.com
@@ -2527,6 +2529,7 @@ SUFFIX,picsum.photos
 SUFFIX,softwareupdate.pilotmoon.com
 SUFFIX,pinterest.com
 SUFFIX,assets.pinterest.com
+SUFFIX,place-hold.it
 SUFFIX,primevideo.cc
 SUFFIX,primevideo.tv
 SUFFIX,js.qualified.com
@@ -2706,6 +2709,7 @@ SUFFIX,dropboxapi.com
 SUFFIX,duckduckgo.com
 SUFFIX,icons.duckduckgo.com
 SUFFIX,external-content.duckduckgo.com
+SUFFIX,dummyimage.com
 SUFFIX,ebaystatic.com
 SUFFIX,cdn2.editmysite.com
 SUFFIX,artifacts.electronjs.org
@@ -2799,6 +2803,7 @@ SUFFIX,m-cdn.phonearena.com
 SUFFIX,s-cdn.phonearena.com
 SUFFIX,cdn.pickystory.com
 SUFFIX,pixeldrain.com
+SUFFIX,placewaifu.com
 SUFFIX,cdn7.pornmaster.fun
 SUFFIX,primevideo.com
 SUFFIX,primevideo.org

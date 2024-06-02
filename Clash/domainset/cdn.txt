@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-05-30T09:49:23.033Z
-# Size: 2382
+# Last Updated: 2024-06-02T07:59:04.716Z
+# Size: 2387
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1282,6 +1282,8 @@ widgets.outbrain.com
 +.gateway.pinata.cloud
 +.pixelcdn.net
 pkg-size.dev
++.placehold.co
++.placehold.jp
 placeimg.com
 cdn-assets.porntube.com
 cdn-thumbs.porntube.com
@@ -1760,6 +1762,7 @@ img.picacomic.com
 storage-b.picacomic.com
 +.picsum.photos
 +.assets.pinterest.com
++.place-hold.it
 js.qualified.com
 +.siteintercept.qualtrics.com
 error.rakuten.co.jp
@@ -1874,6 +1877,7 @@ hub-assets.displaycal.net
 +.doppiocdn.live
 icons.duckduckgo.com
 external-content.duckduckgo.com
++.dummyimage.com
 +.ebaystatic.com
 cdn2.editmysite.com
 images.emojiterra.com
@@ -1941,6 +1945,7 @@ optimizely.com
 m-cdn.phonearena.com
 s-cdn.phonearena.com
 cdn.pickystory.com
++.placewaifu.com
 cdn7.pornmaster.fun
 apps.profitihub.com
 +.pstorage.space
