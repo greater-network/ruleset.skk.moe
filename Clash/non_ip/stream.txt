@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Stream Services: All
-# Last Updated: 2024-06-02T13:44:39.809Z
-# Size: 291
+# Last Updated: 2024-06-03T11:22:54.782Z
+# Size: 292
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -239,7 +239,6 @@ DOMAIN-SUFFIX,foxplus.com
 DOMAIN-SUFFIX,foxdcg.com
 DOMAIN-SUFFIX,fox.com
 DOMAIN-SUFFIX,fls-na.amazon.com
-DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,phprcdn.com
@@ -247,6 +246,8 @@ DOMAIN-SUFFIX,peacocktv.com
 DOMAIN-SUFFIX,pbs.org
 DOMAIN-SUFFIX,pandora.com
 DOMAIN-SUFFIX,paramountplus.com
+DOMAIN-SUFFIX,pscdn.co
+DOMAIN-SUFFIX,psg.cdn.hgc.com.hk
 DOMAIN-SUFFIX,prime-video.com
 DOMAIN-SUFFIX,primevideo.tv
 DOMAIN-SUFFIX,primevideo.org

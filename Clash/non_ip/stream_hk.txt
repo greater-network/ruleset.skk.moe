@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Stream Services: Hong Kong
-# Last Updated: 2024-03-08T08:50:32.716Z
-# Size: 45
+# Last Updated: 2024-06-03T11:22:54.787Z
+# Size: 46
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,biliintl.com
 DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hboasia.com
+DOMAIN-SUFFIX,psg.cdn.hgc.com.hk
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,viu.tv

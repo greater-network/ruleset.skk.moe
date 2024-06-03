@@ -1011,6 +1011,7 @@ SUFFIX,assets.heroku.com
 SUFFIX,cdn2.hextom.com
 SUFFIX,cdn3.hextom.com
 SUFFIX,cdn5.hextom.com
+SUFFIX,psg.cdn.hgc.com.hk
 SUFFIX,assets.holopin.io
 SUFFIX,static.hotjar.com
 SUFFIX,huluim.com
