@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-06-03T11:22:54.899Z
+// # Build 2024-06-03T13:32:26.405Z
 
 declare(strict_types=1);
 
@@ -607,6 +607,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,npmmirror.com,Domestic',
         'DOMAIN-SUFFIX,nubia.com,Domestic',
         'DOMAIN-SUFFIX,nubia.cn,Domestic',
+        'DOMAIN-SUFFIX,ntp.org.cn,Domestic',
         'DOMAIN-SUFFIX,neea.cn,Domestic',
         'DOMAIN-SUFFIX,netstatic.net,Domestic',
         'DOMAIN-SUFFIX,netease.im,Domestic',
