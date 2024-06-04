@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-05-26T18:24:47.628Z
-# Size: 223
+# Last Updated: 2024-06-04T09:03:59.141Z
+# Size: 225
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -108,6 +108,7 @@ down.filen-3.net
 down.filen-4.net
 down.filen-5.net
 dl.flathub.org
+mirror.ghproxy.com
 download.mozilla.org
 download.nektony.com
 boot.netboot.xyz
@@ -137,6 +138,8 @@ download.gigabyte.com
 download.iboysoft.com
 download.mikrotik.com
 +.download.mokeedev.com
+ciscobinary.openh264.org
+download.opensuse.org
 cdn-images.orbstack.dev
 api-updates.orbstack.dev
 cdn-updates.orbstack.dev
@@ -228,7 +231,6 @@ ftp.androidfilehost.com
 ava6.androidfilehost.com
 get.pixelexperience.org
 download.pixelexperience.org
-ciscobinary.openh264
 +.copr.fedorainfracloud.org
 +.cloudflaremirrors.com
 ################## EOF ##################

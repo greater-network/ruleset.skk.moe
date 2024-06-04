@@ -1398,6 +1398,7 @@ SUFFIX,avatar.freepik.com
 SUFFIX,images.g2crowd.com
 SUFFIX,static.gartner.com
 SUFFIX,gentcdn.com
+SUFFIX,mirror.ghproxy.com
 SUFFIX,app.gitbook.com
 SUFFIX,gitcdn.link
 SUFFIX,githack.com
@@ -1904,6 +1905,8 @@ SUFFIX,static.onlyfans.com
 SUFFIX,thumbs.onlyfans.com
 SUFFIX,onrender.com
 SUFFIX,open-vsx.org
+SUFFIX,ciscobinary.openh264.org
+SUFFIX,download.opensuse.org
 SUFFIX,operacdn.com
 SUFFIX,i.optimole.com
 SUFFIX,cdn-images.orbstack.dev
@@ -3368,7 +3371,6 @@ SUFFIX,xn--ngstr-lra8j.com
 SUFFIX,amazonvideodirect.cc
 SUFFIX,js.braintreegateway.com
 SUFFIX,assets.braintreegateway.com
-SUFFIX,ciscobinary.openh264
 SUFFIX,cloudflareaccess.com
 SUFFIX,pkg.cloudflareclient.com
 SUFFIX,cloudflarestatus.com
