@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-06-02T13:05:50.837Z
-# Size: 1052
+# Last Updated: 2024-06-05T11:25:28.250Z
+# Size: 1056
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -102,6 +102,7 @@ tu.ticco.ae
 speedtest10.vqbn.com
 speedtest.w-net.us
 speedtest-intl.xl.co.id
+mycuspeed.169ol.com
 speedtest.39d.co.uk
 speedtest1.ah163.com
 speedtest.apnic.net
@@ -180,6 +181,7 @@ warp.cronon.net
 speedtest.hk210.hkg.cn.ctcsci.com
 speedtest.jp230.hnd.jp.ctcsci.com
 speedtest.sg220.sgp.sg.ctcsci.com
+speedtest.us310.lax.us.ctcsci.com
 +.speedtest.dchost.com
 speed2.dg-sys.net
 speedtest01.dns-net.de
@@ -535,6 +537,7 @@ speedtest.cdmsfirst.com
 mensura.cdn-apple.com
 +.speedtest.clouvider.net
 +.speedtest.comnet.com.tr
+sp1.contilnet.net
 speedtest1.mia.fl.us.convergia.net
 askeycsit.dyndns-ip.com
 speedtest.qld.edgeix.net.au
@@ -997,6 +1000,7 @@ st2.octopustelecom.co.uk
 de.prismanetworks.cloud
 speedtest.seveninternet.com.br
 velocimetro.speednetworks.com.br
+teste.speedtestwnet.com.br
 speed-server3.summit-broadband.com
 suntechspeedtest.com
 teste.suprainternet.com.br

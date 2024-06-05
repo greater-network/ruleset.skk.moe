@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-06-02T07:59:04.716Z
-# Size: 2387
+# Last Updated: 2024-06-05T11:25:23.621Z
+# Size: 2388
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -862,6 +862,7 @@ cdn6.aptoide.com
 cdn-mobile.aptoide.com
 +.archive.org
 static.assetlab.io
+consentdeliveryfd.azurefd.net
 +.bdzybf7.com
 a5.behance.net
 mir-s3-cdn-cf.behance.net
@@ -1991,7 +1992,6 @@ versionbadg.es
 showcase.abovemarket.com
 easylist-downloads.adblockplus.org
 +.addons.business
-ocsp.r2m02.amazontrust.com
 cdn.announcekit.app
 img.announcekit.app
 img.applealmond.com
@@ -2323,6 +2323,7 @@ image.theblockbeats.info
 vscode-sync.trafficmanager.net
 vscode-sync-insiders.trafficmanager.net
 www.typescriptlang.org
+playgroundcdn.typescriptlang.org
 talk.washingtonpost.com
 +.yourimageshare.com
 +.azurestaticapps.net

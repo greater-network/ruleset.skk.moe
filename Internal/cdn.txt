@@ -1308,6 +1308,7 @@ SUFFIX,cdn6.aptoide.com
 SUFFIX,cdn-mobile.aptoide.com
 SUFFIX,archive.org
 SUFFIX,static.assetlab.io
+SUFFIX,consentdeliveryfd.azurefd.net
 SUFFIX,bamgrid.com
 SUFFIX,bdzybf7.com
 SUFFIX,behance.net
@@ -2882,7 +2883,6 @@ SUFFIX,showcase.abovemarket.com
 SUFFIX,easylist-downloads.adblockplus.org
 SUFFIX,addons.business
 SUFFIX,dl-cdn.alpinelinux.org
-SUFFIX,ocsp.r2m02.amazontrust.com
 SUFFIX,amazonvideo.com
 SUFFIX,amebaowndme.com
 SUFFIX,cdn.announcekit.app
@@ -3331,6 +3331,7 @@ SUFFIX,image.theblockbeats.info
 SUFFIX,vscode-sync.trafficmanager.net
 SUFFIX,vscode-sync-insiders.trafficmanager.net
 SUFFIX,www.typescriptlang.org
+SUFFIX,playgroundcdn.typescriptlang.org
 SUFFIX,washingtonpost.com
 SUFFIX,talk.washingtonpost.com
 SUFFIX,whispersystems.org
