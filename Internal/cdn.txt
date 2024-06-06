@@ -2447,6 +2447,7 @@ SUFFIX,cdn.greenhouse.io
 SUFFIX,boards.greenhouse.io
 SUFFIX,gtranslate.io
 SUFFIX,img.haiwaikan.com
+SUFFIX,releases.hashicorp.com
 SUFFIX,hbogoasia.com
 SUFFIX,hbomaxcdn.com
 SUFFIX,hdzyk-cdn.com
