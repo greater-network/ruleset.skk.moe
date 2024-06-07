@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-06-03T13:32:26.291Z
-# Size: 750
+# Last Updated: 2024-06-07T03:04:27.118Z
+# Size: 751
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -175,6 +175,7 @@ DOMAIN-SUFFIX,kfc.com.cn
 DOMAIN-SUFFIX,keepcdn.com
 DOMAIN-SUFFIX,kdslife.net
 DOMAIN-SUFFIX,kaiyanapp.com
+DOMAIN-SUFFIX,kwaicdn.com
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,kugou.com
 DOMAIN-SUFFIX,kuaishouzt.com

@@ -414,9 +414,6 @@ SUFFIX,kobo.com
 SUFFIX,cdn.kobo.com
 SUFFIX,static.kobo.com
 SUFFIX,kwai.com
-SUFFIX,s1.kwai.net
-SUFFIX,aws-static.kwai.net
-SUFFIX,cdn-static.kwai.net
 SUFFIX,legra.ph
 SUFFIX,line.biz
 SUFFIX,loli.net

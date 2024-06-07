@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-06-07T02:19:13.805Z
+// # Build 2024-06-07T03:04:27.484Z
 
 declare(strict_types=1);
 
@@ -250,6 +250,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,keepcdn.com,Domestic',
         'DOMAIN-SUFFIX,kdslife.net,Domestic',
         'DOMAIN-SUFFIX,kaiyanapp.com,Domestic',
+        'DOMAIN-SUFFIX,kwaicdn.com,Domestic',
         'DOMAIN-SUFFIX,kuwo.cn,Domestic',
         'DOMAIN-SUFFIX,kugou.com,Domestic',
         'DOMAIN-SUFFIX,kuaishouzt.com,Domestic',
