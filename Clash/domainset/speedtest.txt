@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-06-07T02:30:14.809Z
-# Size: 1061
+# Last Updated: 2024-06-07T02:36:40.642Z
+# Size: 1067
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -72,6 +72,7 @@ speedtest3.dacor.de
 speedtest.dcs1.biz
 pegasqa.ddns.net
 +.ookla-speedtests.e2ro.com
+speedtest01.ehtel.ca
 speedtest-dc08.enzu.com
 +.fast.com
 speedtest.nik.fiber.nl
@@ -256,6 +257,7 @@ stmilton.rogers.com
 sttoronto.rogers.com
 stbrampton.rogers.com
 sthamilton.rogers.com
+stkingcity.rogers.com
 stoakville.rogers.com
 ststthomas.rogers.com
 stwaterloo.rogers.com
@@ -296,6 +298,7 @@ stleamingtonwireless.rogers.com
 stlethbridgewireless.rogers.com
 stthunderbaywireless.rogers.com
 stmississaugawireless.rogers.com
+storangevillewireless.rogers.com
 ststcatharineswireless.rogers.com
 stsaultstemariewireless.rogers.com
 stwellandpelhamwireless.rogers.com
@@ -421,6 +424,7 @@ de-ffm1-ookla-01.wemacom.net
 speedtest.westcall.ru
 speedtest.wifi.net.tr
 +.wifiman.com
+383-2speedtest.wightman.ca
 speed1.wirsnet.com
 de-speedtest.woks.com.tr
 speedtest.wolfpaw.net
@@ -568,8 +572,10 @@ speedtest-sg.napinfo.co.id
 stguelph.netcrawler.ca
 stlondon.netcrawler.ca
 speedtest.netcrawler.ca
+stvaughan.netcrawler.ca
 stbrampton.netcrawler.ca
 sthamilton.netcrawler.ca
+stkingcity.netcrawler.ca
 stmontreal.netcrawler.ca
 stwaterloo.netcrawler.ca
 stetobicoke.netcrawler.ca
