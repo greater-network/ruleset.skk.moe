@@ -58,8 +58,6 @@ optimizesrv.com                                                                 
 dreamwp.com                                                                                         34
 adbureau.net                                                                                        33
 espmp-aufr.net                                                                                      33
-samsung.com                                                                                         33
-amazonaws.com                                                                                       32
 blogspot.com                                                                                        32
 fishingrealinvestments.com                                                                          32
 lilonews.com                                                                                        32
@@ -69,6 +67,7 @@ tokoapril.com                                                                   
 github.io                                                                                           31
 microsoft.com                                                                                       31
 replit.app                                                                                          31
+samsung.com                                                                                         31
 shengen.ru                                                                                          31
 thermofisher.com                                                                                    31
 aesthetise.com                                                                                      30
@@ -76,8 +75,8 @@ hut1.ru                                                                         
 oberd.com                                                                                           30
 360.cn                                                                                              29
 iqiyi.com                                                                                           29
-newzgames.com                                                                                       29
 selornews.com                                                                                       29
+amazonaws.com                                                                                       28
 intuit.com                                                                                          28
 urest.org                                                                                           28
 vodafone.com                                                                                        28
@@ -87,7 +86,6 @@ unixofficeequipment.com                                                         
 aaa.com                                                                                             26
 americanexpress.com                                                                                 26
 aremedia.com.au                                                                                     26
-cloudfront.net                                                                                      26
 fishingreelinvestment.com                                                                           26
 myfreesites.net                                                                                     26
 serv00.net                                                                                          26
@@ -107,12 +105,10 @@ bakerstreetfinance.tv                                                           
 devoteam.com                                                                                        24
 hostingkampanya.com                                                                                 24
 6amcity.com                                                                                         23
-dlcodes.com                                                                                         23
 evv-auditing.com                                                                                    23
 globalsources.com                                                                                   23
 epoise.com                                                                                          22
 gitbook.io                                                                                          22
-netflix.com                                                                                         22
 oystergardening.net                                                                                 22
 pubmatic.com                                                                                        22
 townsquaremedia.info                                                                                22
@@ -121,6 +117,7 @@ wixstudio.io                                                                    
 adp.ca                                                                                              21
 akadns.net                                                                                          21
 aq2e.com                                                                                            21
+cloudfront.net                                                                                      21
 coca-cola.com                                                                                       21
 donnafrey.com                                                                                       21
 eliteoftokens.com                                                                                   21
@@ -131,6 +128,7 @@ intel.com                                                                       
 l5eamr17d.com                                                                                       21
 miracle-chain.com                                                                                   21
 nba.com                                                                                             21
+netflix.com                                                                                         21
 y2sysv81v.com                                                                                       21
 adpinfo.com                                                                                         20
 alimama.com                                                                                         20
@@ -228,13 +226,11 @@ mynavi.jp                                                                       
 nativeads.com                                                                                       14
 njrrs.com                                                                                           14
 phtmedia.com                                                                                        14
-ru.com                                                                                              14
 sharpmarketing.eu                                                                                   14
 t-mobile.com                                                                                        14
 unenoteunjour.fr                                                                                    14
 x9.eu                                                                                               14
 advance.net                                                                                         13
-amazon.com                                                                                          13
 artikproject.com                                                                                    13
 atsnx.com                                                                                           13
 averydennison.com                                                                                   13
@@ -299,9 +295,9 @@ rbs.co.uk                                                                       
 revoprogramxzsed.com                                                                                12
 ricoh.de                                                                                            12
 ringcentral.com                                                                                     12
+ru.com                                                                                              12
 salesforce.com                                                                                      12
 samsclub.com                                                                                        12
-samsungcloudsolution.com                                                                            12
 sogou.com                                                                                           12
 tajawal.com                                                                                         12
 traveloust.com                                                                                      12
@@ -316,6 +312,7 @@ ximalaya.com                                                                    
 yahoo.com                                                                                           12
 12build.com                                                                                         11
 7bkzlyfvl.com                                                                                       11
+amazon.com                                                                                          11
 biznesinsaiderpolandnews.com                                                                        11
 dior.com                                                                                            11
 e-food.gr                                                                                           11
@@ -325,7 +322,6 @@ foody.com.cy                                                                    
 glasswerxx.com                                                                                      11
 greensorrow.com                                                                                     11
 hgtv.com                                                                                            11
-hismarttv.com                                                                                       11
 id-safety.co                                                                                        11
 jambojar.com                                                                                        11
 kajabimail.net                                                                                      11
