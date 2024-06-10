@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-06-07T03:04:27.118Z
-# Size: 751
+# Last Updated: 2024-06-10T14:09:24.921Z
+# Size: 752
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -240,6 +240,7 @@ DOMAIN-SUFFIX,qyerstatic.com
 DOMAIN-SUFFIX,qyer.com
 DOMAIN-SUFFIX,qy.net
 DOMAIN-SUFFIX,qihucdn.com
+DOMAIN-SUFFIX,qixin.com
 DOMAIN-SUFFIX,qingcdn.com
 DOMAIN-SUFFIX,qiniu.com
 DOMAIN-SUFFIX,qidian.com
