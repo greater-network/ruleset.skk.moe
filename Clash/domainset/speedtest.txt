@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-06-11T12:33:34.650Z
-# Size: 1068
+# Last Updated: 2024-06-12T12:33:08.382Z
+# Size: 1071
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -132,6 +132,7 @@ ookla.idnet.net
 speedtest.innsys.ca
 speedtest1.innsys.ca
 velocidade.ip.eti.br
+speedtest-fra-11.kemmit.de
 perf.keyyo.net
 speedtest.b2.mhn.cloud
 speedtest.mel.mhn.cloud
@@ -698,6 +699,7 @@ speedtest.syd01.launtel.net.au
 +.backend.librespeed.org
 speedtest.localhosts.ltd
 speedtest.meerfarbig.net
+sig-speedtest.moratelindo.io
 veloteste.mrjomar.com.br
 speedtest.netcalibre.net
 f1.netfast.com.br
@@ -845,6 +847,7 @@ speedtest.embrasnet.com.br
 speedtest.empireaccess.com
 velocimetro.esolution.srv.br
 velocidad.fiberlink.com.pa
+speedtest.fiberlink.com.pe
 speedtest.fiberlink.net.ua
 ookla.fibranort.tec.br
 speedtest1.flashwifi.com.br
