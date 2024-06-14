@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-06-12T12:33:08.382Z
-# Size: 1071
+# Last Updated: 2024-06-14T12:32:56.015Z
+# Size: 1077
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -165,6 +165,7 @@ speedtest.vulut.com
 nyc1-speedtest.webnx.com
 lax1a-speedtest.webnx.com
 speedtest.miam.fl.wtsky.net
+speedtest1.xbase.com
 yyc-speedtest.xplore.ca
 yyz-speedtest.xplore.ca
 speedtest.xsnews.nl
@@ -241,6 +242,7 @@ balikesirspeedtest.posive.net
 canakkalespeedtest.posive.net
 kastamonuspeedtest.posive.net
 kirklarelispeedtest.posive.net
+speedtest-ca.pq.hosting
 speedtest-de.pq.hosting
 speedtest-ru.pq.hosting
 la-speedtest.qonzer.net
@@ -679,6 +681,7 @@ speedtest.lax.hivelocity.net
 speedtest.mia.hivelocity.net
 speedtest.nyc.hivelocity.net
 speedtest.ams1.hivelocity.net
+speedtest.yyz2.hivelocity.net
 spd-tr-bursa.hostlayici.net
 speedtest-la.hostsailor.com
 speedtest1.hurontel.on.ca
@@ -977,7 +980,9 @@ geb1speedtest.turktelekom.com.tr
 gun1speedtest.turktelekom.com.tr
 umr1speedtest.turktelekom.com.tr
 speedtest.unlimitedfiber.com
+speedtest.upwirefibra.com.br
 speedtest.voip-unlimited.net
+teste.wificonnect.com.br
 velocimetro.wiretelecom.com.br
 speedtest03.bluestreamfiber.net
 ookla-london.briantbroadband.com
@@ -1043,6 +1048,7 @@ speedteste.newsolutionnet.com.br
 speedtest.pinguimtelecom.net.br
 speedtest.absolutevalidation.com
 speedtest.sea.accretive-networks.net
+speedtest.albatroznetwork.com.br
 ookla.amazoniasat-isp.com.br
 ookla-itacoatiara.amazoniasat-isp.com.br
 velocidade.amazoniatelecom.com.br
