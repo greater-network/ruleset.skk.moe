@@ -246,88 +246,334 @@ dns:
     +.yunpan.com.cn: https://dns.360.net/dns-query
     +.qh-cdn.com: https://dns.360.net/dns-query
     +.baomitu.com: https://dns.360.net/dns-query
-    +.instant.arubanetworks.com: system
-    +.setmeup.arubanetworks.com: system
-    +.router.asus.com: system
-    +.repeater.asus.com: system
-    +.asusrouter.com: system
-    +.routerlogin.net: system
-    +.tendawifi.com: system
-    +.tplinkwifi.net: system
-    +.tplogin.cn: system
-    +.tplinkap.net: system
-    +.tplinkeap.net: system
-    +.tplinkmodem.net: system
-    +.tplinkplclogin.net: system
-    +.tplinkrepeater.net: system
-    +.miwifi.com: system
-    +.zte.home: system
-    +.ui.direct: system
-    +.unifi: system
-    +.amplifi.lan: system
-    +.hiwifi.com: system
-    +.huaweimobilewifi.com: system
-    +.my.router: system
-    +.phicomm.me: system
-    +.router.ctc: system
-    +.peiluyou.com: system
-    +.airbox.home: system
-    +.arcor.easybox: system
-    +.aterm.me: system
-    +.bthub.home: system
-    +.bthomehub.home: system
-    +.congstar.box: system
-    +.connect.box: system
-    +.console.gl-inet.com: system
-    +.easy.box: system
-    +.etxr: system
-    +.fritz.box: system
-    +.fritz.nas: system
-    +.fritz.repeater: system
-    +.giga.cube: system
-    +.hi.link: system
-    +.hitronhub.home: system
-    +.homerouter.cpe: system
-    +.myfritz.box: system
-    +.mobile.hotspot: system
-    +.ntt.setup: system
-    +.pi.hole: system
-    +.plex.direct: system
-    +.app.plex.tv: system
-    +.routerlogin.com: system
-    +.samsung.router: system
-    +.speedport.ip: system
-    +.steamloopback.host: system
-    +.web.setup: system
-    +.web.setup.home: system
-    +._hotspot_.m2m: system
-    +.hotspot.cslwifi.com: system
-    +.ts.net: system
-    +.injections.adguard.org: system
-    +.local.adguard.org: system
-    +.lan: system
-    +.localhost: system
-    +.localdomain: system
-    +.home.arpa: system
-    +.10.in-addr.arpa: system
-    +.16.172.in-addr.arpa: system
-    +.17.172.in-addr.arpa: system
-    +.18.172.in-addr.arpa: system
-    +.19.172.in-addr.arpa: system
-    +.20.172.in-addr.arpa: system
-    +.21.172.in-addr.arpa: system
-    +.22.172.in-addr.arpa: system
-    +.23.172.in-addr.arpa: system
-    +.24.172.in-addr.arpa: system
-    +.25.172.in-addr.arpa: system
-    +.26.172.in-addr.arpa: system
-    +.27.172.in-addr.arpa: system
-    +.28.172.in-addr.arpa: system
-    +.29.172.in-addr.arpa: system
-    +.30.172.in-addr.arpa: system
-    +.31.172.in-addr.arpa: system
-    +.168.192.in-addr.arpa: system
-    +.254.169.in-addr.arpa: system
+    +.instant.arubanetworks.com:
+      - system://
+      - system
+      - dhcp://system
+    +.setmeup.arubanetworks.com:
+      - system://
+      - system
+      - dhcp://system
+    +.router.asus.com:
+      - system://
+      - system
+      - dhcp://system
+    +.repeater.asus.com:
+      - system://
+      - system
+      - dhcp://system
+    +.asusrouter.com:
+      - system://
+      - system
+      - dhcp://system
+    +.routerlogin.net:
+      - system://
+      - system
+      - dhcp://system
+    +.tendawifi.com:
+      - system://
+      - system
+      - dhcp://system
+    +.tplinkwifi.net:
+      - system://
+      - system
+      - dhcp://system
+    +.tplogin.cn:
+      - system://
+      - system
+      - dhcp://system
+    +.tplinkap.net:
+      - system://
+      - system
+      - dhcp://system
+    +.tplinkeap.net:
+      - system://
+      - system
+      - dhcp://system
+    +.tplinkmodem.net:
+      - system://
+      - system
+      - dhcp://system
+    +.tplinkplclogin.net:
+      - system://
+      - system
+      - dhcp://system
+    +.tplinkrepeater.net:
+      - system://
+      - system
+      - dhcp://system
+    +.miwifi.com:
+      - system://
+      - system
+      - dhcp://system
+    +.zte.home:
+      - system://
+      - system
+      - dhcp://system
+    +.ui.direct:
+      - system://
+      - system
+      - dhcp://system
+    +.unifi:
+      - system://
+      - system
+      - dhcp://system
+    +.amplifi.lan:
+      - system://
+      - system
+      - dhcp://system
+    +.hiwifi.com:
+      - system://
+      - system
+      - dhcp://system
+    +.huaweimobilewifi.com:
+      - system://
+      - system
+      - dhcp://system
+    +.my.router:
+      - system://
+      - system
+      - dhcp://system
+    +.phicomm.me:
+      - system://
+      - system
+      - dhcp://system
+    +.router.ctc:
+      - system://
+      - system
+      - dhcp://system
+    +.peiluyou.com:
+      - system://
+      - system
+      - dhcp://system
+    +.airbox.home:
+      - system://
+      - system
+      - dhcp://system
+    +.arcor.easybox:
+      - system://
+      - system
+      - dhcp://system
+    +.aterm.me:
+      - system://
+      - system
+      - dhcp://system
+    +.bthub.home:
+      - system://
+      - system
+      - dhcp://system
+    +.bthomehub.home:
+      - system://
+      - system
+      - dhcp://system
+    +.congstar.box:
+      - system://
+      - system
+      - dhcp://system
+    +.connect.box:
+      - system://
+      - system
+      - dhcp://system
+    +.console.gl-inet.com:
+      - system://
+      - system
+      - dhcp://system
+    +.easy.box:
+      - system://
+      - system
+      - dhcp://system
+    +.etxr:
+      - system://
+      - system
+      - dhcp://system
+    +.fritz.box:
+      - system://
+      - system
+      - dhcp://system
+    +.fritz.nas:
+      - system://
+      - system
+      - dhcp://system
+    +.fritz.repeater:
+      - system://
+      - system
+      - dhcp://system
+    +.giga.cube:
+      - system://
+      - system
+      - dhcp://system
+    +.hi.link:
+      - system://
+      - system
+      - dhcp://system
+    +.hitronhub.home:
+      - system://
+      - system
+      - dhcp://system
+    +.homerouter.cpe:
+      - system://
+      - system
+      - dhcp://system
+    +.myfritz.box:
+      - system://
+      - system
+      - dhcp://system
+    +.mobile.hotspot:
+      - system://
+      - system
+      - dhcp://system
+    +.ntt.setup:
+      - system://
+      - system
+      - dhcp://system
+    +.pi.hole:
+      - system://
+      - system
+      - dhcp://system
+    +.plex.direct:
+      - system://
+      - system
+      - dhcp://system
+    +.app.plex.tv:
+      - system://
+      - system
+      - dhcp://system
+    +.routerlogin.com:
+      - system://
+      - system
+      - dhcp://system
+    +.samsung.router:
+      - system://
+      - system
+      - dhcp://system
+    +.speedport.ip:
+      - system://
+      - system
+      - dhcp://system
+    +.steamloopback.host:
+      - system://
+      - system
+      - dhcp://system
+    +.web.setup:
+      - system://
+      - system
+      - dhcp://system
+    +.web.setup.home:
+      - system://
+      - system
+      - dhcp://system
+    +._hotspot_.m2m:
+      - system://
+      - system
+      - dhcp://system
+    +.hotspot.cslwifi.com:
+      - system://
+      - system
+      - dhcp://system
+    +.ts.net:
+      - system://
+      - system
+      - dhcp://system
+    +.injections.adguard.org:
+      - system://
+      - system
+      - dhcp://system
+    +.local.adguard.org:
+      - system://
+      - system
+      - dhcp://system
+    +.lan:
+      - system://
+      - system
+      - dhcp://system
+    +.localhost:
+      - system://
+      - system
+      - dhcp://system
+    +.localdomain:
+      - system://
+      - system
+      - dhcp://system
+    +.home.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.10.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.16.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.17.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.18.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.19.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.20.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.21.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.22.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.23.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.24.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.25.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.26.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.27.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.28.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.29.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.30.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.31.172.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.168.192.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
+    +.254.169.in-addr.arpa:
+      - system://
+      - system
+      - dhcp://system
 hosts:
   dns.alidns.com:
     - 223.5.5.5
