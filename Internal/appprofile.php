@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-06-15T16:43:09.307Z
+// # Build 2024-06-15T16:58:36.786Z
 
 declare(strict_types=1);
 
@@ -2351,27 +2351,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,legra.ph,Global',
         'DOMAIN-SUFFIX,telesco.pe,Global',
         'DOMAIN-SUFFIX,cdn-telegram.org,Global',
-        'DOMAIN-SUFFIX,local,DIRECT',
-        'DOMAIN-SUFFIX,home.arpa,DIRECT',
-        'DOMAIN-SUFFIX,10.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,16.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,17.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,18.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,19.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,20.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,21.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,22.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,23.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,24.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,25.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,26.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,27.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,28.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,29.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,30.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,31.172.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,168.192.in-addr.arpa,DIRECT',
-        'DOMAIN-SUFFIX,254.169.in-addr.arpa,DIRECT',
         'IP-CIDR,23.246.18.0/23,Stream',
         'IP-CIDR,37.77.184.0/21,Stream',
         'IP-CIDR,45.57.0.0/17,Stream',
