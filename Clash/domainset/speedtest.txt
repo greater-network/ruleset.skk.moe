@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-06-14T12:32:56.015Z
-# Size: 1077
+# Last Updated: 2024-06-18T11:31:05.293Z
+# Size: 1082
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -105,6 +105,7 @@ speedtest.w-net.us
 speedtest-intl.xl.co.id
 mycuspeed.169ol.com
 speedtest.39d.co.uk
+ookla.aghost.uk
 speedtest1.ah163.com
 speedtest.apnic.net
 speedperf.axione.fr
@@ -245,6 +246,7 @@ kirklarelispeedtest.posive.net
 speedtest-ca.pq.hosting
 speedtest-de.pq.hosting
 speedtest-ru.pq.hosting
+speedtest-tr.pq.hosting
 la-speedtest.qonzer.net
 ny-speedtest.qonzer.net
 pr-speedtest.qonzer.net
@@ -350,6 +352,7 @@ speedtest.cubedns.com
 speedtest.dcsi.net.au
 speedtest.ffm.dynamic.icu
 speedtest-west.eastlink.ca
+spt-ist.edgeuno.com
 spt-mia.edgeuno.com
 speedtest2.esrv.center
 sg-speedtest.fast.net.id
@@ -510,6 +513,7 @@ speedtest.polycomm.net
 postapps.com
 speedtest.rrhosting.eu
 st1.scaleway.com
+fra1speedtest01.skylogic.com
 par1speedtest01.skylogic.com
 speedtest.skynetcom.ru
 kami.smartone.com
@@ -995,6 +999,7 @@ velocimetro.infinitemais.com.br
 +.measurement-lab.org
 speedtest.naturalwireless.com
 speedtest2.pacificinternet.com
+speedtest.satanhosting.com.tr
 mia01.screenshot.download
 nyc01.screenshot.download
 +.speedtestcustom.com
