@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-06-18T11:31:05.293Z
-# Size: 1082
+# Last Updated: 2024-06-18T12:57:22.409Z
+# Size: 1083
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -541,6 +541,7 @@ trtspeedtest.altimatel.com
 vanspeedtest.altimatel.com
 sp1.asthriona.com
 speedtest.beanfield.com
+speedtest-tor.beanfield.com
 sp1.burstfire.net
 dallas1.cabospeed.com
 teste.cdanet.com.br
