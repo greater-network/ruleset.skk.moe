@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-06-21T02:53:12.734Z
-# Size: 2114
+# Last Updated: 2024-06-21T03:14:26.219Z
+# Size: 2078
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -963,9 +963,6 @@ cdnapisec.kaltura.com
 +.ipfs.kavin.rocks
 +.kinsta.page
 static.klaviyo.com
-+.ks3-rus.ksyuncs.com
-+.ks3-sgp.ksyuncs.com
-+.ks3-cn-hk-1.ksyuncs.com
 +.kym-cdn.com
 +.ipfs.litnet.work
 parts.blog.livedoor.jp
@@ -1104,22 +1101,6 @@ embedwistia-a.akamaihd.net
 tvdownloaddw-a.akamaihd.net
 steamuserimages-a.akamaihd.net
 steamusercontent-a.akamaihd.net
-+.oss-eu-west-1.aliyuncs.com
-+.oss-me-east-1.aliyuncs.com
-+.oss-us-east-1.aliyuncs.com
-+.oss-us-west-1.aliyuncs.com
-+.oss-ap-south-1.aliyuncs.com
-+.oss-cn-hongkong.aliyuncs.com
-+.oss-eu-central-1.aliyuncs.com
-+.oss-ap-northeast-1.aliyuncs.com
-+.oss-ap-northeast-2.aliyuncs.com
-+.oss-ap-southeast-1.aliyuncs.com
-+.oss-ap-southeast-2.aliyuncs.com
-+.oss-ap-southeast-3.aliyuncs.com
-+.oss-ap-southeast-5.aliyuncs.com
-+.oss-ap-southeast-6.aliyuncs.com
-+.oss-ap-southeast-7.aliyuncs.com
-+.oss-accelerate-overseas.aliyuncs.com
 cdn.amcharts.com
 +.repo.anaconda.com
 assets.apilayer.com
@@ -1241,18 +1222,6 @@ cdn.modrinth.com
 cdn-raw.modrinth.com
 +.muscache.com
 +.myavlive.com
-+.cos.ap-seoul.myqcloud.com
-+.cos.ap-tokyo.myqcloud.com
-+.cos.ap-mumbai.myqcloud.com
-+.cos.ap-bangkok.myqcloud.com
-+.cos.ap-jakarta.myqcloud.com
-+.cos.na-ashburn.myqcloud.com
-+.cos.na-toronto.myqcloud.com
-+.cos.ap-hongkong.myqcloud.com
-+.cos.sa-saopaulo.myqcloud.com
-+.cos.ap-singapore.myqcloud.com
-+.cos.eu-frankfurt.myqcloud.com
-+.cos.na-siliconvalley.myqcloud.com
 static.namebeta.com
 c.navattic.com
 js.navattic.com
@@ -1329,6 +1298,7 @@ embed.typeform.com
 public-assets.typeform.com
 renderer-assets.typeform.com
 +.ucarecdn.com
+assets.unifi-ai.com
 plus.unsplash.com
 images.unsplash.com
 js.userflow.com
@@ -1362,9 +1332,6 @@ img-s-msn-com.akamaized.net
 img-prod-cms-rt-microsoft-com.akamaized.net
 statics-marketingsites-eas-ms-com.akamaized.net
 +.ipfs.alloyxuast.tk
-+.s3.amazonaws.com
-+.s3.us-west-2.amazonaws.com
-+.s3-accelerate.amazonaws.com
 cdn.assets.as2.amazonaws.com
 cdn.media.amplience.net
 +.ipfs.anonymize.com
@@ -1954,7 +1921,6 @@ cdn3.unrealengine.com
 +.usercontent.goog
 typescript.visualstudio.com
 +.vscode-unpkg.net
-+.vultrobjects.com
 +.vusercontent.net
 +.wikiplus-app.com
 +.wpcomstaging.com
@@ -1991,7 +1957,6 @@ sig.grumpybumpers.com
 +.highwinds-cdn.com
 +.imagedelivery.net
 static.independent.co.uk
-+.linodeobjects.com
 img3.lltaohuaxiang.com
 asset.mansionglobal.com
 +.mvnrepository.com
@@ -2095,7 +2060,6 @@ assets.positional-bucket.com
 demo.unified-streaming.com
 vanilla-extract.style
 +.yammerusercontent.com
-+.digitaloceanspaces.com
 +.firefoxusercontent.com
 +.misskeyusercontent.com
 +.1passwordusercontent.ca
