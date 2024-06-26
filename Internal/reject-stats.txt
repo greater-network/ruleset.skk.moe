@@ -1,4 +1,4 @@
-r2.dev                                                                                              4570
+r2.dev                                                                                              4560
 cloudfront.net                                                                                      1250
 weebly.com                                                                                          122
 windows.com                                                                                         119
@@ -28,7 +28,7 @@ eccocar.com                                                                     
 plus.com                                                                                            51
 youku.com                                                                                           51
 dramaririnaldi.com                                                                                  50
-wpenginepowered.com                                                                                 50
+wpenginepowered.com                                                                                 49
 79j68qav2.com                                                                                       48
 hoster-test.ru                                                                                      48
 experian.com                                                                                        47
@@ -56,10 +56,10 @@ sportbetsignupcode.com                                                          
 covidvcfund.com                                                                                     37
 wolterskluwer.com                                                                                   37
 appspot.com                                                                                         36
-dns-dynamic.net                                                                                     36
 innovatedating.com                                                                                  36
 intuit.com                                                                                          36
 oortech.com                                                                                         36
+dns-dynamic.net                                                                                     35
 m-shop.me                                                                                           35
 aliyuncs.com                                                                                        34
 microsoft.com                                                                                       33
@@ -70,15 +70,14 @@ shengen.ru                                                                      
 sina.cn                                                                                             31
 wixsite.com                                                                                         31
 aesthetise.com                                                                                      30
-hstn.me                                                                                             30
 hut1.ru                                                                                             30
 iqiyi.com                                                                                           30
 aleragroup.com                                                                                      29
+hstn.me                                                                                             29
 newzgames.com                                                                                       29
 360.cn                                                                                              28
 akamaihd.net                                                                                        28
 github.io                                                                                           28
-serv00.net                                                                                          28
 urest.org                                                                                           28
 vodafone.com                                                                                        28
 windows.net                                                                                         28
@@ -88,6 +87,7 @@ dreamwp.com                                                                     
 international-med.com                                                                               27
 klewmedia.com                                                                                       27
 luxxeeu.com                                                                                         27
+serv00.net                                                                                          27
 unixofficeequipment.com                                                                             27
 wcomhost.com                                                                                        27
 aremedia.com.au                                                                                     26
@@ -177,7 +177,6 @@ en25.com                                                                        
 fishingreelinvestments.com                                                                          17
 focus.de                                                                                            17
 ourtablets.com                                                                                      17
-replit.app                                                                                          17
 ru.com                                                                                              17
 rutradersxprod.com                                                                                  17
 adp.com                                                                                             16
@@ -213,6 +212,7 @@ levi.com                                                                        
 moethennessy.com                                                                                    15
 monday.com                                                                                          15
 ogrt80r65.com                                                                                       15
+replit.app                                                                                          15
 rewol-ucja-gazowa.com                                                                               15
 t-mobile.com                                                                                        15
 xiaomi.net                                                                                          15
@@ -243,6 +243,7 @@ rambler.ru                                                                      
 schroders.com                                                                                       14
 sogou.com                                                                                           14
 tajawal.com                                                                                         14
+valuevaultmarkets.com                                                                               14
 vivo.com.cn                                                                                         14
 vonage.com                                                                                          14
 x9.eu                                                                                               14
@@ -280,7 +281,6 @@ siemensplmevents.com                                                            
 theiconic.com.au                                                                                    13
 theseasonalhaven.com                                                                                13
 uol.com.br                                                                                          13
-valuevaultmarkets.com                                                                               13
 verintsystemsinc.com                                                                                13
 wp.pl                                                                                               13
 xhamster.com                                                                                        13

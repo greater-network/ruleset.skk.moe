@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-06-26T03:01:06.493Z
+// # Build 2024-06-26T09:50:31.106Z
 
 declare(strict_types=1);
 
@@ -196,6 +196,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,jdpay.com,Domestic',
         'DOMAIN-SUFFIX,jdcloud.com,Domestic',
         'DOMAIN-SUFFIX,jdcache.com,Domestic',
+        'DOMAIN-SUFFIX,jcloudcache.com,Domestic',
         'DOMAIN-SUFFIX,jdcdn.com,Domestic',
         'DOMAIN-SUFFIX,iciba.com,Domestic',
         'DOMAIN-SUFFIX,ksosoft.com,Domestic',
@@ -565,6 +566,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tripcdn.cn,Domestic',
         'DOMAIN-SUFFIX,tvmao.com,Domestic',
         'DOMAIN-SUFFIX,tvzhe.com,Domestic',
+        'DOMAIN-SUFFIX,upyun.com,Domestic',
         'DOMAIN-SUFFIX,vip.com,Domestic',
         'DOMAIN-SUFFIX,weather.com.cn,Domestic',
         'DOMAIN-SUFFIX,weathercn.com,Domestic',
@@ -2453,7 +2455,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,27.109.124.0/22,Domestic',
         'IP-CIDR,27.112.0.0/21,Domestic',
         'IP-CIDR,27.112.80.0/23,Domestic',
-        'IP-CIDR,27.112.82.0/24,Domestic',
         'IP-CIDR,27.112.84.0/22,Domestic',
         'IP-CIDR,27.115.0.0/17,Domestic',
         'IP-CIDR,27.128.0.0/15,Domestic',
@@ -2935,6 +2936,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,60.204.0.0/14,Domestic',
         'IP-CIDR,60.208.0.0/12,Domestic',
         'IP-CIDR,60.232.0.0/24,Domestic',
+        'IP-CIDR,60.232.224.0/24,Domestic',
         'IP-CIDR,60.235.0.0/16,Domestic',
         'IP-CIDR,60.245.128.0/17,Domestic',
         'IP-CIDR,60.247.0.0/16,Domestic',
@@ -3731,7 +3733,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,106.224.0.0/14,Domestic',
         'IP-CIDR,106.228.0.0/15,Domestic',
         'IP-CIDR,106.230.0.0/16,Domestic',
-        'IP-CIDR,107.151.196.0/24,Domestic',
         'IP-CIDR,109.244.0.0/16,Domestic',
         'IP-CIDR,110.6.0.0/15,Domestic',
         'IP-CIDR,110.16.0.0/14,Domestic',
