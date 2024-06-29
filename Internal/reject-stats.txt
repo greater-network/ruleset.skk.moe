@@ -1,4 +1,4 @@
-r2.dev                                                                                              4623
+r2.dev                                                                                              4699
 omtrdc.net                                                                                          3835
 igodigital.com                                                                                      3817
 actonservice.com                                                                                    3027
@@ -10,7 +10,7 @@ reminews.com                                                                    
 datalp.com.br                                                                                       664
 notifysrv.com                                                                                       517
 notify6.com                                                                                         516
-webwave.dev                                                                                         499
+webwave.dev                                                                                         507
 2o7.net                                                                                             460
 jemonews.com                                                                                        456
 lookinews.com                                                                                       384
@@ -54,12 +54,12 @@ order2588322.info                                                               
 hubside.fr                                                                                          135
 lycheenews.com                                                                                      134
 bealanews.com                                                                                       129
+weebly.com                                                                                          129
 oewabox.at                                                                                          126
 twojedom.pl                                                                                         125
 you2.pl                                                                                             125
 espn365.com                                                                                         124
 km14hkusz.com                                                                                       124
-weebly.com                                                                                          124
 windows.com                                                                                         120
 beeppool.org                                                                                        119
 kwistasuzk.pl                                                                                       119
@@ -74,7 +74,6 @@ yinzcam.com                                                                     
 serswise.pl                                                                                         112
 owps.pl                                                                                             111
 vgwort.de                                                                                           110
-webflow.io                                                                                          108
 w3s.link                                                                                            107
 magdach.pl                                                                                          105
 checkm8.com                                                                                         103
@@ -103,8 +102,8 @@ hekko24.pl                                                                      
 sifenews.com                                                                                        84
 gaznf.xyz                                                                                           83
 h2g.pl                                                                                              82
-amazonaws.com                                                                                       81
 microsoft.com                                                                                       81
+amazonaws.com                                                                                       80
 j74y03g8u.com                                                                                       79
 order0129501.info                                                                                   79
 order9512951.info                                                                                   79
@@ -172,10 +171,10 @@ crypto-webminer.com                                                             
 icanmining.ru                                                                                       56
 order009988.info                                                                                    56
 total.fr                                                                                            56
+weeblysite.com                                                                                      56
 bravenet.com                                                                                        55
 huronews.com                                                                                        55
 manasan.top                                                                                         55
-pages.dev                                                                                           55
 sjri.pl                                                                                             55
 canmaxiprog.site                                                                                    54
 cdn77.org                                                                                           54
@@ -186,6 +185,7 @@ sina.com.cn                                                                     
 arturivan.pl                                                                                        53
 crypto-loot.com                                                                                     53
 vistvx.pl                                                                                           53
+webflow.io                                                                                          53
 eccocar.com                                                                                         52
 espmp-agfr.net                                                                                      52
 happycustomer.io                                                                                    52
@@ -204,16 +204,16 @@ st6-investprog.site                                                             
 olled.xyz                                                                                           49
 79j68qav2.com                                                                                       48
 byseniscon.top                                                                                      48
+on-fleek.app                                                                                        48
 order574820.info                                                                                    48
 redmed1.xyz                                                                                         48
 trekkeeee.space                                                                                     48
+wpenginepowered.com                                                                                 48
 eutradepeopl.top                                                                                    47
 experian.com                                                                                        47
 knto.cloud                                                                                          47
 ktt55.my.id                                                                                         47
-on-fleek.app                                                                                        47
 sviluppo.host                                                                                       47
-wpenginepowered.com                                                                                 47
 y22n.lat                                                                                            47
 adkclicker.fr                                                                                       46
 adsame.com                                                                                          46
@@ -224,15 +224,13 @@ pandasuite.io                                                                   
 papiashvili.top                                                                                     46
 sirss.pl                                                                                            46
 utulo.site                                                                                          46
-wixstudio.io                                                                                        46
 360.cn                                                                                              45
 apprety.site                                                                                        45
 bestoffers-wt.com                                                                                   45
 codeanyapp.com                                                                                      45
 livesketo.site                                                                                      45
 orders83930.info                                                                                    45
-blogspot.com                                                                                        44
-dns-dynamic.net                                                                                     44
+wixstudio.io                                                                                        45
 imrworldwide.com                                                                                    44
 protrobit.site                                                                                      44
 quickmarketnow.me                                                                                   44
@@ -248,6 +246,7 @@ neworder44799.info                                                              
 poy0.lat                                                                                            43
 aq2e.com                                                                                            42
 coin-hive.com                                                                                       42
+dns-dynamic.net                                                                                     42
 loopanews.com                                                                                       42
 maymaxy.xyz                                                                                         42
 sohu.com                                                                                            42
@@ -259,6 +258,7 @@ espmp-cufr.net                                                                  
 evv-auditing.com                                                                                    41
 mttrade.top                                                                                         41
 ordernew12312517.info                                                                               41
+pages.dev                                                                                           41
 aely.skin                                                                                           40
 americanexpress.com                                                                                 40
 btspolsky.top                                                                                       40
@@ -272,15 +272,16 @@ supplypoland.com                                                                
 aaa.com                                                                                             39
 depilid.site                                                                                        39
 florencerepairs.com                                                                                 39
-oortech.com                                                                                         39
 rookinews.com                                                                                       39
 vertysbos.top                                                                                       39
 vmy0.icu                                                                                            39
 2jgc.lat                                                                                            38
 aimedia.lk                                                                                          38
+blogspot.com                                                                                        38
 in-group.xyz                                                                                        38
 inventnamb.click                                                                                    38
 newlvlpro.top                                                                                       38
+oortech.com                                                                                         38
 wolterskluwer.com                                                                                   38
 aliyuncs.com                                                                                        37
 can-info.site                                                                                       37
@@ -302,7 +303,6 @@ loyal-program.live                                                              
 mediav.com                                                                                          36
 plsttrade.top                                                                                       36
 rezolvs.pl                                                                                          36
-weeblysite.com                                                                                      36
 56hn.lat                                                                                            35
 bestoffers-fe.com                                                                                   35
 depprogg.top                                                                                        35
@@ -336,7 +336,6 @@ thermofisher.com                                                                
 tradx.top                                                                                           33
 unity3d.com                                                                                         33
 urils.pl                                                                                            33
-wixsite.com                                                                                         33
 adscience.nl                                                                                        32
 bosd.online                                                                                         32
 csgocpu.com                                                                                         32
@@ -365,6 +364,7 @@ shengen.ru                                                                      
 xe1v.lat                                                                                            31
 aesthetise.com                                                                                      30
 djmcy.pl                                                                                            30
+duckdns.org                                                                                         30
 hstn.me                                                                                             30
 hut1.ru                                                                                             30
 marcukesh.top                                                                                       30
@@ -378,7 +378,6 @@ aleragroup.com                                                                  
 binnpro.xyz                                                                                         29
 champwat.xyz                                                                                        29
 cruftinrebut.com                                                                                    29
-duckdns.org                                                                                         29
 infbal.site                                                                                         29
 newprogram.top                                                                                      29
 newzgames.com                                                                                       29
@@ -387,6 +386,7 @@ open-sooursee.live                                                              
 ownoffferta.cc                                                                                      29
 prlmaxiiisok.xyz                                                                                    29
 v4l6.top                                                                                            29
+wcomhost.com                                                                                        29
 worldpeoplefx.top                                                                                   29
 1mqo.top                                                                                            28
 all-app.cfd                                                                                         28
@@ -403,16 +403,16 @@ sextracker.com                                                                  
 trdex.top                                                                                           28
 urest.org                                                                                           28
 vodafone.com                                                                                        28
-wcomhost.com                                                                                        28
 wimsa.top                                                                                           28
 windows.net                                                                                         28
+wixsite.com                                                                                         28
 x9.eu                                                                                               28
+xsph.ru                                                                                             28
 34gwl8v1a.com                                                                                       27
 akadns.net                                                                                          27
 barberiaruta86.com                                                                                  27
 comfortykive.xyz                                                                                    27
 dreamwp.com                                                                                         27
-ewp.live                                                                                            27
 gemius.pl                                                                                           27
 herokuapp.com                                                                                       27
 id-76565.me                                                                                         27
@@ -427,7 +427,6 @@ topprogit.xyz                                                                   
 unixofficeequipment.com                                                                             27
 woltar.live                                                                                         27
 x8af.icu                                                                                            27
-xsph.ru                                                                                             27
 2epo.lat                                                                                            26
 95eb.icu                                                                                            26
 activityprog.site                                                                                   26
@@ -489,6 +488,7 @@ cloudlets.zone                                                                  
 crpt-gen.xyz                                                                                        24
 domho.pl                                                                                            24
 epoise.com                                                                                          24
+ewp.live                                                                                            24
 extreme-dm.com                                                                                      24
 hostingkampanya.com                                                                                 24
 inmobi.com                                                                                          24
@@ -605,7 +605,6 @@ dbankcloud.cn                                                                   
 equifax.com                                                                                         20
 facst.xyz                                                                                           20
 faroutfries.com                                                                                     20
-github.io                                                                                           20
 globaltradruv.com                                                                                   20
 hostcontent.live                                                                                    20
 id-4395.me                                                                                          20
@@ -797,6 +796,7 @@ euprofx.top                                                                     
 fondblagorus.xyz                                                                                    16
 franksistem.site                                                                                    16
 ggaf.pl                                                                                             16
+gitbook.io                                                                                          16
 glitchrepublic.com                                                                                  16
 go.com                                                                                              16
 headlines.pw                                                                                        16
@@ -827,7 +827,6 @@ polprogramm1.xyz                                                                
 polskadep.xyz                                                                                       16
 prog-max1pro0g.site                                                                                 16
 rakuten.co.jp                                                                                       16
-replit.app                                                                                          16
 runeww1.site                                                                                        16
 sitevms.site                                                                                        16
 soanesconsulting.com                                                                                16
@@ -848,7 +847,6 @@ tune2u.com                                                                      
 tx1tx.click                                                                                         16
 uho5m96ej.com                                                                                       16
 ulti-mate.com                                                                                       16
-vercel.app                                                                                          16
 waonline.site                                                                                       16
 wetss.xyz                                                                                           16
 wyktorias.pl                                                                                        16
@@ -893,7 +891,7 @@ mastt.xyz                                                                       
 miliomp.xyz                                                                                         15
 moethennessy.com                                                                                    15
 my-chatprogram.xyz                                                                                  15
-mytemp.website                                                                                      15
+netlify.app                                                                                         15
 noryasmin.com                                                                                       15
 ogrt80r65.com                                                                                       15
 order9528.info                                                                                      15
@@ -905,6 +903,7 @@ prlsa.pl                                                                        
 propl.top                                                                                           15
 pusiaweb.com                                                                                        15
 rambler.ru                                                                                          15
+replit.app                                                                                          15
 reviss.site                                                                                         15
 rewol-ucja-gazowa.com                                                                               15
 ruranews.com                                                                                        15
@@ -912,7 +911,6 @@ sharpmarketing.eu                                                               
 swarambhayatra.com                                                                                  15
 systemlocal.space                                                                                   15
 t-mobile.com                                                                                        15
-tanktechs.info                                                                                      15
 toulousian-route-booking.com                                                                        15
 ttssonine.top                                                                                       15
 utgv.pl                                                                                             15
@@ -971,12 +969,14 @@ leplaatfr.site                                                                  
 lotynogid.site                                                                                      14
 lymox.top                                                                                           14
 mail.ru                                                                                             14
+massivegrid.net                                                                                     14
 maswwo.xyz                                                                                          14
 maxi-bl0g.site                                                                                      14
 metregplt.top                                                                                       14
 mi.com                                                                                              14
 michaelbhrad.com                                                                                    14
 monday.com                                                                                          14
+mytemp.website                                                                                      14
 myvipkontos.casa                                                                                    14
 nablabee.com                                                                                        14
 natwest.com                                                                                         14
@@ -1007,6 +1007,7 @@ schroders.com                                                                   
 shivamgmt.com                                                                                       14
 szczur.warszawa.pl                                                                                  14
 tajawal.com                                                                                         14
+tanktechs.info                                                                                      14
 topplid.site                                                                                        14
 trdepl.xyz                                                                                          14
 trytoku.com                                                                                         14
@@ -1059,6 +1060,7 @@ foremedia.net                                                                   
 forrum.top                                                                                          13
 gcion.com                                                                                           13
 getui.com                                                                                           13
+github.io                                                                                           13
 googlesyndication.com                                                                               13
 groc.press                                                                                          13
 hp.com                                                                                              13
@@ -1071,7 +1073,6 @@ kios.top                                                                        
 klaudiaps.pl                                                                                        13
 lisapwa.pl                                                                                          13
 masler.xyz                                                                                          13
-massivegrid.net                                                                                     13
 maxinvo.xyz                                                                                         13
 mediacrss.com                                                                                       13
 michasiabadek.pl                                                                                    13
@@ -1142,6 +1143,7 @@ applovin.com                                                                    
 arekhasnik.pl                                                                                       12
 asanalyzer.com                                                                                      12
 avast.com                                                                                           12
+azurewebsites.net                                                                                   12
 basicbeautys.com                                                                                    12
 bdl.pl                                                                                              12
 bloguje-teraz.eu                                                                                    12
@@ -1209,6 +1211,7 @@ mydays.de                                                                       
 n9g.cc                                                                                              12
 negosla.pl                                                                                          12
 neohus.xyz                                                                                          12
+onepage.me                                                                                          12
 online-cashhh.top                                                                                   12
 onlineact1.site                                                                                     12
 opentraderxwe.com                                                                                   12
@@ -1259,6 +1262,7 @@ uc.cn                                                                           
 ufl.edu                                                                                             12
 unenoteunjour.fr                                                                                    12
 upnf.cfd                                                                                            12
+vercel.app                                                                                          12
 visite-vendee.com                                                                                   12
 visma.com                                                                                           12
 vonage.com                                                                                          12
@@ -1294,7 +1298,6 @@ amplitude.com                                                                   
 app-net.pl                                                                                          11
 asals.top                                                                                           11
 atdmt.com                                                                                           11
-atsnx.com                                                                                           11
 au-income1003.online                                                                                11
 au-income1004.online                                                                                11
 au-income1008.online                                                                                11
@@ -1315,7 +1318,6 @@ au-income933.online                                                             
 au-income936.online                                                                                 11
 au-income938.online                                                                                 11
 au-income994.online                                                                                 11
-azurewebsites.net                                                                                   11
 barbaru.pl                                                                                          11
 bbelements.com                                                                                      11
 beachways.com                                                                                       11
@@ -1405,7 +1407,6 @@ nq.pl                                                                           
 oberd.com                                                                                           11
 oceanvd.life                                                                                        11
 officialbalticpipe.space                                                                            11
-onepage.me                                                                                          11
 order145.info                                                                                       11
 order2104124.info                                                                                   11
 order2539.info                                                                                      11
@@ -1515,6 +1516,7 @@ arjo.com                                                                        
 artcd.net.pl                                                                                        10
 ashshbuha.com                                                                                       10
 asvoxod.ru                                                                                          10
+atsnx.com                                                                                           10
 au-income1067.online                                                                                10
 au-income908.online                                                                                 10
 au-income934.online                                                                                 10
