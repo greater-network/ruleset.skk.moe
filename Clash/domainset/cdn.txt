@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-06-29T04:54:55.751Z
-# Size: 2093
+# Last Updated: 2024-06-29T16:31:49.031Z
+# Size: 2081
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -236,7 +236,6 @@ previews.fleek.co
 storageapi.fleek.co
 storageapi2.fleek.co
 +.fsdn.com
-a.fsdn.com
 statics.goorm.io
 gopkg.in
 +.ipfs.greyh.at
@@ -449,7 +448,6 @@ wandi-6402.kxcdn.com
 searchanise-ef84.kxcdn.com
 wikiwandv2-19431.kxcdn.com
 +.lencr.org
-r3.o.lencr.org
 media.licdn.com
 static.licdn.com
 static-exp1.licdn.com
@@ -693,7 +691,6 @@ cdn-static-1.medium.com
 static.meiguo.com
 +.mercdn.net
 +.mfcimg.com
-assets.mfcimg.com
 cdn.micro.blog
 avatars.micro.blog
 cdn.missav.com
@@ -858,7 +855,6 @@ img.apponic.com
 cdn6.aptoide.com
 cdn-mobile.aptoide.com
 +.archive.org
-web-static.archive.org
 static.assetlab.io
 consentdeliveryfd.azurefd.net
 +.bdzybf7.com
@@ -1009,7 +1005,6 @@ img.perfops.net
 cdn.pixabay.com
 www.pngmart.com
 +.polyfill.io
-pornimg.xyz
 +.pornimg.xyz
 +.pravatar.cc
 +.pstatic.net
@@ -1145,7 +1140,6 @@ crt.comodoca.com
 cds.connatix.com
 img.connatix.com
 +.crossbell.io
-+.ipfs.crossbell.io
 cdn.datacamp.com
 david-dm.org
 avatars.dicebear.com
@@ -1278,7 +1272,6 @@ embed.savvycal.com
 cdn.mcauto-images-production.sendgrid.net
 cdn.signalfx.com
 +.sitescdn.net
-assets.sitescdn.net
 resources-live.sketch.cloud
 static1.smartbear.co
 +.smassets.net
@@ -1466,7 +1459,6 @@ storage-b.picacomic.com
 +.assets.pinterest.com
 +.place-hold.it
 js.qualified.com
-siteintercept.qualtrics.com
 +.siteintercept.qualtrics.com
 error.rakuten.co.jp
 cdn.rex.contents.rakuten.co.jp
@@ -1495,7 +1487,6 @@ content-prod-live.cert.starbucks.com
 +.staticaly.com
 +.statuspage.io
 link.storjshare.io
-a.storyblok.com
 +.a.storyblok.com
 +.stripecdn.com
 cdn-service.jp.sumologic.com
@@ -1720,7 +1711,6 @@ cdnjs.betterstack.com
 +.bleepstatic.com
 cdn.calibermind.com
 +.cdn-website.com
-static.cdn-website.com
 media.cleanshot.cloud
 ddcdn.comtucdncom.com
 js.createsend1.com
@@ -2041,7 +2031,6 @@ static-assets.freeanimehentai.net
 +.invisionapp-cdn.com
 static-r.kamihimeproject.net
 +.makeuseofimages.com
-static1.makeuseofimages.com
 +.motherlessmedia.com
 irp-cdn.multiscreensite.com
 openseauserdata.com
@@ -2057,7 +2046,6 @@ assets.braintreegateway.com
 pkg.cloudflareclient.com
 +.cloudflarestream.com
 +.hscollectedforms.net
-js.hscollectedforms.net
 assets4.mist-train-girls.com
 oss-binaries.phusionpassenger.com
 static2.sharepointonline.com
