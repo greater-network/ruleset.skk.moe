@@ -142,7 +142,6 @@ globaltradruv.com                                                               
 jessicabarrett.com                                                                                  20
 lexisnexis.com                                                                                      20
 sfr.fr                                                                                              20
-sohu.com                                                                                            20
 univer.se                                                                                           20
 att.com                                                                                             19
 gamemods.com.tr                                                                                     19
@@ -150,6 +149,7 @@ informa.com                                                                     
 mlb.com                                                                                             19
 ni.com                                                                                              19
 sa.com                                                                                              19
+sohu.com                                                                                            19
 acronis.com                                                                                         18
 americanexpress.co.uk                                                                               18
 biomedzglobal.com                                                                                   18
