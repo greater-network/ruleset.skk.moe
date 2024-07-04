@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-07-03T12:33:53.011Z
+# Last Updated: 2024-07-04T12:33:08.747Z
 # Size: 935
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -262,6 +262,7 @@ speedtest-wa.waveip.org
 wiwan66.seattle.westnet.ca
 +.wifiman.me
 laxla0001speedtestserver01.wiline.com
+sfosj0096speedtestserver01.wiline.com
 speedam.wsp.net.br
 spdtst.xenyth.net
 dpop.yondoo.com
@@ -277,7 +278,6 @@ speedtest1-sttlwawb.as20055.net
 speedtest-ookla-par.as62000.net
 speedtest1.axes.com.br
 speedtest.blacksun.ca
-speedtest.bmcc.com.cn
 spt1.bsnlive.net
 speedtest-1.compute.dc1.cilix.cloud
 speedtest.pr.citywest.ca
