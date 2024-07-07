@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-07-07T09:39:26.652Z
-# Size: 924
+# Last Updated: 2024-07-07T10:02:36.634Z
+# Size: 923
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -646,7 +646,6 @@ speedtest.xcdtelecom.com
 speedtest.yless4u.com.au
 speedtest.airfiber.com.tr
 speedtest.airlink.network
-ourtestisbest.brolve.net:8080
 +.speedtest.centurylink.net
 speedtest.hk.chinamobile.com
 speedtestbb.hk.chinamobile.com
