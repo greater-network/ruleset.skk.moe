@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-07-07T09:08:00.753Z
+# Last Updated: 2024-07-07T09:32:10.522Z
 # Size: 913
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -643,7 +643,7 @@ ourtestisbest.brolve.net:8080
 +.speedtest.centurylink.net
 speedtest.hk.chinamobile.com
 speedtestbb.hk.chinamobile.com
-ldn.speedtest.cmcnetworks.net
++.speedtest.cmcnetworks.net
 speedtestookla.datahost.net.tr
 pauseq4vost1.datamossa.cloud
 speedtest.dongfong.com.tw
@@ -874,7 +874,7 @@ st2.octopustelecom.co.uk
 de.prismanetworks.cloud
 speedtest.seveninternet.com.br
 velocimetro.speednetworks.com.br
-teste.speedtestwnet.com.br
++.speedtestwnet.com.br
 speed-server3.summit-broadband.com
 suntechspeedtest.com
 teste.suprainternet.com.br
