@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-07-09T12:35:04.495Z
+// # Build 2024-07-10T08:20:30.104Z
 
 declare(strict_types=1);
 
@@ -2846,6 +2846,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,52.82.170.0/23,Domestic',
         'IP-CIDR,52.82.172.0/22,Domestic',
         'IP-CIDR,52.82.176.0/21,Domestic',
+        'IP-CIDR,52.82.184.0/23,Domestic',
         'IP-CIDR,52.82.187.0/24,Domestic',
         'IP-CIDR,52.82.188.0/23,Domestic',
         'IP-CIDR,52.82.190.0/24,Domestic',
@@ -4752,6 +4753,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,160.19.208.0/21,Domestic',
         'IP-CIDR,160.20.18.0/23,Domestic',
         'IP-CIDR,160.83.110.0/24,Domestic',
+        'IP-CIDR,160.202.60.0/22,Domestic',
         'IP-CIDR,160.202.212.0/22,Domestic',
         'IP-CIDR,161.163.0.0/21,Domestic',
         'IP-CIDR,161.163.28.0/23,Domestic',
@@ -5455,7 +5457,9 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,211.92.224.0/20,Domestic',
         'IP-CIDR,211.92.240.0/21,Domestic',
         'IP-CIDR,211.93.0.0/17,Domestic',
-        'IP-CIDR,211.93.128.0/18,Domestic',
+        'IP-CIDR,211.93.128.0/20,Domestic',
+        'IP-CIDR,211.93.144.0/21,Domestic',
+        'IP-CIDR,211.93.160.0/19,Domestic',
         'IP-CIDR,211.93.192.0/21,Domestic',
         'IP-CIDR,211.93.200.0/23,Domestic',
         'IP-CIDR,211.93.204.0/22,Domestic',
@@ -5636,7 +5640,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,218.98.96.0/21,Domestic',
         'IP-CIDR,218.98.104.0/22,Domestic',
         'IP-CIDR,218.98.108.0/23,Domestic',
-        'IP-CIDR,218.98.111.0/24,Domestic',
         'IP-CIDR,218.98.112.0/23,Domestic',
         'IP-CIDR,218.98.160.0/24,Domestic',
         'IP-CIDR,218.98.176.0/24,Domestic',
@@ -5666,6 +5669,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,218.240.128.0/19,Domestic',
         'IP-CIDR,218.240.160.0/21,Domestic',
         'IP-CIDR,218.240.176.0/24,Domestic',
+        'IP-CIDR,218.240.179.0/24,Domestic',
         'IP-CIDR,218.240.255.0/24,Domestic',
         'IP-CIDR,218.241.16.0/21,Domestic',
         'IP-CIDR,218.241.96.0/20,Domestic',
