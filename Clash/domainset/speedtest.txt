@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-07-07T10:02:36.634Z
-# Size: 923
+# Last Updated: 2024-07-11T12:34:11.742Z
+# Size: 932
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -386,6 +386,7 @@ speedtest.capti.com.au
 mtcspeedtest.catskill.net
 speedtest.clarkson.edu
 spd33.claro.com.br
+spd49.claro.com.br
 hiztesti.codit.com.tr
 hiztesti-ist.codit.com.tr
 +.ookla.ddnsgeek.com
@@ -523,6 +524,7 @@ hoshiyomi.ratatoskr.org
 speedtest1.net.rochester.edu
 +.speedtest.sbcglobal.net
 speedtest.scotnet.co.uk
+speed.sdmnet.com.br
 speedtest.seaside.ns.ca
 ookla.la.ca.sharktech.net
 speedtest.ams.sharktech.net
@@ -621,6 +623,7 @@ speednld.phoenixnap.com
 speedsin.phoenixnap.com
 speedtest.pilotfiber.com
 lg.mia.plasmarack.com
+sp01.rbfibra.net.br
 speedtest.redactus.co.uk
 speed.rnp-net.com.br
 speedtest.sewan-group.de
@@ -654,6 +657,7 @@ speedtestookla.datahost.net.tr
 pauseq4vost1.datamossa.cloud
 speedtest.dongfong.com.tw
 speedtest.fra.ewgmedianet.com
+spd.fibranet.srv.br
 speedtest-nxtb2.fsg-hosting.com
 speedtest-nxts1.fsg-hosting.com
 speedtest-eqxae1.fsg-hosting.com
@@ -722,6 +726,7 @@ speedtest3.vodafone.com.tr
 speedtest2.voicehost.co.uk
 speedtest.webdiscount.net
 speedtest.wifitelekom.com
+speed.xpandtec.com.br
 speedtest.yesilnet.com.tr
 speedtest-lax.advinservers.com
 speed.amazonett.com.br
@@ -735,6 +740,8 @@ sp1.campanaworks.com
 speedtest.cyberline.com.br
 speedtest.cyberlink.net.br
 speedtestuk1.cybersmart.co.za
+dsteste.dstelecom.net.br
+speedtest.embrasnet.com.br
 speedtest.empireaccess.com
 velocimetro.esolution.srv.br
 velocidad.fiberlink.com.pa
@@ -743,6 +750,7 @@ speedtest.fiberlink.net.ua
 speedtest1.flashwifi.com.br
 speedtest.global-layer.com
 speedtest.singapore.globalxtreme.net
+velocimetro.govistabr.com.br
 speedtestldn.grainconnect.com
 stdal.highlinefast.com
 +.hizinitestet.com
@@ -900,6 +908,7 @@ st2.barquisimeto.intercomservicios.com
 speedtest.japanettelecom.com.br
 st.jnettelecom-am.com.br
 speedtest2.lightningfibre.net.uk
+teste.newsolutionnet.com.br
 speedteste.newsolutionnet.com.br
 speedtest.absolutevalidation.com
 speedtest.sea.accretive-networks.net
