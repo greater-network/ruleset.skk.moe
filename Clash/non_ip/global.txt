@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-06-13T14:22:56.448Z
-# Size: 569
+# Last Updated: 2024-07-16T02:18:07.955Z
+# Size: 570
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -349,6 +349,7 @@ DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,euronews.com
+DOMAIN-SUFFIX,fanbox.cc
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,fc2.com
 DOMAIN-SUFFIX,feedly.com
