@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-07-13T12:30:49.674Z
-# Size: 936
+# Last Updated: 2024-07-18T16:08:13.469Z
+# Size: 942
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -219,10 +219,13 @@ stguelph.rogers.com
 stlondon.rogers.com
 stmilton.rogers.com
 sttoronto.rogers.com
+stvaughan.rogers.com
 stbrampton.rogers.com
 sthamilton.rogers.com
+stkingcity.rogers.com
 stoakville.rogers.com
 ststthomas.rogers.com
+stwaterloo.rogers.com
 stbrantford.rogers.com
 stetobicoke.rogers.com
 stkitchener.rogers.com
@@ -231,6 +234,7 @@ stpickering.rogers.com
 ststratford.rogers.com
 stwoodstock.rogers.com
 stmississauga.rogers.com
+storangeville.rogers.com
 stscarborough.rogers.com
 stguelphwireless.rogers.com
 stlondonwireless.rogers.com
@@ -249,7 +253,9 @@ stwoodstockwireless.rogers.com
 stgeorgetownwireless.rogers.com
 stleamingtonwireless.rogers.com
 stmississaugawireless.rogers.com
+storangevillewireless.rogers.com
 ststcatharineswireless.rogers.com
+stsaultstemariewireless.rogers.com
 stwellandpelhamwireless.rogers.com
 dalspeedtest.rtatel.com
 speedtest-server-lax.starry.com
