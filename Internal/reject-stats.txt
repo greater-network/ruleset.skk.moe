@@ -25,6 +25,7 @@ innovatedating.com                                                              
 aaa.com                                                                                             35
 m-shop.me                                                                                           35
 msn.com                                                                                             35
+windows.net                                                                                         35
 aliyuncs.com                                                                                        33
 samsung.com                                                                                         33
 thermofisher.com                                                                                    33
@@ -40,7 +41,6 @@ newzgames.com                                                                   
 yahoo.com                                                                                           29
 international-med.com                                                                               28
 vodafone.com                                                                                        28
-windows.net                                                                                         28
 360.cn                                                                                              27
 akamaihd.net                                                                                        27
 ni.com                                                                                              27
@@ -136,7 +136,6 @@ zalo.me                                                                         
 advancedtech.com                                                                                    12
 apple.com                                                                                           12
 averydennison.com                                                                                   12
-biomedzglobal.com                                                                                   12
 blogspot.com                                                                                        12
 chip.de                                                                                             12
 cigna.com                                                                                           12
