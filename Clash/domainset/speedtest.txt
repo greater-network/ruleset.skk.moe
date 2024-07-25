@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-07-18T16:08:13.469Z
-# Size: 942
+# Last Updated: 2024-07-25T02:07:45.180Z
+# Size: 944
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -489,6 +489,7 @@ speedtest.qld.edgeix.net.au
 +.speedtest.exetel.com.au
 st-1.fibrenest.net
 speedtest.fixnet.com.tr
+afyonspeedtest.fixnet.com.tr
 bursaspeedtest.fixnet.com.tr
 izmirspeedtest.fixnet.com.tr
 istanbulspeedtest.fixnet.com.tr
@@ -859,6 +860,7 @@ ber.wsqm.telekom-dienste.de
 ffm.wsqm.telekom-dienste.de
 tkconnectrr.com.br
 bur1speedtest.turktelekom.com.tr
+esk1speedtest.turktelekom.com.tr
 gay1speedtest.turktelekom.com.tr
 geb1speedtest.turktelekom.com.tr
 gun1speedtest.turktelekom.com.tr
