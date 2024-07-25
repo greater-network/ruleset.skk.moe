@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-07-25T02:07:48.899Z
-# Size: 124702
+# Last Updated: 2024-07-25T09:38:44.182Z
+# Size: 124707
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -21221,6 +21221,7 @@ adres.myaora.net
 +.njvacw.xyz
 +.nkbkor.icu
 +.nkbpft.xyz
++.nkdyzf.com
 +.nkfith.xyz
 +.pop.nkiris.com
 +.nkstkp.com
@@ -31150,6 +31151,7 @@ wmlog.meituan.com
 +.images.e.midmark.com
 +.link.midnite.com
 +.client.midosoo.com
++.migineg.com
 +.migo011.top
 +.securedata.mijnspar.be
 +.data.customermail.mijnxtra.be
@@ -31463,6 +31465,7 @@ ads.mojicdn.com
 +.metrics.myprime.com
 +.myq-see.com
 +.tracking.myregus.com
++.myretux.top
 +.mytiris.com
 +.mytizer.com
 +.timeclock.mytoolr.com
@@ -38823,6 +38826,7 @@ galaxy.bjcathay.com
 +.cpxdeliv.com
 +.cpyjyhny.xyz
 +.cqddhfjl.com
+cdn.cr-relay.com
 +.crackage.net
 +.crackdb.info
 +.cracking.org
@@ -40575,6 +40579,7 @@ rt.funshion.net
 +.u-test.getgoose.com
 +.gethackz.com
 +.app.getjerry.com
+cdn.getkoala.com
 +.getmacos.org
 +.chef.getmenoo.com
 +.app.getmiles.com
