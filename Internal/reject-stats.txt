@@ -1,4 +1,4 @@
-cloudfront.net                                                                                      1243
+cloudfront.net                                                                                      1244
 windows.com                                                                                         118
 weebly.com                                                                                          116
 llnw.net                                                                                            101
@@ -177,6 +177,7 @@ engie.fr                                                                        
 fastly.net                                                                                          10
 gloriadeicr.com                                                                                     10
 harmonie-mutuelle.fr                                                                                10
+hienphucuanhanloai.org                                                                              10
 hilton.com                                                                                          10
 insights.md                                                                                         10
 kugou.com                                                                                           10
