@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-07-29T12:34:43.239Z
+// # Build 2024-07-29T13:09:06.872Z
 
 declare(strict_types=1);
 
@@ -1799,6 +1799,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,arc.net,Global',
         'DOMAIN-SUFFIX,archiveofourown.org,Global',
         'DOMAIN-SUFFIX,ask.com,Global',
+        'DOMAIN-SUFFIX,atlassian.com,Global',
+        'DOMAIN-SUFFIX,atlassian.net,Global',
         'DOMAIN-SUFFIX,avg.com,Global',
         'DOMAIN-SUFFIX,avgle.com,Global',
         'DOMAIN-SUFFIX,bandcamp.com,Global',
@@ -1916,6 +1918,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ixxx.com,Global',
         'DOMAIN-SUFFIX,jable.tv,Global',
         'DOMAIN-SUFFIX,java.com,Global',
+        'DOMAIN-SUFFIX,jirachecklist.com,Global',
         'DOMAIN-SUFFIX,jkforum.net,Global',
         'DOMAIN-SUFFIX,jsdelivr.com,Global',
         'DOMAIN-SUFFIX,jsdelivr.net,Global',
