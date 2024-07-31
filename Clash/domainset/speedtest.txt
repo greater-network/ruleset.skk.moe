@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-07-26T12:33:09.906Z
-# Size: 968
+# Last Updated: 2024-07-31T12:35:11.223Z
+# Size: 970
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -687,6 +687,7 @@ speedtestbb.hk.chinamobile.com
 +.speedtest.cmcnetworks.net
 speedtestookla.datahost.net.tr
 pauseq4vost1.datamossa.cloud
+speedtest.datarove.com.tr
 speedtest.dongfong.com.tw
 speedtest.fra.ewgmedianet.com
 spd.fibranet.srv.br
@@ -886,6 +887,7 @@ esk1speedtest.turktelekom.com.tr
 gay1speedtest.turktelekom.com.tr
 geb1speedtest.turktelekom.com.tr
 gun1speedtest.turktelekom.com.tr
+sam1speedtest.turktelekom.com.tr
 umr1speedtest.turktelekom.com.tr
 speedtest.unlimitedfiber.com
 speedtest.upwirefibra.com.br
