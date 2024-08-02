@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-08-02T08:37:01.116Z
+// # Build 2024-08-02T10:29:50.183Z
 
 declare(strict_types=1);
 
@@ -528,6 +528,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,peiluyou.com,Domestic',
         'DOMAIN-SUFFIX,php.cn,Domestic',
         'DOMAIN-SUFFIX,pingan.com,Domestic',
+        'DOMAIN-SUFFIX,pingwest.com,Domestic',
         'DOMAIN-SUFFIX,pplive.com,Domestic',
         'DOMAIN-SUFFIX,pps.tv,Domestic',
         'DOMAIN-SUFFIX,ppsimg.com,Domestic',
@@ -1795,6 +1796,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,akamaihd.net,Global',
         'DOMAIN-SUFFIX,amazon.com,Global',
         'DOMAIN-SUFFIX,amazon.co.jp,Global',
+        'DOMAIN-SUFFIX,amazonaws.com,Global',
         'DOMAIN-SUFFIX,apibay.org,Global',
         'DOMAIN-SUFFIX,apk-dl.com,Global',
         'DOMAIN-SUFFIX,apkmirror.com,Global',
@@ -1926,6 +1928,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,jkforum.net,Global',
         'DOMAIN-SUFFIX,jsdelivr.com,Global',
         'DOMAIN-SUFFIX,jsdelivr.net,Global',
+        'DOMAIN-SUFFIX,jumpdesktop.com,Global',
         'DOMAIN-SUFFIX,kagi.com,Global',
         'DOMAIN-SUFFIX,kakao.com,Global',
         'DOMAIN-SUFFIX,kik.com,Global',
@@ -2041,6 +2044,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,t66y.com,Global',
         'DOMAIN-SUFFIX,tenor.com,Global',
         'DOMAIN-SUFFIX,textnow.me,Global',
+        'DOMAIN-SUFFIX,termius.com,Global',
         'DOMAIN-SUFFIX,tgstat.ru,Global',
         'DOMAIN-SUFFIX,theinitium.com,Global',
         'DOMAIN-SUFFIX,themoviedb.org,Global',

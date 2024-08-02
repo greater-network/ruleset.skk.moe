@@ -9,7 +9,7 @@ openapp.link                                                                    
 qq.com                                                                                              67
 79j68qav2.com                                                                                       66
 cdn77.org                                                                                           65
-amazonaws.com                                                                                       58
+amazonaws.com                                                                                       59
 eccocar.com                                                                                         51
 taobao.com                                                                                          47
 youku.com                                                                                           47
@@ -22,18 +22,18 @@ nespresso.com                                                                   
 americanexpress.com                                                                                 38
 cosmicnewspulse.com                                                                                 37
 innovatedating.com                                                                                  36
+msn.com                                                                                             36
 aaa.com                                                                                             35
-aliyuncs.com                                                                                        35
 m-shop.me                                                                                           35
-msn.com                                                                                             35
 windows.net                                                                                         35
+aliyuncs.com                                                                                        34
 samsung.com                                                                                         33
 thermofisher.com                                                                                    33
 appspot.com                                                                                         31
 microsoft.com                                                                                       31
-sina.cn                                                                                             31
 wolterskluwer.com                                                                                   31
 aleragroup.com                                                                                      30
+sina.cn                                                                                             30
 34gwl8v1a.com                                                                                       29
 833enmhob.com                                                                                       29
 hsbc.com                                                                                            29
@@ -45,8 +45,8 @@ vodafone.com                                                                    
 akamaihd.net                                                                                        27
 flourishpath.online                                                                                 27
 ni.com                                                                                              27
+naver.com                                                                                           26
 b-cdn.net                                                                                           25
-naver.com                                                                                           25
 autovistagroup.com                                                                                  24
 l5eamr17d.com                                                                                       24
 dlcodes.com                                                                                         23
@@ -99,6 +99,7 @@ iqiyi.com                                                                       
 letv.com                                                                                            15
 mynavi.jp                                                                                           15
 ogrt80r65.com                                                                                       15
+rambler.ru                                                                                          15
 ru.com                                                                                              15
 treknew.fun                                                                                         15
 xiaomi.net                                                                                          15
@@ -113,7 +114,6 @@ isnssdk.com                                                                     
 nba.com                                                                                             14
 oystergardening.name                                                                                14
 perkinelmer.com                                                                                     14
-rambler.ru                                                                                          14
 seponews.com                                                                                        14
 sogou.com                                                                                           14
 sosqboh85.com                                                                                       14

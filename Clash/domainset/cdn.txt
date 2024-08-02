@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-02T08:37:01.086Z
-# Size: 2100
+# Last Updated: 2024-08-02T10:29:50.150Z
+# Size: 2096
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -114,8 +114,8 @@ cdn3.dan.com
 docs.rs
 media.e4le.me
 +.esm.run
-+.file.io
 badge.fury.io
+assets.garr.it
 +.ghcr.io
 +.himg.nl
 objects.hit.moe
@@ -180,7 +180,6 @@ images.spot.im
 static-cdn.spot.im
 embed.tawk.to
 embed.ted.com
-+.temp.sh
 s3.toot.io
 cdn.tuk.dev
 +.cdn.ubi.com
@@ -226,6 +225,7 @@ assets.canny.io
 assets2.canny.io
 production-cmp.isgprivacy.cbsi.com
 +.media.ci-en.jp
+sf-coze-web-cdn.coze.com
 +.cthd.icu
 imgur.dcard.tw
 megapx-assets.dcard.tw
@@ -580,7 +580,6 @@ start-page.buffer.com
 cdn.builder.io
 +.bundle.run
 pic.cangku.moe
-+.catbox.moe
 video.cdnbye.com
 signal.cdnbye.com
 tracker.cdnbye.com
@@ -767,7 +766,6 @@ assets.repair.org
 sp.replit.com
 +.cdn.replit.com
 +.cms.replit.com
-share.riseup.net
 wimg.rule34.xxx
 embed.runkit.com
 +.sc-cdn.com
@@ -914,7 +912,6 @@ cdn2.ettoday.net
 static.ettoday.net
 +.exp-tas.com
 +.f-droid.org
-+.filebin.net
 detectportal.firefox.com
 a.fireside.fm
 assets.fireside.fm
@@ -1295,7 +1292,6 @@ cdn4.sysgears.com
 ci.testling.com
 +.tildacdn.com
 cdn.tinypass.com
-+.tmpfiles.org
 static.tokenview.io
 cdn.transcend.io
 static.tronscan.org
