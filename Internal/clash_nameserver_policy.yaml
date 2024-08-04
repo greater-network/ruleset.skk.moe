@@ -133,7 +133,6 @@ dns:
     +.bilivideo.com: https://doh.pub/dns-query
     +.bilivideo.cn: https://doh.pub/dns-query
     +.bilivideo.net: https://doh.pub/dns-query
-    +.hdslb.com: https://doh.pub/dns-query
     +.biliimg.com: https://doh.pub/dns-query
     +.biliapi.com: https://doh.pub/dns-query
     +.biliapi.net: https://doh.pub/dns-query
@@ -148,11 +147,13 @@ dns:
     +.mi.com: https://doh.pub/dns-query
     +.duokan.com: https://doh.pub/dns-query
     +.mi-img.com: https://doh.pub/dns-query
+    +.mi-fds.com: https://doh.pub/dns-query
     +.mifile.cn: https://doh.pub/dns-query
     +.miui.com: https://doh.pub/dns-query
     +.xiaomi.com: https://doh.pub/dns-query
     +.xiaomi.cn: https://doh.pub/dns-query
     +.xiaomi.net: https://doh.pub/dns-query
+    +.xiaomiev.com: https://doh.pub/dns-query
     +.xiaomiyoupin.com: https://doh.pub/dns-query
     +.saxyit.com: https://doh.pub/dns-query
     +.bytecdn.cn: 180.184.2.2

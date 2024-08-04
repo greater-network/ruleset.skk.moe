@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-08-04T15:01:17.223Z
+// # Build 2024-08-04T17:05:14.969Z
 
 declare(strict_types=1);
 
@@ -732,7 +732,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,bilivideo.com,Domestic',
         'DOMAIN-SUFFIX,bilivideo.cn,Domestic',
         'DOMAIN-SUFFIX,bilivideo.net,Domestic',
-        'DOMAIN-SUFFIX,hdslb.com,Domestic',
         'DOMAIN-SUFFIX,biliimg.com,Domestic',
         'DOMAIN-SUFFIX,biliapi.com,Domestic',
         'DOMAIN-SUFFIX,biliapi.net,Domestic',
@@ -747,11 +746,13 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,mi.com,Domestic',
         'DOMAIN-SUFFIX,duokan.com,Domestic',
         'DOMAIN-SUFFIX,mi-img.com,Domestic',
+        'DOMAIN-SUFFIX,mi-fds.com,Domestic',
         'DOMAIN-SUFFIX,mifile.cn,Domestic',
         'DOMAIN-SUFFIX,miui.com,Domestic',
         'DOMAIN-SUFFIX,xiaomi.com,Domestic',
         'DOMAIN-SUFFIX,xiaomi.cn,Domestic',
         'DOMAIN-SUFFIX,xiaomi.net,Domestic',
+        'DOMAIN-SUFFIX,xiaomiev.com,Domestic',
         'DOMAIN-SUFFIX,xiaomiyoupin.com,Domestic',
         'DOMAIN-SUFFIX,saxyit.com,Domestic',
         'DOMAIN-SUFFIX,bytecdn.cn,Domestic',
@@ -1917,6 +1918,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,huggingface.co,Global',
         'DOMAIN-SUFFIX,huobi.com,Global',
         'DOMAIN-SUFFIX,ibb.co,Global',
+        'DOMAIN-SUFFIX,imdb.com,Global',
         'DOMAIN-SUFFIX,imgur.com,Global',
         'DOMAIN-SUFFIX,intel.com,Global',
         'DOMAIN-SUFFIX,initiummall.com,Global',
