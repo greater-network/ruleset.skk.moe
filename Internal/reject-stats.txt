@@ -1,8 +1,6 @@
 cloudfront.net                                                                                      1240
-windows.com                                                                                         118
-llnw.net                                                                                            100
-cdn77.org                                                                                           65
-amazonaws.com                                                                                       57
+cdn77.org                                                                                           67
+amazonaws.com                                                                                       58
 baidu.com                                                                                           53
 qq.com                                                                                              45
 taobao.com                                                                                          43
@@ -10,11 +8,10 @@ sina.com.cn                                                                     
 youku.com                                                                                           41
 windows.net                                                                                         34
 appspot.com                                                                                         31
-msn.com                                                                                             30
 newzgames.com                                                                                       29
 akamaihd.net                                                                                        27
 sina.cn                                                                                             27
-microsoft.com                                                                                       26
+msn.com                                                                                             26
 360.cn                                                                                              24
 dlcodes.com                                                                                         23
 miui.com                                                                                            23
@@ -31,10 +28,10 @@ hostcontent.li                                                                  
 iqiyi.com                                                                                           14
 letv.com                                                                                            14
 com.se                                                                                              13
+microsoft.com                                                                                       13
 vivo.com.cn                                                                                         13
 360safe.com                                                                                         12
 apple.com                                                                                           12
-blogspot.com                                                                                        12
 ricoh.co.uk                                                                                         12
 samsungcloudsolution.com                                                                            12
 smu.edu.sg                                                                                          12
@@ -42,6 +39,7 @@ sogou.com                                                                       
 ximalaya.com                                                                                        12
 alicdn.com                                                                                          11
 azureedge.net                                                                                       11
+blogspot.com                                                                                        11
 hismarttv.com                                                                                       11
 akamaized.net                                                                                       10
 auction.co.kr                                                                                       10
