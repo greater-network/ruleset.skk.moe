@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-08-04T12:31:53.446Z
+// # Build 2024-08-04T15:01:17.223Z
 
 declare(strict_types=1);
 
@@ -720,6 +720,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tcdnlive.com,Domestic',
         'DOMAIN-SUFFIX,dnsv1.com,Domestic',
         'DOMAIN-SUFFIX,upos-sz-mirrorali.bilivideo.com,Domestic',
+        'DOMAIN-SUFFIX,upos-sz-mirrorbd.bilivideo.com,Domestic',
         'DOMAIN-SUFFIX,upos-sz-mirrorbos.bilivideo.com,Domestic',
         'DOMAIN-SUFFIX,upos-sz-mirrorcoso1.bilivideo.com,Domestic',
         'DOMAIN-SUFFIX,acg.tv,Domestic',
@@ -1773,6 +1774,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,scpdb.org,Global',
         'DOMAIN-SUFFIX,scpwiki.com,Global',
         'DOMAIN-SUFFIX,firefox.com,Global',
+        'DOMAIN-SUFFIX,unifi.ui.com,Global',
+        'DOMAIN,techspecs.ui.com,Global',
         'DOMAIN-SUFFIX,singlelogin.se,Global',
         'DOMAIN-SUFFIX,singlelogin.re,Global',
         'DOMAIN-SUFFIX,z-library.se,Global',
@@ -1878,6 +1881,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dw.com,Global',
         'DOMAIN-SUFFIX,e-hentai.org,Global',
         'DOMAIN-SUFFIX,edgecastcdn.net,Global',
+        'DOMAIN-SUFFIX,eroterest.net,Global',
         'DOMAIN-SUFFIX,exhentai.org,Global',
         'DOMAIN-SUFFIX,etsy.com,Global',
         'DOMAIN-SUFFIX,euronews.com,Global',
@@ -2062,7 +2066,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,turbobit.net,Global',
         'DOMAIN-SUFFIX,twitch.tv,Global',
         'DOMAIN-SUFFIX,ubuntu.com,Global',
-        'DOMAIN-SUFFIX,unifi.ui.com,Global',
         'DOMAIN-SUFFIX,uptodown.com,Global',
         'DOMAIN-SUFFIX,v2ex.com,Global',
         'DOMAIN-SUFFIX,v2fly.org,Global',
