@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-08-04T17:05:14.969Z
+// # Build 2024-08-04T17:13:01.604Z
 
 declare(strict_types=1);
 
@@ -618,6 +618,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,alipayobjects.com,Domestic',
         'DOMAIN-SUFFIX,alibaba-inc.com,Domestic',
         'DOMAIN-SUFFIX,alibabausercontent.com,Domestic',
+        'DOMAIN-SUFFIX,alibabadns.com,Domestic',
         'DOMAIN-SUFFIX,alicloudccp.com,Domestic',
         'DOMAIN-SUFFIX,alipan.com,Domestic',
         'DOMAIN-SUFFIX,aliyundrive.com,Domestic',
@@ -720,6 +721,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tcdnlive.com,Domestic',
         'DOMAIN-SUFFIX,dnsv1.com,Domestic',
         'DOMAIN-SUFFIX,upos-sz-mirrorali.bilivideo.com,Domestic',
+        'DOMAIN-SUFFIX,upos-sz-estgoss.bilivideo.com,Domestic',
         'DOMAIN-SUFFIX,upos-sz-mirrorbd.bilivideo.com,Domestic',
         'DOMAIN-SUFFIX,upos-sz-mirrorbos.bilivideo.com,Domestic',
         'DOMAIN-SUFFIX,upos-sz-mirrorcoso1.bilivideo.com,Domestic',

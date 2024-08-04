@@ -19,6 +19,7 @@ dns:
     +.alipayobjects.com: quic://dns.alidns.com:853
     +.alibaba-inc.com: quic://dns.alidns.com:853
     +.alibabausercontent.com: quic://dns.alidns.com:853
+    +.alibabadns.com: quic://dns.alidns.com:853
     +.alicloudccp.com: quic://dns.alidns.com:853
     +.alipan.com: quic://dns.alidns.com:853
     +.aliyundrive.com: quic://dns.alidns.com:853
@@ -121,6 +122,7 @@ dns:
     +.tcdnlive.com: https://doh.pub/dns-query
     +.dnsv1.com: https://doh.pub/dns-query
     +.upos-sz-mirrorali.bilivideo.com: quic://dns.alidns.com:853
+    +.upos-sz-estgoss.bilivideo.com: quic://dns.alidns.com:853
     +.upos-sz-mirrorbd.bilivideo.com: 180.76.76.76
     +.upos-sz-mirrorbos.bilivideo.com: 180.76.76.76
     +.upos-sz-mirrorcoso1.bilivideo.com: https://doh.pub/dns-query
