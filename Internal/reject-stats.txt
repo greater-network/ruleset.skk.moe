@@ -5,7 +5,7 @@ llnw.net                                                                        
 adobe.com                                                                                           91
 xiaomi.com                                                                                          89
 baidu.com                                                                                           86
-cdn77.org                                                                                           69
+cdn77.org                                                                                           71
 openapp.link                                                                                        69
 qq.com                                                                                              67
 79j68qav2.com                                                                                       59
@@ -122,6 +122,7 @@ bestinterestings.com                                                            
 com.se                                                                                              13
 coniferhealth.com                                                                                   13
 discoveryplus.com                                                                                   13
+eucharisticjesus.net                                                                                13
 groc.press                                                                                          13
 inhaabit.com                                                                                        13
 mi.com                                                                                              13
@@ -137,7 +138,6 @@ apple.com                                                                       
 averydennison.com                                                                                   12
 chip.de                                                                                             12
 cigna.com                                                                                           12
-eucharisticjesus.net                                                                                12
 goguardian.com                                                                                      12
 palladiumhotelgroup.com                                                                             12
 ricoh.co.uk                                                                                         12
