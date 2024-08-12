@@ -9,6 +9,17 @@
         "web-assets.zendesk",
         "-res.cloudinary.com",
         "dsn.algolia.net"
+      ],
+      "domain_regex": [
+        "^(?:^(?:appcenter\\-filemanagement\\-[^/]*?\\.cloudapp\\.net)$)$",
+        "^(?:^(?:proxy\\-[^/]*?\\.dailymotion\\.com)$)$",
+        "^(?:^(?:static[^/]*?\\.tgstat\\.ru)$)$",
+        "^(?:^(?:ocsp\\.[^/]*?\\.amazontrust\\.com)$)$",
+        "^(?:^(?:s3\\.[^/]*?\\.wasabisys\\.com)$)$",
+        "^(?:^(?:i[^/]\\.nhentai\\.net)$)$",
+        "^(?:^(?:t[^/]\\.nhentai\\.net)$)$",
+        "^(?:^(?:cdn[^/]\\-thumbs\\.pornhost\\.com)$)$",
+        "^(?:^(?:cdn[^/]\\-dl\\.pornhost\\.com)$)$"
       ]
     }
   ]
