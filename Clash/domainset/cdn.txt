@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-12T15:30:59.426Z
-# Size: 2135
+# Last Updated: 2024-08-12T17:43:44.202Z
+# Size: 2138
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -729,6 +729,7 @@ telemetry.nextjs.org
 i.niupic.com
 +.nodejs.org
 images.now-tv.com
+images.nvidia.com
 mstdn-s3.o3o.studio
 +.odycdn.com
 res.cdn.office.net
@@ -1284,6 +1285,8 @@ cdn-thumbs.porntube.com
 media.pullopen.xyz
 client.px-cloud.net
 api.qrserver.com
+assets.queue-it.net
+static.queue-it.net
 libs.quillbot.com
 assets.quillbot.com
 +.quoracdn.net
