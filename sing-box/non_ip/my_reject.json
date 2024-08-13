@@ -26,6 +26,24 @@
         "dns.weixin.qq.com.cn",
         "daisydiskapp.com"
       ],
+      "domain_suffix": [
+        "httpdns.pro",
+        "parallels.com.cdn.cloudflare.net",
+        "www.parallelskorea.com",
+        "parallels.cn",
+        "parallels.com",
+        "parallels.de",
+        "parallels.es",
+        "parallels.fr",
+        "parallels.nl",
+        "parallels.pt",
+        "parallels.ru",
+        "parallelskorea.com",
+        "myparallels.com",
+        "my.parallels.com",
+        "adobe.io"
+      ],
+      "domain_keyword": ["bahoom"],
       "process_name": [
         "Tencent Lemon",
         "LemonMonitor",
@@ -59,25 +77,7 @@
         "182.254.118.119/32",
         "118.89.204.198/23",
         "2402:4e00:1200:ed00:0:9089:6dac:96b6/128"
-      ],
-      "domain_suffix": [
-        "httpdns.pro",
-        "parallels.com.cdn.cloudflare.net",
-        "www.parallelskorea.com",
-        "parallels.cn",
-        "parallels.com",
-        "parallels.de",
-        "parallels.es",
-        "parallels.fr",
-        "parallels.nl",
-        "parallels.pt",
-        "parallels.ru",
-        "parallelskorea.com",
-        "myparallels.com",
-        "my.parallels.com",
-        "adobe.io"
-      ],
-      "domain_keyword": ["bahoom"]
+      ]
     }
   ]
 }

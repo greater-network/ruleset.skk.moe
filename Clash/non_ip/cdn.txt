@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-13T15:21:33.755Z
-# Size: 23
+# Last Updated: 2024-08-13T18:29:29.860Z
+# Size: 24
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9,6 +9,8 @@
 # This file contains object storage and static assets CDN domains.
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
+DOMAIN,cdn-msp.18comic.vip
+DOMAIN,cdn-msp.jmcomic.me
 DOMAIN-KEYWORD,-files.gitbook.io
 DOMAIN-KEYWORD,vod-adaptive.akamaized.net
 DOMAIN-KEYWORD,web-assets.zendesk
@@ -23,10 +25,9 @@ DOMAIN-REGEX,^(?:^(?:i[^/]\.nhentai\.net)$)$
 DOMAIN-REGEX,^(?:^(?:t[^/]\.nhentai\.net)$)$
 DOMAIN-REGEX,^(?:^(?:cdn[^/]\-thumbs\.pornhost\.com)$)$
 DOMAIN-REGEX,^(?:^(?:cdn[^/]\-dl\.pornhost\.com)$)$
-DOMAIN,cdn-msp.18comic.vip
 DOMAIN-REGEX,^(?:^(?:cdn\-msp[^/]\.18comic\.vip)$)$
-DOMAIN,cdn-msp.jmcomic.me
 DOMAIN-REGEX,^(?:^(?:cdn\-msp[^/]\.jmcomic\.me)$)$
+DOMAIN-REGEX,^(?:^(?:static\-[^/][^/]\-cdn\.eporner\.com)$)$
 DOMAIN-REGEX,^(?:^(?:video[^/]\-thumbnail[^/]\.fc2\.com)$)$
 DOMAIN-REGEX,^(?:^(?:vip\-videoprem[^/]*?\-thumbnail[^/]\.fc2\.com)$)$
 DOMAIN-REGEX,^(?:^(?:blog\-imgs\-[^/][^/]\.2nt\.com)$)$

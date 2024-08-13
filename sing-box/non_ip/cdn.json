@@ -26,6 +26,7 @@
         "^(?:^(?:cdn[^/]\\-dl\\.pornhost\\.com)$)$",
         "^(?:^(?:cdn\\-msp[^/]\\.18comic\\.vip)$)$",
         "^(?:^(?:cdn\\-msp[^/]\\.jmcomic\\.me)$)$",
+        "^(?:^(?:static\\-[^/][^/]\\-cdn\\.eporner\\.com)$)$",
         "^(?:^(?:video[^/]\\-thumbnail[^/]\\.fc2\\.com)$)$",
         "^(?:^(?:vip\\-videoprem[^/]*?\\-thumbnail[^/]\\.fc2\\.com)$)$",
         "^(?:^(?:blog\\-imgs\\-[^/][^/]\\.2nt\\.com)$)$",
