@@ -7,7 +7,7 @@
         "otheve.beacon.qq.com",
         "oth.str.mdt.qq.com"
       ],
-      "process_name": ["SogouInput", "SOgouTaskManager", "SogouServices"],
+      "process_name": ["SogouInput", "SogouTaskManager", "SogouServices"],
       "domain_suffix": [
         "get.sogou.com",
         "shouji.sogou.com",
