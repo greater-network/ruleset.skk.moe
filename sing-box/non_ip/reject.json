@@ -75,11 +75,11 @@
         "-tracker.biliapi.net"
       ],
       "domain_regex": [
-        "^(?:^(?:f\\-log[^/]*?\\.grammarly\\.io)$)$",
-        "^(?:(?!\\.)(?=.)[^/]*?\\.ad\\.[^/]*?\\.prod\\.hosts\\.ooklaserver\\.net)$",
-        "^(?:^(?:adv0[^/]*?\\.msa\\.cdn\\.mediaset\\.net)$)$",
-        "^(?:^(?:beacons[^/]*?\\.gvt[^/]\\.com)$)$",
-        "^(?:(?!\\.)(?=.)[^/]*?ad\\.ixigua\\.com)$"
+        "^f-log[a-zA-Z0-9-.]*?\\.grammarly\\.io$",
+        "^[a-zA-Z0-9-.]*?\\.ad\\.[a-zA-Z0-9-.]*?\\.prod\\.hosts\\.ooklaserver\\.net$",
+        "^adv0[a-zA-Z0-9-.]*?\\.msa\\.cdn\\.mediaset\\.net$",
+        "^beacons[a-zA-Z0-9-.]*?\\.gvt[a-zA-Z0-9-.]\\.com$",
+        "^[a-zA-Z0-9-.]*?ad\\.ixigua\\.com$"
       ]
     }
   ]
