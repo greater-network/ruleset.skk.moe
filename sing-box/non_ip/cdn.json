@@ -2,7 +2,11 @@
   "version": 2,
   "rules": [
     {
-      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
+      "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "cdn-msp.18comic.vip",
+        "cdn-msp.jmcomic.me"
+      ],
       "domain_keyword": [
         "-files.gitbook.io",
         "vod-adaptive.akamaized.net",
@@ -19,7 +23,13 @@
         "^(?:^(?:i[^/]\\.nhentai\\.net)$)$",
         "^(?:^(?:t[^/]\\.nhentai\\.net)$)$",
         "^(?:^(?:cdn[^/]\\-thumbs\\.pornhost\\.com)$)$",
-        "^(?:^(?:cdn[^/]\\-dl\\.pornhost\\.com)$)$"
+        "^(?:^(?:cdn[^/]\\-dl\\.pornhost\\.com)$)$",
+        "^(?:^(?:cdn\\-msp[^/]\\.18comic\\.vip)$)$",
+        "^(?:^(?:cdn\\-msp[^/]\\.jmcomic\\.me)$)$",
+        "^(?:^(?:video[^/]\\-thumbnail[^/]\\.fc2\\.com)$)$",
+        "^(?:^(?:vip\\-videoprem[^/]*?\\-thumbnail[^/]\\.fc2\\.com)$)$",
+        "^(?:^(?:blog\\-imgs\\-[^/][^/]\\.2nt\\.com)$)$",
+        "^(?:^(?:blog\\-imgs\\-[^/][^/]\\.fc2\\.com)$)$"
       ]
     }
   ]

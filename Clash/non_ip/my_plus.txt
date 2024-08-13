@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Internal Special
-# Last Updated: 2024-08-04T15:01:17.241Z
-# Size: 28
+# Last Updated: 2024-08-13T15:21:33.765Z
+# Size: 25
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -28,10 +28,7 @@ DOMAIN-SUFFIX,lz-cdn1.com
 DOMAIN-SUFFIX,hey10.cjkypo.com
 DOMAIN-SUFFIX,yle888.vip
 DOMAIN,static-cdn.bytegiftia.top
-DOMAIN,npm.im
 DOMAIN,npm.io
 DOMAIN,hv-monster-submit.skk.moe
-DOMAIN,default.exp-tas.com
-DOMAIN,vscode-sync.trafficmanager.net
 DOMAIN,api.wakatime.com
 ################## EOF ##################

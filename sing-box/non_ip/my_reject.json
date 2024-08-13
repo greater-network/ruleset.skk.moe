@@ -14,6 +14,7 @@
         "dns.jd.com",
         "httpdns.meituan.com",
         "httpdnsvip.meituan.com",
+        "httpdns.yunxindns.com,REJECT",
         "httpdns.n.netease.com",
         "httpdns.music.163.com",
         "music.httpdns.c.163.com",
