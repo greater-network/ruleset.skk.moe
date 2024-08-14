@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-13T19:40:41.058Z
+# Last Updated: 2024-08-14T18:33:16.103Z
 # Size: 24
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -16,20 +16,20 @@ DOMAIN-KEYWORD,vod-adaptive.akamaized.net
 DOMAIN-KEYWORD,web-assets.zendesk
 DOMAIN-KEYWORD,-res.cloudinary.com
 DOMAIN-KEYWORD,dsn.algolia.net
-DOMAIN-REGEX,^appcenter-filemanagement-[a-zA-Z0-9-.]*?\.cloudapp\.net$
-DOMAIN-REGEX,^proxy-[a-zA-Z0-9-.]*?\.dailymotion\.com$
-DOMAIN-REGEX,^static[a-zA-Z0-9-.]*?\.tgstat\.ru$
-DOMAIN-REGEX,^ocsp\.[a-zA-Z0-9-.]*?\.amazontrust\.com$
-DOMAIN-REGEX,^s3\.[a-zA-Z0-9-.]*?\.wasabisys\.com$
-DOMAIN-REGEX,^i[a-zA-Z0-9-.]\.nhentai\.net$
-DOMAIN-REGEX,^t[a-zA-Z0-9-.]\.nhentai\.net$
-DOMAIN-REGEX,^cdn[a-zA-Z0-9-.]-thumbs\.pornhost\.com$
-DOMAIN-REGEX,^cdn[a-zA-Z0-9-.]-dl\.pornhost\.com$
-DOMAIN-REGEX,^cdn-msp[a-zA-Z0-9-.]\.18comic\.vip$
-DOMAIN-REGEX,^cdn-msp[a-zA-Z0-9-.]\.jmcomic\.me$
-DOMAIN-REGEX,^static-[a-zA-Z0-9-.][a-zA-Z0-9-.]-cdn\.eporner\.com$
-DOMAIN-REGEX,^video[a-zA-Z0-9-.]-thumbnail[a-zA-Z0-9-.]\.fc2\.com$
-DOMAIN-REGEX,^vip-videoprem[a-zA-Z0-9-.]*?-thumbnail[a-zA-Z0-9-.]\.fc2\.com$
-DOMAIN-REGEX,^blog-imgs-[a-zA-Z0-9-.][a-zA-Z0-9-.]\.2nt\.com$
-DOMAIN-REGEX,^blog-imgs-[a-zA-Z0-9-.][a-zA-Z0-9-.]\.fc2\.com$
+DOMAIN-REGEX,^appcenter-filemanagement-[a-zA-Z0-9-_.]*?\.cloudapp\.net$
+DOMAIN-REGEX,^proxy-[a-zA-Z0-9-_.]*?\.dailymotion\.com$
+DOMAIN-REGEX,^static[a-zA-Z0-9-_.]*?\.tgstat\.ru$
+DOMAIN-REGEX,^ocsp\.[a-zA-Z0-9-_.]*?\.amazontrust\.com$
+DOMAIN-REGEX,^s3\.[a-zA-Z0-9-_.]*?\.wasabisys\.com$
+DOMAIN-REGEX,^i[a-zA-Z0-9-_.]\.nhentai\.net$
+DOMAIN-REGEX,^t[a-zA-Z0-9-_.]\.nhentai\.net$
+DOMAIN-REGEX,^cdn[a-zA-Z0-9-_.]-thumbs\.pornhost\.com$
+DOMAIN-REGEX,^cdn[a-zA-Z0-9-_.]-dl\.pornhost\.com$
+DOMAIN-REGEX,^cdn-msp[a-zA-Z0-9-_.]\.18comic\.vip$
+DOMAIN-REGEX,^cdn-msp[a-zA-Z0-9-_.]\.jmcomic\.me$
+DOMAIN-REGEX,^static-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]-cdn\.eporner\.com$
+DOMAIN-REGEX,^video[a-zA-Z0-9-_.]-thumbnail[a-zA-Z0-9-_.]\.fc2\.com$
+DOMAIN-REGEX,^vip-videoprem[a-zA-Z0-9-_.]*?-thumbnail[a-zA-Z0-9-_.]\.fc2\.com$
+DOMAIN-REGEX,^blog-imgs-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\.2nt\.com$
+DOMAIN-REGEX,^blog-imgs-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\.fc2\.com$
 ################## EOF ##################

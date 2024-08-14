@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-08-13T19:40:41.069Z
+# Last Updated: 2024-08-14T18:33:16.112Z
 # Size: 71
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -74,9 +74,9 @@ DOMAIN-KEYWORD,smetrics.marketing.
 DOMAIN-KEYWORD,wxsnsdy
 DOMAIN-KEYWORD,adwords
 DOMAIN-KEYWORD,-tracker.biliapi.net
-DOMAIN-REGEX,^f-log[a-zA-Z0-9-.]*?\.grammarly\.io$
-DOMAIN-REGEX,^[a-zA-Z0-9-.]*?\.ad\.[a-zA-Z0-9-.]*?\.prod\.hosts\.ooklaserver\.net$
-DOMAIN-REGEX,^adv0[a-zA-Z0-9-.]*?\.msa\.cdn\.mediaset\.net$
-DOMAIN-REGEX,^beacons[a-zA-Z0-9-.]*?\.gvt[a-zA-Z0-9-.]\.com$
-DOMAIN-REGEX,^[a-zA-Z0-9-.]*?ad\.ixigua\.com$
+DOMAIN-REGEX,^f-log[a-zA-Z0-9-_.]*?\.grammarly\.io$
+DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?\.ad\.[a-zA-Z0-9-_.]*?\.prod\.hosts\.ooklaserver\.net$
+DOMAIN-REGEX,^adv0[a-zA-Z0-9-_.]*?\.msa\.cdn\.mediaset\.net$
+DOMAIN-REGEX,^beacons[a-zA-Z0-9-_.]*?\.gvt[a-zA-Z0-9-_.]\.com$
+DOMAIN-REGEX,^[a-zA-Z0-9-_.]*?ad\.ixigua\.com$
 ################## EOF ##################

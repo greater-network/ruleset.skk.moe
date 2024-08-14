@@ -15,22 +15,22 @@
         "dsn.algolia.net"
       ],
       "domain_regex": [
-        "^appcenter-filemanagement-[a-zA-Z0-9-.]*?\\.cloudapp\\.net$",
-        "^proxy-[a-zA-Z0-9-.]*?\\.dailymotion\\.com$",
-        "^static[a-zA-Z0-9-.]*?\\.tgstat\\.ru$",
-        "^ocsp\\.[a-zA-Z0-9-.]*?\\.amazontrust\\.com$",
-        "^s3\\.[a-zA-Z0-9-.]*?\\.wasabisys\\.com$",
-        "^i[a-zA-Z0-9-.]\\.nhentai\\.net$",
-        "^t[a-zA-Z0-9-.]\\.nhentai\\.net$",
-        "^cdn[a-zA-Z0-9-.]-thumbs\\.pornhost\\.com$",
-        "^cdn[a-zA-Z0-9-.]-dl\\.pornhost\\.com$",
-        "^cdn-msp[a-zA-Z0-9-.]\\.18comic\\.vip$",
-        "^cdn-msp[a-zA-Z0-9-.]\\.jmcomic\\.me$",
-        "^static-[a-zA-Z0-9-.][a-zA-Z0-9-.]-cdn\\.eporner\\.com$",
-        "^video[a-zA-Z0-9-.]-thumbnail[a-zA-Z0-9-.]\\.fc2\\.com$",
-        "^vip-videoprem[a-zA-Z0-9-.]*?-thumbnail[a-zA-Z0-9-.]\\.fc2\\.com$",
-        "^blog-imgs-[a-zA-Z0-9-.][a-zA-Z0-9-.]\\.2nt\\.com$",
-        "^blog-imgs-[a-zA-Z0-9-.][a-zA-Z0-9-.]\\.fc2\\.com$"
+        "^appcenter-filemanagement-[a-zA-Z0-9-_.]*?\\.cloudapp\\.net$",
+        "^proxy-[a-zA-Z0-9-_.]*?\\.dailymotion\\.com$",
+        "^static[a-zA-Z0-9-_.]*?\\.tgstat\\.ru$",
+        "^ocsp\\.[a-zA-Z0-9-_.]*?\\.amazontrust\\.com$",
+        "^s3\\.[a-zA-Z0-9-_.]*?\\.wasabisys\\.com$",
+        "^i[a-zA-Z0-9-_.]\\.nhentai\\.net$",
+        "^t[a-zA-Z0-9-_.]\\.nhentai\\.net$",
+        "^cdn[a-zA-Z0-9-_.]-thumbs\\.pornhost\\.com$",
+        "^cdn[a-zA-Z0-9-_.]-dl\\.pornhost\\.com$",
+        "^cdn-msp[a-zA-Z0-9-_.]\\.18comic\\.vip$",
+        "^cdn-msp[a-zA-Z0-9-_.]\\.jmcomic\\.me$",
+        "^static-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]-cdn\\.eporner\\.com$",
+        "^video[a-zA-Z0-9-_.]-thumbnail[a-zA-Z0-9-_.]\\.fc2\\.com$",
+        "^vip-videoprem[a-zA-Z0-9-_.]*?-thumbnail[a-zA-Z0-9-_.]\\.fc2\\.com$",
+        "^blog-imgs-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.2nt\\.com$",
+        "^blog-imgs-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\\.fc2\\.com$"
       ]
     }
   ]
