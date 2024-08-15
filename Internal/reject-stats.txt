@@ -8,7 +8,7 @@ baidu.com                                                                       
 79j68qav2.com                                                                                       70
 openapp.link                                                                                        69
 qq.com                                                                                              67
-amazonaws.com                                                                                       56
+amazonaws.com                                                                                       55
 eccocar.com                                                                                         51
 taobao.com                                                                                          47
 youku.com                                                                                           47
@@ -152,6 +152,7 @@ agilent.com                                                                     
 averydennison.com                                                                                   11
 azureedge.net                                                                                       11
 blogspot.com                                                                                        11
+borden-carleton.ca                                                                                  11
 byteoversea.com                                                                                     11
 coniferhealth.com                                                                                   11
 cresa.com                                                                                           11
@@ -177,7 +178,6 @@ yandex.ru                                                                       
 akamaized.net                                                                                       10
 aotter.net                                                                                          10
 auction.co.kr                                                                                       10
-borden-carleton.ca                                                                                  10
 engie.fr                                                                                            10
 fastly.net                                                                                          10
 gloriadeicr.com                                                                                     10
