@@ -114,7 +114,6 @@ nba.com                                                                         
 oystergardening.name                                                                                14
 pwc.fr                                                                                              14
 rambler.ru                                                                                          14
-ru.com                                                                                              14
 sogou.com                                                                                           14
 tajawal.com                                                                                         14
 advancedtech.com                                                                                    13
@@ -127,6 +126,7 @@ inhaabit.com                                                                    
 mi.com                                                                                              13
 perkinelmer.com                                                                                     13
 powzers.lol                                                                                         13
+ru.com                                                                                              13
 siemensplmevents.com                                                                                13
 verintsystemsinc.com                                                                                13
 vivo.com.cn                                                                                         13
@@ -174,10 +174,10 @@ ricoh.co.uk                                                                     
 sedgwick.com                                                                                        11
 shutterstock.com                                                                                    11
 yandex.ru                                                                                           11
-za.com                                                                                              11
 akamaized.net                                                                                       10
 aotter.net                                                                                          10
 auction.co.kr                                                                                       10
+borden-carleton.ca                                                                                  10
 engie.fr                                                                                            10
 fastly.net                                                                                          10
 gloriadeicr.com                                                                                     10
