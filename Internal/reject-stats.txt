@@ -1,4 +1,4 @@
-cloudfront.net                                                                                      1227
+cloudfront.net                                                                                      1220
 windows.com                                                                                         118
 weebly.com                                                                                          116
 llnw.net                                                                                            101
@@ -8,7 +8,7 @@ baidu.com                                                                       
 79j68qav2.com                                                                                       70
 openapp.link                                                                                        69
 qq.com                                                                                              67
-amazonaws.com                                                                                       55
+amazonaws.com                                                                                       54
 eccocar.com                                                                                         51
 taobao.com                                                                                          47
 youku.com                                                                                           47
@@ -19,9 +19,9 @@ sina.com.cn                                                                     
 anwalt.de                                                                                           41
 nespresso.com                                                                                       39
 americanexpress.com                                                                                 38
+aliyuncs.com                                                                                        36
 innovatedating.com                                                                                  36
 aaa.com                                                                                             35
-aliyuncs.com                                                                                        35
 m-shop.me                                                                                           35
 msn.com                                                                                             35
 windows.net                                                                                         35
@@ -35,10 +35,10 @@ flourishpath.online                                                             
 wolterskluwer.com                                                                                   30
 aleragroup.com                                                                                      29
 newzgames.com                                                                                       29
-yahoo.com                                                                                           29
 34gwl8v1a.com                                                                                       28
 international-med.com                                                                               28
 vodafone.com                                                                                        28
+yahoo.com                                                                                           28
 360.cn                                                                                              27
 akamaihd.net                                                                                        27
 l5eamr17d.com                                                                                       27
@@ -107,6 +107,7 @@ yahoo.co.jp                                                                     
 younited-credit.com                                                                                 15
 zadn.vn                                                                                             15
 zaloapp.com                                                                                         15
+borden-carleton.ca                                                                                  14
 hostcontent.li                                                                                      14
 intel.com                                                                                           14
 isnssdk.com                                                                                         14
@@ -118,6 +119,7 @@ sogou.com                                                                       
 tajawal.com                                                                                         14
 advancedtech.com                                                                                    13
 alicdn.com                                                                                          13
+apple.com                                                                                           13
 avaya.com                                                                                           13
 com.se                                                                                              13
 discoveryplus.com                                                                                   13
@@ -132,7 +134,6 @@ verintsystemsinc.com                                                            
 vivo.com.cn                                                                                         13
 zalo.me                                                                                             13
 360safe.com                                                                                         12
-apple.com                                                                                           12
 cdn77.org                                                                                           12
 chip.de                                                                                             12
 cigna.com                                                                                           12
@@ -152,7 +153,6 @@ agilent.com                                                                     
 averydennison.com                                                                                   11
 azureedge.net                                                                                       11
 blogspot.com                                                                                        11
-borden-carleton.ca                                                                                  11
 byteoversea.com                                                                                     11
 coniferhealth.com                                                                                   11
 cresa.com                                                                                           11
