@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-13T18:29:29.813Z
-# Size: 2151
+# Last Updated: 2024-08-18T12:41:22.118Z
+# Size: 2154
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -464,6 +464,7 @@ cdn01.jotfor.ms
 cdn02.jotfor.ms
 cdn03.jotfor.ms
 static-cdn.jtvnw.net
+img.kemono.su
 media.ra.kroll.com
 +.kwcdn.com
 wandi-6402.kxcdn.com
@@ -600,6 +601,7 @@ signal.cdnbye.com
 tracker.cdnbye.com
 opensignal.cdnbye.com
 signalcloud.cdnbye.com
+static.chaika.moe
 assets.change.org
 static.change.org
 assets-fe.change.org
@@ -1508,6 +1510,7 @@ js.qualified.com
 +.siteintercept.qualtrics.com
 error.rakuten.co.jp
 cdn.rex.contents.rakuten.co.jp
++.randomuser.me
 img.represent.com
 img.riskified.com
 +.runkitcdn.com

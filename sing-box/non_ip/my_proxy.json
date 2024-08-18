@@ -16,8 +16,7 @@
         "services.googleapis.cn",
         "coveralls.io",
         "compute.amazonaws.com",
-        "compute-1.amazonaws.com",
-        "dnsleaktest.com"
+        "compute-1.amazonaws.com"
       ]
     }
   ]

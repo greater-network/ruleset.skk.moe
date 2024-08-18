@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-08-18T12:34:15.457Z
+// # Build 2024-08-18T12:41:22.158Z
 
 declare(strict_types=1);
 
@@ -431,6 +431,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dfcfw.com,Domestic',
         'DOMAIN-SUFFIX,dida365.com,Domestic',
         'DOMAIN-SUFFIX,digicert.cn,Domestic',
+        'DOMAIN-SUFFIX,dizzylab.net,Domestic',
         'DOMAIN-SUFFIX,docin.com,Domestic',
         'DOMAIN-SUFFIX,docschina.org,Domestic',
         'DOMAIN-SUFFIX,douban.com,Domestic',
@@ -1800,6 +1801,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,annas-archive.se,Global',
         'DOMAIN-SUFFIX,annas-archive.gs,Global',
         'DOMAIN-SUFFIX,annas-archive.org,Global',
+        'DOMAIN-SUFFIX,dnsleaktest.com,Global',
         'DOMAIN-SUFFIX,18comic.vip,Global',
         'DOMAIN-SUFFIX,4shared.com,Global',
         'DOMAIN-SUFFIX,520cc.cc,Global',
