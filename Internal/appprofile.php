@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-08-18T12:41:22.158Z
+// # Build 2024-08-18T13:07:33.750Z
 
 declare(strict_types=1);
 
@@ -306,11 +306,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,staticdn.net,Domestic',
         'DOMAIN-SUFFIX,sevencdn.com,Domestic',
         'DOMAIN-SUFFIX,wangsu.com,Domestic',
-        'DOMAIN,cdn.bootcdn.net,Domestic',
-        'DOMAIN,cdn.bootcss.com,Domestic',
         'DOMAIN,www.layuicdn.com,Domestic',
-        'DOMAIN-SUFFIX,staticfile.org,Domestic',
-        'DOMAIN-SUFFIX,staticfile.net,Domestic',
         'DOMAIN,xboxlive.cn,Domestic',
         'DOMAIN-SUFFIX,steam.clngaa.com,Domestic',
         'DOMAIN-SUFFIX,steam.ksyna.com,Domestic',
@@ -1862,6 +1858,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,codesandbox.io,Global',
         'DOMAIN-SUFFIX,coinex.com,Global',
         'DOMAIN-SUFFIX,costco.com,Global',
+        'DOMAIN-SUFFIX,coveralls.io,Global',
         'DOMAIN-SUFFIX,cpuid.com,Global',
         'DOMAIN-SUFFIX,dailymotion.com,Global',
         'DOMAIN-SUFFIX,dailymail.co.uk,Global',

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-18T12:41:22.118Z
-# Size: 2154
+# Last Updated: 2024-08-18T13:07:33.709Z
+# Size: 2156
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1254,6 +1254,7 @@ assets-next.matters.news
 +.cdn.medallia.com
 +.cdn.survey.medallia.com
 static.mendeley.com
+static.mikuclub.fun
 api.mintlify.com
 thumbnailer.mixcloud.com
 dynamic-assets.mobilius.top
@@ -1395,6 +1396,7 @@ claritystatic.azureedge.net
 xpaywalletcdn.azureedge.net
 +.edgestorewebcdn.azureedge.net
 edgeassetservice.azureedge.net
+vscodeexperiments.azureedge.net
 edge-mobile-static.azureedge.net
 edge-consumer-static.azureedge.net
 cdn.babylonjs.com
