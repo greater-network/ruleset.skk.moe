@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-08-12T17:43:54.874Z
-# Size: 971
+# Last Updated: 2024-08-19T12:35:32.367Z
+# Size: 972
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -883,6 +883,7 @@ speedtest.systemlifeline.com
 ber.wsqm.telekom-dienste.de
 ffm.wsqm.telekom-dienste.de
 tkconnectrr.com.br
+ank1speedtest.turktelekom.com.tr
 bur1speedtest.turktelekom.com.tr
 esk1speedtest.turktelekom.com.tr
 gay1speedtest.turktelekom.com.tr
