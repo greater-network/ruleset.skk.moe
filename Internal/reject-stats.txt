@@ -8,7 +8,7 @@ baidu.com                                                                       
 79j68qav2.com                                                                                       71
 openapp.link                                                                                        69
 qq.com                                                                                              67
-amazonaws.com                                                                                       55
+amazonaws.com                                                                                       54
 eccocar.com                                                                                         51
 taobao.com                                                                                          47
 youku.com                                                                                           47
@@ -59,7 +59,6 @@ adp.ca                                                                          
 epoise.com                                                                                          21
 happ.social                                                                                         21
 hicloud.com                                                                                         21
-oystergardening.net                                                                                 21
 unity3d.com                                                                                         21
 adpinfo.com                                                                                         20
 aon.com                                                                                             20
@@ -67,6 +66,7 @@ coca-cola.com                                                                   
 fupa.net                                                                                            20
 jessicabarrett.com                                                                                  20
 moethennessy.com                                                                                    20
+oystergardening.net                                                                                 20
 herokuapp.com                                                                                       19
 informa.com                                                                                         19
 microcloud360.com                                                                                   19
@@ -114,6 +114,7 @@ nba.com                                                                         
 oystergardening.name                                                                                14
 pwc.fr                                                                                              14
 rambler.ru                                                                                          14
+ru.com                                                                                              14
 sogou.com                                                                                           14
 tajawal.com                                                                                         14
 advancedtech.com                                                                                    13
@@ -126,7 +127,6 @@ groc.press                                                                      
 inhaabit.com                                                                                        13
 mi.com                                                                                              13
 powzers.lol                                                                                         13
-ru.com                                                                                              13
 siemensplmevents.com                                                                                13
 verintsystemsinc.com                                                                                13
 vivo.com.cn                                                                                         13
