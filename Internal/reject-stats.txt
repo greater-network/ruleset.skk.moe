@@ -1,4 +1,4 @@
-cloudfront.net                                                                                      1221
+cloudfront.net                                                                                      1220
 windows.com                                                                                         118
 weebly.com                                                                                          116
 llnw.net                                                                                            101
@@ -73,7 +73,6 @@ sfr.fr                                                                          
 americanexpress.co.uk                                                                               18
 focus.de                                                                                            18
 np6.com                                                                                             18
-oystergardening.net                                                                                 18
 blackboard.com                                                                                      17
 equifax.com                                                                                         17
 ogrt80r65.com                                                                                       17
@@ -88,6 +87,7 @@ chuathuongxot.org                                                               
 en25.com                                                                                            16
 headlines.pw                                                                                        16
 mynavi.jp                                                                                           16
+oystergardening.net                                                                                 16
 topya.com                                                                                           16
 zing.vn                                                                                             16
 akadns.net                                                                                          15
