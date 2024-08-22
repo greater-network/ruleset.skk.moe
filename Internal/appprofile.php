@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-08-22T12:35:13.207Z
+// # Build 2024-08-22T12:44:32.461Z
 
 declare(strict_types=1);
 
@@ -2010,6 +2010,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,packagephobia.com,Global',
         'DOMAIN-SUFFIX,pastebin.com,Global',
         'DOMAIN-SUFFIX,patreon.com,Global',
+        'DOMAIN-SUFFIX,peeringdb.com,Global',
         'DOMAIN-SUFFIX,perplexity.ai,Global',
         'DOMAIN-SUFFIX,pin.it,Global',
         'DOMAIN-SUFFIX,pinterest.com,Global',
