@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-23T18:45:39.056Z
-# Size: 2178
+# Last Updated: 2024-08-25T19:27:51.358Z
+# Size: 2182
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -32,6 +32,7 @@ eep.io
 +.permaweb.eu.org
 genesis-cdn.ff.com
 +.gcr.io
++.gcr.si
 cdn.registerdisney.go.com
 +.gw3.io
 i.ibb.co
@@ -664,6 +665,7 @@ thumbs.gfycat.com
 raw.github.com
 +.pkg.github.com
 +.gitpage.si
++.registry.gitplac.si
 +.glbimg.com
 cdn.glitch.com
 s3.go2778.com
@@ -1125,6 +1127,7 @@ unlimited-cdn.waifu2x.net
 +.blob.core.windows.net
 +.file.core.windows.net
 +.workers.dev
++.wpmucdn.com
 cdn.writeas.net
 pics.x-n-x-x.pro
 +.xda-cdn.com
@@ -1332,6 +1335,7 @@ cdn.signalfx.com
 resources-live.sketch.cloud
 static1.smartbear.co
 +.smassets.net
++.smushcdn.com
 static.snapchat.com
 static.socratic.org
 useruploads.socratic.org

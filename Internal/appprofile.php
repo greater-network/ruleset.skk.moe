@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-08-25T12:33:04.042Z
+// # Build 2024-08-25T19:27:51.397Z
 
 declare(strict_types=1);
 
@@ -234,7 +234,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,laiqukankan.com,Domestic',
         'DOMAIN-SUFFIX,zhuanzfx.com,Domestic',
         'DOMAIN-SUFFIX,321fenx.com,Domestic',
-        'DOMAIN-SUFFIX,laiqukankan.com,Domestic',
         'DOMAIN-SUFFIX,youdao.com,Domestic',
         'DOMAIN-SUFFIX,sina.cn,Domestic',
         'DOMAIN-SUFFIX,sina.com,Domestic',
@@ -1672,6 +1671,9 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,githubapp.com,Global',
         'DOMAIN-SUFFIX,githubassets.com,Global',
         'DOMAIN-SUFFIX,githubcopilot.com,Global',
+        'DOMAIN-SUFFIX,githubpreview.dev,Global',
+        'DOMAIN-SUFFIX,gitlab.com,Global',
+        'DOMAIN-SUFFIX,gitlab.io,Global',
         'DOMAIN-SUFFIX,globo.com,Global',
         'DOMAIN-SUFFIX,foxnews.com,Global',
         'DOMAIN-SUFFIX,cnn.com,Global',
@@ -1804,6 +1806,11 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,annas-archive.gs,Global',
         'DOMAIN-SUFFIX,annas-archive.org,Global',
         'DOMAIN-SUFFIX,dnsleaktest.com,Global',
+        'DOMAIN-SUFFIX,eu.org,Global',
+        'DOMAIN-SUFFIX,edgecompute.app,Global',
+        'DOMAIN-SUFFIX,fly.dev,Global',
+        'DOMAIN-SUFFIX,shw.io,Global',
+        'DOMAIN-SUFFIX,edgeapp.net,Global',
         'DOMAIN-SUFFIX,18comic.vip,Global',
         'DOMAIN-SUFFIX,4shared.com,Global',
         'DOMAIN-SUFFIX,520cc.cc,Global',
@@ -1909,6 +1916,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,euronews.com,Global',
         'DOMAIN-SUFFIX,fanbox.cc,Global',
         'DOMAIN-SUFFIX,fastly.net,Global',
+        'DOMAIN-SUFFIX,fastlylb.net,Global',
+        'DOMAIN-SUFFIX,fastly-edge.com,Global',
         'DOMAIN-SUFFIX,fc2.com,Global',
         'DOMAIN-SUFFIX,feedly.com,Global',
         'DOMAIN-SUFFIX,flickr.com,Global',
@@ -1919,7 +1928,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,genius.com,Global',
         'DOMAIN-SUFFIX,getchu.com,Global',
         'DOMAIN-SUFFIX,gettyimages.com,Global',
-        'DOMAIN-SUFFIX,gitlab.com,Global',
         'DOMAIN-SUFFIX,ghostery.com,Global',
         'DOMAIN-SUFFIX,godaddy.com,Global',
         'DOMAIN-SUFFIX,go.dev,Global',
@@ -1933,6 +1941,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,hanime1.me,Global',
         'DOMAIN-SUFFIX,he.net,Global',
         'DOMAIN-SUFFIX,hentaifox.com,Global',
+        'DOMAIN-SUFFIX,herokuapp.com,Global',
+        'DOMAIN-SUFFIX,herokussl.com,Global',
         'DOMAIN-SUFFIX,hetzner.com,Global',
         'DOMAIN-SUFFIX,hinet.net,Global',
         'DOMAIN-SUFFIX,homedepot.com,Global',
@@ -5395,9 +5405,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,203.107.20.0/22,Domestic',
         'IP-CIDR,203.107.26.0/23,Domestic',
         'IP-CIDR,203.107.28.0/22,Domestic',
-        'IP-CIDR,203.107.32.0/20,Domestic',
-        'IP-CIDR,203.107.52.0/22,Domestic',
-        'IP-CIDR,203.107.56.0/21,Domestic',
+        'IP-CIDR,203.107.32.0/19,Domestic',
         'IP-CIDR,203.107.72.0/21,Domestic',
         'IP-CIDR,203.107.80.0/21,Domestic',
         'IP-CIDR,203.107.96.0/23,Domestic',
