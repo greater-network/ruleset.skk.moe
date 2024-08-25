@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-08-21T05:57:27.990Z
-# Size: 976
+# Last Updated: 2024-08-25T12:33:09.186Z
+# Size: 977
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -747,6 +747,7 @@ ooklaspeedtest-cdb.quebeccloud.com
 speedtest-obd.redeconecta.com
 speedtest.rekornet.com.tr
 speed.lax-1.serverforge.org
+test.skyfibernet.com
 speedtest.softether.co.jp
 +.speednet.net.tr
 speedtest.springfibre.com
