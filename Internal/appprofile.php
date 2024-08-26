@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-08-26T01:38:27.402Z
+// # Build 2024-08-26T02:00:07.785Z
 
 declare(strict_types=1);
 
@@ -1806,6 +1806,22 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,annas-archive.gs,Global',
         'DOMAIN-SUFFIX,annas-archive.org,Global',
         'DOMAIN-SUFFIX,dnsleaktest.com,Global',
+        'DOMAIN-SUFFIX,browserleaks.org,Global',
+        'DOMAIN-SUFFIX,ipleak.net,Global',
+        'DOMAIN-SUFFIX,surfsharkdns.com,Global',
+        'DOMAIN-SUFFIX,xpressunblock.com,Global',
+        'DOMAIN-SUFFIX,dnsleak.asn247.net,Global',
+        'DOMAIN-SUFFIX,edns.ip-api.com,Global',
+        'DOMAIN-SUFFIX,dns-check.info,Global',
+        'DOMAIN-SUFFIX,dnsleaktest.org,Global',
+        'DOMAIN-SUFFIX,cyberghost.app,Global',
+        'DOMAIN-SUFFIX,strongleakstest.com,Global',
+        'DOMAIN-SUFFIX,ovpnleaktest.com,Global',
+        'DOMAIN-SUFFIX,mydnsleaktest.com,Global',
+        'DOMAIN-SUFFIX,360ssh.com,Global',
+        'DOMAIN-SUFFIX,dns.myipstack.com,Global',
+        'DOMAIN-SUFFIX,privacytest.info,Global',
+        'DOMAIN-SUFFIX,dnscheck.tools,Global',
         'DOMAIN-SUFFIX,eu.org,Global',
         'DOMAIN-SUFFIX,edgecompute.app,Global',
         'DOMAIN-SUFFIX,fly.dev,Global',
@@ -1890,6 +1906,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dish.com,Global',
         'DOMAIN-SUFFIX,disqus.com,Global',
         'DOMAIN-SUFFIX,dlsite.com,Global',
+        'DOMAIN-SUFFIX,dns-oarc.net,Global',
         'DOMAIN-SUFFIX,doujins.com,Global',
         'DOMAIN-SUFFIX,dribbble.com,Global',
         'DOMAIN-KEYWORD,dropbox,Global',
@@ -2000,6 +2017,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,nhentai.net,Global',
         'DOMAIN-SUFFIX,nhentai.xxx,Global',
         'DOMAIN-SUFFIX,noip.com,Global',
+        'DOMAIN-SUFFIX,nordvpn.com,Global',
         'DOMAIN-SUFFIX,notion.so,Global',
         'DOMAIN-SUFFIX,npm.im,Global',
         'DOMAIN-SUFFIX,npm.io,Global',
@@ -2033,6 +2051,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,pixiv.org,Global',
         'DOMAIN-SUFFIX,pximg.net,Global',
         'DOMAIN-SUFFIX,pornhub.com,Global',
+        'DOMAIN-SUFFIX,privateinternetaccess.com,Global',
         'DOMAIN-SUFFIX,probit.com,Global',
         'DOMAIN-SUFFIX,proton.me,Global',
         'DOMAIN-SUFFIX,phncdn.com,Global',
