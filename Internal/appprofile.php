@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-08-25T19:27:51.397Z
+// # Build 2024-08-26T01:38:27.402Z
 
 declare(strict_types=1);
 
@@ -306,9 +306,9 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,sevencdn.com,Domestic',
         'DOMAIN-SUFFIX,wangsu.com,Domestic',
         'DOMAIN,www.layuicdn.com,Domestic',
-        'DOMAIN,xboxlive.cn,Domestic',
         'DOMAIN-SUFFIX,steam.clngaa.com,Domestic',
         'DOMAIN-SUFFIX,steam.ksyna.com,Domestic',
+        'DOMAIN,gstore.val.manlaxy.com,Domestic',
         'DOMAIN-SUFFIX,dl.bscstorage.net,Domestic',
         'DOMAIN-SUFFIX,dl.eccdnx.com,Domestic',
         'DOMAIN-SUFFIX,dl.pinyuncloud.com,Domestic',
@@ -2113,6 +2113,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,v2fly.org,Global',
         'DOMAIN-SUFFIX,v2ray.com,Global',
         'DOMAIN-SUFFIX,vercel.app,Global',
+        'DOMAIN-SUFFIX,vercel.com,Global',
         'DOMAIN-SUFFIX,vimeo.com,Global',
         'DOMAIN-SUFFIX,vine.co,Global',
         'DOMAIN-SUFFIX,viber.com,Global',
@@ -2123,6 +2124,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,washingtonpost.com,Global',
         'DOMAIN-SUFFIX,whoer.net,Global',
         'DOMAIN-SUFFIX,whoer.cc,Global',
+        'DOMAIN-SUFFIX,whoer.com,Global',
         'DOMAIN-SUFFIX,wikibooks.org,Global',
         'DOMAIN-SUFFIX,wikidata.org,Global',
         'DOMAIN-SUFFIX,wikidot.com,Global',
