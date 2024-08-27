@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-25T19:27:51.358Z
-# Size: 2182
+# Last Updated: 2024-08-27T00:02:56.266Z
+# Size: 2184
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -382,6 +382,7 @@ amp.azure.net
 linuxiac.b-cdn.net
 panel-production-libs.b-cdn.net
 +.hits.b3log.org
+images.bfmtv.com
 img.biguz.net
 static.bit.cloud
 assets.bnidx.com
@@ -1520,6 +1521,7 @@ assets.openshift.com
 assets.openshift.net
 +.packagist.org
 user-uploads.perchance.org
+cdn.permutive.com
 phishing.army
 s3.picacomic.com
 img.picacomic.com
