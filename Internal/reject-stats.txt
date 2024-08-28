@@ -167,7 +167,6 @@ optum.com                                                                       
 printondemandagency.com                                                                             11
 quantresear.ch                                                                                      11
 realmadrid.com                                                                                      11
-ru.com                                                                                              11
 sedgwick.com                                                                                        11
 shutterstock.com                                                                                    11
 yandex.ru                                                                                           11
@@ -196,6 +195,7 @@ ricoh.ch                                                                        
 ricoh.co.uk                                                                                         10
 ricoh.fr                                                                                            10
 ringcentral.com                                                                                     10
+ru.com                                                                                              10
 uc.cn                                                                                               10
 vercel.app                                                                                          10
 westernunion.com                                                                                    10
