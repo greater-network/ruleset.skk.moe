@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-27T00:02:56.266Z
-# Size: 2184
+# Last Updated: 2024-08-28T03:00:19.701Z
+# Size: 2187
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -586,6 +586,8 @@ cdn-yotpo-images-production.yotpo.com
 +.ytimg.com
 +.9cache.com
 res.abc.net.au
++.glass.adidas.com
++.assets.adidas.com
 +.adtidy.org
 akidoo.top
 +.alexdav.id
@@ -1978,6 +1980,7 @@ cdn-media-2.freecodecamp.org
 cdn.hongkongcard.com
 cdn1.identitymind.com
 +.images-iherb.com
++.img-dpreview.com
 spcdn.incartupsell.com
 media.infosec.exchange
 +.jinyingimage.com
