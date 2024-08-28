@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Internal Special
-# Last Updated: 2024-08-13T18:29:29.866Z
-# Size: 26
+# Last Updated: 2024-08-28T11:55:20.875Z
+# Size: 28
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -32,4 +32,6 @@ DOMAIN-SUFFIX,ffzy-play6.com
 DOMAIN-SUFFIX,lz-cdn1.com
 DOMAIN-SUFFIX,hey10.cjkypo.com
 DOMAIN-SUFFIX,yle888.vip
+DOMAIN-SUFFIX,ffzy888.com
+DOMAIN-SUFFIX,image8899.net
 ################## EOF ##################

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-08-28T03:00:19.701Z
-# Size: 2187
+# Last Updated: 2024-08-28T11:55:20.806Z
+# Size: 2189
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -627,6 +627,7 @@ assets.codepen.io
 static.codepen.io
 cpwebassets.codepen.io
 cdn.concert.io
+assets.context.ly
 static.cracked.io
 static.cracked.to
 image.crisp.chat
@@ -1591,6 +1592,7 @@ assets.videowise.com
 waitlisted.co
 +.s3.wasabisys.com
 s3.eu-central-2.wasabisys.com
+image.westinyou.com
 upload.wikimedia.org
 +.wixstatic.com
 +.files.wordpress.com
