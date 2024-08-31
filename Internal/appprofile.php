@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-08-31T07:54:22.798Z
+// # Build 2024-08-31T18:21:04.534Z
 
 declare(strict_types=1);
 
@@ -1948,6 +1948,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,getchu.com,Global',
         'DOMAIN-SUFFIX,gettyimages.com,Global',
         'DOMAIN-SUFFIX,ghostery.com,Global',
+        'DOMAIN-SUFFIX,gitkraken.dev,Global',
         'DOMAIN-SUFFIX,godaddy.com,Global',
         'DOMAIN-SUFFIX,go.dev,Global',
         'DOMAIN-SUFFIX,gofundme.com,Global',
@@ -2092,6 +2093,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,sleazyfork.org,Global',
         'DOMAIN-SUFFIX,slideshare.net,Global',
         'DOMAIN-SUFFIX,sm.ms,Global',
+        'DOMAIN-SUFFIX,softonic.com,Global',
         'DOMAIN-SUFFIX,solidot.org,Global',
         'DOMAIN-SUFFIX,soundcloud.com,Global',
         'DOMAIN-SUFFIX,south-plus.org,Global',
