@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-09-01T12:33:54.562Z
+// # Build 2024-09-01T18:11:45.544Z
 
 declare(strict_types=1);
 
@@ -1888,6 +1888,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,cloudfront.net,Global',
         'DOMAIN-SUFFIX,clubhouse.com,Global',
         'DOMAIN-SUFFIX,clubhouseapi.com,Global',
+        'DOMAIN-SUFFIX,codecov.io,Global',
         'DOMAIN-SUFFIX,codepen.io,Global',
         'DOMAIN-SUFFIX,codesandbox.io,Global',
         'DOMAIN-SUFFIX,coinex.com,Global',
@@ -1904,6 +1905,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,deezer.com,Global',
         'DOMAIN-SUFFIX,deviantart.com,Global',
         'DOMAIN-SUFFIX,deviantart.net,Global',
+        'DOMAIN-SUFFIX,dev.to,Global',
         'DOMAIN-SUFFIX,digitalocean.com,Global',
         'DOMAIN-SUFFIX,dish.com,Global',
         'DOMAIN-SUFFIX,disqus.com,Global',
@@ -1948,6 +1950,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,getchu.com,Global',
         'DOMAIN-SUFFIX,gettyimages.com,Global',
         'DOMAIN-SUFFIX,ghostery.com,Global',
+        'DOMAIN-SUFFIX,gitkraken.com,Global',
         'DOMAIN-SUFFIX,gitkraken.dev,Global',
         'DOMAIN-SUFFIX,godaddy.com,Global',
         'DOMAIN-SUFFIX,go.dev,Global',
@@ -2006,6 +2009,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,mega.co.nz,Global',
         'DOMAIN-SUFFIX,mega.io,Global',
         'DOMAIN-SUFFIX,missav.com,Global',
+        'DOMAIN-SUFFIX,missav.ws,Global',
         'DOMAIN-SUFFIX,misskey.io,Global',
         'DOMAIN-SUFFIX,moegirl.uk,Global',
         'DOMAIN-SUFFIX,mojang.com,Global',
@@ -2066,6 +2070,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,redditmail.com,Global',
         'DOMAIN-SUFFIX,redditmedia.com,Global',
         'DOMAIN-SUFFIX,redditstatic.com,Global',
+        'DOMAIN-SUFFIX,redditspace.com,Global',
         'DOMAIN-SUFFIX,redtube.com,Global',
         'DOMAIN-SUFFIX,redtubepremium.com,Global',
         'DOMAIN-SUFFIX,render.com,Global',
