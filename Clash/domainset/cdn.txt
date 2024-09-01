@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-01T18:11:45.509Z
-# Size: 2191
+# Last Updated: 2024-09-01T20:07:00.319Z
+# Size: 2193
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1482,6 +1482,7 @@ image.send.grammarly.com
 static-web.grammarly.com
 denali-static.grammarly.com
 assets.extension.grammarly.com
+config.extension.grammarly.com
 +.cdn.greenhouse.io
 boards.greenhouse.io
 gtranslate.io
@@ -1903,6 +1904,7 @@ cdn.sciencecast.org
 storage.sciencecast.org
 simpleicons.org
 cdn.simpleicons.org
++.skypeassets.com
 assets.squarespace.com
 s3media.squarespace.com
 static1.squarespace.com
@@ -2037,7 +2039,7 @@ d4.alternativeto.net
 images.arigatotravel.com
 +.assets-servd.host
 +.assets-yammer.com
-cdn-cookieyes.com
++.cdn-cookieyes.com
 +.chesscomfiles.com
 cdn.codeblackbelt.com
 +.codepenassets.com
