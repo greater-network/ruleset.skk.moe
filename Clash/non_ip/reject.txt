@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Domains
-# Last Updated: 2024-09-03T14:16:50.650Z
-# Size: 70
+# Last Updated: 2024-09-03T15:45:40.823Z
+# Size: 71
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -37,6 +37,7 @@ DOMAIN-KEYWORD,sunnimiq
 DOMAIN-KEYWORD,.nimiq.
 DOMAIN-KEYWORD,anybest.
 DOMAIN-KEYWORD,dubester.
+DOMAIN-KEYWORD,pancakeswap
 DOMAIN-KEYWORD,fb-restriction-case
 DOMAIN-KEYWORD,fb-restriction-appeal
 DOMAIN-KEYWORD,fb-community-standards
