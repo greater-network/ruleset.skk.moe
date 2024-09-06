@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-09-06T13:21:20.893Z
-# Size: 341
+# Last Updated: 2024-09-06T16:17:34.889Z
+# Size: 340
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -16,6 +16,7 @@ speedtest-sg.cbn.id
 +.speedtest.pni.tw
 speedtest.nyc.rr.com
 syrny-speedtest-02.nyroc.rr.com
+lsanca-speedtest-02.socal.rr.com
 +.srvr.bell.ca
 +.ookla-speedtest.fsr.com
 +.speedtest.i3d.net
@@ -48,7 +49,6 @@ tc1.chtm.hinet.net
 tn1.chtm.hinet.net
 ty1.chtm.hinet.net
 ntp1.chtm.hinet.net
-speed.udx.icscoe.jp
 perf.keyyo.net
 speedtest.b2.mhn.cloud
 speedtest.mel.mhn.cloud
@@ -77,6 +77,7 @@ ookla-speedtest-central.hgconair.hgc.com.hk
 +.speedtest.labixe.net
 speedtest.macpaw.com
 +.speed.misaka.one
+speedtest.netrack.ru
 speedtest-ca.pq.hosting
 speedtest-de.pq.hosting
 speedtest.quadro.net
@@ -84,18 +85,20 @@ stguelph.rogers.com
 stlondon.rogers.com
 stmilton.rogers.com
 sttoronto.rogers.com
+stvaughan.rogers.com
+stbrampton.rogers.com
 sthamilton.rogers.com
+stkingcity.rogers.com
 stoakville.rogers.com
 ststthomas.rogers.com
 stwaterloo.rogers.com
 stbrantford.rogers.com
 stetobicoke.rogers.com
 stkitchener.rogers.com
-stnorthyork.rogers.com
 ststratford.rogers.com
 stwoodstock.rogers.com
 stmississauga.rogers.com
-stscarborough.rogers.com
+storangeville.rogers.com
 stguelphwireless.rogers.com
 stlondonwireless.rogers.com
 stmiltonwireless.rogers.com
@@ -107,13 +110,13 @@ sthamiltonwireless.rogers.com
 ststthomaswireless.rogers.com
 stbrantfordwireless.rogers.com
 stkitchenerwireless.rogers.com
-stnorthyorkwireless.rogers.com
 ststratfordwireless.rogers.com
 stwoodstockwireless.rogers.com
 stgeorgetownwireless.rogers.com
 stleamingtonwireless.rogers.com
 stmississaugawireless.rogers.com
-ststcatharineswireless.rogers.com
+storangevillewireless.rogers.com
+stsaultstemariewireless.rogers.com
 stwellandpelhamwireless.rogers.com
 speedtest.toob.co.uk
 +.speedtest.warian.net
@@ -177,18 +180,12 @@ sosimhk.datapath.three.com.hk
 +.wifiman.ubncloud.com
 bassoon-sg-1.violin.co.th
 +.speedtest.aarnet.net.au
-sp1.burstfire.net
 dallas1.cabospeed.com
 speedtest.cdmsfirst.com
 mensura.cdn-apple.com
 +.speedtest.clouvider.net
 +.speedtest.comnet.com.tr
 +.speedtest.exetel.com.au
-speedtest.fixnet.com.tr
-afyonspeedtest.fixnet.com.tr
-bursaspeedtest.fixnet.com.tr
-izmirspeedtest.fixnet.com.tr
-balikesirspeedtest.fixnet.com.tr
 speedtest1.gigafy.com.au
 mns.i-systems.com
 speedtest.inforr.com.br
@@ -197,6 +194,7 @@ speedtest-sg.napinfo.co.id
 speedtest-lax.perfectip.net
 speedtest.ramtek.net.tr
 +.speedtest.sbcglobal.net
+speed.sdmnet.com.br
 speedtest.ams.sharktech.net
 +.speedtest.net
 qld-speedtest.spirit.com.au
@@ -214,7 +212,6 @@ speedtest01.fibernetics.ca
 sp1.hcetelecom.com
 speedtest.mia.hivelocity.net
 speedtest.ams1.hivelocity.net
-speedtest.yyz2.hivelocity.net
 speedlon.hyperoptic.com
 speedtest.ip-projects.de
 speedtest.jvswifi.com.br
@@ -266,8 +263,6 @@ speedtest.teknosos.com.tr
 speedtestnyc.telebermuda.com
 speedtest.uplinkrr.com.br
 +.speedtest.vodafone.com.au
-speedtestmacapa.webflash.net.br
-speedtest.webturbo.net.br
 speed.xpandtec.com.br
 speed.amazonett.com.br
 speedtest.cyberline.com.br
@@ -280,6 +275,8 @@ teste.routinger.com.br
 speedtest.routinger.com.br
 speedtest.rvconnect.com.br
 speedtest3.rvconnect.com.br
+5g.shunicomtest.com
+servidor.speedplay.com.br
 +.speedtest.com.sg
 +.speedtest.idv.tw
 speedtest.syscom.manaus.br
@@ -289,6 +286,7 @@ teste.xtremenet.com.br
 speed.ccspublichost.com
 speedtest.connectbv8.com.br
 speedtest.creolineserver.de
+speedtest.csmtelecom.net.br
 teste.diotelecom.com.br
 srvteste.edntelecom.net.br
 velocidade.exytelecom.com.br
@@ -304,22 +302,26 @@ speedtest.auratelecom.com.br
 +.speedtest.gslnetworks.com.au
 teste.linkonfibra.com.br
 +.measurementlab.net
+spd.primenetisp.com.br
 ooklatins.redeconexaonet.com
 speedtest.redrawinternet.com
 velocidade.softtelecom.net.br
 +.speedtestkorea.com
 tkconnectrr.com.br
 ank1speedtest.turktelekom.com.tr
+ant1speedtest.turktelekom.com.tr
 bur1speedtest.turktelekom.com.tr
 esk1speedtest.turktelekom.com.tr
 gay1speedtest.turktelekom.com.tr
 geb1speedtest.turktelekom.com.tr
 gun1speedtest.turktelekom.com.tr
+sam1speedtest.turktelekom.com.tr
 umr1speedtest.turktelekom.com.tr
 speedtest.unlimitedfiber.com
 speedtest.upwirefibra.com.br
 speedtest.voip-unlimited.net
 teste.wificonnect.com.br
+speedtest.maisnetfibra.net.br
 +.measurement-lab.org
 +.speedtestcustom.com
 stest.ultraconnect.com.br
@@ -332,13 +334,11 @@ velocimetro.speednetworks.com.br
 +.speedtestwnet.com.br
 teste.tstelecomltda.com.br
 speedtest.visiontelecom.com.br
-speedtest.americatelecom.net.br
 teste.ddlsuprimentos.com.br
 speedtest.mirror.mel1.digitalpacific.com.au
 speedtest.japanettelecom.com.br
 st.jnettelecom-am.com.br
 teste.newsolutionnet.com.br
-speedtest.pinguimtelecom.net.br
 speedtest.albatroznetwork.com.br
 velocidade.amazoniatelecom.com.br
 speedtest.conectaamazonia.com.br
@@ -347,6 +347,5 @@ speed.newclicktelecom.com.br
 +.speedtestunonet.com.br
 velocidade.impertechtelecom.com.br
 +.linknetspeedtest.net.br
-teste.mundialnettelecom.com.br
 test.infoconnecttelecom.com.br
 ################## EOF ##################
