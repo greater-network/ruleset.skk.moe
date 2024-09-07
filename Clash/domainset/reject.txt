@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-07T09:02:40.400Z
-# Size: 124069
+# Last Updated: 2024-09-07T12:30:28.598Z
+# Size: 124070
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -12389,6 +12389,7 @@ adui.tg.meitu.com
 +.cudgoz.mifcom.de
 +.a8.migxl.com
 +.a8clk.miidas.jp
++.360down7.miiyun.cn
 +.mikka.app
 +.mikop.xyz
 +.ea.millet.fr
@@ -13347,7 +13348,6 @@ asimgs.pplive.cn
 +.qange.com
 +.qbaka.net
 +.139520.aioc.qbgxl.com
-+.912648.aioc.qbgxl.com
 +.cdn.qc24h.com
 +.smetrics.qcnet.com
 +.qdmil.com
@@ -21993,7 +21993,6 @@ adres.myaora.net
 +.track.pnj.com.vn
 +.flx2.pnl.agency
 +.pnperf.com
-+.pns.org.pk
 +.pnsqsv.com
 +.pntrac.com
 +.pnvtlh.xyz
@@ -22945,8 +22944,6 @@ test.api.xlmc.sandai.net
 +.shakre.com
 +.shar-m.com
 +.a8clk.shop.shareme.jp
-+.y.shavsl.com
-+.z.shavsl.com
 +.beacon.shazam.com
 +.shbxugs.cn
 +.shbxukj.cn
@@ -29736,6 +29733,7 @@ healthdata.hicloud.com
 +.dep.hmgroup.com
 +.hnalzlu.top
 +.www2.hnavi.co.jp
++.yp.hnggzyjy.cn
 +.swordtail.hnh.digital
 +.n.hnntube.com
 +.online.hnoexpo.com
@@ -30046,7 +30044,6 @@ log.v2.hunantv.com
 +.imp2aff.com
 +.yyrenshe.imshike.com
 +.data-6c57a6137f.imsueden.de
-+.imtoken8.cc
 +.imvjcds.com
 +.a8clk.inakakon.jp
 +.inalzlo.top
@@ -36657,6 +36654,7 @@ htracker5.zmzfile.com
 +.10q6e9ne5.de
 +.10sn95to9.de
 +.a.10tianqi.com
++.soft.110route.com
 +.1.11130.com.cn
 +.11152646.xyz
 +.sams.11freunde.de
@@ -36980,7 +36978,6 @@ hot.m.shouji.360tpcdn.com
 +.abfishop.com
 +.abfishop.org
 +.impressions.svc.abillion.com
-+.abissnet.net
 +.abluekai.com
 +.abmunnaa.com
 +.aboucaih.com
@@ -39050,7 +39047,6 @@ galaxy.bjcathay.com
 +.ab.cnbanbao.com
 +.dm.cnbanbao.com
 +.ms.cnbanbao.com
-+.server.cnc-kovey.ru
 +.cndcfvmc.com
 +.analytics.cnfanart.com
 +.sanalytics.cnfanart.com
@@ -49896,7 +49892,6 @@ stat.10jqka.com.cn
 +.biowebb-data.s3.amazonaws.com
 +.cloudfront-labs.amazonaws.com
 +.babes-mansion.s3.amazonaws.com
-+.bbuseruploads.s3.amazonaws.com
 +.sprocket-ping.s3.amazonaws.com
 +.syncplusconfig.s3.amazonaws.com
 +.yieldmo-builds.s3.amazonaws.com
@@ -52009,6 +52004,7 @@ grs.platform.dbankcloud.ru
 +.affiliate.diatomplus.cz
 +.diccsbhij.com
 +.xiqvza.dickblick.com
++.diclegrup.org
 +.ec.didnsunns.com
 +.data-d88bd5abf8.die-glocke.de
 +.marketing.dienerlaw.net
@@ -52159,6 +52155,7 @@ grs.platform.dbankcloud.ru
 +.drust-gnf.com
 +.drvkypkfm.com
 +.sstats.ds-pharma.com
++.dsaewew21.fun
 +.marketing.dscdredge.com
 +.dskjbvzvs.com
 +.dsmvkbfzp.com
@@ -53853,6 +53850,7 @@ v2.fm.n.duokanbox.com
 +.hitgelsin.com
 +.hitman-pro.ru
 +.links.hitrecord.org
++.hitstation.nl
 +.hitstatus.com
 +.tracking.hivecloud.net
 +.partner.hizeromop.com
@@ -55441,7 +55439,6 @@ s.maketheweb.io
 +.media-412.com
 +.media-rep.com
 +.ana.mediable.info
-+.mediafire.zip
 +.mediafuse.com
 +.mediakash.com
 +.mediakraft.se
@@ -55726,6 +55723,7 @@ i1.services.social.microsoft.com
 +.ens.moneyhouse.ch
 +.moneysyst.biz
 +.somni.moneytips.com
++.moninediy.com
 +.tr.newsletter.monmedium.com
 +.web.online.monnalisa.com
 +.mjjvkx.monoprice.com
@@ -76831,6 +76829,7 @@ material.istreamsche.com
 +.leskdywzbfk.com
 +.letraoquavn.com
 +.images.one.leumicard.co.il
++.lflsoftware.com
 +.lfngqrtheim.com
 +.lgqffscxfqv.com
 +.lhamjcpnpqb.xyz
@@ -85580,6 +85579,7 @@ ssl.360antivirus.org
 +.fheb.podcast.lisameyerson.com
 +.hvoq.podcast.lisameyerson.com
 +.kvxp.podcast.lisameyerson.com
++.nrux.podcast.lisameyerson.com
 +.tpbq.podcast.lisameyerson.com
 +.ypqm.podcast.lisameyerson.com
 +.awaco.podcast.lisameyerson.com
@@ -112299,7 +112299,6 @@ display.360totalsecurity.com
 +.ilkj.patent.international-med.com
 +.nzkj.patent.international-med.com
 +.rcyt.patent.international-med.com
-+.wbnr.patent.international-med.com
 +.unmmx.patent.international-med.com
 +.intersectionweigh.com
 +.smetrics.intertek-etlsemko.com
@@ -114729,6 +114728,7 @@ display.360totalsecurity.com
 +.kikmessengerforpcs.com
 +.kindhearted-winter.pro
 +.kindledrummerhitch.com
++.kineticrockburgers.com
 +.kingrecommendation.com
 +.data-47ee1b0882.kinocenter-cuxhaven.de
 +.knobsomebodycheery.com
@@ -114806,6 +114806,7 @@ display.360totalsecurity.com
 +.luggagebuttonlocum.com
 +.tk.lulli-sur-la-toile.com
 +.mqjpkx.lulli-sur-la-toile.com
++.luxurypropertiesfl.com
 +.trk.luxurytravelcanada.org
 +.machineryvegetable.com
 +.madden16coinglitch.com

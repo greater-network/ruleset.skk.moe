@@ -1,0 +1,2 @@
+/*
+  cloudflare-cdn-cache-control: public, max-age=60, stale-while-revalidate=10, stale-if-error=30
