@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-07T09:02:35.321Z
-# Size: 2212
+# Last Updated: 2024-09-07T15:26:16.432Z
+# Size: 2213
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -377,6 +377,7 @@ s3.arkjp.net
 static.arxiv.org
 cdn.auth0.com
 static-clst.avgle.com
+pkgs.dev.azure.com
 +.in.applicationinsights.azure.com
 amp.azure.net
 linuxiac.b-cdn.net

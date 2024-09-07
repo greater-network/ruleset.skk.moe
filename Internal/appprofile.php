@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-09-07T09:02:35.348Z
+// # Build 2024-09-07T15:26:16.467Z
 
 declare(strict_types=1);
 
@@ -1913,6 +1913,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,dlsite.com,Global',
         'DOMAIN-SUFFIX,dns-oarc.net,Global',
         'DOMAIN-SUFFIX,doujins.com,Global',
+        'DOMAIN-SUFFIX,downdetector.com,Global',
         'DOMAIN-SUFFIX,dribbble.com,Global',
         'DOMAIN-KEYWORD,dropbox,Global',
         'DOMAIN-SUFFIX,dropbox.com,Global',
