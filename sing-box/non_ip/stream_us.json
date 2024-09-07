@@ -10,8 +10,7 @@
         "cbsservice.aws.syncbak.com",
         "cbsplaylistserver.aws.syncbak.com",
         "cbsi.live.ott.irdeto.com",
-        "edge.api.brightcove.com",
-        "link.theplatform.com"
+        "edge.api.brightcove.com"
       ],
       "domain_suffix": [
         "discoveryplus.in",
@@ -35,6 +34,7 @@
         "hulustream.com",
         "huluim.com",
         "hulu.com",
+        "theplatform.com",
         "foxplus.com",
         "uplynk.com",
         "foxdcg.com",

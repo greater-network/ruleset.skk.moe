@@ -5,7 +5,6 @@
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "www.intel.cn",
-        "ocsp.digicert.cn",
         "lv.queniujq.cn",
         "cn.download.nvidia.com",
         "gstore.val.manlaxy.com",
@@ -158,6 +157,7 @@
         "jiguang.cn",
         "gaokao.cn",
         "dxy.cn",
+        "digicert.cn",
         "csdnimg.cn",
         "cls.cn",
         "authing.cn",

@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services: Japan
-# Last Updated: 2024-09-07T17:56:22.109Z
+# Last Updated: 2024-09-07T18:03:15.047Z
 # Size: 25
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -30,7 +30,7 @@ DOMAIN-SUFFIX,tver.jp
 DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,hjholdings.jp
 DOMAIN-SUFFIX,happyon.jp
-DOMAIN-SUFFIX,asset.domand.nicovideo.jp
+DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,winticket.jp
 DOMAIN-SUFFIX,dokusho-ojikan.jp
 DOMAIN-SUFFIX,ameblo.jp

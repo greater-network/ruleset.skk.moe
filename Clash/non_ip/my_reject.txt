@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject (REJECT-DROP)
-# Last Updated: 2024-09-07T17:56:22.934Z
+# Last Updated: 2024-09-07T18:03:15.857Z
 # Size: 67
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -40,7 +40,7 @@ DOMAIN-SUFFIX,parallels.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,parallels.cn
 DOMAIN-SUFFIX,httpdns.pro
 DOMAIN-SUFFIX,myparallels.com
-DOMAIN-SUFFIX,my.parallels.com
+DOMAIN-SUFFIX,parallels.com
 DOMAIN-SUFFIX,parallelskorea.com
 DOMAIN-KEYWORD,bahoom
 PROCESS-NAME,Tencent Lemon

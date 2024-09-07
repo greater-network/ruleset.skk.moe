@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Domestic Domains
-# Last Updated: 2024-09-07T17:56:22.115Z
+# Last Updated: 2024-09-07T18:03:15.052Z
 # Size: 764
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -10,7 +10,6 @@
 #########################################
 DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,www.intel.cn
-DOMAIN,ocsp.digicert.cn
 DOMAIN,lv.queniujq.cn
 DOMAIN,cn.download.nvidia.com
 DOMAIN,gstore.val.manlaxy.com
@@ -161,6 +160,7 @@ DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jiguang.cn
 DOMAIN-SUFFIX,gaokao.cn
 DOMAIN-SUFFIX,dxy.cn
+DOMAIN-SUFFIX,digicert.cn
 DOMAIN-SUFFIX,csdnimg.cn
 DOMAIN-SUFFIX,cls.cn
 DOMAIN-SUFFIX,authing.cn
