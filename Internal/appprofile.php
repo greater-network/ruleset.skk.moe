@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-09-07T15:26:16.467Z
+// # Build 2024-09-07T16:17:58.956Z
 
 declare(strict_types=1);
 
@@ -866,8 +866,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,a5.mzstatic.com,Domestic',
         'DOMAIN-SUFFIX,adcdownload.apple.com.akadns.net,Domestic',
         'DOMAIN-SUFFIX,adcdownload.apple.com,Domestic',
-        'DOMAIN-SUFFIX,amp-api.media.apple.com,Domestic',
         'DOMAIN-SUFFIX,amp-api-updates.apps.apple.com,Domestic',
+        'DOMAIN-SUFFIX,amp-api.media.apple.com,Domestic',
         'DOMAIN-SUFFIX,api-p-ap-c.smoot.apple.com,Domestic',
         'DOMAIN-SUFFIX,api-p-ap-d.smoot.apple.com,Domestic',
         'DOMAIN-SUFFIX,api-p-ap-e.smoot.apple.com,Domestic',
@@ -912,6 +912,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,cstat.cdn-apple.com,Domestic',
         'DOMAIN-SUFFIX,dd-cdn.origin-apple.com.akadns.net,Domestic',
         'DOMAIN-SUFFIX,dejavu.apple.com,Domestic',
+        'DOMAIN-SUFFIX,devstreaming-cdn.apple.com,Domestic',
         'DOMAIN-SUFFIX,download.developer.apple.com,Domestic',
         'DOMAIN-SUFFIX,experiments.apple.com,Domestic',
         'DOMAIN-SUFFIX,gs-loc-cn.apple.com,Domestic',
@@ -924,8 +925,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,gsp4-cn.ls.apple.com,Domestic',
         'DOMAIN-SUFFIX,gsp5-cn.ls.apple.com,Domestic',
         'DOMAIN-SUFFIX,gsp85-cn-ssl.ls.apple.com,Domestic',
-        'DOMAIN-SUFFIX,gspe19-2-cn-ssl.ls.apple.com,Domestic',
         'DOMAIN-SUFFIX,gspe19-2-cn-ssl.ls-apple.com.akadns.net,Domestic',
+        'DOMAIN-SUFFIX,gspe19-2-cn-ssl.ls.apple.com,Domestic',
         'DOMAIN-SUFFIX,gspe19-cn-ssl.ls.apple.com,Domestic',
         'DOMAIN-SUFFIX,gspe19-cn.ls-apple.com.akadns.net,Domestic',
         'DOMAIN-SUFFIX,gspe19-cn.ls.apple.com,Domestic',
@@ -954,6 +955,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ipcdn.apple.com,Domestic',
         'DOMAIN-SUFFIX,iphone-ld.apple.com,Domestic',
         'DOMAIN-SUFFIX,iphone-ld.origin-apple.com.akadns.net,Domestic',
+        'DOMAIN-SUFFIX,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net,Domestic',
         'DOMAIN-SUFFIX,is1-ssl.mzstatic.com,Domestic',
         'DOMAIN-SUFFIX,is1.mzstatic.com,Domestic',
         'DOMAIN-SUFFIX,is2-ssl.mzstatic.com,Domestic',
@@ -964,7 +966,6 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,is4.mzstatic.com,Domestic',
         'DOMAIN-SUFFIX,is5-ssl.mzstatic.com,Domestic',
         'DOMAIN-SUFFIX,is5.mzstatic.com,Domestic',
-        'DOMAIN-SUFFIX,is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net,Domestic',
         'DOMAIN-SUFFIX,itunes-apple.com.akadns.net,Domestic',
         'DOMAIN-SUFFIX,itunes.apple.com,Domestic',
         'DOMAIN-SUFFIX,itunesconnect.apple.com,Domestic',
@@ -974,8 +975,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ml.cdn-apple.com,Domestic',
         'DOMAIN-SUFFIX,music.apple.com,Domestic',
         'DOMAIN-SUFFIX,ocsp-lb.apple.com.akadns.net,Domestic',
-        'DOMAIN-SUFFIX,ocsp2-lb.apple.com.akadns.net,Domestic',
         'DOMAIN-SUFFIX,ocsp.apple.com,Domestic',
+        'DOMAIN-SUFFIX,ocsp2-lb.apple.com.akadns.net,Domestic',
         'DOMAIN-SUFFIX,ocsp2.apple.com,Domestic',
         'DOMAIN-SUFFIX,oscdn.apple.com,Domestic',
         'DOMAIN-SUFFIX,oscdn.origin-apple.com.akadns.net,Domestic',
