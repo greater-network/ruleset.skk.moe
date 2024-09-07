@@ -8,8 +8,7 @@
         "wego.here.com",
         "media.steampowered.com",
         "ccmdl.adobe.com",
-        "ees.elsevier.com",
-        "addons.mozilla.org"
+        "ees.elsevier.com"
       ],
       "domain_suffix": [
         "spankbang.party",
@@ -616,6 +615,7 @@
         "signal.org",
         "archive.org",
         "npr.org",
+        "mozilla.org",
         "whatbrowser.org",
         "webrtc.org",
         "webmproject.org",

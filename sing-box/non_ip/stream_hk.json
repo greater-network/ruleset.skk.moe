@@ -27,8 +27,7 @@
         "hbolb.onwardsmg.com",
         "hbounify-prod.evergent.com",
         "s3-ap-southeast-1.amazonaws.com",
-        "44wilhpljf.execute-api.ap-southeast-1.amazonaws.com",
-        "api.viu.now.com"
+        "44wilhpljf.execute-api.ap-southeast-1.amazonaws.com"
       ],
       "domain_suffix": [
         "hbogoasia.hk",
@@ -41,6 +40,7 @@
         "tvb.com",
         "mytvsuper.com",
         "viu.com",
+        "viu.now.com",
         "nowe.com"
       ],
       "domain_keyword": ["nowtv100", "rthklive", ".hbogoasia."],
