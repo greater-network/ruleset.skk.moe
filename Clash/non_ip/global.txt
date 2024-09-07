@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - General Global Services
-# Last Updated: 2024-09-07T17:29:26.042Z
+# Last Updated: 2024-09-07T17:39:34.885Z
 # Size: 642
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -14,6 +14,7 @@ DOMAIN,wego.here.com
 DOMAIN,media.steampowered.com
 DOMAIN,ccmdl.adobe.com
 DOMAIN,ees.elsevier.com
+DOMAIN,addons.mozilla.org
 DOMAIN-SUFFIX,spankbang.party
 DOMAIN-SUFFIX,sketch.cloud
 DOMAIN-SUFFIX,ping.sx
@@ -618,7 +619,6 @@ DOMAIN-SUFFIX,signalusers.org
 DOMAIN-SUFFIX,signal.org
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,npr.org
-DOMAIN-SUFFIX,mozilla.org
 DOMAIN-SUFFIX,whatbrowser.org
 DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,webmproject.org

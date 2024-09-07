@@ -14,7 +14,7 @@
         "music.httpdns.c.163.com",
         "httpdns.music.163.com",
         "httpdns.n.netease.com",
-        "httpdns.yunxindns.com",
+        "httpdns.yunxindns.com,REJECT",
         "httpdnsvip.meituan.com",
         "httpdns.meituan.com",
         "dns.jd.com",
@@ -40,7 +40,7 @@
         "httpdns.pro",
         "myparallels.com",
         "parallels.com",
-        "parallelskorea.com"
+        "www.parallelskorea.com"
       ],
       "domain_keyword": ["bahoom"],
       "process_name": [
