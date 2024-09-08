@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-08-21T05:57:25.805Z
-# Size: 563
+# Last Updated: 2024-09-08T20:00:43.613Z
+# Size: 566
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -128,7 +128,10 @@ mirror.ghproxy.com
 +.ks3-sgp.ksyuncs.com
 +.ks3-cn-hk-1.ksyuncs.com
 download.maxmind.com
+aus5.mozilla.org
 download.mozilla.org
+aus2-community.mozilla.org
+versioncheck-bg.addons.mozilla.org
 download.nektony.com
 boot.netboot.xyz
 dl.nssurge.com

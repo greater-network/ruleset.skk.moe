@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-08T17:33:49.158Z
+# Last Updated: 2024-09-08T20:00:43.597Z
 # Size: 2214
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -662,6 +662,7 @@ s1.feedly.com
 fontbit.io
 +.ipfs.fooock.com
 imageio.forbes.com
+thumbor.forbes.com
 objects.g0v.social
 assets.genius.com
 thumbs.gfycat.com
@@ -1045,7 +1046,6 @@ firefox.settings.services.mozilla.com
 +.cdn.mozilla.net
 +.itsre-sumo.mozilla.net
 archive.mozilla.org
-versioncheck-bg.addons.mozilla.org
 cdn.myfonts.net
 +.ipfs.namebase.io
 iframe.nbcnews.com
