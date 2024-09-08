@@ -4,9 +4,10 @@
     {
       "domain": [
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "gitlab.com"
+        "gitlab.com",
+        "github.com"
       ],
-      "domain_suffix": ["github.com", "huggingface.co"]
+      "domain_suffix": ["huggingface.co"]
     }
   ]
 }
