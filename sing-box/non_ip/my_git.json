@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
+        "gitlab.com"
+      ],
+      "domain_suffix": ["github.com", "huggingface.co"]
+    }
+  ]
+}
