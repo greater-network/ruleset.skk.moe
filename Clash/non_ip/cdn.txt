@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-07T17:29:26.041Z
-# Size: 28
+# Last Updated: 2024-09-08T21:37:03.072Z
+# Size: 29
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -30,6 +30,7 @@ DOMAIN-REGEX,^cdn-msp[a-zA-Z0-9-_.]\.jmcomic\.me$
 DOMAIN-REGEX,^static-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]-cdn\.eporner\.com$
 DOMAIN-REGEX,^file[a-zA-Z0-9-_.]\.mikuclub\.fun$
 DOMAIN-REGEX,^cdn[a-zA-Z0-9-_.]\.mikuclub\.fun$
+DOMAIN-REGEX,^cdns\.[a-zA-Z0-9-_.]*?\.gigya\.com$
 DOMAIN-REGEX,^video[a-zA-Z0-9-_.]-thumbnail[a-zA-Z0-9-_.]\.fc2\.com$
 DOMAIN-REGEX,^vip-videoprem[a-zA-Z0-9-_.]*?-thumbnail[a-zA-Z0-9-_.]\.fc2\.com$
 DOMAIN-REGEX,^blog-imgs-[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\.2nt\.com$
