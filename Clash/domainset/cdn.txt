@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-07T15:26:16.432Z
-# Size: 2213
+# Last Updated: 2024-09-08T17:33:49.158Z
+# Size: 2214
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1683,6 +1683,7 @@ external-content.duckduckgo.com
 +.ebaystatic.com
 cdn2.editmysite.com
 images.emojiterra.com
+web-assets.esetstatic.com
 images.everyplate.com
 +.filecunhua.top
 cdn.fourthwall.com
