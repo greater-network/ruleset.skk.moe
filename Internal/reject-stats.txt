@@ -63,6 +63,7 @@ hicloud.com                                                                     
 unity3d.com                                                                                         21
 adpinfo.com                                                                                         20
 aon.com                                                                                             20
+cdn77.org                                                                                           20
 coca-cola.com                                                                                       20
 fupa.net                                                                                            20
 herokuapp.com                                                                                       20
@@ -86,7 +87,6 @@ equifax.com                                                                     
 aig.com                                                                                             16
 almosafer.com                                                                                       16
 arrow.com                                                                                           16
-cdn77.org                                                                                           16
 chuathuongxot.org                                                                                   16
 headlines.pw                                                                                        16
 mynavi.jp                                                                                           16
@@ -215,15 +215,15 @@ yinzcam.com                                                                     
 rciadventure.com                                                                                    96
 alalikexpress.com                                                                                   88
 github.io                                                                                           80
-webadorsite.com                                                                                     78
 playmetrics.com                                                                                     77
+webadorsite.com                                                                                     77
 verwin.com                                                                                          69
 aaa.com                                                                                             68
 netspend.com                                                                                        68
-ewp.live                                                                                            66
 focalink.com                                                                                        65
 you2.pl                                                                                             64
 adkoffer.fr                                                                                         61
+ewp.live                                                                                            61
 townsquarenewsletters.com                                                                           60
 happycustomer.io                                                                                    58
 9odp.skin                                                                                           56
@@ -231,10 +231,10 @@ bravenet.com                                                                    
 ropescoursesinc.com                                                                                 54
 sfmc-marketingqa.com                                                                                54
 qq.com                                                                                              52
-wixstudio.io                                                                                        52
 plus.com                                                                                            51
 progofficial.top                                                                                    51
 valuez.top                                                                                          51
+wixstudio.io                                                                                        51
 sfmctest.com                                                                                        50
 k7rv.icu                                                                                            49
 ormd.skin                                                                                           49
@@ -245,7 +245,7 @@ wpenginepowered.com                                                             
 bbc.com                                                                                             43
 baidu.com                                                                                           42
 poy0.lat                                                                                            42
-pages.dev                                                                                           38
+pages.dev                                                                                           39
 vmy0.icu                                                                                            38
 2jgc.lat                                                                                            37
 dfirma.pl                                                                                           36
@@ -322,13 +322,13 @@ b66t.top                                                                        
 beblon.com                                                                                          19
 buddaa.xyz                                                                                          19
 cnn.com                                                                                             19
+dns-dynamic.net                                                                                     19
 irza.lat                                                                                            19
 orogdq1.xyz                                                                                         19
 trytoku.com                                                                                         19
 vxfc.lat                                                                                            19
 waagge.top                                                                                          19
 acronis.com                                                                                         18
-dns-dynamic.net                                                                                     18
 gkru.skin                                                                                           18
 investtraderxreh.com                                                                                18
 ow7m.top                                                                                            18
@@ -388,7 +388,6 @@ m7nw.icu                                                                        
 mob.com                                                                                             14
 nba.com                                                                                             14
 propl.top                                                                                           14
-replit.dev                                                                                          14
 underarmour.com                                                                                     14
 uzwl.lat                                                                                            14
 vercel.app                                                                                          14
@@ -440,6 +439,7 @@ peolke.xyz                                                                      
 pop6.com                                                                                            12
 progrr.top                                                                                          12
 replit.app                                                                                          12
+replit.dev                                                                                          12
 revoprogramxzsed.com                                                                                12
 sfmc-tlsprovisioningqa.com                                                                          12
 sohu.com                                                                                            12
@@ -453,6 +453,7 @@ a8fc.lat                                                                        
 ajji.skin                                                                                           11
 arjo.com                                                                                            11
 avlw.top                                                                                            11
+bbuuddaa.top                                                                                        11
 bdvh.top                                                                                            11
 coolplattf.top                                                                                      11
 e-food.gr                                                                                           11
@@ -487,7 +488,6 @@ x07o.cfd                                                                        
 2exp.icu                                                                                            10
 6eow.icu                                                                                            10
 aig.com                                                                                             10
-bbuuddaa.top                                                                                        10
 bell.ca                                                                                             10
 bugaros.com                                                                                         10
 businessinsider.com                                                                                 10
