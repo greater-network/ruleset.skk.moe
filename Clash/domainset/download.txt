@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-09-08T20:00:43.613Z
-# Size: 566
+# Last Updated: 2024-09-11T14:31:32.976Z
+# Size: 568
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -490,6 +490,7 @@ downloadr2.apkmirror.com
 product-downloads.atlassian.com
 playwright.azureedge.net
 pf-cdn-content-prod.azureedge.net
+dl.cloudsmith.io
 +.dl.elementary.io
 +.download.epicgames.com
 download2.epicgames.com
@@ -530,6 +531,7 @@ update.googleapis.com
 releases.grapheneos.org
 updates.istatmenus.app
 +.nitro.download
+deb.nodesource.com
 pixeldrain.com
 update.sleazyfork.org
 os-cdn.virtfusion.net
