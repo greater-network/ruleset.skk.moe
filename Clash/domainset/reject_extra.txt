@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Extra
-# Last Updated: 2024-09-12T12:36:48.063Z
-# Size: 214435
+# Last Updated: 2024-09-12T14:47:38.912Z
+# Size: 214440
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1864,6 +1864,7 @@ msg.ptqy.gitv.tv
 +.gn33.fr
 +.gnan.jp
 +.refer.gnc.com
++.gngt.ru
 +.gnkw.pl
 +.email.reply.go.team
 +.email.mg.r24.go.team
@@ -13248,6 +13249,7 @@ pat.farvd.com
 +.fnmads.pl
 +.fnvkla.pl
 +.fnvkos.pl
++.fo4nz.com
 +.foccr.com
 +.email.mg.fodimi.pl
 +.fodo.site
@@ -40668,6 +40670,7 @@ static.cdn.gtsmobi.com
 +.hayserv.com
 +.hazardg.icu
 +.hbcosmo.com
++.hberify.com
 +.hbjiaju.top
 +.hbonded.com
 +.vinted-pl-gj32d.hbsoic.live
@@ -54797,6 +54800,7 @@ ana.masky.biddingx.com
 +.blender3d.es
 +.blender3d.fr
 +.email.kjbm.blendtuts.es
++.bleyeare.com
 +.blgtron.site
 +.blik.auction
 +.blinkett.com
@@ -59459,6 +59463,7 @@ fbapi.guguread.com
 +.hokutoda.com
 +.hol-gata.com
 +.holametal.pl
++.holancha.com
 +.holapola.xyz
 +.go2.holdrite.com
 +.holdseth.com
@@ -65570,11 +65575,6 @@ static.g.ppstream.com
 +.usps.pressdbw.top
 +.usps.presslit.top
 +.usps.presstcw.top
-+.email.mailgun.prestmit.com
-+.ty.prevetr.site
-+.prfolder.com
-+.priabafe.com
-+.trmail.price.com.hk
 +.simba.6.cn
 +.e.vg
 +.go.m.io
@@ -67400,6 +67400,7 @@ msg.ptqy.gitv.tv
 +.gn33.fr
 +.gnan.jp
 +.refer.gnc.com
++.gngt.ru
 +.gnkw.pl
 +.email.reply.go.team
 +.email.mg.r24.go.team
@@ -78784,6 +78785,7 @@ pat.farvd.com
 +.fnmads.pl
 +.fnvkla.pl
 +.fnvkos.pl
++.fo4nz.com
 +.foccr.com
 +.email.mg.fodimi.pl
 +.fodo.site
@@ -106204,6 +106206,7 @@ static.cdn.gtsmobi.com
 +.hayserv.com
 +.hazardg.icu
 +.hbcosmo.com
++.hberify.com
 +.hbjiaju.top
 +.hbonded.com
 +.vinted-pl-gj32d.hbsoic.live
@@ -120333,6 +120336,7 @@ ana.masky.biddingx.com
 +.blender3d.es
 +.blender3d.fr
 +.email.kjbm.blendtuts.es
++.bleyeare.com
 +.blgtron.site
 +.blik.auction
 +.blinkett.com
@@ -124995,6 +124999,7 @@ fbapi.guguread.com
 +.hokutoda.com
 +.hol-gata.com
 +.holametal.pl
++.holancha.com
 +.holapola.xyz
 +.go2.holdrite.com
 +.holdseth.com
@@ -131106,11 +131111,6 @@ static.g.ppstream.com
 +.usps.pressdbw.top
 +.usps.presslit.top
 +.usps.presstcw.top
-+.email.mailgun.prestmit.com
-+.ty.prevetr.site
-+.prfolder.com
-+.priabafe.com
-+.trmail.price.com.hk
 +.simba.6.cn
 +.e.vg
 +.go.m.io
@@ -132936,6 +132936,7 @@ msg.ptqy.gitv.tv
 +.gn33.fr
 +.gnan.jp
 +.refer.gnc.com
++.gngt.ru
 +.gnkw.pl
 +.email.reply.go.team
 +.email.mg.r24.go.team
@@ -144320,6 +144321,7 @@ pat.farvd.com
 +.fnmads.pl
 +.fnvkla.pl
 +.fnvkos.pl
++.fo4nz.com
 +.foccr.com
 +.email.mg.fodimi.pl
 +.fodo.site
@@ -171740,6 +171742,7 @@ static.cdn.gtsmobi.com
 +.hayserv.com
 +.hazardg.icu
 +.hbcosmo.com
++.hberify.com
 +.hbjiaju.top
 +.hbonded.com
 +.vinted-pl-gj32d.hbsoic.live
@@ -185869,6 +185872,7 @@ ana.masky.biddingx.com
 +.blender3d.es
 +.blender3d.fr
 +.email.kjbm.blendtuts.es
++.bleyeare.com
 +.blgtron.site
 +.blik.auction
 +.blinkett.com
@@ -190531,6 +190535,7 @@ fbapi.guguread.com
 +.hokutoda.com
 +.hol-gata.com
 +.holametal.pl
++.holancha.com
 +.holapola.xyz
 +.go2.holdrite.com
 +.holdseth.com
@@ -196642,11 +196647,6 @@ static.g.ppstream.com
 +.usps.pressdbw.top
 +.usps.presslit.top
 +.usps.presstcw.top
-+.email.mailgun.prestmit.com
-+.ty.prevetr.site
-+.prfolder.com
-+.priabafe.com
-+.trmail.price.com.hk
 +.simba.6.cn
 +.e.vg
 +.go.m.io
@@ -198472,6 +198472,7 @@ msg.ptqy.gitv.tv
 +.gn33.fr
 +.gnan.jp
 +.refer.gnc.com
++.gngt.ru
 +.gnkw.pl
 +.email.reply.go.team
 +.email.mg.r24.go.team
@@ -209856,6 +209857,7 @@ pat.farvd.com
 +.fnmads.pl
 +.fnvkla.pl
 +.fnvkos.pl
++.fo4nz.com
 +.foccr.com
 +.email.mg.fodimi.pl
 +.fodo.site
@@ -214473,4 +214475,7 @@ adx.sogaha.cn
 +.lad.tsqwz.xyz
 +.mal.tsqwz.xyz
 +.pax.tsqwz.xyz
++.sat.tsqwz.xyz
++.tac.tsqwz.xyz
++.to.tsuide.jp
 ################## EOF ##################
