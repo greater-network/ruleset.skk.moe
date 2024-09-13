@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-13T13:21:08.446Z
-# Size: 2267
+# Last Updated: 2024-09-13T14:29:40.731Z
+# Size: 2268
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1625,6 +1625,7 @@ link.storjshare.io
 +.a.storyblok.com
 +.stripecdn.com
 cdn-service.jp.sumologic.com
+events.tableplus.com
 +.thisiscdn.com
 thumbsnap.com
 +.tiktokcdn.com
