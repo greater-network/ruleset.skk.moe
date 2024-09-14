@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Internal Special
-# Last Updated: 2024-09-09T15:03:24.825Z
-# Size: 5
+# Last Updated: 2024-09-14T14:27:32.098Z
+# Size: 6
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,5 +10,6 @@ DOMAIN,this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 DOMAIN,gitlab.com
 DOMAIN,github.com
 DOMAIN,api.github.com
+DOMAIN-SUFFIX,githubcopilot.com
 DOMAIN-SUFFIX,huggingface.co
 ################## EOF ##################
