@@ -51,6 +51,7 @@ naver.com                                                                       
 autovistagroup.com                                                                                  24
 duckdns.org                                                                                         24
 intuit.com                                                                                          24
+cdn77.org                                                                                           23
 dlcodes.com                                                                                         23
 eucharisticjesus.net                                                                                23
 globalsources.com                                                                                   23
@@ -63,7 +64,6 @@ hicloud.com                                                                     
 unity3d.com                                                                                         21
 adpinfo.com                                                                                         20
 aon.com                                                                                             20
-cdn77.org                                                                                           20
 coca-cola.com                                                                                       20
 fupa.net                                                                                            20
 herokuapp.com                                                                                       20
@@ -212,12 +212,12 @@ avadacom.com                                                                    
 webspecmail.com                                                                                     167
 moseasia.com                                                                                        160
 yinzcam.com                                                                                         103
+ewp.live                                                                                            100
 rciadventure.com                                                                                    96
 alalikexpress.com                                                                                   88
-ewp.live                                                                                            80
 github.io                                                                                           80
 playmetrics.com                                                                                     77
-webadorsite.com                                                                                     76
+webadorsite.com                                                                                     74
 verwin.com                                                                                          69
 aaa.com                                                                                             68
 netspend.com                                                                                        68
@@ -244,7 +244,7 @@ y22n.lat                                                                        
 bbc.com                                                                                             43
 baidu.com                                                                                           42
 poy0.lat                                                                                            42
-wpenginepowered.com                                                                                 41
+wpenginepowered.com                                                                                 42
 pages.dev                                                                                           39
 vmy0.icu                                                                                            38
 2jgc.lat                                                                                            37
@@ -310,7 +310,6 @@ sony.com                                                                        
 3u84.icu                                                                                            20
 endiim.com                                                                                          20
 fgfmailbox.com                                                                                      20
-fleek.cool                                                                                          20
 gkag.top                                                                                            20
 globaltradruv.com                                                                                   20
 tmmsg.com                                                                                           20
@@ -323,6 +322,7 @@ b66t.top                                                                        
 beblon.com                                                                                          19
 buddaa.xyz                                                                                          19
 cnn.com                                                                                             19
+fleek.cool                                                                                          19
 irza.lat                                                                                            19
 orogdq1.xyz                                                                                         19
 trytoku.com                                                                                         19
@@ -378,6 +378,7 @@ aglt.lat                                                                        
 ahnq.top                                                                                            14
 angieslist.com                                                                                      14
 anonline.site                                                                                       14
+blogspot.hu                                                                                         14
 cusu.skin                                                                                           14
 deptesp.com                                                                                         14
 devoteam.com                                                                                        14
@@ -400,7 +401,6 @@ advance.net                                                                     
 ayxh.top                                                                                            13
 bauer-media.com.au                                                                                  13
 bestbuy.com                                                                                         13
-blogspot.hu                                                                                         13
 cddo.lat                                                                                            13
 citi.com                                                                                            13
 coca-cola.com                                                                                       13
@@ -429,7 +429,6 @@ dasj.lat                                                                        
 decathlon.com                                                                                       12
 dvxd.lat                                                                                            12
 fgf.email                                                                                           12
-framer.app                                                                                          12
 gcion.com                                                                                           12
 ltnk.skin                                                                                           12
 mlb.com                                                                                             12
@@ -464,6 +463,7 @@ epwj.top                                                                        
 fgfmail.net                                                                                         11
 fgfmailer.com                                                                                       11
 foody.com.cy                                                                                        11
+framer.app                                                                                          11
 glasswerxx.com                                                                                      11
 godaddy.com                                                                                         11
 goxsite.top                                                                                         11
@@ -484,6 +484,7 @@ tsqwz.xyz                                                                       
 uxtu.skin                                                                                           11
 viagsp.com                                                                                          11
 vicdesmidt.com                                                                                      11
+wxru.lat                                                                                            11
 x07o.cfd                                                                                            11
 0ij.cc                                                                                              10
 1nnoflare.sbs                                                                                       10

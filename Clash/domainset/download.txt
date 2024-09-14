@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-09-11T14:31:32.976Z
+# Last Updated: 2024-09-14T04:09:17.318Z
 # Size: 568
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -85,7 +85,7 @@ security.debian.org
 +.ftp-master.debian.org
 +.dl.dlsite.com
 download.dlsite.com
-desktop.docker.com
++.desktop.docker.com
 download.docker.com
 +.mirrors.dotsrc.org
 codeload.github.com
