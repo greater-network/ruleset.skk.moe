@@ -212,12 +212,12 @@ avadacom.com                                                                    
 webspecmail.com                                                                                     167
 moseasia.com                                                                                        160
 yinzcam.com                                                                                         103
-ewp.live                                                                                            100
+ewp.live                                                                                            99
 rciadventure.com                                                                                    96
 alalikexpress.com                                                                                   88
 github.io                                                                                           80
 playmetrics.com                                                                                     77
-webadorsite.com                                                                                     74
+webadorsite.com                                                                                     72
 verwin.com                                                                                          69
 aaa.com                                                                                             68
 netspend.com                                                                                        68
@@ -329,7 +329,6 @@ trytoku.com                                                                     
 vxfc.lat                                                                                            19
 waagge.top                                                                                          19
 acronis.com                                                                                         18
-dns-dynamic.net                                                                                     18
 gkru.skin                                                                                           18
 investtraderxreh.com                                                                                18
 ow7m.top                                                                                            18
@@ -338,6 +337,7 @@ sunyclouds.com                                                                  
 a5x7.icu                                                                                            17
 brooksrunning.com                                                                                   17
 capitalone.com                                                                                      17
+dns-dynamic.net                                                                                     17
 netflix.com                                                                                         17
 newaistar.top                                                                                       17
 ourtablets.com                                                                                      17
@@ -378,7 +378,6 @@ aglt.lat                                                                        
 ahnq.top                                                                                            14
 angieslist.com                                                                                      14
 anonline.site                                                                                       14
-blogspot.hu                                                                                         14
 cusu.skin                                                                                           14
 deptesp.com                                                                                         14
 devoteam.com                                                                                        14
@@ -401,6 +400,7 @@ advance.net                                                                     
 ayxh.top                                                                                            13
 bauer-media.com.au                                                                                  13
 bestbuy.com                                                                                         13
+blogspot.hu                                                                                         13
 cddo.lat                                                                                            13
 citi.com                                                                                            13
 coca-cola.com                                                                                       13
@@ -418,7 +418,7 @@ objectop.xyz                                                                    
 osik.skin                                                                                           13
 pro1wrld.top                                                                                        13
 programaticeu.xyz                                                                                   13
-us.kg                                                                                               13
+replit.dev                                                                                          13
 zysklonet.top                                                                                       13
 428m.icu                                                                                            12
 4ffw.sbs                                                                                            12
@@ -441,12 +441,12 @@ peolke.xyz                                                                      
 pop6.com                                                                                            12
 progrr.top                                                                                          12
 replit.app                                                                                          12
-replit.dev                                                                                          12
 revoprogramxzsed.com                                                                                12
 sfmc-tlsprovisioningqa.com                                                                          12
 sohu.com                                                                                            12
 substack.com                                                                                        12
 united.com                                                                                          12
+us.kg                                                                                               12
 wegn.top                                                                                            12
 welerpro.com                                                                                        12
 zyskglot.top                                                                                        12
