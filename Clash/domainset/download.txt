@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-09-15T13:38:19.127Z
-# Size: 570
+# Last Updated: 2024-09-15T15:45:32.902Z
+# Size: 572
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,6 +10,7 @@
 #########################################
 this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 +.cdn.ea.com
++.r2.dev
 dl.ui.com
 releases.arc.net
 formulae.brew.sh
@@ -575,6 +576,7 @@ get.pixelexperience.org
 download.pixelexperience.org
 +.copr.fedorainfracloud.org
 +.cloudflaremirrors.com
++.cloudflarestorage.com
 objects.githubusercontent.com
 pkg-containers.githubusercontent.com
 +.digitaloceanspaces.com

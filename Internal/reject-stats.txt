@@ -48,10 +48,10 @@ akamaihd.net                                                                    
 ni.com                                                                                              27
 flourishpath.online                                                                                 26
 naver.com                                                                                           26
+cdn77.org                                                                                           25
 autovistagroup.com                                                                                  24
 duckdns.org                                                                                         24
 intuit.com                                                                                          24
-cdn77.org                                                                                           23
 dlcodes.com                                                                                         23
 eucharisticjesus.net                                                                                23
 globalsources.com                                                                                   23
@@ -217,8 +217,8 @@ rciadventure.com                                                                
 alalikexpress.com                                                                                   88
 github.io                                                                                           80
 playmetrics.com                                                                                     77
-webadorsite.com                                                                                     71
 verwin.com                                                                                          69
+webadorsite.com                                                                                     69
 aaa.com                                                                                             68
 netspend.com                                                                                        68
 focalink.com                                                                                        65
@@ -242,9 +242,9 @@ dkonto.pl                                                                       
 lcef.com                                                                                            47
 y22n.lat                                                                                            46
 bbc.com                                                                                             43
-wpenginepowered.com                                                                                 43
 baidu.com                                                                                           42
 poy0.lat                                                                                            42
+wpenginepowered.com                                                                                 42
 pages.dev                                                                                           39
 vmy0.icu                                                                                            38
 2jgc.lat                                                                                            37

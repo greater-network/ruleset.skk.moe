@@ -210,6 +210,7 @@
       ],
       "domain_suffix": [
         "cdn.ea.com",
+        "r2.dev",
         "file.io",
         "mega.io",
         "mega.nz",
@@ -574,6 +575,7 @@
         "linodeobjects.com",
         "copr.fedorainfracloud.org",
         "cloudflaremirrors.com",
+        "cloudflarestorage.com",
         "digitaloceanspaces.com"
       ]
     }
