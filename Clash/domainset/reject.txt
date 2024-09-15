@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-15T15:45:37.414Z
+# Last Updated: 2024-09-15T16:15:31.279Z
 # Size: 123967
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
