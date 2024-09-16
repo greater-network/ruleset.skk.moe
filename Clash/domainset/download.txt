@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-09-15T16:35:51.795Z
-# Size: 572
+# Last Updated: 2024-09-16T07:32:48.329Z
+# Size: 573
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -115,6 +115,7 @@ store.setapp.com
 download.sketch.com
 +.archive.ubuntu.com
 security.ubuntu.com
+static.adguard.com
 download.anydesk.com
 edge.steam-dns.top.comcast.net
 dl.devmate.com
