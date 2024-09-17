@@ -364,6 +364,7 @@ neteller.com                                                                    
 onliprog.site                                                                                       15
 polskadep.xyz                                                                                       15
 runeww1.site                                                                                        15
+vercel.app                                                                                          15
 vonage.com                                                                                          15
 waonline.site                                                                                       15
 wetss.xyz                                                                                           15
@@ -386,7 +387,6 @@ trytoku.com                                                                     
 underarmour.com                                                                                     14
 us.kg                                                                                               14
 uzwl.lat                                                                                            14
-vercel.app                                                                                          14
 z14s.top                                                                                            14
 zettle.com                                                                                          14
 05vq.icu                                                                                            13

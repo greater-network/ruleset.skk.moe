@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-17T12:37:32.949Z
-# Size: 2298
+# Last Updated: 2024-09-17T15:35:31.328Z
+# Size: 2301
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -33,6 +33,9 @@ eep.io
 +.permaweb.eu.org
 genesis-cdn.ff.com
 static.ffx.io
+img-en.fs.com
+resource.fs.com
+front-resource.fs.com
 consent-notice.ft.com
 consent-manager.ft.com
 +.gcr.io

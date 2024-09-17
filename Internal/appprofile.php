@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-09-17T12:37:32.975Z
+// # Build 2024-09-17T15:35:31.354Z
 
 declare(strict_types=1);
 
@@ -462,6 +462,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,hongxiu.com,Domestic',
         'DOMAIN-SUFFIX,hoopchina.com.cn,Domestic',
         'DOMAIN-SUFFIX,hupu.com,Domestic',
+        'DOMAIN-SUFFIX,huxiu.com,Domestic',
         'DOMAIN-SUFFIX,huxiucdn.com,Domestic',
         'DOMAIN-SUFFIX,huya.com,Domestic',
         'DOMAIN-SUFFIX,ibreader.com,Domestic',
