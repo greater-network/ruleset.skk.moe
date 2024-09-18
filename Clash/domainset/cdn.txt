@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-18T15:10:45.768Z
-# Size: 2307
+# Last Updated: 2024-09-18T15:18:34.210Z
+# Size: 2308
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -259,6 +259,7 @@ imgur.dcard.tw
 megapx-assets.dcard.tw
 +.ipfs.decoo.io
 images.dmca.com
++.ehgt.org
 cdn.embed.ly
 media.evolv.ai
 participants.evolv.ai
