@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-09-17T15:35:31.343Z
-# Size: 573
+# Last Updated: 2024-09-18T04:42:23.331Z
+# Size: 577
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -78,6 +78,7 @@ download.typora.io
 dl2.xmind.net
 dl3.xmind.net
 downloads.xrite.com
+download.bazzite.gg
 download.beeper.com
 +.catbox.moe
 +.deb.debian.org
@@ -503,6 +504,7 @@ download4.epicgames.com
 fastly-download.epicgames.com
 +.debian.map.fastlydns.net
 gog-cdn-lumen.secure2.footprint.net
+dl.getaurora.dev
 +.releases.hashicorp.com
 cdn.hyperbeam.com
 download.jetbrains.com
@@ -569,6 +571,8 @@ registry.fedoraproject.org
 client.hikarifield.co.jp
 download.hikarifield.co.jp
 +.linodeobjects.com
+nobara-images.nobaraproject.org
+download.projectbluefin.io
 ctldl.windowsupdate.com
 builds.paranoidandroid.co
 ftp.androidfilehost.com

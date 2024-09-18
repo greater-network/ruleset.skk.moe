@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-09-17T15:35:31.354Z
+// # Build 2024-09-18T04:42:23.343Z
 
 declare(strict_types=1);
 
@@ -1039,6 +1039,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,xp.apple.com,Domestic',
         'DOMAIN-SUFFIX,fs.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,sdx.microsoft.com,Domestic',
+        'DOMAIN-SUFFIX,build.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,download.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,officecdn.microsoft.com,Domestic',
         'DOMAIN-SUFFIX,wscont1.apps.microsoft.com,Domestic',
@@ -6631,6 +6632,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,2404:c940::/48,Domestic',
         'IP-CIDR,2404:d7c0:2::/48,Domestic',
         'IP-CIDR,2404:e280::/47,Domestic',
+        'IP-CIDR,2404:e8c0::/32,Domestic',
         'IP-CIDR,2404:f4c0::/32,Domestic',
         'IP-CIDR,2405:6c0:2::/48,Domestic',
         'IP-CIDR,2405:6c0:4::/48,Domestic',
@@ -6667,6 +6669,8 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,2406:280::/32,Domestic',
         'IP-CIDR,2406:840:8100::/40,Domestic',
         'IP-CIDR,2406:840:9000::/44,Domestic',
+        'IP-CIDR,2406:840:9a00::/39,Domestic',
+        'IP-CIDR,2406:840:cb00::/40,Domestic',
         'IP-CIDR,2406:840:e031::/48,Domestic',
         'IP-CIDR,2406:840:e033::/48,Domestic',
         'IP-CIDR,2406:840:e03f::/48,Domestic',
@@ -6707,6 +6711,9 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,2406:840:fc10::/44,Domestic',
         'IP-CIDR,2406:840:fc20::/43,Domestic',
         'IP-CIDR,2406:840:fc40::/42,Domestic',
+        'IP-CIDR,2406:840:fc89::/48,Domestic',
+        'IP-CIDR,2406:840:fc8a::/47,Domestic',
+        'IP-CIDR,2406:840:fc8c::/47,Domestic',
         'IP-CIDR,2406:840:fc90::/44,Domestic',
         'IP-CIDR,2406:840:fca0::/43,Domestic',
         'IP-CIDR,2406:840:fcc0::/44,Domestic',
