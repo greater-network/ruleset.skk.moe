@@ -213,14 +213,14 @@ webspecmail.com                                                                 
 moseasia.com                                                                                        149
 yinzcam.com                                                                                         113
 playmetrics.com                                                                                     100
-ewp.live                                                                                            91
+ewp.live                                                                                            94
 alalikexpress.com                                                                                   84
 github.io                                                                                           80
 rciadventure.com                                                                                    76
 aaa.com                                                                                             70
-webadorsite.com                                                                                     69
 netspend.com                                                                                        68
 verwin.com                                                                                          68
+webadorsite.com                                                                                     67
 focalink.com                                                                                        65
 you2.pl                                                                                             64
 sfmc-marketingqa.com                                                                                61
@@ -316,7 +316,6 @@ trivago.com                                                                     
 4asx.icu                                                                                            19
 5hni.fun                                                                                            19
 b66t.top                                                                                            19
-beblon.com                                                                                          19
 buddaa.xyz                                                                                          19
 cnn.com                                                                                             19
 fgfmailbox.com                                                                                      19
@@ -326,6 +325,7 @@ orogdq1.xyz                                                                     
 vxfc.lat                                                                                            19
 waagge.top                                                                                          19
 acronis.com                                                                                         18
+dns-dynamic.net                                                                                     18
 gkru.skin                                                                                           18
 investtraderxreh.com                                                                                18
 netflix.com                                                                                         18
@@ -335,7 +335,6 @@ sunyclouds.com                                                                  
 a5x7.icu                                                                                            17
 brooksrunning.com                                                                                   17
 capitalone.com                                                                                      17
-dns-dynamic.net                                                                                     17
 newaistar.top                                                                                       17
 ourtablets.com                                                                                      17
 rutradersxprod.com                                                                                  17
@@ -385,6 +384,7 @@ nba.com                                                                         
 propl.top                                                                                           14
 trytoku.com                                                                                         14
 underarmour.com                                                                                     14
+us.kg                                                                                               14
 uzwl.lat                                                                                            14
 z14s.top                                                                                            14
 zettle.com                                                                                          14
@@ -414,8 +414,8 @@ objectop.xyz                                                                    
 osik.skin                                                                                           13
 pro1wrld.top                                                                                        13
 programaticeu.xyz                                                                                   13
+replit.app                                                                                          13
 tmmsg.com                                                                                           13
-us.kg                                                                                               13
 zysklonet.top                                                                                       13
 428m.icu                                                                                            12
 4ffw.sbs                                                                                            12
@@ -436,7 +436,6 @@ orbitz.com                                                                      
 peolke.xyz                                                                                          12
 pop6.com                                                                                            12
 progrr.top                                                                                          12
-replit.app                                                                                          12
 revoprogramxzsed.com                                                                                12
 sohu.com                                                                                            12
 sound.ag                                                                                            12
@@ -473,7 +472,6 @@ pearson.com                                                                     
 polylia.com                                                                                         11
 ppaco.xyz                                                                                           11
 progtopdep.top                                                                                      11
-replit.dev                                                                                          11
 snssdk.com                                                                                          11
 target.com                                                                                          11
 trdplatform.xyz                                                                                     11
@@ -516,6 +514,7 @@ ner9.top                                                                        
 osdn.com                                                                                            10
 poland-money.fun                                                                                    10
 property-portal.uk                                                                                  10
+replit.dev                                                                                          10
 schroders.com                                                                                       10
 sfmc-tlsprovisioningqa.com                                                                          10
 snvq.top                                                                                            10
