@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-09-18T12:37:10.634Z
+// # Build 2024-09-18T15:10:45.806Z
 
 declare(strict_types=1);
 
@@ -1946,6 +1946,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,etsy.com,Global',
         'DOMAIN-SUFFIX,euronews.com,Global',
         'DOMAIN-SUFFIX,fanbox.cc,Global',
+        'DOMAIN-SUFFIX,fandom.com,Global',
         'DOMAIN-SUFFIX,fastly.net,Global',
         'DOMAIN-SUFFIX,fastlylb.net,Global',
         'DOMAIN-SUFFIX,fastly-edge.com,Global',

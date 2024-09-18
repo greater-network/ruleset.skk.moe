@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting Domains
-# Last Updated: 2024-09-18T12:37:10.620Z
-# Size: 577
+# Last Updated: 2024-09-18T15:10:45.792Z
+# Size: 583
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -58,11 +58,13 @@ cdn.kagi.com
 cdimage.kali.org
 dl.pstmn.io
 mac-release-static.stash.ws
++.swupdate.vray.com
 download.xbox.com
 mirror.xtom.com
 mirrors.xtom.com
 mirror-cdn.xtom.com
 repo.carbon.sh
++.swupdate.chaos.com
 file.chobit.cc
 download.cpuid.com
 downloader.cursor.sh
@@ -84,6 +86,7 @@ download.beeper.com
 +.deb.debian.org
 +.ftp.debian.org
 +.archive.debian.org
++.ftp2.de.debian.org
 security.debian.org
 +.ftp-master.debian.org
 +.dl.dlsite.com
@@ -169,6 +172,8 @@ dlgarenanow-a.akamaihd.net
 +.oss-ap-southeast-6.aliyuncs.com
 +.oss-ap-southeast-7.aliyuncs.com
 +.oss-accelerate-overseas.aliyuncs.com
++.download.autodesk.com
++.autoupdatesvc.delivery.autodesk.com
 +.content.cdp.bethesda.net
 +.download.cdp.bethesda.net
 +.cdn.blizzard.com
@@ -531,6 +536,7 @@ download.todesktop.com
 releases.whatpulse.org
 +.dl.wireshark.org
 downloads.wordpress.org
++.swupdate.chaosgroup.com
 dl.discordapp.net
 artifacts.electronjs.org
 update.googleapis.com
