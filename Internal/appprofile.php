@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-09-19T17:43:47.376Z
+// # Build 2024-09-19T18:09:38.042Z
 
 declare(strict_types=1);
 
@@ -2249,7 +2249,7 @@ $_ENV['Clash_Group_Config'] = [
         'PROCESS-NAME,WebTorrent,DIRECT',
         'PROCESS-NAME,WebTorrent Helper,DIRECT',
         'PROCESS-NAME,amuled,DIRECT',
-        'PROCESS-NAME,Motrix.app,DIRECT',
+        'PROCESS-NAME,LocalSend,DIRECT',
         'PROCESS-NAME,UUBooster,DIRECT',
         'DOMAIN-SUFFIX,xunlei.com,DIRECT',
         'PROCESS-NAME,tailscaled,DIRECT',
@@ -4116,6 +4116,7 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,113.132.0.0/14,Domestic',
         'IP-CIDR,113.136.0.0/13,Domestic',
         'IP-CIDR,113.194.0.0/15,Domestic',
+        'IP-CIDR,113.197.104.0/23,Domestic',
         'IP-CIDR,113.200.0.0/15,Domestic',
         'IP-CIDR,113.204.0.0/14,Domestic',
         'IP-CIDR,113.208.112.0/21,Domestic',
