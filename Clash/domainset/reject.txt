@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-20T08:10:52.236Z
-# Size: 123327
+# Last Updated: 2024-09-20T12:37:34.648Z
+# Size: 123333
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -7262,6 +7262,7 @@ adlaunch.moji.com
 +.smetrics.ovum.com
 +.ow5a.net
 +.owlsr.us
++.google-analytics.bi.owox.com
 +.ozoj.com
 +.web.mapp.ozone.bg
 +.images.bio.ozyme.fr
@@ -15011,6 +15012,7 @@ gemini.yahoo.com
 +.yceml.net
 +.ycgfdf.cn
 +.ycrax.com
++.ads.yeeyi.com
 +.test-links.yelsa.app
 +.yengo.com
 +.web.info.yeppon.it
@@ -27608,6 +27610,7 @@ update.coolyun.com
 +.cscccase.ru
 +.csdata1.com
 +.csdf4dn.pro
++.csdsa22.fun
 +.csfusion.ru
 +.csgo-up.com
 +.csgocpu.com
@@ -39506,6 +39509,7 @@ jobs.date-fns.org
 +.data-5ab0f5b45f.dk-online.de
 +.data-a9dcbfdd12.dk-online.de
 +.dkotrack.com
++.dkstrtss.xyz
 +.dle-news.xyz
 +.ad.dline.com.tr
 +.dljuejfp.com
@@ -107047,6 +107051,7 @@ plausible.joincommunity.xyz
 +.mktredtrack.worldscientific.com
 +.worldwidemailer.com
 +.worshipstubborn.com
++.worthwhile-wash.com
 +.woukrkskillsom.info
 +.wouldlikukemyf.info
 +.wowcalmnessdumb.com
@@ -121886,6 +121891,7 @@ samsungcloudsolution.net
 +.images.cornerstonebuildingbrands.com
 +.stream.corporatefinanceinstitute.com
 +.counsellinggrimlyengineer.com
++.countabledawdlerunaudited.com
 +.countdownwildestmargarine.com
 +.coveredsnortedelectronics.com
 +.crambidnonutilitybayadeer.com
