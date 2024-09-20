@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-20T15:45:44.562Z
-# Size: 123335
+# Last Updated: 2024-09-20T18:45:28.637Z
+# Size: 123348
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -20013,6 +20013,7 @@ events.jianshu.io
 +.chgwwj.klimate.nl
 +.xymhzq.klingel.de
 +.iorltr.klingel.nl
++.klmmnd.com
 +.klsdee.com
 +.a8.shop.km-link.jp
 +.beacon.kmi-us.com
@@ -26858,6 +26859,7 @@ thirdparty.biliapi.net
 +.bjorksta.me
 +.analytics.bkav.com.vn
 +.bkirfeu.com
++.bkiterv.top
 +.bklhnlv.com
 +.stats.blacksim.de
 +.blamads.com
@@ -45263,6 +45265,7 @@ geolocation.onetrust.com
 +.pvclouds.com
 +.pvpti222.com
 +.pwaarkac.com
++.pwuzvbhf.com
 +.pwwjuyty.com
 +.pwxlbsie.icu
 +.pwyruccp.com
@@ -50345,6 +50348,7 @@ advertise.baicizhan.org
 +.www.bait4role.com
 +.secure.bait4role.com
 +.baitikoam.com
++.bajowsxpy.com
 +.my.bake-club.com
 +.balamall.shop
 +.baldo-toj.com
@@ -59669,6 +59673,7 @@ push.wandoujia.com
 +.rdt.whitewall.com
 +.whoawhoug.com
 +.whookrair.xyz
++.whoolrulr.net
 +.whoopblew.com
 +.partner.whoopdedoo.cz
 +.partner.whoopdedoo.me
@@ -60645,6 +60650,7 @@ ad.winrar.com.cn
 +.7f1aefd20d.5e1d98ec8c.com
 +.23167df8b3.5e6062e991.com
 +.5e6ef8e03b.com
++.5ed55e7208.com
 +.42a63fe825.5edc9c9218.com
 +.84a0e8beca.5ede78f7a0.com
 +.5eef1ed9ac.com
@@ -83992,6 +83998,7 @@ ssl.360antivirus.org
 +.fumblingform.com
 +.fumeuprising.com
 +.ebis.funaisoken.co.jp
++.fungidcolder.com
 +.funoverbored.com
 +.fuphugccgowp.com
 +.furiousfiles.com
@@ -86451,6 +86458,7 @@ ssl.360antivirus.org
 +.osqbfakufafv.com
 +.ossfloetteor.com
 +.ossshucklean.com
++.ostfuwdmiohg.com
 +.ostrichesica.com
 +.we.care.oswegohealth.org
 +.tracking.oswegohealth.org
@@ -92437,6 +92445,7 @@ collect.foresightnews.pro
 +.greatuploader.com
 +.d.greece-search.com
 +.greecewizards.com
++.greenmortgage.pro
 +.analytics.greenmountain.com
 +.y900.greenwichtime.com
 +.greeterracked.com
@@ -100230,6 +100239,7 @@ plausible.joincommunity.xyz
 +.muakimcuongx10.com
 +.muckilywayback.top
 +.mucopussamkhya.com
++.mucvvcbqrwfmir.com
 +.mudbankoxfords.top
 +.muddiedbubales.com
 +.muddyprocedure.com
@@ -100919,6 +100929,7 @@ plausible.joincommunity.xyz
 +.tr.qualitaveicolo.com
 +.tr.qualitevehicule.fr
 +.quality-channel.de
++.qualityadverse.com
 +.qualityfinance.net
 +.quangcao247.com.vn
 +.quanlyclmm3s.click
@@ -101101,6 +101112,7 @@ plausible.joincommunity.xyz
 +.revolutionary2.fun
 +.uhngoc.revolveclothing.es
 +.revolveoppress.com
++.revolvingshine.pro
 +.rewallesthete.shop
 +.smetrics.rexultisavings.com
 +.rgcxmzrmcvbxem.com
@@ -107132,6 +107144,7 @@ plausible.joincommunity.xyz
 +.yuanchengxiezuo.com
 +.yusiswensaidoh.info
 +.ywopyohpihnkppc.xyz
++.ywpdobsvqlchvrl.com
 +.ywronwasthetron.com
 +.yyjngvuaqrdgghs.com
 +.tracking.zaertlicheladies.de

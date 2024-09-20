@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Large Files Hosting IPs
-# Last Updated: 2024-09-20T08:19:59.506Z
+# Last Updated: 2024-09-20T18:54:16.790Z
 # Size: 4
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -13,4 +13,3 @@ DOMAIN-REGEX,^download[a-zA-Z0-9-_.]*?\.mediafire\.com$
 DOMAIN-REGEX,^ftp\.[a-zA-Z0-9-_.][a-zA-Z0-9-_.]\.debian\.org$
 DOMAIN-REGEX,^edgedl\.me\.gvt[a-zA-Z0-9-_.]\.com$
 ################## EOF ##################
-
