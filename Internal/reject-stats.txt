@@ -238,7 +238,7 @@ jumronews.com                                                                   
 1897pentagram.com                                                                                   173
 freshalldaynews.com                                                                                 167
 webspecmail.com                                                                                     163
-b2bmktg.com                                                                                         155
+b2bmktg.com                                                                                         154
 moseasia.com                                                                                        149
 trekkww.space                                                                                       137
 cfolks.pl                                                                                           128
@@ -246,9 +246,9 @@ sifenews.com                                                                    
 oewabox.at                                                                                          125
 yinzcam.com                                                                                         113
 km14hkusz.com                                                                                       112
-qq.com                                                                                              110
 sfmctest.com                                                                                        110
 vgwort.de                                                                                           108
+qq.com                                                                                              106
 aaa.com                                                                                             105
 bealanews.com                                                                                       105
 4puuqeh41.com                                                                                       104
@@ -271,9 +271,9 @@ netspend.com                                                                    
 verwin.com                                                                                          68
 webadorsite.com                                                                                     68
 cnzz.com                                                                                            66
-adtech.fr                                                                                           65
-adtech.us                                                                                           65
 focalink.com                                                                                        65
+adtech.fr                                                                                           64
+adtech.us                                                                                           64
 esomniture.com                                                                                      64
 you2.pl                                                                                             64
 adkclicker.fr                                                                                       61
@@ -282,8 +282,8 @@ sfmc-marketingqa.com                                                            
 adkoffer.fr                                                                                         60
 townsquarenewsletters.com                                                                           60
 loopanews.com                                                                                       58
-msn.com                                                                                             58
 happycustomer.io                                                                                    57
+msn.com                                                                                             57
 9odp.skin                                                                                           56
 lumindigitalhosting.com                                                                             55
 trekkeeee.space                                                                                     55
@@ -348,7 +348,6 @@ blogspot.com                                                                    
 hut1.ru                                                                                             30
 xe1v.lat                                                                                            30
 34gwl8v1a.com                                                                                       29
-adktrack32.xyz                                                                                      29
 binnpro.xyz                                                                                         29
 intuit.com                                                                                          29
 k3718qw08.com                                                                                       29
@@ -369,7 +368,6 @@ samsung.com                                                                     
 v4l6.top                                                                                            28
 y2sysv81v.com                                                                                       28
 1mqo.top                                                                                            27
-adktrack30.xyz                                                                                      27
 aremedia.com.au                                                                                     27
 iqiyi.com                                                                                           27
 newpol.xyz                                                                                          27
@@ -388,7 +386,6 @@ pro1program.site                                                                
 prosystemorgo.com                                                                                   25
 selornews.com                                                                                       25
 sony.com                                                                                            25
-taobao.com                                                                                          25
 typstade.xyz                                                                                        25
 zlpolska.xyz                                                                                        25
 autovistagroup.com                                                                                  24
@@ -399,6 +396,7 @@ mgtv.com                                                                        
 programmtrad.top                                                                                    24
 wbh2.icu                                                                                            24
 xhbk.skin                                                                                           24
+taobao.com                                                                                          23
 vbax.top                                                                                            23
 zhbt.skin                                                                                           23
 epoise.com                                                                                          22
@@ -411,10 +409,8 @@ schroders.email                                                                 
 tesxprofit.top                                                                                      22
 thermofisher.com                                                                                    22
 unenoteunjour.fr                                                                                    22
-vivo.com.cn                                                                                         22
 1owq.skin                                                                                           21
 53.com                                                                                              21
-adktrack34.xyz                                                                                      21
 b76c.sbs                                                                                            21
 equifax.com                                                                                         21
 focus.de                                                                                            21
@@ -424,6 +420,7 @@ itcapprog.top                                                                   
 mjrm.skin                                                                                           21
 motordlr.com                                                                                        21
 netflix.com                                                                                         21
+vivo.com.cn                                                                                         21
 3u84.icu                                                                                            20
 capitalone.com                                                                                      20
 endiim.com                                                                                          20
@@ -477,7 +474,6 @@ newaistar.top                                                                   
 ourtablets.com                                                                                      17
 rutradersxprod.com                                                                                  17
 sfmc-content.com                                                                                    17
-umeng.com                                                                                           17
 vonage.com                                                                                          17
 wf74.top                                                                                            17
 8hwo.pro                                                                                            16
@@ -537,7 +533,6 @@ aglt.lat                                                                        
 ahnq.top                                                                                            14
 anonline.site                                                                                       14
 arrow.com                                                                                           14
-catapultx.com                                                                                       14
 chip.de                                                                                             14
 cusu.skin                                                                                           14
 deptesp.com                                                                                         14
@@ -568,6 +563,7 @@ ayxh.top                                                                        
 bannerbank.ru                                                                                       13
 bauer-media.com.au                                                                                  13
 blogspot.hu                                                                                         13
+catapultx.com                                                                                       13
 cddo.lat                                                                                            13
 discovery.com                                                                                       13
 eqin.one                                                                                            13
@@ -648,7 +644,6 @@ zyskglot.top                                                                    
 81hy.one                                                                                            11
 935ft4j96.com                                                                                       11
 a8fc.lat                                                                                            11
-adktrack68.xyz                                                                                      11
 ajji.skin                                                                                           11
 arjo.com                                                                                            11
 avlw.top                                                                                            11
@@ -696,7 +691,6 @@ uxtu.skin                                                                       
 vicdesmidt.com                                                                                      11
 wxru.lat                                                                                            11
 x07o.cfd                                                                                            11
-yahoo.com                                                                                           11
 youmi.net                                                                                           11
 0ij.cc                                                                                              10
 1nnoflare.sbs                                                                                       10
@@ -776,6 +770,7 @@ upsstore.com                                                                    
 vab5.cfd                                                                                            10
 vgml.lat                                                                                            10
 w23eidn9j.com                                                                                       10
+yahoo.com                                                                                           10
 youku.com                                                                                           10
 zgoa097eh.com                                                                                       10
 zotoi.icu                                                                                           10
