@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-09-20T15:57:13.300Z
-# Size: 385
+# Last Updated: 2024-09-20T20:22:37.103Z
+# Size: 386
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -345,6 +345,7 @@ ooklatins.redeconexaonet.com
 speedtest.redrawinternet.com
 velocidade.softtelecom.net.br
 +.speedtestkorea.com
+tkconnectrr.com.br
 ant1speedtest.turktelekom.com.tr
 bur1speedtest.turktelekom.com.tr
 esk1speedtest.turktelekom.com.tr
