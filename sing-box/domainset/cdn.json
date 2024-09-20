@@ -3,7 +3,6 @@
   "rules": [
     {
       "domain": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
         "s3.c.im",
         "img.m.mw",
         "s3.m.0x.mk",
@@ -1603,7 +1602,8 @@
         "runkit-packages-static.com",
         "useruploads.visualwebsiteoptimizer.com",
         "cdn-a.sonyentertainmentnetwork.com",
-        "runkit-packages-static-executables.com"
+        "runkit-packages-static-executables.com",
+        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ],
       "domain_suffix": [
         "esm.sh",
@@ -1900,6 +1900,7 @@
         "lzzyimg.com",
         "lzzypic.com",
         "mktgcdn.com",
+        "push.services.mozilla.com",
         "cdn.mozilla.net",
         "itsre-sumo.mozilla.net",
         "ipfs.namebase.io",
@@ -2317,3 +2318,4 @@
     }
   ]
 }
+

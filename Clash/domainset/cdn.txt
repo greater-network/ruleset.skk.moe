@@ -1,14 +1,13 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-20T08:10:49.653Z
-# Size: 2308
+# Last Updated: 2024-09-20T15:37:59.468Z
+# Size: 2309
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
 #
 # This file contains object storage and static assets CDN domains.
 #########################################
-this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 s3.c.im
 img.m.mw
 s3.m.0x.mk
@@ -1086,6 +1085,7 @@ minotar.net
 images.moegoat.com
 static.moegoat.com
 opt.moovweb.net
++.push.services.mozilla.com
 stubdownloader.services.mozilla.com
 firefox.settings.services.mozilla.com
 +.cdn.mozilla.net
@@ -2316,5 +2316,6 @@ useruploads.visualwebsiteoptimizer.com
 cdn-a.sonyentertainmentnetwork.com
 +.w-credentialless-staticblitz.com
 runkit-packages-static-executables.com
+this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 ################## EOF ##################
 
