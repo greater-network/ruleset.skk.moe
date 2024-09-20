@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Stream Services' IPs: All
-# Last Updated: 2024-06-13T14:22:55.852Z
+# Last Updated: 2024-09-20T08:19:59.021Z
 # Size: 20
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -83,3 +83,4 @@ IP-CIDR6,2a03:5640::/32,no-resolve
 IP-CIDR,35.186.224.47/32,no-resolve
 IP-CIDR,150.109.28.51/32,no-resolve
 ################## EOF ##################
+

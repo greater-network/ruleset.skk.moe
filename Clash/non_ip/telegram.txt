@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Telegram Domains
-# Last Updated: 2024-09-07T17:29:26.056Z
+# Last Updated: 2024-09-20T08:19:59.526Z
 # Size: 15
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -24,3 +24,4 @@ DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,tx.me
 DOMAIN-SUFFIX,t.me
 ################## EOF ##################
+

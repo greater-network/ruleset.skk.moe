@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - Proxy
-# Last Updated: 2024-09-08T17:33:49.218Z
+# Last Updated: 2024-09-20T08:19:59.516Z
 # Size: 14
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -21,3 +21,4 @@ DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,services.googleapis.cn
 ################## EOF ##################
+
