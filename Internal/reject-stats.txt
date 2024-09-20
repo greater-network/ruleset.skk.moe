@@ -372,7 +372,6 @@ abbvie.com                                                                      
 aglt.lat                                                                                            14
 ahnq.top                                                                                            14
 anonline.site                                                                                       14
-blogspot.hu                                                                                         14
 cusu.skin                                                                                           14
 deptesp.com                                                                                         14
 elastic.co                                                                                          14
@@ -385,6 +384,7 @@ nba.com                                                                         
 propl.top                                                                                           14
 trytoku.com                                                                                         14
 underarmour.com                                                                                     14
+us.kg                                                                                               14
 uzwl.lat                                                                                            14
 z14s.top                                                                                            14
 zettle.com                                                                                          14
@@ -396,6 +396,7 @@ angieslist.com                                                                  
 ayxh.top                                                                                            13
 bauer-media.com.au                                                                                  13
 bestbuy.com                                                                                         13
+blogspot.hu                                                                                         13
 cddo.lat                                                                                            13
 coca-cola.com                                                                                       13
 eqin.one                                                                                            13
@@ -415,7 +416,6 @@ pro1wrld.top                                                                    
 programaticeu.xyz                                                                                   13
 replit.app                                                                                          13
 tmmsg.com                                                                                           13
-us.kg                                                                                               13
 zysklonet.top                                                                                       13
 428m.icu                                                                                            12
 4ffw.sbs                                                                                            12
@@ -436,6 +436,7 @@ orbitz.com                                                                      
 peolke.xyz                                                                                          12
 pop6.com                                                                                            12
 progrr.top                                                                                          12
+replit.dev                                                                                          12
 revoprogramxzsed.com                                                                                12
 sohu.com                                                                                            12
 sound.ag                                                                                            12
@@ -472,7 +473,6 @@ pearson.com                                                                     
 polylia.com                                                                                         11
 ppaco.xyz                                                                                           11
 progtopdep.top                                                                                      11
-replit.dev                                                                                          11
 snssdk.com                                                                                          11
 target.com                                                                                          11
 trdplatform.xyz                                                                                     11
