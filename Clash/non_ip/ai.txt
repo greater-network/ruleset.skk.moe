@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - AIGC Domains
-# Last Updated: 2024-09-20T18:57:43.898Z
-# Size: 33
+# Last Updated: 2024-09-20T20:16:55.019Z
+# Size: 32
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -24,7 +24,6 @@ DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,alkalimakersuite-pa.clients6.google.com
 DOMAIN,ai.google.dev
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,clipdrop.co

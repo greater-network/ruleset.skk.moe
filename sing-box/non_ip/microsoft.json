@@ -2,10 +2,7 @@
   "version": 2,
   "rules": [
     {
-      "domain": [
-        "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe",
-        "officecdn-microsoft-com.akamaized.net"
-      ],
+      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "domain_suffix": [
         "aka.ms",
         "gfx.ms",
@@ -14,7 +11,6 @@
         "aria.ms",
         "asp.net",
         "msn.com",
-        "1drv.com",
         "bing.com",
         "docs.com",
         "live.com",
@@ -39,7 +35,6 @@
         "yammer.com",
         "acompli.com",
         "acompli.net",
-        "hotmail.com",
         "onenote.com",
         "onenote.net",
         "onestore.ms",
@@ -60,7 +55,6 @@
         "aspnetcdn.com",
         "azureedge.net",
         "edgesuite.net",
-        "microsoft.com",
         "office365.com",
         "officeppe.net",
         "sfbassets.com",
@@ -84,7 +78,6 @@
         "windowsupdate.com",
         "msftauthimages.net",
         "trafficmanager.net",
-        "microsoftonline.com",
         "sway-extensions.com",
         "cloudappsecurity.com",
         "sharepointonline.com",
