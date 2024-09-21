@@ -18,7 +18,12 @@
         "telegram.org",
         "telegram.space",
         "cdn-telegram.org"
-      ]
+      ],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

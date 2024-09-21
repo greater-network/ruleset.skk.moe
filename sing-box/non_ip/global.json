@@ -624,7 +624,11 @@
         "jav",
         "pinterest",
         "porn"
-      ]
+      ],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

@@ -773,7 +773,11 @@
         "alibabausercontent.com",
         "kingsoft-office-service.com"
       ],
-      "process_name": ["WeChat", "WeCom"]
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": ["WeChat", "WeCom"],
+      "process_path": []
     }
   ]
 }

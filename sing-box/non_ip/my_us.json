@@ -8,7 +8,12 @@
         "www.coinbase.com",
         "copymanga.site"
       ],
-      "domain_suffix": ["18comic.vip", "mandaom.com", "crunchyroll.com"]
+      "domain_suffix": ["18comic.vip", "mandaom.com", "crunchyroll.com"],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

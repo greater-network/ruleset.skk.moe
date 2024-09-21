@@ -21,7 +21,12 @@
         "cn.windowssearch.com",
         "ctldl.windowsupdate.com",
         "download.windowsupdate.com"
-      ]
+      ],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

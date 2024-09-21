@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject (REJECT-DROP)
-# Last Updated: 2024-09-20T18:57:43.913Z
-# Size: 68
+# Last Updated: 2024-09-21T10:20:48.409Z
+# Size: 67
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -49,7 +49,6 @@ PROCESS-NAME,LemonMonitor
 PROCESS-NAME,LemonDaemon
 PROCESS-NAME,LemonAgent
 PROCESS-NAME,LemonService
-DST-PORT,7680
 IP-CIDR,203.107.1.0/24,no-resolve
 IP-CIDR,186.76.76.200/32,no-resolve
 IP-CIDR,101.124.19.122/32,no-resolve

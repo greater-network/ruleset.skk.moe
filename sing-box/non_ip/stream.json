@@ -278,6 +278,8 @@
         "-tiktokcdn-com",
         "tvbanywhere"
       ],
+      "domain_regex": [],
+      "ip_cidr": [],
       "process_name": [
         "com.amazon.avod.thirdpartyclient",
         "tv",
@@ -294,7 +296,8 @@
         "com.viu.phone",
         "com.vuclip.viu",
         "com.hktve.viutv"
-      ]
+      ],
+      "process_path": []
     }
   ]
 }

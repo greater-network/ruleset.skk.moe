@@ -189,6 +189,8 @@
         "deepdyve",
         "els-cdn"
       ],
+      "domain_regex": [],
+      "ip_cidr": [],
       "process_name": [
         "v2ray",
         "xray",
@@ -226,7 +228,8 @@
         "BaiduNetdisk_mac",
         "Logi Options",
         "Logi Options Daemon"
-      ]
+      ],
+      "process_path": []
     }
   ]
 }

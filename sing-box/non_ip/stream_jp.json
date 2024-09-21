@@ -28,7 +28,11 @@
         "dmm-extension.com",
         "dokusho-ojikan.jp"
       ],
-      "domain_keyword": ["abematv.akamaized.net"]
+      "domain_keyword": ["abematv.akamaized.net"],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

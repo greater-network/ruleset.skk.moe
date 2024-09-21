@@ -47,7 +47,10 @@
         "bahamut.com.tw"
       ],
       "domain_keyword": [".hbogoasia."],
-      "process_name": ["com.linecorp.linetv", "com.bstar.intl"]
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": ["com.linecorp.linetv", "com.bstar.intl"],
+      "process_path": []
     }
   ]
 }

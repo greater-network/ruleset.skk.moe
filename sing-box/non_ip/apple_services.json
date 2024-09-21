@@ -22,6 +22,9 @@
         "icloud-content.com",
         "organicfruitapps.com"
       ],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
       "process_name": [
         "trustd",
         "netbiosd",
@@ -33,7 +36,8 @@
         "findmydevice-user-agent",
         "CoreLocationAgent",
         "WeatherWidget"
-      ]
+      ],
+      "process_path": []
     }
   ]
 }

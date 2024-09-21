@@ -79,7 +79,10 @@
         "^adv0[a-zA-Z0-9-_.]*?\\.msa\\.cdn\\.mediaset\\.net$",
         "^beacons[a-zA-Z0-9-_.]*?\\.gvt[a-zA-Z0-9-_.]\\.com$",
         "^[a-zA-Z0-9-_.]*?ad\\.ixigua\\.com$"
-      ]
+      ],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

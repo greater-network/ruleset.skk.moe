@@ -19,7 +19,12 @@
         "services.googleapis.cn",
         "ipregistry.co",
         "ipgeolocation.io"
-      ]
+      ],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

@@ -42,13 +42,16 @@
         "mytvsuper.com"
       ],
       "domain_keyword": ["nowtv100", "rthklive", ".hbogoasia."],
+      "domain_regex": [],
+      "ip_cidr": [],
       "process_name": [
         "com.viu.pad",
         "com.viu.phone",
         "com.vuclip.viu",
         "com.hktve.viutv",
         "com.bstar.intl"
-      ]
+      ],
+      "process_path": []
     }
   ]
 }

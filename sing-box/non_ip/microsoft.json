@@ -84,7 +84,11 @@
         "skypeforbusiness.com",
         "yammerusercontent.com"
       ],
-      "domain_keyword": ["1drv", "microsoft", "hotmail"]
+      "domain_keyword": ["1drv", "microsoft", "hotmail"],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

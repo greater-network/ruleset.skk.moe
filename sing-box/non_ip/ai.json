@@ -37,7 +37,11 @@
         "oaiusercontent.com",
         "generativeai.google"
       ],
-      "domain_keyword": ["openai"]
+      "domain_keyword": ["openai"],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

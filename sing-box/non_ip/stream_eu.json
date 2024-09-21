@@ -7,7 +7,11 @@
         "itvpnpmobile-a.akamaihd.net"
       ],
       "domain_suffix": ["itv.com", "bbc.co.uk", "bbci.co.uk", "itvstatic.com"],
-      "domain_keyword": ["bbcfmt", "uk-live"]
+      "domain_keyword": ["bbcfmt", "uk-live"],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

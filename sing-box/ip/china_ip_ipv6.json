@@ -2,6 +2,7 @@
   "version": 2,
   "rules": [
     {
+      "domain": ["this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"],
       "ip_cidr": [
         "2001:250::/30",
         "2001:254::/31",

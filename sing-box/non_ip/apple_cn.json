@@ -14,7 +14,12 @@
         "gspe19-cn-ssl.ls.apple.com",
         "apple.com.cn",
         "icloud.com.cn"
-      ]
+      ],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }

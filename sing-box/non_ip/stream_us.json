@@ -40,7 +40,11 @@
         "paramountplus.com",
         "discoveryplus.co.uk"
       ],
-      "process_name": ["com.hulu.plus"]
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": ["com.hulu.plus"],
+      "process_path": []
     }
   ]
 }

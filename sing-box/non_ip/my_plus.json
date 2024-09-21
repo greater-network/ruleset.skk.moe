@@ -32,7 +32,12 @@
         "tokyvideo.com",
         "wolongcdnm3u8.com",
         "wolongzywcdn3.com"
-      ]
+      ],
+      "domain_keyword": [],
+      "domain_regex": [],
+      "ip_cidr": [],
+      "process_name": [],
+      "process_path": []
     }
   ]
 }
