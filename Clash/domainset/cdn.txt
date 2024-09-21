@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-20T20:22:38.498Z
-# Size: 2319
+# Last Updated: 2024-09-21T11:43:20.349Z
+# Size: 2317
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -798,14 +798,11 @@ images.nvidia.com
 pbc.nypost.com
 mstdn-s3.o3o.studio
 +.odycdn.com
-res.cdn.office.net
 cdn.forms.office.net
 cdn.graph.office.net
-res-1.cdn.office.net
 shell.cdn.office.net
 +.public.cdn.office.net
 res-geo.cdn.office.net
-statics.teams.cdn.office.net
 static.oklink.com
 static.opensea.io
 static.oracle.com
@@ -1742,6 +1739,7 @@ images.contentful.com
 f.convertkit.com
 media.convertkit.com
 assets.convertkit.com
+images.crunchbase.com
 cdn.datatables.net
 a.deviantart.net
 e.deviantart.net

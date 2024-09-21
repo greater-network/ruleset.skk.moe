@@ -159,6 +159,7 @@
         "packages.linuxmint.com",
         "packages.microsoft.com",
         "amupdatedl.microsoft.com",
+        "cdn.winget.microsoft.com",
         "amupdatedl2.microsoft.com",
         "amupdatedl3.microsoft.com",
         "amupdatedl4.microsoft.com",

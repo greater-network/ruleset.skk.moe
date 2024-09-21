@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-09-21T11:23:15.043Z
+// # Build 2024-09-21T11:43:20.392Z
 
 declare(strict_types=1);
 
@@ -559,6 +559,8 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,ntp.org.cn,Domestic',
         'DOMAIN,cn.download.nvidia.com,Domestic',
         'DOMAIN,res.cdn.office.net,Domestic',
+        'DOMAIN,res-1.cdn.office.net,Domestic',
+        'DOMAIN,statics.teams.cdn.office.net,Domestic',
         'DOMAIN-SUFFIX,oneplus.cn,Domestic',
         'DOMAIN-SUFFIX,ourdvs.com,Domestic',
         'DOMAIN-SUFFIX,outlook.cn,Domestic',
