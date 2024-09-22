@@ -1,13 +1,11 @@
 === base ===
 cloudfront.net                                                                                      1219
-aomg5bzv7.com                                                                                       275
 windows.com                                                                                         118
 weebly.com                                                                                          117
 llnw.net                                                                                            101
 adobe.com                                                                                           90
 xiaomi.com                                                                                          89
 baidu.com                                                                                           87
-79j68qav2.com                                                                                       80
 openapp.link                                                                                        69
 qq.com                                                                                              67
 amazonaws.com                                                                                       51
@@ -27,7 +25,6 @@ aaa.com                                                                         
 m-shop.me                                                                                           35
 msn.com                                                                                             35
 windows.net                                                                                         35
-l5eamr17d.com                                                                                       33
 b-cdn.net                                                                                           32
 samsung.com                                                                                         32
 thermofisher.com                                                                                    32
@@ -40,7 +37,6 @@ sina.cn                                                                         
 34gwl8v1a.com                                                                                       29
 newzgames.com                                                                                       29
 wolterskluwer.com                                                                                   28
-y2sysv81v.com                                                                                       28
 yahoo.com                                                                                           28
 360.cn                                                                                              27
 akamaihd.net                                                                                        27
@@ -207,9 +203,6 @@ xunlei.com                                                                      
 zip.co                                                                                              10
 zmzfile.com                                                                                         10
 === extra ===
-avadacom.com                                                                                        199
-1897pentagram.com                                                                                   173
-webspecmail.com                                                                                     163
 moseasia.com                                                                                        149
 yinzcam.com                                                                                         113
 playmetrics.com                                                                                     100
