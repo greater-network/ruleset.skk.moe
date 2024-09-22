@@ -206,14 +206,14 @@ zmzfile.com                                                                     
 moseasia.com                                                                                        149
 yinzcam.com                                                                                         113
 playmetrics.com                                                                                     100
-ewp.live                                                                                            85
 alalikexpress.com                                                                                   84
+ewp.live                                                                                            83
 github.io                                                                                           80
 rciadventure.com                                                                                    76
 aaa.com                                                                                             70
-webadorsite.com                                                                                     69
 netspend.com                                                                                        68
 verwin.com                                                                                          68
+webadorsite.com                                                                                     68
 focalink.com                                                                                        65
 you2.pl                                                                                             64
 sfmc-marketingqa.com                                                                                61
@@ -319,7 +319,6 @@ taobao.com                                                                      
 vxfc.lat                                                                                            19
 waagge.top                                                                                          19
 acronis.com                                                                                         18
-dns-dynamic.net                                                                                     18
 gkru.skin                                                                                           18
 investtraderxreh.com                                                                                18
 netflix.com                                                                                         18
@@ -329,6 +328,7 @@ sunyclouds.com                                                                  
 a5x7.icu                                                                                            17
 brooksrunning.com                                                                                   17
 capitalone.com                                                                                      17
+dns-dynamic.net                                                                                     17
 newaistar.top                                                                                       17
 ourtablets.com                                                                                      17
 rutradersxprod.com                                                                                  17
