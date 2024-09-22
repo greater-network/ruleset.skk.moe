@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject (REJECT-DROP)
-# Last Updated: 2024-09-21T10:20:48.409Z
-# Size: 67
+# Last Updated: 2024-09-22T19:24:43.909Z
+# Size: 66
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -49,26 +49,25 @@ PROCESS-NAME,LemonMonitor
 PROCESS-NAME,LemonDaemon
 PROCESS-NAME,LemonAgent
 PROCESS-NAME,LemonService
-IP-CIDR,203.107.1.0/24,no-resolve
-IP-CIDR,186.76.76.200/32,no-resolve
-IP-CIDR,101.124.19.122/32,no-resolve
-IP-CIDR,103.224.222.208/32,no-resolve
-IP-CIDR,59.111.239.61/32,no-resolve
-IP-CIDR,59.111.239.62/32,no-resolve
-IP-CIDR,115.236.121.51/32,no-resolve
-IP-CIDR,115.236.121.195/32,no-resolve
-IP-CIDR,119.29.29.98/32,no-resolve
-IP-CIDR,119.29.29.99/32,no-resolve
 IP-CIDR,39.97.128.148/32,no-resolve
 IP-CIDR,39.97.130.51/32,no-resolve
 IP-CIDR,42.81.232.18/32,no-resolve
 IP-CIDR,42.187.182.106/32,no-resolve
 IP-CIDR,42.187.182.123/32,no-resolve
 IP-CIDR,42.187.184.154/32,no-resolve
+IP-CIDR,59.111.239.61/32,no-resolve
+IP-CIDR,59.111.239.62/32,no-resolve
+IP-CIDR,101.124.19.122/32,no-resolve
+IP-CIDR,103.224.222.208/32,no-resolve
+IP-CIDR,115.236.121.51/32,no-resolve
+IP-CIDR,115.236.121.195/32,no-resolve
+IP-CIDR,118.89.204.0/23,no-resolve
+IP-CIDR,119.29.29.98/31,no-resolve
 IP-CIDR,123.151.54.50/32,no-resolve
 IP-CIDR,182.254.116.117/32,no-resolve
 IP-CIDR,182.254.118.119/32,no-resolve
-IP-CIDR,118.89.204.198/23,no-resolve
+IP-CIDR,186.76.76.200/32,no-resolve
+IP-CIDR,203.107.1.0/24,no-resolve
 IP-CIDR6,2402:db40:5100:1011::5/128,no-resolve
 IP-CIDR6,2402:4e00:1900:1700:0:9554:1ad9:c3a/128,no-resolve
 IP-CIDR6,240e:928:1400:10::25/128,no-resolve
