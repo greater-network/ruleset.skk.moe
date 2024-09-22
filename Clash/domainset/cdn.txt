@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-21T11:43:20.349Z
-# Size: 2317
+# Last Updated: 2024-09-22T10:15:43.022Z
+# Size: 2320
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -293,6 +293,7 @@ cdn.kobo.com
 static.kobo.com
 +.loli.net
 cdn.loom.com
+img.lvv2.com
 s3.masto.ai
 media.masto.nu
 mastodon-static.miao.dev
@@ -327,6 +328,7 @@ static.scarf.sh
 p.sda1.dev
 +.seadn.io
 +.senja.io
+img.sflix.to
 js.short.io
 +.sirv.com
 +.ipfs.slang.cx
@@ -1027,6 +1029,7 @@ encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 encrypted-tbn3.gstatic.com
+encrypted-vtbn0.gstatic.com
 connectivitycheck.gstatic.com
 assets.gumroad.com
 public-files.gumroad.com
