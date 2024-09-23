@@ -32,7 +32,6 @@ microsoft.com                                                                   
 sina.cn                                                                                             31
 833enmhob.com                                                                                       30
 34gwl8v1a.com                                                                                       29
-newzgames.com                                                                                       29
 wolterskluwer.com                                                                                   28
 yahoo.com                                                                                           28
 360.cn                                                                                              27
@@ -45,7 +44,6 @@ naver.com                                                                       
 ni.com                                                                                              26
 autovistagroup.com                                                                                  24
 intuit.com                                                                                          24
-dlcodes.com                                                                                         23
 globalsources.com                                                                                   23
 adp.ca                                                                                              22
 hsbc.com                                                                                            22
@@ -243,6 +241,7 @@ xe1v.lat                                                                        
 binnpro.xyz                                                                                         29
 marcukesh.top                                                                                       29
 ncmr.lat                                                                                            29
+newzgames.com                                                                                       29
 tcoprog.site                                                                                        29
 waptrad.top                                                                                         29
 1anw.top                                                                                            28
@@ -269,6 +268,7 @@ gq45.sbs                                                                        
 programmtrad.top                                                                                    24
 wbh2.icu                                                                                            24
 xhbk.skin                                                                                           24
+dlcodes.com                                                                                         23
 eucharisticjesus.net                                                                                23
 vbax.top                                                                                            23
 zhbt.skin                                                                                           23
@@ -401,6 +401,7 @@ pro1wrld.top                                                                    
 programaticeu.xyz                                                                                   13
 progtopdep.top                                                                                      13
 replit.app                                                                                          13
+ru.com                                                                                              13
 sohu.com                                                                                            13
 tmmsg.com                                                                                           13
 zysklonet.top                                                                                       13
@@ -461,7 +462,6 @@ opym.top                                                                        
 pearson.com                                                                                         11
 polylia.com                                                                                         11
 ppaco.xyz                                                                                           11
-ru.com                                                                                              11
 snssdk.com                                                                                          11
 target.com                                                                                          11
 trdplatform.xyz                                                                                     11
