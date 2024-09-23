@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-23T01:56:42.351Z
-# Size: 2342
+# Last Updated: 2024-09-23T09:14:38.550Z
+# Size: 2341
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -636,9 +636,8 @@ assets.apnews.com
 +.badgen.net
 emp.bbci.co.uk
 ichef.bbci.co.uk
++.files.bbci.co.uk
 static.bbci.co.uk
-nav.files.bbci.co.uk
-static.files.bbci.co.uk
 www.bbthat.com
 +.media.beeper.com
 +.content001.bet365.com

@@ -304,12 +304,12 @@ mediav.com                                                                      
 townsquaremedia.info                                                                                34
 wixsite.com                                                                                         34
 adbureau.net                                                                                        33
-amazonaws.com                                                                                       33
 coca-cola.com                                                                                       33
 espmp-aufr.net                                                                                      33
 l5eamr17d.com                                                                                       33
 lilonews.com                                                                                        33
 alliedhousing.com                                                                                   32
+amazonaws.com                                                                                       32
 bankofamerica.com                                                                                   32
 bestoffers-wt.com                                                                                   32
 dln2.lat                                                                                            32
@@ -402,6 +402,7 @@ duckdns.org                                                                     
 endiim.com                                                                                          20
 gkag.top                                                                                            20
 globaltradruv.com                                                                                   20
+jessicabarrett.com                                                                                  20
 moethennessy.com                                                                                    20
 natwest.com                                                                                         20
 sfr.fr                                                                                              20
@@ -418,6 +419,7 @@ fgfmailbox.com                                                                  
 fleek.cool                                                                                          19
 fupa.net                                                                                            19
 irza.lat                                                                                            19
+microcloud360.com                                                                                   19
 mlb.com                                                                                             19
 orogdq1.xyz                                                                                         19
 sosqboh85.com                                                                                       19
@@ -439,6 +441,7 @@ seponews.com                                                                    
 shell.com                                                                                           18
 sunyclouds.com                                                                                      18
 vodafone.com                                                                                        18
+windows.net                                                                                         18
 2r5d.icu                                                                                            17
 a5x7.icu                                                                                            17
 att.com                                                                                             17
@@ -500,8 +503,8 @@ mathworks.com                                                                   
 onliprog.site                                                                                       15
 playstation.com                                                                                     15
 polskadep.xyz                                                                                       15
-printondemandmerchandise.com                                                                        15
 runeww1.site                                                                                        15
+sa.com                                                                                              15
 smu.edu.sg                                                                                          15
 united.com                                                                                          15
 waonline.site                                                                                       15
@@ -511,7 +514,6 @@ aglt.lat                                                                        
 ahnq.top                                                                                            14
 anonline.site                                                                                       14
 arrow.com                                                                                           14
-b-cdn.net                                                                                           14
 blogspot.hu                                                                                         14
 chip.de                                                                                             14
 cusu.skin                                                                                           14
@@ -522,6 +524,7 @@ fgfemail.com                                                                    
 kosmm.xyz                                                                                           14
 looksmart.com                                                                                       14
 m7nw.icu                                                                                            14
+printondemandmerchandise.com                                                                        14
 propl.top                                                                                           14
 ru.com                                                                                              14
 target.com                                                                                          14
@@ -557,7 +560,6 @@ ikvw.top                                                                        
 inhaabit.com                                                                                        13
 invisalign.com                                                                                      13
 leplaatfr.site                                                                                      13
-lisameyerson.com                                                                                    13
 mynavi.jp                                                                                           13
 objectop.xyz                                                                                        13
 optus.com.au                                                                                        13
@@ -589,7 +591,6 @@ dasj.lat                                                                        
 decathlon.com                                                                                       12
 discoveryplus.com                                                                                   12
 dvxd.lat                                                                                            12
-emergencepsychservices.com                                                                          12
 gcion.com                                                                                           12
 getui.com                                                                                           12
 hienphucuanhanloai.org                                                                              12
@@ -652,6 +653,7 @@ im3q.icu                                                                        
 iu4r.top                                                                                            11
 kajabimail.net                                                                                      11
 keurig.com                                                                                          11
+lisameyerson.com                                                                                    11
 mdy8.skin                                                                                           11
 mingle.com                                                                                          11
 mvslive.com                                                                                         11
@@ -665,7 +667,6 @@ polylia.com                                                                     
 ppaco.xyz                                                                                           11
 pushub.net                                                                                          11
 readingpartners.org                                                                                 11
-sa.com                                                                                              11
 salesforce.com                                                                                      11
 snssdk.com                                                                                          11
 theiconic.com.au                                                                                    11
@@ -677,6 +678,7 @@ vicdesmidt.com                                                                  
 wxru.lat                                                                                            11
 x07o.cfd                                                                                            11
 youmi.net                                                                                           11
+za.com                                                                                              11
 0ij.cc                                                                                              10
 1drv.com                                                                                            10
 1nnoflare.sbs                                                                                       10
@@ -688,6 +690,7 @@ adjux.com                                                                       
 alibaba.com                                                                                         10
 applovin.com                                                                                        10
 att-mail.com                                                                                        10
+b-cdn.net                                                                                           10
 bugaros.com                                                                                         10
 businessinsider.com                                                                                 10
 capital-prg5.site                                                                                   10
@@ -730,7 +733,6 @@ myqcloud.com                                                                    
 ner9.top                                                                                            10
 osdn.com                                                                                            10
 p6qf8cqa0.com                                                                                       10
-pantheonsite.io                                                                                     10
 paypal.com                                                                                          10
 pmu.fr                                                                                              10
 poland-money.fun                                                                                    10
@@ -761,10 +763,8 @@ upsstore.com                                                                    
 vab5.cfd                                                                                            10
 vgml.lat                                                                                            10
 w23eidn9j.com                                                                                       10
-windows.net                                                                                         10
 yahoo.com                                                                                           10
 youku.com                                                                                           10
-za.com                                                                                              10
 zgoa097eh.com                                                                                       10
 zotoi.icu                                                                                           10
 
