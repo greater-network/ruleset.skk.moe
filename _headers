@@ -1,2 +1,6 @@
 /*
-  cloudflare-cdn-cache-control: public, max-age=120, stale-while-revalidate=10, stale-if-error=30
+  cloudflare-cdn-cache-control: public, max-age=150, stale-while-revalidate=60, stale-if-error=30
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex
+/Modules/*
+  content-type: text/plain; charset=utf-8
