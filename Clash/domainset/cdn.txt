@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-24T18:31:24.301Z
-# Size: 2346
+# Last Updated: 2024-09-25T04:30:20.170Z
+# Size: 2355
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -724,6 +724,7 @@ maven.google.com
 static.corp.google.com
 +.usercontent.google.com
 safebrowsing.google.com
+android-safebrowsing.google.com
 repo.gradle.org
 plugins-artifacts.gradle.org
 i.guim.co.uk
@@ -894,6 +895,8 @@ cdn.thisav.com
 img.timero.xyz
 +.tiqcdn.com
 file.tktube.com
+cdn.ttloli.com
+cdn2.ttloli.com
 +.media.tumblr.com
 assets.tumblr.com
 static.tumblr.com
@@ -971,6 +974,7 @@ cf-images.us-east-1.prod.boltdns.net
 +.botsrv2.com
 cdn.bsky.social
 +.bstatic.com
+sessions.bugsnag.com
 static.bytepan.com
 img.catwvod.xyz
 +.cdn-one.com
@@ -2290,6 +2294,8 @@ static-r.kamihimeproject.net
 +.makeuseofimages.com
 +.motherlessmedia.com
 irp-cdn.multiscreensite.com
+cdn.onlyhentaistuff.com
+fs2.onlyhentaistuff.com
 gt1.onlyhentaistuff.com
 openseauserdata.com
 +.reasoningtheory.net
@@ -2300,6 +2306,9 @@ logos.speedtestcustom.com
 +.squarespace-cdn.com
 assets.the-independent.com
 cdn.worldvectorlogo.com
+css.blackmagicdesign.com
+images.blackmagicdesign.com
+jslibs.blackmagicdesign.com
 js.braintreegateway.com
 assets.braintreegateway.com
 rawmarkdown.cloudflareaccess.org
