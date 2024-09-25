@@ -1,5 +1,5 @@
 #!name=[Sukka] Local DNS Mapping
-#!desc=Last Updated: 2024-09-25T17:18:49.637Z
+#!desc=Last Updated: 2024-09-25T17:24:25.800Z
 
 [Host]
 dns.alidns.com = 223.5.5.5, 223.6.6.6, 2400:3200:baba::1, 2400:3200::1
@@ -137,7 +137,6 @@ dns.pub = server:https://doh.pub/dns-query
 *.dns.pub = server:https://doh.pub/dns-query
 doh.pub = server:https://doh.pub/dns-query
 *.doh.pub = server:https://doh.pub/dns-query
-qcloud.com = server:https://doh.pub/dns-query
 *.qcloud.com = server:https://doh.pub/dns-query
 *.gtimg.cn = server:https://doh.pub/dns-query
 *.gtimg.com = server:https://doh.pub/dns-query
@@ -148,7 +147,6 @@ igamecj.com = server:https://doh.pub/dns-query
 *.igamecj.com = server:https://doh.pub/dns-query
 myapp.com = server:https://doh.pub/dns-query
 *.myapp.com = server:https://doh.pub/dns-query
-myqcloud.com = server:https://doh.pub/dns-query
 *.myqcloud.com = server:https://doh.pub/dns-query
 dnspod.com = server:https://doh.pub/dns-query
 *.dnspod.com = server:https://doh.pub/dns-query
@@ -166,7 +164,6 @@ qqmail.com = server:https://doh.pub/dns-query
 *.qqmail.com = server:https://doh.pub/dns-query
 qzone.com = server:https://doh.pub/dns-query
 *.qzone.com = server:https://doh.pub/dns-query
-tencent-cloud.net = server:https://doh.pub/dns-query
 *.tencent-cloud.net = server:https://doh.pub/dns-query
 tencent.com = server:https://doh.pub/dns-query
 *.tencent.com = server:https://doh.pub/dns-query

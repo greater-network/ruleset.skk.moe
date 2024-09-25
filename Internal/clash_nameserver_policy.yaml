@@ -75,7 +75,7 @@ dns:
     "*.yunos.com": quic://dns.alidns.com:853
     +.dns.pub: https://doh.pub/dns-query
     +.doh.pub: https://doh.pub/dns-query
-    +.qcloud.com: https://doh.pub/dns-query
+    "*.qcloud.com": https://doh.pub/dns-query
     "*.gtimg.cn": https://doh.pub/dns-query
     "*.gtimg.com": https://doh.pub/dns-query
     "*.gtimg.com.cn": https://doh.pub/dns-query
@@ -83,7 +83,7 @@ dns:
     "*.idqqimg.com": https://doh.pub/dns-query
     +.igamecj.com: https://doh.pub/dns-query
     +.myapp.com: https://doh.pub/dns-query
-    +.myqcloud.com: https://doh.pub/dns-query
+    "*.myqcloud.com": https://doh.pub/dns-query
     +.dnspod.com: https://doh.pub/dns-query
     "*.qpic.cn": https://doh.pub/dns-query
     "*.qlogo.cn": https://doh.pub/dns-query
@@ -93,7 +93,7 @@ dns:
     +.qqmail.cn: https://doh.pub/dns-query
     +.qqmail.com: https://doh.pub/dns-query
     +.qzone.com: https://doh.pub/dns-query
-    +.tencent-cloud.net: https://doh.pub/dns-query
+    "*.tencent-cloud.net": https://doh.pub/dns-query
     +.tencent.com: https://doh.pub/dns-query
     +.tencent.com.cn: https://doh.pub/dns-query
     +.tencentmusic.com: https://doh.pub/dns-query
