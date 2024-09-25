@@ -240,16 +240,16 @@ alalikexpress.com                                                               
 branch.rocks                                                                                        83
 github.io                                                                                           83
 trekkww.fun                                                                                         82
-ewp.live                                                                                            79
 myenotice.com                                                                                       79
 rookinews.com                                                                                       79
+ewp.live                                                                                            78
 rciadventure.com                                                                                    76
 loopanews.com                                                                                       74
 baidu.com                                                                                           72
 netspend.com                                                                                        69
 verwin.com                                                                                          68
-webadorsite.com                                                                                     67
 cnzz.com                                                                                            66
+webadorsite.com                                                                                     66
 adkoffer.fr                                                                                         65
 focalink.com                                                                                        65
 adkclicker.fr                                                                                       64
@@ -288,10 +288,10 @@ movidesk.com                                                                    
 nespresso.com                                                                                       42
 poy0.lat                                                                                            42
 lcef.com                                                                                            41
+wpenginepowered.com                                                                                 41
 bloblohub.com                                                                                       40
 espmp-cufr.net                                                                                      40
 pages.dev                                                                                           40
-wpenginepowered.com                                                                                 40
 experian.com                                                                                        38
 vmy0.icu                                                                                            38
 walmart.com                                                                                         38
@@ -489,6 +489,7 @@ sina.com.cn                                                                     
 t-mobile.com                                                                                        16
 topya.com                                                                                           16
 underarmour.com                                                                                     16
+us.kg                                                                                               16
 waonlineprogram.top                                                                                 16
 2hzr.icu                                                                                            15
 almosafer.com                                                                                       15
@@ -537,7 +538,6 @@ ru.com                                                                          
 target.com                                                                                          14
 treknew.fun                                                                                         14
 trytoku.com                                                                                         14
-us.kg                                                                                               14
 uzwl.lat                                                                                            14
 xaprio.net                                                                                          14
 z14s.top                                                                                            14
@@ -578,7 +578,6 @@ palladiumhotelgroup.com                                                         
 pro1wrld.top                                                                                        13
 programaticeu.xyz                                                                                   13
 replit.app                                                                                          13
-replit.dev                                                                                          13
 tmmsg.com                                                                                           13
 westernunion.com                                                                                    13
 zysklonet.top                                                                                       13
@@ -679,6 +678,7 @@ ppaco.xyz                                                                       
 pushub.net                                                                                          11
 qortex.ai                                                                                           11
 readingpartners.org                                                                                 11
+replit.dev                                                                                          11
 salesforce.com                                                                                      11
 snssdk.com                                                                                          11
 theiconic.com.au                                                                                    11
@@ -724,7 +724,6 @@ fgfmailer.com                                                                   
 fivupsit.top                                                                                        10
 foodpanda.com                                                                                       10
 fox.com                                                                                             10
-framer.app                                                                                          10
 gloriadeicr.com                                                                                     10
 harmonie-mutuelle.fr                                                                                10
 hilton.com                                                                                          10
