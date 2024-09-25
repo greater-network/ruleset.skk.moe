@@ -16,8 +16,8 @@ dns:
     - +.tplinkrepeater.net
     - +.miwifi.com
     - +.zte.home
-    - +.ui.direct
-    - +.unifi
+    - +.+ui.direct
+    - +.$unifi
     - +.amplifi.lan
     - +.hiwifi.com
     - +.huaweimobilewifi.com
@@ -57,10 +57,10 @@ dns:
     - +._hotspot_.m2m
     - +.hotspot.cslwifi.com
     - +.ts.net
-    - +.injections.adguard.org
-    - +.local.adguard.org
+    - +.$injections.adguard.org
+    - +.$local.adguard.org
     - +.lan
-    - +.localhost
+    - +.$localhost
     - +.localdomain
     - +.home.arpa
     - +.10.in-addr.arpa
