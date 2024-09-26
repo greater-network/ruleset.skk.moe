@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-26T09:50:09.497Z
-# Size: 115605
+# Last Updated: 2024-09-26T12:39:49.616Z
+# Size: 115608
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -26283,6 +26283,7 @@ gvod.aiseejapp.atianqi.com
 +.cdn.bescore.com
 +.tr.info.bessans.com
 +.best-cdn.pl
++.counter.best-hit.tv
 +.best-top.de
 +.best-top.ro
 +.tmx.bestbuy.com
@@ -45318,6 +45319,8 @@ inte.sogoucdn.com
 +.stratos.blue
 +.cdn.stray228.com
 +.play.strdef.world
++.track.streak.ninja
++.analytics-op.streak.ninja
 +.eq-beacon.stream.co.jp
 +.eq-player-log.cdnext.stream.ne.jp
 +.stats.streamhub.io
