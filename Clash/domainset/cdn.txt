@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-25T13:23:07.798Z
-# Size: 2357
+# Last Updated: 2024-09-26T09:50:09.801Z
+# Size: 2364
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -718,6 +718,7 @@ tuf-repo.github.com
 +.registry.gitplac.si
 +.glbimg.com
 cdn.glitch.com
+content.product.glitch.com
 s3.go2778.com
 proxy.golang.org
 maven.google.com
@@ -794,6 +795,7 @@ img.mresou.com
 az700632.vo.msecnd.net
 prod.msocdn.com
 appassets.mvtdev.com
+int.mwbbiz.com
 +.aacdn.nagich.com
 s.namemc.com
 nbcnewsdigital-static.nbcuni.com
@@ -1118,6 +1120,7 @@ stubdownloader.services.mozilla.com
 firefox.settings.services.mozilla.com
 +.cdn.mozilla.net
 +.itsre-sumo.mozilla.net
+interactive-examples.mdn.mozilla.net
 archive.mozilla.org
 cdn.myfonts.net
 +.ipfs.namebase.io
@@ -1862,6 +1865,7 @@ cdn.nerdschalk.com
 +.ninjastream.to
 +.nowestatic.com
 optimizely.com
+learn.optimizely.com
 +.payloadcms.app
 cms.payloadcms.com
 m-cdn.phonearena.com
@@ -1871,6 +1875,7 @@ cdn.pickystory.com
 cdn7.pornmaster.fun
 apps.profitihub.com
 +.pstorage.space
+int.qiniuyun15.xyz
 +.readthedocs.io
 at.adtech.redventures.io
 regmedia.co.uk
@@ -1940,6 +1945,7 @@ t.betterstack.com
 cdnjs.betterstack.com
 blade-public-static.blade-group.com
 +.bleepstatic.com
++.bstarstatic.com
 cdn.calibermind.com
 +.cdn-website.com
 media.cleanshot.cloud
@@ -2307,6 +2313,7 @@ c.speedtestcustom.com
 logos.speedtestcustom.com
 +.squarespace-cdn.com
 assets.the-independent.com
+analytics.welcomesoftware.com
 cdn.worldvectorlogo.com
 css.blackmagicdesign.com
 images.blackmagicdesign.com
@@ -2366,4 +2373,3 @@ cdn-a.sonyentertainmentnetwork.com
 runkit-packages-static-executables.com
 this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 ################## EOF ##################
-

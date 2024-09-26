@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Stream Services: All
-# Last Updated: 2024-09-20T20:16:53.534Z
-# Size: 285
+# Last Updated: 2024-09-26T09:50:09.532Z
+# Size: 283
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -217,7 +217,6 @@ DOMAIN-SUFFIX,dcalivedazn.akamaized.net
 DOMAIN-SUFFIX,dcblivedazn.akamaized.net
 DOMAIN-SUFFIX,spotify-com.akamaized.net
 DOMAIN,hbogoprod-vod.akamaized.net
-DOMAIN,p-bstarstatic.akamaized.net
 DOMAIN,staticasiafox.akamaized.net
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
@@ -283,7 +282,6 @@ DOMAIN-SUFFIX,spotilocal.com
 DOMAIN-SUFFIX,tik-tokapi.com
 DOMAIN-SUFFIX,amazonvideo.com
 DOMAIN-SUFFIX,amebaowndme.com
-DOMAIN,p.bstarstatic.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,disney-plus.net
 DOMAIN-SUFFIX,googlevideo.com

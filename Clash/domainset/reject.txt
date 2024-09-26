@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-09-25T17:18:49.592Z
-# Size: 115577
+# Last Updated: 2024-09-26T09:50:09.497Z
+# Size: 115605
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -9850,6 +9850,7 @@ ecmc.bdimg.com
 +.1026750852.rsc.cdn77.org
 +.1047430889.rsc.cdn77.org
 +.1080872514.rsc.cdn77.org
++.1102480842.rsc.cdn77.org
 +.1116283932.rsc.cdn77.org
 +.1136707664.rsc.cdn77.org
 +.1157433411.rsc.cdn77.org
@@ -9858,6 +9859,7 @@ ecmc.bdimg.com
 +.1205088249.rsc.cdn77.org
 +.1208344341.rsc.cdn77.org
 +.1228540867.rsc.cdn77.org
++.1361552718.rsc.cdn77.org
 +.1363394706.rsc.cdn77.org
 +.1437953666.rsc.cdn77.org
 +.1450691516.rsc.cdn77.org
@@ -13339,6 +13341,7 @@ userimg.qunar.com
 +.rovno.xyz
 +.app.solution.roxar.com
 +.roxby.org
+sashimi.royli.dev
 +.mdws.rpcul.com
 +.rpe.co.il
 +.rqmob.com
@@ -17598,6 +17601,7 @@ links.services.disqus.com
 +.smetric.eddiev.com
 +.web.mapp.edenred.it
 +.edgbas.com
+sapi.edgedb.com
 +.edghkc.xyz
 +.partneri.edibles.eu
 +.nanofantiki.edigest.ru
@@ -18927,6 +18931,7 @@ ad.hzyoka.com
 +.ibanner.de
 +.ibatom.com
 +.net.iberia.com
++.ibkoiw.xyz
 +.ibqmey.xyz
 +.ibryte.com
 +.stats.ibtimes.sg
@@ -19576,6 +19581,7 @@ events.jianshu.io
 +.kgdyoh.icu
 +.kgeqsu.xyz
 +.kggikf.icu
++.kgipui.xyz
 +.kgqcse.xyz
 +.kgubus.xyz
 +.ad.khan.co.kr
@@ -21798,6 +21804,7 @@ access-sngapm.qcloud.com
 +.bdcode.qinglm.com
 +.qinjgh.icu
 +.qivaiw.com
++.qjwvwu.xyz
 +.bdgg.qjy168.com
 +.qkikkg.xyz
 +.qkscga.xyz
@@ -24020,6 +24027,7 @@ api-scout.vercel.app
 +.vtlyrj.xyz
 +.vtnmxx.xyz
 +.vuabem.com
++.vulitd.xyz
 +.vungle.com
 +.vupsnx.xyz
 +.vuqufo.uno
@@ -28261,6 +28269,7 @@ adx-dre.op.dbankcloud.com.edgekey.net
 +.dcclaa.freundin.de
 +.data-e4cfccd10c.freundin.de
 +.data-e7308988a6.freundin.de
++.frfve33.fun
 +.frgre33.fun
 +.nqacsh.fritid24.dk
 +.trk.fruitdor.fr
@@ -35163,6 +35172,7 @@ feedback.windows.com
 +.xjkhaow.com
 +.xkejsns.com
 +.xkesqbp.icu
++.xkgttas.icu
 +.xkowcsl.com
 +.xktxemf.com
 +.xkwwnle.com
@@ -35409,6 +35419,7 @@ feedback.windows.com
 +.log.zdnet.co.kr
 +.hits.zdnet.co.kr
 +.weblog.zdnet.co.kr
++.zdscdkc.icu
 +.vuwjv7sjvg7.zedporn.com
 +.bxbuvv.zeelool.com
 +.qksxet.zeetours.nl
@@ -38183,6 +38194,7 @@ cdn.cr-relay.com
 +.cutechin.com
 +.detnmz.cuteness.com
 +.cutsauvo.net
++.cuwlmupz.com
 +.cvastico.com
 +.cvbjctqs.xyz
 +.cvfgere96.cn
@@ -38205,6 +38217,7 @@ cdn.cr-relay.com
 +.analytics.cyrillus.com
 +.czilladx.com
 +.czncztrk.com
++.czpnpjrg.xyz
 +.d-agency.net
 +.dns-log.d-n-s.org.uk
 +.d1tracker.ru
@@ -46721,6 +46734,7 @@ static.vuevideo.net
 +.data-af9f3dfb33.weltkunst.de
 +.wemfpbtd.xyz
 +.wenoolgo.icu
++.weryt111.fun
 +.marketing.wesco.com.br
 +.wesell.co.il
 +.bgupcq.westfalia.de
@@ -47345,6 +47359,7 @@ adpublish.ydstatic.com
 +.zmfcnlvu.xyz
 +.zmjagawa.com
 +.zmmuzuyb.com
++.zmvopcio.icu
 +.zmyjessp.com
 +.zoachoar.net
 +.zoachops.com
@@ -56204,6 +56219,7 @@ strip.taobaocdn.com
 +.tizermine.net
 +.tjekscores.dk
 +.uhqunq.tktimport.com
++.tleejvlhs.com
 +.tlpltwcgr.com
 +.images.reach.tmf-group.com
 +.ad01.tmgrup.com.tr
@@ -62642,6 +62658,7 @@ tracker.didiglobal.com
 +.faucetfoot.com
 +.mf.fauldbeeth.com
 +.faultyfowl.com
++.fauphoaglu.net
 +.fausothaur.com
 +.fauwhoocoa.com
 +.favzzmeziy.com
@@ -63225,6 +63242,7 @@ tracker.didiglobal.com
 +.smetrics.golfgalaxy.com
 +.a8.golfland.co.jp
 +.gombotrubu.com
++.gonoushauw.net
 +.goodsscoop.com
 +.info.goodwillgr.org
 +.googleapi.club
@@ -64470,6 +64488,7 @@ adapi.lenovogame.com
 +.ljtodywdhx.xyz
 +.ljubleasyu.com
 +.ljyajgjvuv.com
++.ljyzfwahwe.com
 +.lkenflknkd.com
 +.lkiawpwigg.com
 +.lkjoncgixi.com
@@ -65176,7 +65195,6 @@ adapi.lenovogame.com
 +.frdoki.nailcolor.work
 +.naive-skin.pro
 +.najsiejfnc.win
-+.nakamasweb.com
 +.naloblwidg.com
 +.smetrics.namestudio.com
 +.nandasmile.org
@@ -70484,6 +70502,7 @@ logs.chelaile.net.cn
 +.securedata.collectandgo.be
 +.data.customermail.collectandgo.be
 +.securedata.collectandgo.fr
++.colloqlarum.com
 +.news.coloradobiz.com
 +.colossalcry.com
 +.colossusssp.com
@@ -74285,6 +74304,7 @@ ad-analysis.pconline.com.cn
 +.gorilla.physio-soft.com
 +.vg.piaroanjust.com
 +.hfmogh.piatradesign.ro
++.piazzatepal.com
 +.picklesdumb.com
 +.pictureturn.com
 +.kjswto.pierrehardy.com
@@ -74572,6 +74592,7 @@ ad-analysis.pconline.com.cn
 +.putfeablean.org
 +.putlockertv.com
 +.putridchart.pro
++.puyyyifbmdh.com
 +.web.e.pvccladding.com
 +.pvnaegtrtju.com
 +.pweabzcatoh.com
@@ -74744,6 +74765,7 @@ ad-analysis.pconline.com.cn
 +.rebelsubway.com
 +.rebevengwas.com
 +.vqzxxb.rebodykorea.com
++.rebosoyodle.com
 +.receiptcent.com
 +.recognified.net
 +.recondite1x.xyz
@@ -75441,6 +75463,7 @@ ad-analysis.pconline.com.cn
 +.socketbuild.com
 +.sofcryingfo.xyz
 +.wildebeest.soft-spoken.dev
++.softentears.com
 +.softietouch.com
 +.softonicads.com
 +.www.softtrack08.com
@@ -77128,6 +77151,7 @@ ad-analysis.pconline.com.cn
 +.yqaywudifu.date
 +.yqgmvxufpkr.com
 +.yqpalfulpst.com
++.yrwqquykdja.com
 +.yszhtlsfvvf.com
 +.ytimewornan.org
 +.yttompthree.com
@@ -79696,6 +79720,7 @@ ssl.360antivirus.org
 +.frightysever.org
 +.friskbiscuit.com
 +.hf.frisklelooms.com
++.frondsgenoas.com
 +.frostplacard.com
 +.frostykitten.com
 +.frothirenews.top
@@ -81726,6 +81751,7 @@ ssl.360antivirus.org
 +.tracker.nocodelytics.com
 +.lc.nodoseamylic.com
 +.noetianidite.top
++.nohowsankhya.com
 +.nomeuspagrus.com
 +.nominalclck.name
 +.nomorepecans.com
@@ -82559,6 +82585,7 @@ ssl.360antivirus.org
 +.termite.queerburners.org
 +.queerygenets.com
 +.marketing.quenchonline.com
++.questeelskin.com
 +.queuescotman.com
 +.uffleq.quibblet.website
 +.drizzlep.quibblet.website
@@ -86871,6 +86898,7 @@ stat.zuimeitianqi.com
 +.endorsesmelly.com
 +.endurablebulb.com
 +.endurableshop.com
++.endwaysdsname.com
 +.enejvkctedmos.com
 +.partner.energiezivota.com
 +.smetrics.energy953radio.ca
