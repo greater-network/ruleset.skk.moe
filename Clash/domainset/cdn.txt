@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-26T17:23:21.834Z
-# Size: 2380
+# Last Updated: 2024-09-27T18:48:44.695Z
+# Size: 2386
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -160,6 +160,7 @@ snippet.maze.co
 oss.moe.cat
 assets.msn.com
 mui.com
+image.mux.com
 +.cfcdn.mux.com
 ca.nfs.pub
 +.cdn.nimg.jp
@@ -509,6 +510,8 @@ i.imgur.com
 +.cdn.ipinfo.io
 website-cdn.ipinfo.io
 img.itch.zone
+mangaz-books.j-comi.jp
+mangaz-static.j-comi.jp
 +.jbkcdn.io
 repository.jboss.org
 cdn01.jotfor.ms
@@ -636,6 +639,9 @@ akidoo.top
 repo.maven.apache.org
 dims.apnews.com
 assets.apnews.com
+cdn.arduino.cc
+content.arduino.cc
++.aayinltcs.arduino.cc
 +.avximg.com
 +.badgen.net
 emp.bbci.co.uk
