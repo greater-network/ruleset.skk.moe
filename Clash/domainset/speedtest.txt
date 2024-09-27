@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-09-25T04:30:19.668Z
-# Size: 387
+# Last Updated: 2024-09-27T12:38:43.058Z
+# Size: 389
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -171,6 +171,7 @@ speedtest.wolfpaw.net
 speedtest01.wowrack.com
 velocidade.4wnet.com.br
 velocidade-mns.4wnet.net.br
+speedtest.thn.lon.network.as201838.net
 open.cachefly.net
 spd33.claro.com.br
 spd49.claro.com.br
@@ -230,6 +231,7 @@ speedtest.wp.shawcable.net
 qld-speedtest.spirit.com.au
 vic-speedtest.spirit.com.au
 speedtest.surfshark.com
+speed-test.westelcom.com
 test.accesso.net.br
 +.speed.cloudflare.com
 speedtest.datafex.com.tr
