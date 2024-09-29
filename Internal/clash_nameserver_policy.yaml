@@ -255,6 +255,10 @@ dns:
     +.yunpan.com.cn: https://dns.360.net/dns-query
     "*.qh-cdn.com": https://dns.360.net/dns-query
     +.baomitu.com: https://dns.360.net/dns-query
+    +.securelogin.com.cn:
+      - system://
+      - system
+      - dhcp://system
     +.instant.arubanetworks.com:
       - system://
       - system

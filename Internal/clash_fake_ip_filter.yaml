@@ -1,5 +1,6 @@
 dns:
   fake-ip-filter:
+    - +.securelogin.com.cn
     - +.instant.arubanetworks.com
     - +.setmeup.arubanetworks.com
     - +.router.asus.com

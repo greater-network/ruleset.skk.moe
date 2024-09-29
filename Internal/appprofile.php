@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-09-29T12:35:54.604Z
+// # Build 2024-09-29T23:24:26.462Z
 
 declare(strict_types=1);
 
@@ -1191,6 +1191,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,hulu.com,Stream',
         'DOMAIN-SUFFIX,joox.com,Stream',
         'DOMAIN-SUFFIX,nowe.com,Stream',
+        'DOMAIN-SUFFIX,pluto.tv,Stream',
         'DOMAIN-SUFFIX,pscdn.co,Stream',
         'DOMAIN-SUFFIX,spoti.fi,Stream',
         'DOMAIN-SUFFIX,wetv.vip,Stream',
@@ -2316,6 +2317,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,osapublishing.org,DIRECT',
         'DOMAIN-SUFFIX,passthepopcorn.me,DIRECT',
         'DOMAIN-SUFFIX,madsrevolution.net,DIRECT',
+        'DOMAIN-SUFFIX,securelogin.com.cn,DIRECT',
         'DOMAIN-SUFFIX,springernature.com,DIRECT',
         'DOMAIN-SUFFIX,steamloopback.host,DIRECT',
         'DOMAIN-SUFFIX,tplinkplclogin.net,DIRECT',
