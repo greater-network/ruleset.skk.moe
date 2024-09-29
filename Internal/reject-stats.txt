@@ -237,9 +237,9 @@ karponews.com                                                                   
 webadorsite.com                                                                                     90
 playmetrics.com                                                                                     86
 bestandgreatests.com                                                                                85
+ewp.live                                                                                            84
 79j68qav2.com                                                                                       83
 branch.rocks                                                                                        83
-ewp.live                                                                                            83
 github.io                                                                                           83
 trekkww.fun                                                                                         82
 rookinews.com                                                                                       79
@@ -532,7 +532,6 @@ playstation.com                                                                 
 printondemandmerchandise.com                                                                        14
 propl.top                                                                                           14
 ru.com                                                                                              14
-us.kg                                                                                               14
 uzwl.lat                                                                                            14
 xaprio.net                                                                                          14
 z14s.top                                                                                            14
@@ -565,6 +564,7 @@ pro1wrld.top                                                                    
 programaticeu.xyz                                                                                   13
 pwc.com                                                                                             13
 schroders.email                                                                                     13
+us.kg                                                                                               13
 zysklonet.top                                                                                       13
 247realmedia.com                                                                                    12
 428m.icu                                                                                            12
@@ -666,7 +666,6 @@ polylia.com                                                                     
 ppaco.xyz                                                                                           11
 pushub.net                                                                                          11
 qortex.ai                                                                                           11
-replit.app                                                                                          11
 samsclub.com                                                                                        11
 snssdk.com                                                                                          11
 telstra.com                                                                                         11
@@ -734,6 +733,7 @@ paypal.com                                                                      
 pmu.fr                                                                                              10
 poland-money.fun                                                                                    10
 readingpartners.org                                                                                 10
+replit.app                                                                                          10
 ricoh.ch                                                                                            10
 ricoh.co.uk                                                                                         10
 ricoh.fr                                                                                            10
