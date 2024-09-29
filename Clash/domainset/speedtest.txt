@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-09-28T12:35:31.792Z
-# Size: 392
+# Last Updated: 2024-09-29T20:17:37.600Z
+# Size: 403
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -19,6 +19,7 @@ lsanca-speedtest-02.socal.rr.com
 ipl3pt.syd.ops.aspac.uu.net
 +.srvr.bell.ca
 +.ookla-speedtest.fsr.com
+speedtest.hay.net
 +.speedtest.i3d.net
 st2a.les.net
 +.ookla.rcp.net
@@ -90,8 +91,10 @@ stguelph.rogers.com
 stlondon.rogers.com
 stmilton.rogers.com
 sttoronto.rogers.com
+stvaughan.rogers.com
 stbrampton.rogers.com
 sthamilton.rogers.com
+stkingcity.rogers.com
 stoakville.rogers.com
 ststthomas.rogers.com
 stwaterloo.rogers.com
@@ -102,6 +105,7 @@ stnorthyork.rogers.com
 ststratford.rogers.com
 stwoodstock.rogers.com
 stmississauga.rogers.com
+storangeville.rogers.com
 stscarborough.rogers.com
 stguelphwireless.rogers.com
 stlondonwireless.rogers.com
@@ -131,6 +135,7 @@ stleamingtonwireless.rogers.com
 stlethbridgewireless.rogers.com
 stthunderbaywireless.rogers.com
 stmississaugawireless.rogers.com
+storangevillewireless.rogers.com
 ststcatharineswireless.rogers.com
 stsaultstemariewireless.rogers.com
 stwellandpelhamwireless.rogers.com
@@ -151,6 +156,7 @@ spt-mia.edgeuno.com
 spt-dal1.edgeuno.com
 spt-jfk1.edgeuno.com
 speedtest.fios.net.br
+speed.flix.net.tr
 +.speedtest.highnet.com
 ams-speedtest.isp.htb.systems
 speedtest-ifx-mia.ifxcorp.com
@@ -251,8 +257,10 @@ speedtest.jvswifi.com.br
 +.backend.librespeed.org
 veloteste.mrjomar.com.br
 f1.netfast.com.br
+speedtest.netwifi.com.tr
 +.speedtest.optitel.com.au
 speedsin.phoenixnap.com
+speedtest2.plusnet.com.tr
 sp01.rbfibra.net.br
 speedtest.singnet.com.sg
 +.speedtest.windstream.net
@@ -278,6 +286,7 @@ sky-speedtest.homeplus.net.tw
 teste.ihgfibra.net.br
 teste.jsnet.manaus.br
 speedtest.kapteyan.com.tr
+speedtest.kentwifi.com.tr
 speedtest.linkamos.com.br
 +.ooklaserver.net
 speedtest-adl.optusnet.com.au
@@ -288,6 +297,7 @@ speedtest-darwin-nt.optusnet.com.au
 speedtest-limestonecoast-sa.optusnet.com.au
 speedtest.orixinet.com.br
 speedtest.packetworks.net
+speedtest.rekornet.com.tr
 +.speednet.net.tr
 speedtest.springfibre.com
 speedtest-tdc3.tasmanet.com.au
@@ -350,6 +360,7 @@ speedtest.redrawinternet.com
 velocidade.softtelecom.net.br
 +.speedtestkorea.com
 tkconnectrr.com.br
+aks1speedtest.turktelekom.com.tr
 ank1speedtest.turktelekom.com.tr
 ant1speedtest.turktelekom.com.tr
 bur1speedtest.turktelekom.com.tr
