@@ -259,6 +259,10 @@ dns:
       - system://
       - system
       - dhcp://system
+    +.captive.apple.com:
+      - system://
+      - system
+      - dhcp://system
     +.instant.arubanetworks.com:
       - system://
       - system
