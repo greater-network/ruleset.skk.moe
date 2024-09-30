@@ -1,6 +1,6 @@
 <?php
 
-// # Build 2024-09-30T12:40:48.741Z
+// # Build 2024-09-30T17:41:22.752Z
 
 declare(strict_types=1);
 
@@ -733,6 +733,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tencent.com,Domestic',
         'DOMAIN-SUFFIX,tnkjmec.com,Domestic',
         'DOMAIN-SUFFIX,toutiao.com,Domestic',
+        'DOMAIN-SUFFIX,ubnt.com.cn,Domestic',
         'DOMAIN-SUFFIX,vivo.com.cn,Domestic',
         'DOMAIN-SUFFIX,volccdn.com,Domestic',
         'DOMAIN-SUFFIX,weidian.com,Domestic',
@@ -2252,6 +2253,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,pornbits.net,DIRECT',
         'DOMAIN-SUFFIX,privatehd.to,DIRECT',
         'DOMAIN-SUFFIX,pterclub.com,DIRECT',
+        'DOMAIN-SUFFIX,setapp.click,DIRECT',
         'DOMAIN-SUFFIX,speedport.ip,DIRECT',
         'DOMAIN-SUFFIX,springer.com,DIRECT',
         'DOMAIN-SUFFIX,tplinkap.net,DIRECT',
@@ -2323,6 +2325,7 @@ $_ENV['Clash_Group_Config'] = [
         'DOMAIN-SUFFIX,tplinkplclogin.net,DIRECT',
         'DOMAIN-SUFFIX,tplinkrepeater.net,DIRECT',
         'DOMAIN-SUFFIX,huaweimobilewifi.com,DIRECT',
+        'DOMAIN-SUFFIX,_adb-tls-connect._tcp,DIRECT',
         'DOMAIN-SUFFIX,blackwell-synergy.com,DIRECT',
         'DOMAIN-SUFFIX,classix-unlimited.co.uk,DIRECT',
         'DOMAIN-KEYWORD,cnki.net,DIRECT',
@@ -6091,7 +6094,6 @@ $_ENV['Clash_Group_Config'] = [
         'IP-CIDR,223.0.12.0/23,Domestic',
         'IP-CIDR,223.0.15.0/24,Domestic',
         'IP-CIDR,223.0.16.0/24,Domestic',
-        'IP-CIDR,223.0.20.0/24,Domestic',
         'IP-CIDR,223.0.30.0/24,Domestic',
         'IP-CIDR,223.0.40.0/23,Domestic',
         'IP-CIDR,223.0.126.0/24,Domestic',

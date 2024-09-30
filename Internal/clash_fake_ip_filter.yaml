@@ -60,6 +60,8 @@ dns:
     - +.ts.net
     - +.$injections.adguard.org
     - +.$local.adguard.org
+    - +.setapp.click
+    - +._adb-tls-connect._tcp
     - +.lan
     - +.$localhost
     - +.localdomain
