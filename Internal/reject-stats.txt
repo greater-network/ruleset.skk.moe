@@ -123,7 +123,6 @@ zalo.me                                                                         
 360safe.com                                                                                         12
 akamaized.net                                                                                       12
 cigna.com                                                                                           12
-com.se                                                                                              12
 goguardian.com                                                                                      12
 palladiumhotelgroup.com                                                                             12
 ricoh.de                                                                                            12
@@ -139,6 +138,7 @@ yandex.net                                                                      
 averydennison.com                                                                                   11
 byteoversea.com                                                                                     11
 cdn77.org                                                                                           11
+com.se                                                                                              11
 coniferhealth.com                                                                                   11
 cresa.com                                                                                           11
 go.com                                                                                              11
@@ -192,7 +192,7 @@ yinzcam.com                                                                     
 webadorsite.com                                                                                     92
 playmetrics.com                                                                                     86
 github.io                                                                                           84
-ewp.live                                                                                            83
+ewp.live                                                                                            73
 rciadventure.com                                                                                    71
 netspend.com                                                                                        67
 verwin.com                                                                                          66
@@ -211,13 +211,13 @@ happycustomer.io                                                                
 k7rv.icu                                                                                            49
 ormd.skin                                                                                           49
 sfmc-marketingqa.com                                                                                48
-wixstudio.io                                                                                        48
 dkonto.pl                                                                                           47
 aaa.com                                                                                             46
 y22n.lat                                                                                            46
 baidu.com                                                                                           45
 pages.dev                                                                                           45
 ropescoursesinc.com                                                                                 44
+wixstudio.io                                                                                        43
 poy0.lat                                                                                            42
 lcef.com                                                                                            41
 movidesk.com                                                                                        40
@@ -235,6 +235,7 @@ wixsite.com                                                                     
 dln2.lat                                                                                            32
 sfmctest.com                                                                                        32
 ullz.lat                                                                                            32
+digitkin.top                                                                                        31
 q33e.fun                                                                                            31
 shengen.ru                                                                                          31
 6amcity.com                                                                                         30
@@ -242,7 +243,6 @@ alliedhousing.com                                                               
 hut1.ru                                                                                             30
 xe1v.lat                                                                                            30
 binnpro.xyz                                                                                         29
-digitkin.top                                                                                        29
 marcukesh.top                                                                                       29
 ncmr.lat                                                                                            29
 newzgames.com                                                                                       29
@@ -258,6 +258,7 @@ aremedia.com.au                                                                 
 newpol.xyz                                                                                          27
 openapp.link                                                                                        27
 plprogpltes.site                                                                                    27
+duckdns.org                                                                                         26
 gitbook.io                                                                                          26
 sfmc-content.com                                                                                    26
 x8af.icu                                                                                            26
@@ -289,7 +290,6 @@ igwk.top                                                                        
 itcapprog.top                                                                                       21
 mjrm.skin                                                                                           21
 3u84.icu                                                                                            20
-duckdns.org                                                                                         20
 endiim.com                                                                                          20
 gkag.top                                                                                            20
 globaltradruv.com                                                                                   20
@@ -298,19 +298,18 @@ jessicabarrett.com                                                              
 4asx.icu                                                                                            19
 5hni.fun                                                                                            19
 b66t.top                                                                                            19
-buddaa.xyz                                                                                          19
 fleek.cool                                                                                          19
 irza.lat                                                                                            19
 microcloud360.com                                                                                   19
 orogdq1.xyz                                                                                         19
 taobao.com                                                                                          19
 vxfc.lat                                                                                            19
-waagge.top                                                                                          19
 borden-carleton.ca                                                                                  18
 fgfmailbox.com                                                                                      18
 gkru.skin                                                                                           18
 investtraderxreh.com                                                                                18
 ow7m.top                                                                                            18
+replit.dev                                                                                          18
 sunyclouds.com                                                                                      18
 windows.net                                                                                         18
 2r5d.icu                                                                                            17
@@ -348,7 +347,6 @@ iqiyi.com                                                                       
 onliprog.site                                                                                       15
 polskadep.xyz                                                                                       15
 progtopdep.top                                                                                      15
-replit.dev                                                                                          15
 runeww1.site                                                                                        15
 sa.com                                                                                              15
 schroders.com                                                                                       15
@@ -484,7 +482,6 @@ eccocar.com                                                                     
 ezxz.lat                                                                                            10
 fgfmailer.com                                                                                       10
 fivupsit.top                                                                                        10
-framer.app                                                                                          10
 ft.com                                                                                              10
 genesis.com                                                                                         10
 gloriadeicr.com                                                                                     10
