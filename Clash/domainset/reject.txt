@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2024-10-01T11:36:41.863Z
-# Size: 115257
+# Last Updated: 2024-10-01T12:22:32.065Z
+# Size: 115271
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -4339,6 +4339,7 @@ yads.c.yimg.jp
 +.abcd.yiq.com
 +.ym-a.cc
 +.eioqkb.yope.me
++.you2.pl
 +.l.your.md
 +.yoyi.tv
 +.communications.ypo.org
@@ -5562,6 +5563,14 @@ live.tvpot.daum.net
 +.marketing.evcp.com
 +.get.even.com
 +.get-staging.even.com
++.ingress-bonde.ewp.live
++.ingress-earth.ewp.live
++.ingress-haven.ewp.live
++.ingress-baronn.ewp.live
++.ingress-erytho.ewp.live
++.ingress-daribow.ewp.live
++.ingress-florina.ewp.live
++.ingress-comporellon.ewp.live
 +.tr.news.exclu.fr
 +.exnzg.de
 +.s.exv6.com
@@ -13806,6 +13815,7 @@ msmetrics-test.ws.sonos.com
 +.tl813.com
 +.hcbox.tlamka.cz
 +.tlbjw.com
++.tlsens.pl
 +.page.health.tmcaz.com
 +.tracking.health.tmcaz.com
 +.tmko1.com
@@ -33843,6 +33853,7 @@ susapi.dev.surepush.cn
 +.pd.trysera.com
 +.mhmzhc.trysnow.com
 +.trytada.com
++.trytoku.com
 +.a8.tscubic.com
 +.st-a8.tscubic.com
 +.tracking.tsladies.de
@@ -35144,6 +35155,7 @@ feedback.windows.com
 +.yijuxie.com
 +.yinhana.com
 +.yinmong.com
++.yinzcam.com
 +.yitaopt.com
 +.yiucfif.icu
 +.yiwckti.icu
@@ -42112,6 +42124,7 @@ mgepodownload.mediatek.com
 +.link.mortyapp.com
 +.trk.mosa-lts.pro
 +.bgevqy.moschino.com
++.moseasia.com
 +.mosrtaek.net
 +.lnk.mostdays.com
 +.mothifta.xyz
@@ -112122,6 +112135,7 @@ samsungcloudsolution.net
 +.gloriarefreshsuspected.com
 +.goingtoothachemagician.com
 +.googletraveladservices.com
++.goonline-bnpparibas-pl.xyz
 +.gorgestartermembership.com
 +.sstats.governmentcontractsusa.com
 +.gradecomposuresanctify.com

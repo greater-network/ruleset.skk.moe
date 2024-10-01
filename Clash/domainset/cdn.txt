@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-09-30T17:41:22.691Z
-# Size: 2400
+# Last Updated: 2024-10-01T12:22:32.930Z
+# Size: 2401
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1087,6 +1087,7 @@ pics.hentai.name
 js.hsforms.net
 js-eu1.hsforms.net
 +.js.hubspot.com
++.js-eu1.hubspot.com
 +.static2cdn.hubspot.com
 +.cdn2.hubspot.net
 avatars.hubspot.net
