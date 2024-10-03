@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-02T13:18:10.970Z
-# Size: 2411
+# Last Updated: 2024-10-03T17:03:17.019Z
+# Size: 2412
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1067,6 +1067,7 @@ t2.gstatic.com
 t3.gstatic.com
 maps.gstatic.com
 fonts.gstatic.com
++.metric.gstatic.com
 encrypted-tbn0.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
