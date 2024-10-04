@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-04T01:38:12.505Z
-# Size: 2413
+# Last Updated: 2024-10-04T19:35:37.960Z
+# Size: 2416
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -32,6 +32,7 @@ eep.io
 +.permaweb.eu.org
 genesis-cdn.ff.com
 static.ffx.io
+media.fs.com
 img-en.fs.com
 resource.fs.com
 front-resource.fs.com
@@ -2190,6 +2191,7 @@ assets.lemonsqueezy.com
 +.packd.liuxingbaoyu.xyz
 player.louisvuitton.com
 cdn.manageengine.com
++.mangadex.network
 +.media-amazon.com
 +.meetupstatic.com
 +.olemovienews.com
@@ -2221,6 +2223,7 @@ cdn1.unrealengine.com
 cdn2.unrealengine.com
 cdn3.unrealengine.com
 +.usercontent.goog
+sts.online.visualstudio.com
 typescript.visualstudio.com
 +.vscode-unpkg.net
 +.vusercontent.net

@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-10-04T01:38:11.964Z
-# Size: 404
+# Last Updated: 2024-10-04T19:35:37.206Z
+# Size: 411
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -10,6 +10,7 @@
 #########################################
 speedtest-net.mk.de
 +.speedtest.rt.ru
+sin-speedtest.zedware-neoftt.us.kg
 speedtest-sg.cbn.id
 +.speed.pfm.gg
 +.speedtest.pni.tw
@@ -159,6 +160,7 @@ speedtest.fios.net.br
 speed.flix.net.tr
 +.speedtest.highnet.com
 ams-speedtest.isp.htb.systems
+teste.i9va.net.br
 speedtest-ifx-mia.ifxcorp.com
 ookla.lunoxia.net
 speedtest.myaccess.ca
@@ -208,6 +210,7 @@ speedtest.team-host.ru
 speedtest.three.com.hk
 sosimhk.datapath.three.com.hk
 +.wifiman.ubncloud.com
++.wifiman-stability-test.ubncloud.com
 bassoon-sg-1.violin.co.th
 +.speedtest.aarnet.net.au
 dallas1.cabospeed.com
@@ -226,6 +229,8 @@ mns.i-systems.com
 speedtest.inforr.com.br
 speedtest-sg.napinfo.co.id
 speedtest-lax.perfectip.net
+stcareiro.pplink.net.br
+stmanaquiri.pplink.net.br
 speedtest.ramtek.net.tr
 +.speedtest.sbcglobal.net
 speed.sdmnet.com.br
@@ -241,6 +246,7 @@ vic-speedtest.spirit.com.au
 speedtest.surfshark.com
 speed-test.westelcom.com
 test.accesso.net.br
+lon-hex-speedtest.cloudconnx.net
 +.speed.cloudflare.com
 speedtest.datafex.com.tr
 lg-ams.fdcservers.net
@@ -298,6 +304,7 @@ speedtest-darwin-nt.optusnet.com.au
 speedtest-limestonecoast-sa.optusnet.com.au
 speedtest.orixinet.com.br
 speedtest.packetworks.net
+speedtest-stm.redeconecta.com
 speedtest.rekornet.com.tr
 +.speednet.net.tr
 speedtest.springfibre.com
