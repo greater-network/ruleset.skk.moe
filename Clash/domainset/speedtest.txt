@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2024-09-29T20:17:37.600Z
-# Size: 403
+# Last Updated: 2024-10-04T01:38:11.964Z
+# Size: 404
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -166,6 +166,7 @@ speedtest-c.netgear.com
 speedtest.octaplus.uk
 fetnt1.seed.net.tw
 fetyl1.seed.net.tw
+fetzl1.seed.net.tw
 speedtest.spacenet.ru
 +.speedtest.starhub.com
 speedtest.telerys.net
