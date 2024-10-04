@@ -212,7 +212,7 @@ baidu.com                                                                       
 pages.dev                                                                                           45
 verwin.com                                                                                          44
 poy0.lat                                                                                            42
-wixstudio.io                                                                                        42
+wixstudio.io                                                                                        41
 wpenginepowered.com                                                                                 39
 alalikexpress.com                                                                                   38
 vmy0.icu                                                                                            38
@@ -350,6 +350,7 @@ polskadep.xyz                                                                   
 progtopdep.top                                                                                      15
 runeww1.site                                                                                        15
 sa.com                                                                                              15
+us.kg                                                                                               15
 waonline.site                                                                                       15
 wetss.xyz                                                                                           15
 a1svip.top                                                                                          14
@@ -357,6 +358,7 @@ aglt.lat                                                                        
 ahnq.top                                                                                            14
 anonline.site                                                                                       14
 bauer-media.com.au                                                                                  14
+blogspot.hu                                                                                         14
 cusu.skin                                                                                           14
 elastic.co                                                                                          14
 fgfemail.com                                                                                        14
@@ -369,7 +371,6 @@ printondemandmerchandise.com                                                    
 propl.top                                                                                           14
 schroders.com                                                                                       14
 underarmour.com                                                                                     14
-us.kg                                                                                               14
 uzwl.lat                                                                                            14
 z14s.top                                                                                            14
 zettle.com                                                                                          14
@@ -381,7 +382,6 @@ advance.net                                                                     
 angieslist.com                                                                                      13
 ayxh.top                                                                                            13
 bestbuy.com                                                                                         13
-blogspot.hu                                                                                         13
 cddo.lat                                                                                            13
 drrd.lat                                                                                            13
 eqin.one                                                                                            13
