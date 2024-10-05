@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-04T20:47:05.345Z
-# Size: 2417
+# Last Updated: 2024-10-05T15:54:17.825Z
+# Size: 2420
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -773,6 +773,7 @@ p.inari.site
 +.ipfscdn.io
 cf.javfree.me
 +.javtxt.com
++.jbkcdn.com
 +.jitpack.io
 code.jquery.com
 fiddle.jshell.net
@@ -1462,6 +1463,7 @@ app.roboflow.com
 cdn.roboflow.com
 +.rocketcdn.me
 +.rollupjs.org
++.roseimgs.com
 public.saasexch.com
 embed.savvycal.com
 cdn.mcauto-images-production.sendgrid.net
@@ -1796,6 +1798,7 @@ cf-assets.www.cloudflare.com
 +.csp-reporting.cloudflare.com
 favicons.teams.cloudflare.com
 +.privacy-gateway.cloudflare.com
++.cloudflare.ltd
 +.cloudfront.net
 res.cloudinary.com
 fiverr-res.cloudinary.com
