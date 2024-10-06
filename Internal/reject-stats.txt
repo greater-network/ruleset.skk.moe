@@ -211,8 +211,8 @@ y22n.lat                                                                        
 baidu.com                                                                                           45
 pages.dev                                                                                           45
 verwin.com                                                                                          44
+wixstudio.io                                                                                        43
 poy0.lat                                                                                            42
-wixstudio.io                                                                                        42
 wpenginepowered.com                                                                                 41
 alalikexpress.com                                                                                   38
 vmy0.icu                                                                                            38
@@ -306,7 +306,6 @@ gkru.skin                                                                       
 investtraderxreh.com                                                                                18
 netflix.com                                                                                         18
 ow7m.top                                                                                            18
-replit.dev                                                                                          18
 sunyclouds.com                                                                                      18
 windows.net                                                                                         18
 2r5d.icu                                                                                            17
@@ -317,6 +316,7 @@ deptesp.com                                                                     
 newaistar.top                                                                                       17
 ourtablets.com                                                                                      17
 progtopdep.top                                                                                      17
+replit.dev                                                                                          17
 rutradersxprod.com                                                                                  17
 tmmsg.com                                                                                           17
 wf74.top                                                                                            17
@@ -324,7 +324,6 @@ wf74.top                                                                        
 brooksrunning.com                                                                                   16
 chuathuongxot.org                                                                                   16
 comfirty.top                                                                                        16
-dns-dynamic.net                                                                                     16
 elmachif.com                                                                                        16
 eutrty.top                                                                                          16
 greenhouse.io                                                                                       16
@@ -340,6 +339,7 @@ boph.lat                                                                        
 brokermail.co.uk                                                                                    15
 dduv.top                                                                                            15
 dfrtraderxsys.com                                                                                   15
+dns-dynamic.net                                                                                     15
 dropcanoiles.com                                                                                    15
 fondblagorus.xyz                                                                                    15
 grab.com                                                                                            15
@@ -376,7 +376,6 @@ zettle.com                                                                      
 12build.com                                                                                         13
 53.com                                                                                              13
 6p6a.cfd                                                                                            13
-a1svip.top                                                                                          13
 advance.net                                                                                         13
 angieslist.com                                                                                      13
 ayxh.top                                                                                            13
@@ -406,6 +405,7 @@ sohu.com                                                                        
 zysklonet.top                                                                                       13
 428m.icu                                                                                            12
 4ffw.sbs                                                                                            12
+a1svip.top                                                                                          12
 aliyuncs.com                                                                                        12
 b9cp.cfd                                                                                            12
 careprofit.xyz                                                                                      12
