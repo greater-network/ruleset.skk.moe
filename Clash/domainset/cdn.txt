@@ -1,6 +1,6 @@
 #########################################
 # Sukka's Ruleset - CDN Domains
-# Last Updated: 2024-10-06T00:03:29.197Z
+# Last Updated: 2024-10-06T00:09:49.293Z
 # Size: 2445
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
@@ -370,7 +370,6 @@ static.v2ex.com
 +.via0.com
 video-images.vice.com
 vice-web-statics-cdn.vice.com
-+.sentry.vieon.vn
 tn.vjav.com
 pics.vpdmm.cc
 +.w3s.link
@@ -2452,5 +2451,6 @@ useruploads.visualwebsiteoptimizer.com
 cdn-a.sonyentertainmentnetwork.com
 +.w-credentialless-staticblitz.com
 runkit-packages-static-executables.com
+# -ds.metric.gstatic.com are specifically exempted from reject, but it could use secondary proxy policy
 this_ruleset_is_made_by_sukkaw.ruleset.skk.moe
 ################## EOF ##################

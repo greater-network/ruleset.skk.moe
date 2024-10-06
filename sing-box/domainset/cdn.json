@@ -1697,6 +1697,7 @@
         "useruploads.visualwebsiteoptimizer.com",
         "cdn-a.sonyentertainmentnetwork.com",
         "runkit-packages-static-executables.com",
+        "# -ds.metric.gstatic.com are specifically exempted from reject, but it could use secondary proxy policy",
         "this_ruleset_is_made_by_sukkaw.ruleset.skk.moe"
       ],
       "domain_suffix": [
@@ -1785,7 +1786,6 @@
         "surge.sh",
         "unpkg.co",
         "via0.com",
-        "sentry.vieon.vn",
         "w3s.link",
         "xlog.app",
         "yimg.com",
