@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-20T12:38:41.569Z
-# Size: 67564
+# Last Updated: 2025-04-20T23:23:29.439Z
+# Size: 67596
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -1296,8 +1296,10 @@ bad.third-party.site
 +.birkiespansied.shop
 +.xylidichiatus.shop
 +.winningenveil.shop
++.wickuparamids.shop
 +.volcaedecants.shop
 +.uranylshazers.shop
++.unraspyhoiden.shop
 +.undeanoviform.shop
 +.uleticgulches.shop
 +.thongakreuzer.shop
@@ -1364,6 +1366,7 @@ bad.third-party.site
 +.swerveplonko.shop
 +.stroupfurcal.shop
 +.stovefremdly.shop
++.stelarkiting.shop
 +.steeryyoungs.shop
 +.spackgeranic.shop
 +.silvaemegmho.shop
@@ -1441,6 +1444,7 @@ bad.third-party.site
 +.legitfizzed.shop
 +.leckbrinded.shop
 +.lawedclimbs.shop
++.laughsemina.shop
 +.jotsboggish.shop
 +.load.sgtm.jaspercaven.shop
 +.sst.hifficiency.shop
@@ -1450,6 +1454,7 @@ bad.third-party.site
 +.farcivinage.shop
 +.exilesgalei.shop
 +.ecrasepetre.shop
++.dinahmalawi.shop
 +.deesesabbot.shop
 +.cedricfaces.shop
 +.blasedustin.shop
@@ -3186,6 +3191,7 @@ grs.dbankcloud.asia
 +.trk.get.watchfreevideo.vip
 +.xctoquhnalqgn.vip
 +.qazjpdzhatxaw.vip
++.pqkpmqrzrrjrb.vip
 +.pidsnbtigntdi.vip
 +.oaapfztunpmky.vip
 +.nlztpmhcxyzwh.vip
@@ -3321,6 +3327,7 @@ grs.dbankcloud.asia
 +.wewlorozwolyz.top
 +.wevrwqjqemkyj.top
 +.welbljlvmmyzw.top
++.vyomkbmowzmzm.top
 +.vymybkyrzvwyj.top
 +.vqrozzojjlwbz.top
 +.vqoqlebqqammj.top
@@ -3374,6 +3381,7 @@ grs.dbankcloud.asia
 +.lqbvjmkoomyrj.top
 +.lmzhpzoycxjfn.top
 +.lmoozvlklrorj.top
++.llykjmzkqvvar.top
 +.llvlzvroqowmm.top
 +.llozybojzolov.top
 +.ljybybyerzkry.top
@@ -3386,6 +3394,7 @@ grs.dbankcloud.asia
 +.kbkewkqrkqkzy.top
 +.jzqbyykjorqkq.top
 +.jzokkejvjrvwj.top
++.jyvkwqjremabw.top
 +.jyqekzzlmymzy.top
 +.jyozavobzrlkz.top
 +.jybaekaqbmwmq.top
@@ -3694,6 +3703,7 @@ grs.dbankcloud.asia
 +.kwurserd.top
 +.kwerilxd.top
 +.krutvncd.top
++.koasinky.top
 +.kgidskid.top
 +.kdyurlid.top
 +.kdipsumd.top
@@ -3988,6 +3998,7 @@ grs.dbankcloud.asia
 +.jwatera.top
 +.justapp.top
 +.juresda.top
++.jucnwta.top
 +.jtimiya.top
 +.jsyliea.top
 +.jsqygwl.top
@@ -4764,9 +4775,11 @@ fumiad.dxys.pro
 +.trk.blissfulvigor.org
 +.wfguzx.ayudaenaccion.org
 +.info.augustahealth.org
++.atsidhelookin.org
 +.asteandstilll.org
 +.go.apostaronline.org
 +.seniorliving.vantagehouse.org
++.tomlldahehun.org
 +.thinksuggest.org
 +.stats.textprotocol.org
 +.dot.texastribune.org
@@ -4793,6 +4806,7 @@ fumiad.dxys.pro
 +.gtm.match-talent.org
 +.discover.maringeneral.org
 +.stats.kyushoku2050.org
++.kentoonlyloo.org
 +.tracking.excellence.kaweahhealth.org
 +.care.excellence.kaweahhealth.org
 +.images.marketing.kaweahhealth.org
@@ -5771,6 +5785,7 @@ fkp.samsungcloudsolution.net
 +.romantlcaffair.net
 +.rirteelraibsou.net
 +.fqdbbu.riess-ambiente.net
++.ricmeedsalorou.net
 +.retsifergoumti.net
 +.rdc.rachatdecredit.net
 +.ptouzivoaxoapt.net
@@ -5932,6 +5947,7 @@ fkp.samsungcloudsolution.net
 +.traccoon.intellectsoft.net
 +.ok88okg.infinityscans.net
 +.igouthoatsord.net
++.ichowhushoubi.net
 +.hotboysnearby.net
 +.grugnampouksi.net
 +.gredritchupsa.net
@@ -7174,6 +7190,7 @@ d1oxlq5h9kq8q5.cloudfront.net
 +.baghoglitu.net
 +.awstaticdn.net
 +.awheecethe.net
++.auwhissaib.net
 +.autchopord.net
 +.p.armorgames.net
 +.hermes.allo-media.net
@@ -9575,6 +9592,7 @@ msgv6.qy.net
 +.msjukinogbtji.fun
 +.engrievinebef.fun
 +.cfvcjyksaerua.fun
++.cfuonmexmmewy.fun
 +.altvyogbvycvy.fun
 +.srv.yeahwebimobi.fun
 +.withdraw3452.fun
@@ -10136,6 +10154,7 @@ sashimi.royli.dev
 +.ublyyx.americanqualityhealthproducts.com
 +.a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com
 +.headphones.xn--clinicadentalcariena-k7b.com
++.tolerantignorancepicturesque.com
 +.marketing.superiorrecreationalproducts.com
 +.shouldercommandmentlimitless.com
 +.pungentobservationwhispering.com
@@ -11890,6 +11909,7 @@ fkp.samsungcloudsolution.com
 +.confiningdrawshimmy.com
 +.conceitoverwhelming.com
 +.compiledonatevanity.com
++.commonwealthscenery.com
 +.info.commonsenseadvisory.com
 +.commission-junction.com
 +.coinblocktyrusmiram.com
@@ -14594,6 +14614,7 @@ display.360totalsecurity.com
 +.web.info.vantastic-foods.com
 +.load.gtm.valeriocelletti.com
 +.news.valawyersweekly.com
++.vaigreekostique.com
 +.bkogtr.vacationsbyrail.com
 +.som.vacationrentals.com
 +.om.vacationrentals.com
@@ -15486,6 +15507,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.sstats.deloittedigital.com
 +.tracking.dealeranalytics.com
 +.dddashasledopyt.com
++.dchqgrxioyyfmbk.com
 +.dazedarticulate.com
 +.jpjkhj.daviddanjewelry.com
 +.start.datingsitesinfo.com
@@ -15769,6 +15791,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.emarketing.zulkiepartners.com
 +.zounokawewoaru.com
 +.zooraipsugrour.com
++.zoiefwqhcaczun.com
 +.trk.zfx-affiliates.com
 +.adebis.zenyaku-hbshop.com
 +.ncvyha.yves-rocher-kz.com
@@ -16735,6 +16758,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.srepdata.gannettdigital.com
 +.traxex.gannettdigital.com
 +.analytics.gamedatacrunch.com
++.fyobbmzhbftmsa.com
 +.st.fussballreisen.com
 +.solutions.fusedequipment.com
 +.plans.fundtherebuild.com
@@ -18615,6 +18639,7 @@ api-ads.tiantianqutao.com
 +.metrics.foodnavigator.com
 +.foldinsinuate.com
 +.foldedaddress.com
++.fnximdpycveod.com
 +.fluingdulotic.com
 +.fluffytracing.com
 +.flstudiochina.com
@@ -19554,6 +19579,7 @@ badjs.weixinbridge.com
 +.metrics.tirebusiness.com
 +.ctr.tiptoptrends.com
 +.etl.tindersparks.com
++.tiltoofughes.com
 +.tilohwozbbam.com
 +.tilesmuzarab.com
 +.sf16-telemetry-proxy-oci.tiktokcdn-us.com
@@ -19835,6 +19861,7 @@ adcdn.tencentmusic.com
 +.sedatingnews.com
 +.securedvisit.com
 +.senlvg.secretsdujeu.com
++.sdxefrukqjsi.com
 +.metrics.scribblelive.com
 +.counter.scribblelive.com
 +.scrawmthirds.com
@@ -19975,6 +20002,7 @@ adcdn.tencentmusic.com
 +.qizjkwx9klim.com
 +.qipkrokuwtik.com
 +.qidmhohammat.com
++.qgwgweoxulrb.com
 +.qgevavwyafjf.com
 +.qfiotdhatjco.com
 +.metrics.qatarairways.com
@@ -20362,6 +20390,7 @@ apps.mobilityware.com
 +.bsosgd.midori-anzen.com
 +.wavzlt.michaelstars.com
 +.info.michaelfoods.com
++.mgepuynxttyi.com
 +.rtk.metodoqu4tro.com
 +.stats.metamorphium.com
 +.go.metalcoaters.com
@@ -21663,6 +21692,7 @@ a.dounanhuahui.com
 +.abmbmuzpymru.com
 +.abgligarchan.com
 +.api.abcsinsights.com
++.abbokqvabomz.com
 +.abanwthwitfb.com
 +.a2tw6yoodsag.com
 +.9xeqynu3gt7c.com
@@ -21694,6 +21724,7 @@ a.dounanhuahui.com
 +.my.11teamsports.com
 +.metric.1035thearrow.com
 +.marketing.1-800boardup.com
++.zpilkesyasa.com
 +.zounouhaipy.com
 +.hapic1.zhuangxiu22.com
 +.ruhpbn.zhigaojixie.com
@@ -23652,6 +23683,7 @@ httpdns.huaweicloud.com
 +.daicagrithi.com
 +.marketing.d4discovery.com
 +.czuawlppipi.com
++.czowadbcoog.com
 +.forms.cybersource.com
 +.info.cybersource.com
 +.7hdl8dlfjm4g.www.cybernetman.com

@@ -1,5 +1,5 @@
 ! Title: Sukka's Ruleset - Blocklist for AdGuardHome
-! Last modified: Sun, 20 Apr 2025 12:38:51 GMT
+! Last modified: Sun, 20 Apr 2025 23:23:39 GMT
 ! Expires: 6 hours
 ! License: https://github.com/SukkaW/Surge/blob/master/LICENSE
 ! Homepage: https://github.com/SukkaW/Surge
@@ -1458,8 +1458,10 @@
 ||birkiespansied.shop^
 ||xylidichiatus.shop^
 ||winningenveil.shop^
+||wickuparamids.shop^
 ||volcaedecants.shop^
 ||uranylshazers.shop^
+||unraspyhoiden.shop^
 ||undeanoviform.shop^
 ||uleticgulches.shop^
 ||thongakreuzer.shop^
@@ -1526,6 +1528,7 @@
 ||swerveplonko.shop^
 ||stroupfurcal.shop^
 ||stovefremdly.shop^
+||stelarkiting.shop^
 ||steeryyoungs.shop^
 ||spackgeranic.shop^
 ||silvaemegmho.shop^
@@ -1604,6 +1607,7 @@
 ||legitfizzed.shop^
 ||leckbrinded.shop^
 ||lawedclimbs.shop^
+||laughsemina.shop^
 ||jotsboggish.shop^
 ||load.sgtm.jaspercaven.shop^
 ||sst.hifficiency.shop^
@@ -1613,6 +1617,7 @@
 ||farcivinage.shop^
 ||exilesgalei.shop^
 ||ecrasepetre.shop^
+||dinahmalawi.shop^
 ||deesesabbot.shop^
 ||cedricfaces.shop^
 ||blasedustin.shop^
@@ -3536,6 +3541,7 @@
 ||trk.get.watchfreevideo.vip^
 ||xctoquhnalqgn.vip^
 ||qazjpdzhatxaw.vip^
+||pqkpmqrzrrjrb.vip^
 ||pidsnbtigntdi.vip^
 ||oaapfztunpmky.vip^
 ||nlztpmhcxyzwh.vip^
@@ -3681,6 +3687,7 @@
 ||wewlorozwolyz.top^
 ||wevrwqjqemkyj.top^
 ||welbljlvmmyzw.top^
+||vyomkbmowzmzm.top^
 ||vymybkyrzvwyj.top^
 ||vqrozzojjlwbz.top^
 ||vqoqlebqqammj.top^
@@ -3734,6 +3741,7 @@
 ||lqbvjmkoomyrj.top^
 ||lmzhpzoycxjfn.top^
 ||lmoozvlklrorj.top^
+||llykjmzkqvvar.top^
 ||llvlzvroqowmm.top^
 ||llozybojzolov.top^
 ||ljybybyerzkry.top^
@@ -3746,6 +3754,7 @@
 ||kbkewkqrkqkzy.top^
 ||jzqbyykjorqkq.top^
 ||jzokkejvjrvwj.top^
+||jyvkwqjremabw.top^
 ||jyqekzzlmymzy.top^
 ||jyozavobzrlkz.top^
 ||jybaekaqbmwmq.top^
@@ -4058,6 +4067,7 @@
 ||kwurserd.top^
 ||kwerilxd.top^
 ||krutvncd.top^
+||koasinky.top^
 ||kgidskid.top^
 ||kdyurlid.top^
 ||kdipsumd.top^
@@ -4356,6 +4366,7 @@
 ||jwatera.top^
 ||justapp.top^
 ||juresda.top^
+||jucnwta.top^
 ||jtimiya.top^
 ||jsyliea.top^
 ||jsqygwl.top^
@@ -5219,9 +5230,11 @@
 ||wfguzx.ayudaenaccion.org^
 ||australiacash.org^
 ||info.augustahealth.org^
+||atsidhelookin.org^
 ||asteandstilll.org^
 ||go.apostaronline.org^
 ||seniorliving.vantagehouse.org^
+||tomlldahehun.org^
 ||thinksuggest.org^
 ||stats.textprotocol.org^
 ||dot.texastribune.org^
@@ -5253,6 +5266,7 @@
 ||litecoinrain.org^
 ||litecoinpool.org^
 ||stats.kyushoku2050.org^
+||kentoonlyloo.org^
 ||tracking.excellence.kaweahhealth.org^
 ||care.excellence.kaweahhealth.org^
 ||images.marketing.kaweahhealth.org^
@@ -6497,6 +6511,7 @@
 ||romantlcaffair.net^
 ||rirteelraibsou.net^
 ||fqdbbu.riess-ambiente.net^
+||ricmeedsalorou.net^
 ||retsifergoumti.net^
 ||rdc.rachatdecredit.net^
 ||ptouzivoaxoapt.net^
@@ -6668,6 +6683,7 @@
 ||traccoon.intellectsoft.net^
 ||ok88okg.infinityscans.net^
 ||igouthoatsord.net^
+||ichowhushoubi.net^
 ||hotboysnearby.net^
 ||hashingcrypto.net^
 ||grugnampouksi.net^
@@ -7971,6 +7987,7 @@
 ||baghoglitu.net^
 ||awstaticdn.net^
 ||awheecethe.net^
+||auwhissaib.net^
 ||autchopord.net^
 ||p.armorgames.net^
 ||hermes.allo-media.net^
@@ -10594,6 +10611,7 @@
 ||msjukinogbtji.fun^
 ||engrievinebef.fun^
 ||cfvcjyksaerua.fun^
+||cfuonmexmmewy.fun^
 ||altvyogbvycvy.fun^
 ||srv.yeahwebimobi.fun^
 ||withdraw3452.fun^
@@ -11165,6 +11183,7 @@
 ||ublyyx.americanqualityhealthproducts.com^
 ||a8aspconv.xn--ipv6-yn4cxgwe959zqrkp58g.com^
 ||headphones.xn--clinicadentalcariena-k7b.com^
+||tolerantignorancepicturesque.com^
 ||marketing.superiorrecreationalproducts.com^
 ||shouldercommandmentlimitless.com^
 ||pungentobservationwhispering.com^
@@ -12923,6 +12942,7 @@
 ||confiningdrawshimmy.com^
 ||conceitoverwhelming.com^
 ||compiledonatevanity.com^
+||commonwealthscenery.com^
 ||info.commonsenseadvisory.com^
 ||commission-junction.com^
 ||coinblocktyrusmiram.com^
@@ -15657,6 +15677,7 @@
 ||web.info.vantastic-foods.com^
 ||load.gtm.valeriocelletti.com^
 ||news.valawyersweekly.com^
+||vaigreekostique.com^
 ||bkogtr.vacationsbyrail.com^
 ||som.vacationrentals.com^
 ||om.vacationrentals.com^
@@ -16564,6 +16585,7 @@
 ||sstats.deloittedigital.com^
 ||tracking.dealeranalytics.com^
 ||dddashasledopyt.com^
+||dchqgrxioyyfmbk.com^
 ||dazedarticulate.com^
 ||jpjkhj.daviddanjewelry.com^
 ||start.datingsitesinfo.com^
@@ -16857,6 +16879,7 @@
 ||emarketing.zulkiepartners.com^
 ||zounokawewoaru.com^
 ||zooraipsugrour.com^
+||zoiefwqhcaczun.com^
 ||trk.zfx-affiliates.com^
 ||zeusminingpool.com^
 ||zephyrprotocol.com^
@@ -17846,6 +17869,7 @@
 ||srepdata.gannettdigital.com^
 ||traxex.gannettdigital.com^
 ||analytics.gamedatacrunch.com^
+||fyobbmzhbftmsa.com^
 ||st.fussballreisen.com^
 ||solutions.fusedequipment.com^
 ||plans.fundtherebuild.com^
@@ -19788,6 +19812,7 @@
 ||metrics.foodnavigator.com^
 ||foldinsinuate.com^
 ||foldedaddress.com^
+||fnximdpycveod.com^
 ||fluingdulotic.com^
 ||fluffytracing.com^
 ||flstudiochina.com^
@@ -20762,6 +20787,7 @@
 ||metrics.tirebusiness.com^
 ||ctr.tiptoptrends.com^
 ||etl.tindersparks.com^
+||tiltoofughes.com^
 ||tilohwozbbam.com^
 ||tilesmuzarab.com^
 ||sf16-telemetry-proxy-oci.tiktokcdn-us.com^
@@ -21049,6 +21075,7 @@
 ||sedatingnews.com^
 ||securedvisit.com^
 ||senlvg.secretsdujeu.com^
+||sdxefrukqjsi.com^
 ||scryptmining.com^
 ||metrics.scribblelive.com^
 ||counter.scribblelive.com^
@@ -21193,6 +21220,7 @@
 ||qizjkwx9klim.com^
 ||qipkrokuwtik.com^
 ||qidmhohammat.com^
+||qgwgweoxulrb.com^
 ||qgevavwyafjf.com^
 ||qfiotdhatjco.com^
 ||metrics.qatarairways.com^
@@ -21592,6 +21620,7 @@
 ||bsosgd.midori-anzen.com^
 ||wavzlt.michaelstars.com^
 ||info.michaelfoods.com^
+||mgepuynxttyi.com^
 ||rtk.metodoqu4tro.com^
 ||stats.metamorphium.com^
 ||go.metalcoaters.com^
@@ -22948,6 +22977,7 @@
 ||abmbmuzpymru.com^
 ||abgligarchan.com^
 ||api.abcsinsights.com^
+||abbokqvabomz.com^
 ||abanwthwitfb.com^
 ||a2tw6yoodsag.com^
 ||9xeqynu3gt7c.com^
@@ -22980,6 +23010,7 @@
 ||my.11teamsports.com^
 ||metric.1035thearrow.com^
 ||marketing.1-800boardup.com^
+||zpilkesyasa.com^
 ||zounouhaipy.com^
 ||hapic1.zhuangxiu22.com^
 ||ruhpbn.zhigaojixie.com^
@@ -25028,6 +25059,7 @@
 ||daemoncoins.com^
 ||marketing.d4discovery.com^
 ||czuawlppipi.com^
+||czowadbcoog.com^
 ||publicnode.cypherglass.com^
 ||forms.cybersource.com^
 ||info.cybersource.com^
