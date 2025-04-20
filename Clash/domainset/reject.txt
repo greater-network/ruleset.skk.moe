@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Reject Base
-# Last Updated: 2025-04-20T11:14:23.068Z
-# Size: 67558
+# Last Updated: 2025-04-20T12:38:41.569Z
+# Size: 67564
 # License: AGPL 3.0
 # Homepage: https://ruleset.skk.moe
 # GitHub: https://github.com/SukkaW/Surge
@@ -3303,6 +3303,7 @@ grs.dbankcloud.asia
 +.ywusfyjhnpflr.top
 +.xqwrdegbmdfrv.top
 +.wywkwqzkavlvw.top
++.wyvlllooalkbv.top
 +.wylmzwklkljwr.top
 +.wyaoormajvwqj.top
 +.wwwwzerblvvqv.top
@@ -3472,6 +3473,7 @@ grs.dbankcloud.asia
 +.kaphsfruiter.top
 +.jewbushpisay.top
 +.jaygeeceibas.top
++.hunyakkelder.top
 +.hoardsmirkly.top
 +.gmso12271oka.top
 +.gmso12261oka.top
@@ -15964,6 +15966,7 @@ charlestownwyllie.oaklawnnonantum.com
 +.thronosgeneura.com
 +.threewoodslose.com
 +.jdzmqj.thousandtrails.com
++.thooxoograiran.com
 +.cortellisconnections.thomsonreuters.com
 +.marketing-tracking.thomsonreuters.com
 +.metrics.legalsolutions.thomsonreuters.com
@@ -24293,6 +24296,7 @@ hd.xiaojukeji.com
 +.wufodfojfm.com
 +.app.wsucougars.com
 +.t.wsucougars.com
++.wsmntbroul.com
 +.wroahqavna.com
 +.v1.wphonelife.com
 +.wowrapidly.com
@@ -26789,6 +26793,7 @@ simple.cloudsmith.com
 +.s.cameratico.com
 +.rdfine.camelbrown.com
 +.u0crsrah75fy.camberlion.com
++.cambaddies.com
 +.brjjkd.calzedonia.com
 +.marketing.callsource.com
 +.gtm.callfluent.com
@@ -28976,6 +28981,7 @@ engine.lvehaisen.com
 +.ads-collector.luizalabs.com
 +.jmsqen.ludijogos.com
 +.perch.luckydiff.com
++.ltmarilsf.com
 +.ltadmycmy.com
 +.app.connect.lrkimball.com
 +.lr-intake.com
